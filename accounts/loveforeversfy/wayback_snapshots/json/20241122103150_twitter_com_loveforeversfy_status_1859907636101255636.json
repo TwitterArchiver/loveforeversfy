@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1859673074163122553",
+    "created_at": "2024-11-22T10:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T11:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859907636101255636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1315616721332514816",
+          "start": 0,
+          "username": "BlackBearPriest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859907636101255636",
+    "in_reply_to_user_id": "1315616721332514816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859906234922795042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackBearPriest 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1859673074163122553",
+        "created_at": "2024-11-22T10:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859907636101255636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1315616721332514816",
+              "start": 0,
+              "username": "BlackBearPriest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859907636101255636",
+        "in_reply_to_user_id": "1315616721332514816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859906234922795042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackBearPriest 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315616721332514816",
+        "conversation_id": "1859673074163122553",
+        "created_at": "2024-11-22T10:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859906234922795042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859906234922795042",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859673074163122553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 因为大多都不是真实的照片就像网恋和奔现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1586,
+          "like_count": 32183,
+          "listed_count": 7,
+          "tweet_count": 9390
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T11:34:35.000Z",
+        "description": "The end.",
+        "id": "1315616721332514816",
+        "location": "黑熊精施法中",
+        "name": "熊熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835032230181453826/6_bsmy_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 290,
+          "like_count": 31403,
+          "listed_count": 22,
+          "tweet_count": 20155
+        },
+        "username": "BlackBearPriest",
+        "verified": false
+      }
+    ]
+  }
+}

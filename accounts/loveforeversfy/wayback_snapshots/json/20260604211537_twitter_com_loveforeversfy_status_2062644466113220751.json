@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2062644466113220751",
+    "created_at": "2026-06-04T21:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062644466113220751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/szhongshan1840…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/szhongshan1840/status/2062520383279124692",
+          "start": 7,
+          "url": "https://t.co/DgzPHnKcr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062644466113220751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520383279124692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁懂我的笑点 https://t.co/DgzPHnKcr1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2062644466113220751",
+        "created_at": "2026-06-04T21:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062644466113220751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/szhongshan1840…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/szhongshan1840/status/2062520383279124692",
+              "start": 7,
+              "url": "https://t.co/DgzPHnKcr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062644466113220751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520383279124692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂我的笑点 https://t.co/DgzPHnKcr1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870328866243543040",
+        "conversation_id": "2062490753428074496",
+        "created_at": "2026-06-04T13:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062520383279124692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "973118976728453122",
+              "start": 0,
+              "username": "DoesXiStepDown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520383279124692",
+        "in_reply_to_user_id": "973118976728453122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490753428074496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoesXiStepDown 你死的那天不知道能不能看见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1555,
+          "like_count": 35153,
+          "listed_count": 8,
+          "media_count": 1193,
+          "tweet_count": 11255
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T04:42:15.000Z",
+        "description": "以斗争换和平，以实力换胜利",
+        "id": "1870328866243543040",
+        "name": "王北",
+        "pinned_tweet_id": "2060511454265217080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062391277375942656/Zr4aNWzj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 131,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 362
+        },
+        "username": "szhongshan1840",
+        "verified": false
+      }
+    ]
+  }
+}

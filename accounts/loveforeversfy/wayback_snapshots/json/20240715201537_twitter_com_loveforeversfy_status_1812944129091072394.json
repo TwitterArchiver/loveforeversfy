@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1812944129091072394",
+    "created_at": "2024-07-15T20:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T21:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812944129091072394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "954724026806448128",
+          "start": 3,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812944129091072394",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812885499230801978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libertyelysium: 穷蛆能不能别生了，重开已经够难了还遇上这种企业级家庭，长大必击杀两个繁殖癌老登"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1812944129091072394",
+        "created_at": "2024-07-15T20:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T21:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812944129091072394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "954724026806448128",
+              "start": 3,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812944129091072394",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812885499230801978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libertyelysium: 穷蛆能不能别生了，重开已经够难了还遇上这种企业级家庭，长大必击杀两个繁殖癌老登"
+      },
+      {
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "1812885499230801978",
+        "created_at": "2024-07-15T16:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T17:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812885499230801978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuren_Ltd/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1812801261160579299",
+              "start": 40,
+              "url": "https://t.co/jfFvuAFgKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812885499230801978",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 816,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812801261160579299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷蛆能不能别生了，重开已经够难了还遇上这种企业级家庭，长大必击杀两个繁殖癌老登 https://t.co/jfFvuAFgKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1568,
+          "like_count": 28662,
+          "listed_count": 8,
+          "tweet_count": 7944
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "主人@RGW90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "🍈",
+        "name": "黄小姐今天吃什么",
+        "pinned_tweet_id": "1727512519462527482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793192779394494464/8Ojn2FjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 427,
+          "like_count": 55156,
+          "listed_count": 13,
+          "tweet_count": 18645
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

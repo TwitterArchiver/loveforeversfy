@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1896917728080109697",
+    "created_at": "2025-03-05T03:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897120286723740063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897120286723740063",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896917728080109697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 我妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1896917728080109697",
+        "created_at": "2025-03-05T03:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897120286723740063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897120286723740063",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896917728080109697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 我妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1896917728080109697",
+        "created_at": "2025-03-04T13:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T14:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896917728080109697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896917728080109697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5491,
+          "like_count": 107,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？人越缺什么就会越炫耀什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1564,
+          "like_count": 33145,
+          "listed_count": 7,
+          "media_count": 979,
+          "tweet_count": 9800
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "无可奈何",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "第六天魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893966067652792320/ltZEek7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12541,
+          "following_count": 2649,
+          "like_count": 49158,
+          "listed_count": 18,
+          "media_count": 310,
+          "tweet_count": 13653
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

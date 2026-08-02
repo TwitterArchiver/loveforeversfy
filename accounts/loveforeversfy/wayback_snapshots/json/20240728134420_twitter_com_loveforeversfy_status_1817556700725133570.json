@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1817534084320731136"
+      ],
+      "media_source_tweet_id": [
+        "1817534368388448372"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1817556700725133570",
+    "created_at": "2024-07-28T13:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T14:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817556700725133570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/GjFLWZDiTR",
+          "end": 51,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1817534368388448372/video/1",
+          "media_key": "13_1817534084320731136",
+          "start": 28,
+          "url": "https://t.co/GjFLWZDiTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817556700725133570",
+    "lang": "lt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817534368388448372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: Regulus https://t.co/GjFLWZDiTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35198,
+        "height": 1080,
+        "media_key": "13_1817534084320731136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1817534084320731136/img/Y0zfbxpLoeT1fXDe.jpg",
+        "public_metrics": {
+          "view_count": 15393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817534084320731136/vid/avc1/1920x1080/y8zf6ev2FifK8Qzx.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817534084320731136/vid/avc1/480x270/JEdPPK39XbLsMSlB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817534084320731136/vid/avc1/1280x720/lJbbygikww-o0wpc.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817534084320731136/vid/avc1/640x360/mukUmy7a6UTx4GQQ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1817534084320731136/pl/J15iemwE7cw4EDmK.m3u8?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1817534084320731136"
+          ],
+          "media_source_tweet_id": [
+            "1817534368388448372"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1817556700725133570",
+        "created_at": "2024-07-28T13:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817556700725133570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GjFLWZDiTR",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1817534368388448372/video/1",
+              "media_key": "13_1817534084320731136",
+              "start": 28,
+              "url": "https://t.co/GjFLWZDiTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817556700725133570",
+        "lang": "lt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817534368388448372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: Regulus https://t.co/GjFLWZDiTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1817534084320731136"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "1817534368388448372",
+        "created_at": "2024-07-28T12:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T13:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817534368388448372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GjFLWZDiTR",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1817534368388448372/video/1",
+              "media_key": "13_1817534084320731136",
+              "start": 8,
+              "url": "https://t.co/GjFLWZDiTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817534368388448372",
+        "lang": "lt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 43069,
+          "like_count": 1085,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "Regulus https://t.co/GjFLWZDiTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1568,
+          "like_count": 29205,
+          "listed_count": 8,
+          "tweet_count": 8203
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会6回優勝(4連覇中！)🏆／フジテレビ2時間生放送大会出演+優勝／地上波テレビ出演／公式生放送出演／白譜面全曲＆ST紫全曲理論値AP／PANDORA白世界最速理論値AP／太鼓.全良71(25)／プロセカ、ウニ／サブ垢@ysk__sub_／インスタ→yottan20001202／趣味→♨️＆旅行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓チャンネル登録してね↓   NX  ND  _X 太鼓EF",
+        "name": "よしき",
+        "pinned_tweet_id": "1761616037425057931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761969675934810112/CnGYUrmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30023,
+          "following_count": 750,
+          "like_count": 23109,
+          "listed_count": 94,
+          "tweet_count": 60163
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

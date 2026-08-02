@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1812071373206118520",
+    "created_at": "2024-07-13T10:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T11:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812071373206118520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812071373206118520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811796096987070934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 云南药娘。\n\n妈妈：\"锅里煮着菌呢，帮我看看熟了没？\"\n药娘：\"这咋看啊，我尝尝汤吧。\"\n药娘：\"黑猫老师说得对，炮机确实会说话。\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1812071373206118520",
+        "created_at": "2024-07-13T10:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812071373206118520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812071373206118520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811796096987070934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 云南药娘。\n\n妈妈：\"锅里煮着菌呢，帮我看看熟了没？\"\n药娘：\"这咋看啊，我尝尝汤吧。\"\n药娘：\"黑猫老师说得对，炮机确实会说话。\""
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1811796096987070934",
+        "created_at": "2024-07-12T16:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T17:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811796096987070934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811796096987070934",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10935,
+          "like_count": 192,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "云南药娘。\n\n妈妈：\"锅里煮着菌呢，帮我看看熟了没？\"\n药娘：\"这咋看啊，我尝尝汤吧。\"\n药娘：\"黑猫老师说得对，炮机确实会说话。\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1567,
+          "like_count": 28572,
+          "listed_count": 8,
+          "tweet_count": 7895
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 123,
+          "like_count": 100,
+          "listed_count": 27,
+          "tweet_count": 4557
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

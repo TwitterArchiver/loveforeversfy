@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1890531215985229824"
+      ],
+      "media_source_tweet_id": [
+        "1890531230908600822"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890717657428537851",
+    "created_at": "2025-02-15T10:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T11:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890717657428537851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699286453983805440",
+          "start": 3,
+          "username": "Derlan144p_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wS1OejVdC0",
+          "end": 40,
+          "expanded_url": "https://x.com/Derlan144p_/status/1890531230908600822/video/1",
+          "media_key": "7_1890531215985229824",
+          "start": 17,
+          "url": "https://t.co/wS1OejVdC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890717657428537851",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1449
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890531230908600822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Derlan144p_: https://t.co/wS1OejVdC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17809,
+        "height": 576,
+        "media_key": "7_1890531215985229824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1890531215985229824/pu/img/_LfE-I9W0RvKMTR9.jpg",
+        "public_metrics": {
+          "view_count": 53354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1890531215985229824/pu/vid/avc1/320x320/x2v4g8mPkOvXOCIB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1890531215985229824/pu/vid/avc1/576x576/juPe1H5A28y8dAN3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1890531215985229824/pu/pl/qNmtZL_JSqSbcoqx.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890531215985229824"
+          ],
+          "media_source_tweet_id": [
+            "1890531230908600822"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890717657428537851",
+        "created_at": "2025-02-15T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890717657428537851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699286453983805440",
+              "start": 3,
+              "username": "Derlan144p_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS1OejVdC0",
+              "end": 40,
+              "expanded_url": "https://x.com/Derlan144p_/status/1890531230908600822/video/1",
+              "media_key": "7_1890531215985229824",
+              "start": 17,
+              "url": "https://t.co/wS1OejVdC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890717657428537851",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1449
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890531230908600822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Derlan144p_: https://t.co/wS1OejVdC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890531215985229824"
+          ]
+        },
+        "author_id": "1699286453983805440",
+        "conversation_id": "1890531230908600822",
+        "created_at": "2025-02-14T22:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T23:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890531230908600822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS1OejVdC0",
+              "end": 23,
+              "expanded_url": "https://x.com/Derlan144p_/status/1890531230908600822/video/1",
+              "media_key": "7_1890531215985229824",
+              "start": 0,
+              "url": "https://t.co/wS1OejVdC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890531230908600822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1898,
+          "impression_count": 112422,
+          "like_count": 9947,
+          "quote_count": 17,
+          "reply_count": 18,
+          "retweet_count": 1449
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wS1OejVdC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1569,
+          "like_count": 33016,
+          "listed_count": 10,
+          "media_count": 970,
+          "tweet_count": 9723
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:00:46.000Z",
+        "description": "El único ser que conoce mi lado amoroso es mi gsto.\nhttps://t.co/9meWkDGqBu.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nitorincmicro.games",
+                "end": 75,
+                "expanded_url": "http://nitorincmicro.games",
+                "start": 52,
+                "url": "https://t.co/9meWkDGqBu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/derlan.144p",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/derlan.144p",
+                "start": 0,
+                "url": "https://t.co/7An3ZYFV7S"
+              }
+            ]
+          }
+        },
+        "id": "1699286453983805440",
+        "location": "Pyongyang, Switzerland.",
+        "name": "D'erlanger",
+        "pinned_tweet_id": "1867765566951546980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882986556077559808/4yVMwEZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 343,
+          "like_count": 89832,
+          "listed_count": 1,
+          "media_count": 552,
+          "tweet_count": 3026
+        },
+        "url": "https://t.co/7An3ZYFV7S",
+        "username": "Derlan144p_",
+        "verified": false
+      }
+    ]
+  }
+}

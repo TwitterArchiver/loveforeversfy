@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008439372933369857"
+      ],
+      "media_source_tweet_id": [
+        "2008440046702202884"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008728959471808626",
+    "created_at": "2026-01-07T02:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008728959471808626"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "ロストワン",
+          "probability": 0.5422,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709047875538497536",
+          "start": 3,
+          "username": "Huxijin_fake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbmhaguk7C",
+          "end": 50,
+          "expanded_url": "https://x.com/Huxijin_fake/status/2008440046702202884/video/1",
+          "media_key": "13_2008439372933369857",
+          "start": 27,
+          "url": "https://t.co/lbmhaguk7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008728959471808626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2454
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008440046702202884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huxijin_fake: ロストワンの号哭 https://t.co/lbmhaguk7C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12233,
+        "height": 1280,
+        "media_key": "13_2008439372933369857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008439372933369857/img/eAyBUD4pO2yAEiNZ.jpg",
+        "public_metrics": {
+          "view_count": 112775
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008439372933369857/vid/avc1/320x622/5iN29J40c0Xv45If.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008439372933369857/vid/avc1/480x932/P3zzy_WSk7FSg07i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008439372933369857/vid/avc1/658x1280/odecSWuIqoGyH8Ei.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008439372933369857/pl/P4ic58cg5per8qFA.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008439372933369857"
+          ],
+          "media_source_tweet_id": [
+            "2008440046702202884"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008728959471808626",
+        "created_at": "2026-01-07T02:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008728959471808626"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ロストワン",
+              "probability": 0.5422,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709047875538497536",
+              "start": 3,
+              "username": "Huxijin_fake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbmhaguk7C",
+              "end": 50,
+              "expanded_url": "https://x.com/Huxijin_fake/status/2008440046702202884/video/1",
+              "media_key": "13_2008439372933369857",
+              "start": 27,
+              "url": "https://t.co/lbmhaguk7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008728959471808626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2454
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008440046702202884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huxijin_fake: ロストワンの号哭 https://t.co/lbmhaguk7C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008439372933369857"
+          ]
+        },
+        "author_id": "1709047875538497536",
+        "conversation_id": "2008440046702202884",
+        "created_at": "2026-01-06T07:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008440046702202884"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "ロストワンの号哭",
+              "probability": 0.233,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbmhaguk7C",
+              "end": 32,
+              "expanded_url": "https://x.com/Huxijin_fake/status/2008440046702202884/video/1",
+              "media_key": "13_2008439372933369857",
+              "start": 9,
+              "url": "https://t.co/lbmhaguk7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008440046702202884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2364,
+          "impression_count": 297405,
+          "like_count": 11038,
+          "quote_count": 131,
+          "reply_count": 23,
+          "retweet_count": 2454
+        },
+        "reply_settings": "everyone",
+        "text": "ロストワンの号哭 https://t.co/lbmhaguk7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱⚠️",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1511,
+          "like_count": 31960,
+          "listed_count": 7,
+          "media_count": 1028,
+          "tweet_count": 9990
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T03:29:21.000Z",
+        "description": "",
+        "id": "1709047875538497536",
+        "name": "TAIKO NO MEMES",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713489127461830656/WJY-tujR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 1206,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 611
+        },
+        "username": "Huxijin_fake",
+        "verified": false
+      }
+    ]
+  }
+}

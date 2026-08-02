@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074812793363238912"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074812835679604782",
+    "created_at": "2026-07-08T11:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074812835679604782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XlzmzZ53pe",
+          "end": 30,
+          "expanded_url": "https://x.com/loveforeversfy/status/2074812835679604782/video/1",
+          "media_key": "7_2074812793363238912",
+          "start": 7,
+          "url": "https://t.co/XlzmzZ53pe"
+        },
+        {
+          "display_url": "x.com/bolckAshley/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/bolckAshley/status/2074800203203535185",
+          "start": 31,
+          "url": "https://t.co/7iEvDP9313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074812835679604782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074800203203535185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样跟你们吃 https://t.co/XlzmzZ53pe https://t.co/7iEvDP9313"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5673,
+        "height": 1920,
+        "media_key": "7_2074812793363238912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074812793363238912/pu/img/N4rI_02b3_ZFo2NJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074812793363238912/pu/vid/avc1/480x852/0i5s2i2xVxItMATT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074812793363238912/pu/vid/avc1/1080x1920/9iqMd-cUuKREL1q2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074812793363238912/pu/pl/7fZZhslBSj4SI2v9.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074812793363238912/pu/vid/avc1/320x568/I_2902z-ORj1gr12.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074812793363238912/pu/vid/avc1/720x1280/x5weXVPU4SMmxvw_.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2074800194928209920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsryNabcAALJpi.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074812793363238912"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074812835679604782",
+        "created_at": "2026-07-08T11:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074812835679604782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlzmzZ53pe",
+              "end": 30,
+              "expanded_url": "https://x.com/loveforeversfy/status/2074812835679604782/video/1",
+              "media_key": "7_2074812793363238912",
+              "start": 7,
+              "url": "https://t.co/XlzmzZ53pe"
+            },
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2074800203203535185",
+              "start": 31,
+              "url": "https://t.co/7iEvDP9313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812835679604782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074800203203535185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样跟你们吃 https://t.co/XlzmzZ53pe https://t.co/7iEvDP9313"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074800194928209920"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074800203203535185",
+        "created_at": "2026-07-08T10:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074800203203535185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1643490407094030338",
+              "start": 8,
+              "username": "Usam8964"
+            },
+            {
+              "end": 34,
+              "id": "1599012090517540869",
+              "start": 19,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 48,
+              "id": "1794568615452422144",
+              "start": 35,
+              "username": "milksoup1216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aa8ETQ9XM5",
+              "end": 72,
+              "expanded_url": "https://x.com/bolckAshley/status/2074800203203535185/photo/1",
+              "media_key": "3_2074800194928209920",
+              "start": 49,
+              "url": "https://t.co/aa8ETQ9XM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074800203203535185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "胡鬧面姬這一塊 @Usam8964 \n@loveforeversfy @milksoup1216 https://t.co/aa8ETQ9XM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1556,
+          "like_count": 35641,
+          "listed_count": 8,
+          "media_count": 1228,
+          "tweet_count": 11463
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073876157041442816/ogHrp4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 2256,
+          "like_count": 42766,
+          "listed_count": 29,
+          "media_count": 1817,
+          "tweet_count": 23332
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      }
+    ]
+  }
+}

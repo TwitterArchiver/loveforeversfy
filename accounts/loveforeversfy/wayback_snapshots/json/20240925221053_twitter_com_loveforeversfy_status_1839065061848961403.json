@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1839065061848961403",
+    "created_at": "2024-09-25T22:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T23:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839065061848961403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1080043300768206850",
+          "start": 3,
+          "username": "salt_shaluduo"
+        },
+        {
+          "end": 26,
+          "id": "1613079089879076864",
+          "start": 19,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839065061848961403",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838909458489147482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @salt_shaluduo: @Cldeop 我不抽烟的也不理解，那我来解释一下，相当于打1pc舞萌17块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1839065061848961403",
+        "created_at": "2024-09-25T22:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T23:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839065061848961403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1080043300768206850",
+              "start": 3,
+              "username": "salt_shaluduo"
+            },
+            {
+              "end": 26,
+              "id": "1613079089879076864",
+              "start": 19,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839065061848961403",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838909458489147482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @salt_shaluduo: @Cldeop 我不抽烟的也不理解，那我来解释一下，相当于打1pc舞萌17块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080043300768206850",
+        "conversation_id": "1838908558768787616",
+        "created_at": "2024-09-25T11:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T12:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838909458489147482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838909458489147482",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3880,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838908558768787616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 我不抽烟的也不理解，那我来解释一下，相当于打1pc舞萌17块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1574,
+          "like_count": 30784,
+          "listed_count": 7,
+          "tweet_count": 8610
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-01T10:09:23.000Z",
+        "description": "本人转发推文，只表示认同推文本身的内容，不代表对转推推主本人及其发布的其它所有内容表示认同",
+        "id": "1080043300768206850",
+        "location": "SEGA",
+        "name": "Salt",
+        "pinned_tweet_id": "1817935614286922097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832833440225595392/Xs3O67Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 228,
+          "like_count": 13008,
+          "listed_count": 2,
+          "tweet_count": 3008
+        },
+        "username": "salt_shaluduo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1834999759750545721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41211,
+          "following_count": 475,
+          "like_count": 17821,
+          "listed_count": 147,
+          "tweet_count": 7633
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

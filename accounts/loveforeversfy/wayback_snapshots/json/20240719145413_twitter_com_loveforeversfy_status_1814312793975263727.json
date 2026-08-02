@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1814301100583067904",
+    "created_at": "2024-07-19T14:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T15:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814312793975263727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814312793975263727",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814304067453362491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya 这是在吃什么我也要吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1814301100583067904",
+        "created_at": "2024-07-19T14:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T15:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814312793975263727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814312793975263727",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814304067453362491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya 这是在吃什么我也要吃"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814304058200805376"
+          ]
+        },
+        "author_id": "1762478947621638144",
+        "conversation_id": "1814301100583067904",
+        "created_at": "2024-07-19T14:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T15:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814304067453362491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/05vKZsKKZ3",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Kambronya/status/1814304067453362491/photo/1",
+              "media_key": "3_1814304058200805376",
+              "start": 0,
+              "url": "https://t.co/05vKZsKKZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814304067453362491",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814303953909330340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/05vKZsKKZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1571,
+          "like_count": 28814,
+          "listed_count": 8,
+          "tweet_count": 8049
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "这一次我们能互相陪伴，直至落幕 / 我的一切-------我的一切@Aranda_5201314 / @IWantMyLilDoggy / -------破碎 下坠 恍惚 上升 濒死 / 电影 摄像师 喜欢酷酷运镜 / 攒留学费中 /雨从天降，血液倒流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Aranda_5201314"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          }
+        },
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764447429301309440/812ytq0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 24,
+          "like_count": 937,
+          "listed_count": 0,
+          "tweet_count": 437
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

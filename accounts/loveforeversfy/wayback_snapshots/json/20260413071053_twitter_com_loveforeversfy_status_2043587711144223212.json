@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2043587711144223212",
+    "created_at": "2026-04-13T07:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043587711144223212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kenntnis22/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Kenntnis22/status/2043485408718164291",
+          "start": 16,
+          "url": "https://t.co/cOBRJQPwRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043587711144223212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043485408718164291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直放机厅舞萌旁边有没有懂的 https://t.co/cOBRJQPwRI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2043485403626557440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvrJdLbUAAP7v6.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2043587711144223212",
+        "created_at": "2026-04-13T07:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043587711144223212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kenntnis22/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/2043485408718164291",
+              "start": 16,
+              "url": "https://t.co/cOBRJQPwRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043587711144223212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043485408718164291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直放机厅舞萌旁边有没有懂的 https://t.co/cOBRJQPwRI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043485403626557440"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2043485408718164291",
+        "created_at": "2026-04-13T00:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043485408718164291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsLlEeE2zH",
+              "end": 59,
+              "expanded_url": "https://x.com/Kenntnis22/status/2043485408718164291/photo/1",
+              "media_key": "3_2043485403626557440",
+              "start": 36,
+              "url": "https://t.co/CsLlEeE2zH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043485408718164291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 57552,
+          "like_count": 189,
+          "quote_count": 5,
+          "reply_count": 85,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这是好事儿。不过跟你放什么地方有关。你要放火车站周边，大概率会被拎走。 https://t.co/CsLlEeE2zH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 1548,
+          "like_count": 34065,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 10817
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2042811456064807135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51394,
+          "following_count": 429,
+          "like_count": 54418,
+          "listed_count": 252,
+          "media_count": 11375,
+          "tweet_count": 17484
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1844238533567054203",
+    "created_at": "2024-10-10T04:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T05:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844240074617356743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664627530425352192",
+          "start": 0,
+          "username": "MGlimpze26770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844240074617356743",
+    "in_reply_to_user_id": "1664627530425352192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844239243805393095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MGlimpze26770 污染大家的眼睛了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1844238533567054203",
+        "created_at": "2024-10-10T04:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T05:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844240074617356743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664627530425352192",
+              "start": 0,
+              "username": "MGlimpze26770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844240074617356743",
+        "in_reply_to_user_id": "1664627530425352192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844239243805393095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MGlimpze26770 污染大家的眼睛了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "1844238533567054203",
+        "created_at": "2024-10-10T04:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T05:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844239243805393095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844239243805393095",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844239059042124103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 啊？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "？ | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1579,
+          "like_count": 31121,
+          "listed_count": 7,
+          "tweet_count": 8758
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 309,
+          "like_count": 3600,
+          "listed_count": 1,
+          "tweet_count": 3719
+        },
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

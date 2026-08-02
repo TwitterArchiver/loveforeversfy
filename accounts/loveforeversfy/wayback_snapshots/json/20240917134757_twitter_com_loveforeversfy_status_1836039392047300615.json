@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835906980973879296",
+        "3_1835907022929436672"
+      ],
+      "media_source_tweet_id": [
+        "1835907025903214867",
+        "1835907025903214867"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1836039392047300615",
+    "created_at": "2024-09-17T13:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T14:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836039392047300615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1489688049680515072",
+          "start": 3,
+          "username": "wakaba_yuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8k03f4bzw9",
+          "end": 68,
+          "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+          "media_key": "3_1835906980973879296",
+          "start": 45,
+          "url": "https://t.co/8k03f4bZw9"
+        },
+        {
+          "display_url": "pic.x.com/8k03f4bzw9",
+          "end": 68,
+          "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+          "media_key": "3_1835907022929436672",
+          "start": 45,
+          "url": "https://t.co/8k03f4bZw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836039392047300615",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835907025903214867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wakaba_yuu: 日本一当红偶像被前男友曝光为生理男性，遭所属事务所解约。 https://t.co/8k03f4bZw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1835906980973879296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXpzrBGboAAv2A0.jpg",
+        "width": 740
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1835907022929436672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXpztdZaoAAMGzm.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835906980973879296",
+            "3_1835907022929436672"
+          ],
+          "media_source_tweet_id": [
+            "1835907025903214867",
+            "1835907025903214867"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1836039392047300615",
+        "created_at": "2024-09-17T13:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T14:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836039392047300615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1489688049680515072",
+              "start": 3,
+              "username": "wakaba_yuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k03f4bzw9",
+              "end": 68,
+              "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+              "media_key": "3_1835906980973879296",
+              "start": 45,
+              "url": "https://t.co/8k03f4bZw9"
+            },
+            {
+              "display_url": "pic.x.com/8k03f4bzw9",
+              "end": 68,
+              "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+              "media_key": "3_1835907022929436672",
+              "start": 45,
+              "url": "https://t.co/8k03f4bZw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836039392047300615",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835907025903214867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wakaba_yuu: 日本一当红偶像被前男友曝光为生理男性，遭所属事务所解约。 https://t.co/8k03f4bZw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835906980973879296",
+            "3_1835907022929436672"
+          ]
+        },
+        "author_id": "1489688049680515072",
+        "conversation_id": "1835907025903214867",
+        "created_at": "2024-09-17T05:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T06:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835907025903214867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k03f4bzw9",
+              "end": 52,
+              "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+              "media_key": "3_1835906980973879296",
+              "start": 29,
+              "url": "https://t.co/8k03f4bZw9"
+            },
+            {
+              "display_url": "pic.x.com/8k03f4bzw9",
+              "end": 52,
+              "expanded_url": "https://twitter.com/wakaba_yuu/status/1835907025903214867/photo/1",
+              "media_key": "3_1835907022929436672",
+              "start": 29,
+              "url": "https://t.co/8k03f4bZw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835907025903214867",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 115197,
+          "like_count": 1232,
+          "quote_count": 19,
+          "reply_count": 68,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "日本一当红偶像被前男友曝光为生理男性，遭所属事务所解约。 https://t.co/8k03f4bZw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 1570,
+          "like_count": 30522,
+          "listed_count": 7,
+          "tweet_count": 8554
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T19:51:32.000Z",
+        "description": "黒色界隈🖤┊︎戀人@mana_ikuta┊︎無性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mana_ikuta"
+              }
+            ]
+          }
+        },
+        "id": "1489688049680515072",
+        "location": "Hong Kong",
+        "name": "葉🎐",
+        "pinned_tweet_id": "1820674121686278292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832279388320157696/pF1gvKnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15791,
+          "following_count": 1107,
+          "like_count": 10593,
+          "listed_count": 46,
+          "tweet_count": 1531
+        },
+        "username": "wakaba_yuu",
+        "verified": false
+      }
+    ]
+  }
+}

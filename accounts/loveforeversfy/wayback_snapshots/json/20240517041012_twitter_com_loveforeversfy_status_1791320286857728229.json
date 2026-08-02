@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1791320278704046080"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1791317718622466206",
+    "created_at": "2024-05-17T04:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T05:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791320286857728229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389509705999949829",
+          "start": 0,
+          "username": "EmoPoppyRequiem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/nMiztqDU8U",
+          "end": 45,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1791320286857728229/photo/1",
+          "media_key": "3_1791320278704046080",
+          "start": 22,
+          "url": "https://t.co/nMiztqDU8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791320286857728229",
+    "in_reply_to_user_id": "1389509705999949829",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791317718622466206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoPoppyRequiem 镝镭铝啊 https://t.co/nMiztqDU8U"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1791317718622466206].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791317718622466206",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1791317718622466206"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1791320278704046080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNwMTXsbwAAELHL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791320278704046080"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791317718622466206",
+        "created_at": "2024-05-17T04:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T05:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791320286857728229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389509705999949829",
+              "start": 0,
+              "username": "EmoPoppyRequiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nMiztqDU8U",
+              "end": 45,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1791320286857728229/photo/1",
+              "media_key": "3_1791320278704046080",
+              "start": 22,
+              "url": "https://t.co/nMiztqDU8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791320286857728229",
+        "in_reply_to_user_id": "1389509705999949829",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791317718622466206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoPoppyRequiem 镝镭铝啊 https://t.co/nMiztqDU8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1567,
+          "like_count": 26873,
+          "listed_count": 8,
+          "tweet_count": 7119
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ",
+        "id": "1389509705999949829",
+        "name": "薇可絲✂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678441323953819648/-vcpDqIO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1792,
+          "like_count": 115871,
+          "listed_count": 8,
+          "tweet_count": 56821
+        },
+        "username": "EmoPoppyRequiem",
+        "verified": false
+      }
+    ]
+  }
+}

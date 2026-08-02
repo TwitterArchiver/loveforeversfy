@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1890125311611924521",
+    "created_at": "2025-02-13T20:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T21:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890132393341997522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890132393341997522",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890125311611924521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永远恨你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1890125311611924521",
+        "created_at": "2025-02-13T20:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T21:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890132393341997522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890132393341997522",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890125311611924521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远恨你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1890125311611924521",
+        "created_at": "2025-02-13T19:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T20:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890125311611924521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890125311611924521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们日子过得好的人发日常我也觉得你们装逼装的贱到没边了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1567,
+          "like_count": 32984,
+          "listed_count": 10,
+          "media_count": 968,
+          "tweet_count": 9704
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

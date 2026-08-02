@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2045906899103531383",
+    "created_at": "2026-04-20T05:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046094783689757038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974786928248504320",
+          "start": 0,
+          "username": "kitasan233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046094783689757038",
+    "in_reply_to_user_id": "1974786928248504320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045906899103531383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitasan233 唉😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2045906878928986112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSFd3oXIAAF6Tv.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045906878920597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSFd3mXIAADaqI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2045906899103531383",
+        "created_at": "2026-04-20T05:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046094783689757038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974786928248504320",
+              "start": 0,
+              "username": "kitasan233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046094783689757038",
+        "in_reply_to_user_id": "1974786928248504320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045906899103531383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitasan233 唉😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045906878928986112",
+            "3_2045906878920597504"
+          ]
+        },
+        "author_id": "1974786928248504320",
+        "conversation_id": "2045906899103531383",
+        "created_at": "2026-04-19T16:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045906899103531383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/suPZHU5SV1",
+              "end": 163,
+              "expanded_url": "https://x.com/kitasan233/status/2045906899103531383/photo/1",
+              "media_key": "3_2045906878928986112",
+              "start": 140,
+              "url": "https://t.co/suPZHU5SV1"
+            },
+            {
+              "display_url": "pic.x.com/suPZHU5SV1",
+              "end": 163,
+              "expanded_url": "https://x.com/kitasan233/status/2045906899103531383/photo/1",
+              "media_key": "3_2045906878920597504",
+              "start": 140,
+              "url": "https://t.co/suPZHU5SV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045906899103531383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在每天都不想直播😢，虽然在线人数多起来了，但大多都是来凑热闹的人或者蛇头中介。我真的不想回答任何关于移民的问题，但满屏的弹幕都在问关于申请难民以及工作的现状，很少有人关心我，以后真的想马上换视频题材，可在异国他乡无法像之前一样到处无忧无虑的流浪了，不知道自己何时才能稳定下来… https://t.co/suPZHU5SV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1559,
+          "like_count": 34231,
+          "listed_count": 8,
+          "media_count": 1154,
+          "tweet_count": 10922
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T10:42:18.000Z",
+        "description": "在外流浪中🥲欢迎互fo",
+        "id": "1974786928248504320",
+        "name": "浪客小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045427706750246913/k517v24i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 75,
+          "like_count": 12284,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "kitasan233",
+        "verified": false
+      }
+    ]
+  }
+}

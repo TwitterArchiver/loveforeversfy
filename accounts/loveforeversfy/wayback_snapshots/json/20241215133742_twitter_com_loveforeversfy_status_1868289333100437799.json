@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868186466612084736"
+      ],
+      "media_source_tweet_id": [
+        "1868186469455843546"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868289333100437799",
+    "created_at": "2024-12-15T13:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T14:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868289333100437799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251467416263000064",
+          "start": 3,
+          "username": "792123a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gXrTRNKzEW",
+          "end": 65,
+          "expanded_url": "https://x.com/792123a/status/1868186469455843546/photo/1",
+          "media_key": "3_1868186466612084736",
+          "start": 42,
+          "url": "https://t.co/gXrTRNKzEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868289333100437799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868186469455843546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @792123a: 所以当时寒涟漪避难所里面的人是怎么把我朋友拐到缅甸去的？ https://t.co/gXrTRNKzEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_1868186466612084736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge0hsXybAAAs8oK.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868186466612084736"
+          ],
+          "media_source_tweet_id": [
+            "1868186469455843546"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868289333100437799",
+        "created_at": "2024-12-15T13:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868289333100437799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251467416263000064",
+              "start": 3,
+              "username": "792123a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXrTRNKzEW",
+              "end": 65,
+              "expanded_url": "https://x.com/792123a/status/1868186469455843546/photo/1",
+              "media_key": "3_1868186466612084736",
+              "start": 42,
+              "url": "https://t.co/gXrTRNKzEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868289333100437799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868186469455843546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @792123a: 所以当时寒涟漪避难所里面的人是怎么把我朋友拐到缅甸去的？ https://t.co/gXrTRNKzEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868186466612084736"
+          ]
+        },
+        "author_id": "1251467416263000064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868186469455843546",
+        "created_at": "2024-12-15T06:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868186469455843546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXrTRNKzEW",
+              "end": 52,
+              "expanded_url": "https://x.com/792123a/status/1868186469455843546/photo/1",
+              "media_key": "3_1868186466612084736",
+              "start": 29,
+              "url": "https://t.co/gXrTRNKzEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868186469455843546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 11202,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "所以当时寒涟漪避难所里面的人是怎么把我朋友拐到缅甸去的？ https://t.co/gXrTRNKzEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1583,
+          "like_count": 32760,
+          "listed_count": 10,
+          "media_count": 946,
+          "tweet_count": 9593
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T11:07:45.000Z",
+        "description": "让我草一下",
+        "id": "1251467416263000064",
+        "name": "草",
+        "pinned_tweet_id": "1868228657195717094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505687558260682753/UMAbjZRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 213,
+          "like_count": 1357,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 11441
+        },
+        "username": "792123a",
+        "verified": false
+      }
+    ]
+  }
+}

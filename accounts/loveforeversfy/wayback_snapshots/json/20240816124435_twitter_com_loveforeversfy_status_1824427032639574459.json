@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823979287151828995"
+      ],
+      "media_source_tweet_id": [
+        "1823979290201088436"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1824427032639574459",
+    "created_at": "2024-08-16T12:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T13:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824427032639574459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cynfu5ztef",
+          "end": 57,
+          "expanded_url": "https://twitter.com/DanJack67524194/status/1823979290201088436/photo/1",
+          "media_key": "3_1823979287151828995",
+          "start": 34,
+          "url": "https://t.co/CyNFu5ztEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824427032639574459",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823979290201088436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanJack67524194: 韓文的用法不是這樣的吧w https://t.co/CyNFu5ztEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_1823979287151828995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVATf3Ba4AM0ZZl.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823979287151828995"
+          ],
+          "media_source_tweet_id": [
+            "1823979290201088436"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1824427032639574459",
+        "created_at": "2024-08-16T12:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T13:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824427032639574459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cynfu5ztef",
+              "end": 57,
+              "expanded_url": "https://twitter.com/DanJack67524194/status/1823979290201088436/photo/1",
+              "media_key": "3_1823979287151828995",
+              "start": 34,
+              "url": "https://t.co/CyNFu5ztEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824427032639574459",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823979290201088436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanJack67524194: 韓文的用法不是這樣的吧w https://t.co/CyNFu5ztEf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823979287151828995"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1823979290201088436",
+        "created_at": "2024-08-15T07:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T08:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823979290201088436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cynfu5ztef",
+              "end": 36,
+              "expanded_url": "https://twitter.com/DanJack67524194/status/1823979290201088436/photo/1",
+              "media_key": "3_1823979287151828995",
+              "start": 13,
+              "url": "https://t.co/CyNFu5ztEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823979290201088436",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 202353,
+          "like_count": 3091,
+          "quote_count": 16,
+          "reply_count": 40,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "韓文的用法不是這樣的吧w https://t.co/CyNFu5ztEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1570,
+          "like_count": 29721,
+          "listed_count": 8,
+          "tweet_count": 8329
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nblue sky ：https://t.co/DB3a0TSOwA\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/foxday…",
+                "end": 73,
+                "expanded_url": "https://bsky.app/profile/foxdaymoon.bsky.social",
+                "start": 50,
+                "url": "https://t.co/DB3a0TSOwA"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 106,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 83,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "name": "狐曌🦊統測準備儲備“軍備”中",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214761003757569/RLdX87B__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5791,
+          "following_count": 1540,
+          "like_count": 24794,
+          "listed_count": 29,
+          "tweet_count": 26017
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

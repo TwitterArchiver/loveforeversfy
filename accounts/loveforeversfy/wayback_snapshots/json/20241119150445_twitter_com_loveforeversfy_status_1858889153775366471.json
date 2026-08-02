@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1858889153775366471",
+    "created_at": "2024-11-19T15:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T16:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858889153775366471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656320730584457216",
+          "start": 3,
+          "username": "tttpul0615"
+        },
+        {
+          "end": 32,
+          "id": "832775721240055808",
+          "start": 16,
+          "username": "TKMChikaWei0801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858889153775366471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858855822648111613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tttpul0615: @TKMChikaWei0801 都不如有钱一根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1858889153775366471",
+        "created_at": "2024-11-19T15:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T16:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858889153775366471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656320730584457216",
+              "start": 3,
+              "username": "tttpul0615"
+            },
+            {
+              "end": 32,
+              "id": "832775721240055808",
+              "start": 16,
+              "username": "TKMChikaWei0801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858889153775366471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858855822648111613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tttpul0615: @TKMChikaWei0801 都不如有钱一根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656320730584457216",
+        "conversation_id": "1858854657751499109",
+        "created_at": "2024-11-19T12:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T13:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858855822648111613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "832775721240055808",
+              "start": 0,
+              "username": "TKMChikaWei0801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858855822648111613",
+        "in_reply_to_user_id": "832775721240055808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858854657751499109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKMChikaWei0801 都不如有钱一根"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1585,
+          "like_count": 32085,
+          "listed_count": 7,
+          "tweet_count": 9339
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T15:30:26.000Z",
+        "description": "#狗熊TV 创始人；舞萌哈气米，分享机厅小故事；maimaiDX2023 13+~15 All SSS 舞将；SDVX vf17.75 暴龙天；",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "狗熊TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ytrs.bsky.social",
+                "end": 23,
+                "expanded_url": "http://ytrs.bsky.social",
+                "start": 0,
+                "url": "https://t.co/uHtkBngjXa"
+              }
+            ]
+          }
+        },
+        "id": "1656320730584457216",
+        "location": "我自己的号你他妈逼的管我发什么东西你算老几？",
+        "name": "@♪",
+        "pinned_tweet_id": "1856008838882996406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777965397452742656/8xwC361E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 823,
+          "like_count": 26203,
+          "listed_count": 1,
+          "tweet_count": 5864
+        },
+        "url": "https://t.co/uHtkBngjXa",
+        "username": "tttpul0615",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-18T02:16:19.000Z",
+        "description": "玩舞萌的/拒绝任何政治相关/别的音游偶尔玩一点 此号主要用于攻击sb但是欢迎一切正常玩舞萌的交友",
+        "id": "832775721240055808",
+        "location": "广西, 中华人民共和国",
+        "name": "田中伟一郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848236685982842880/1hnz8Ihc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 45,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "TKMChikaWei0801",
+        "verified": false
+      }
+    ]
+  }
+}

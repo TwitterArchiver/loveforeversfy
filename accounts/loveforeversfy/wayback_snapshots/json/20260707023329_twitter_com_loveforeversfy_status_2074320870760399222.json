@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074320838866935808"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074320870760399222",
+    "created_at": "2026-07-07T02:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074320870760399222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0jY4nPzKiL",
+          "end": 33,
+          "expanded_url": "https://x.com/loveforeversfy/status/2074320870760399222/video/1",
+          "media_key": "7_2074320838866935808",
+          "start": 10,
+          "url": "https://t.co/0jY4nPzKiL"
+        },
+        {
+          "display_url": "x.com/loveforeversfy…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/2074320763830845923",
+          "start": 34,
+          "url": "https://t.co/ENW60f6YTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074320870760399222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074320763830845923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的要给你磕头了 https://t.co/0jY4nPzKiL https://t.co/ENW60f6YTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6170,
+        "height": 1280,
+        "media_key": "7_2074320838866935808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074320838866935808/pu/img/1UIHh58oklQv2IQF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074320838866935808/pu/vid/avc1/320x568/sHepwjD7L5FkixeK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074320838866935808/pu/vid/avc1/480x852/ckOkjrjgsXv-5OE_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074320838866935808/pu/vid/avc1/720x1280/HI8pcPixqr0chHkl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074320838866935808/pu/pl/K65qjyq1ilxJ23RG.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1486,
+        "media_key": "3_2074320760794140672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl3veFaUAApcMZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074320838866935808"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074320870760399222",
+        "created_at": "2026-07-07T02:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074320870760399222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jY4nPzKiL",
+              "end": 33,
+              "expanded_url": "https://x.com/loveforeversfy/status/2074320870760399222/video/1",
+              "media_key": "7_2074320838866935808",
+              "start": 10,
+              "url": "https://t.co/0jY4nPzKiL"
+            },
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2074320763830845923",
+              "start": 34,
+              "url": "https://t.co/ENW60f6YTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320870760399222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074320763830845923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的要给你磕头了 https://t.co/0jY4nPzKiL https://t.co/ENW60f6YTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074320760794140672"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074320763830845923",
+        "created_at": "2026-07-07T02:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074320763830845923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blNIX3KGUH",
+              "end": 32,
+              "expanded_url": "https://x.com/loveforeversfy/status/2074320763830845923/photo/1",
+              "media_key": "3_2074320760794140672",
+              "start": 9,
+              "url": "https://t.co/blNIX3KGUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320763830845923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位祖宗我的天哪 https://t.co/blNIX3KGUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 1555,
+          "like_count": 35565,
+          "listed_count": 8,
+          "media_count": 1226,
+          "tweet_count": 11440
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      }
+    ]
+  }
+}

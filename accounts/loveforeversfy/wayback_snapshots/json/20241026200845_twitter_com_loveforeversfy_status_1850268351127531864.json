@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1849842235250012360"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1850268351127531864",
+    "created_at": "2024-10-26T20:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T21:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850268351127531864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "711308444876345344",
+          "start": 3,
+          "username": "kzzrttt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XczQwdlCnJ",
+          "end": 36,
+          "expanded_url": "https://x.com/kzzrttt/status/1849842235250012360/photo/1",
+          "media_key": "3_1849842230007066624",
+          "start": 13,
+          "url": "https://t.co/XczQwdlCnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850268351127531864",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4026
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849842235250012360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kzzrttt: https://t.co/XczQwdlCnJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1849842235250012360"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1850268351127531864",
+        "created_at": "2024-10-26T20:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T21:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850268351127531864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "711308444876345344",
+              "start": 3,
+              "username": "kzzrttt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XczQwdlCnJ",
+              "end": 36,
+              "expanded_url": "https://x.com/kzzrttt/status/1849842235250012360/photo/1",
+              "media_key": "3_1849842230007066624",
+              "start": 13,
+              "url": "https://t.co/XczQwdlCnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850268351127531864",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849842235250012360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kzzrttt: https://t.co/XczQwdlCnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849842230007066624"
+          ]
+        },
+        "author_id": "711308444876345344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1849842235250012360",
+        "created_at": "2024-10-25T15:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T16:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849842235250012360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XczQwdlCnJ",
+              "end": 23,
+              "expanded_url": "https://x.com/kzzrttt/status/1849842235250012360/photo/1",
+              "media_key": "3_1849842230007066624",
+              "start": 0,
+              "url": "https://t.co/XczQwdlCnJ"
+            },
+            {
+              "display_url": "x.com/dnicewazhere/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dnicewazhere/status/1849485375657415169",
+              "start": 24,
+              "url": "https://t.co/EIgYerNx5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849842235250012360",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4837,
+          "impression_count": 2410459,
+          "like_count": 68274,
+          "quote_count": 242,
+          "reply_count": 348,
+          "retweet_count": 4026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849485375657415169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/XczQwdlCnJ https://t.co/EIgYerNx5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1584,
+          "like_count": 31444,
+          "listed_count": 7,
+          "tweet_count": 8971
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-19T21:48:43.000Z",
+        "description": "「 A - 4: 」this twitter is computer https://t.co/ql1pUcjRC8 ——— do not try this at home［(－－)］Yo, I Have A https://t.co/7nDwa1nTHz MIKUEXPO 2024 NJ ［(・∀・) ］筋肉、筋肉～！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "graphics.⠀",
+                "end": 58,
+                "expanded_url": "http://graphics.xn--6ii",
+                "start": 35,
+                "url": "https://t.co/ql1pUcjRC8"
+              },
+              {
+                "display_url": "Boner.⠀",
+                "end": 128,
+                "expanded_url": "http://Boner.xn--6ii",
+                "start": 105,
+                "url": "https://t.co/7nDwa1nTHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/kzzrtt",
+                "end": 23,
+                "expanded_url": "https://throne.com/kzzrtt",
+                "start": 0,
+                "url": "https://t.co/MfmgQCrW9J"
+              }
+            ]
+          }
+        },
+        "id": "711308444876345344",
+        "location": "he/him | animator ",
+        "name": "bilatinman kio",
+        "pinned_tweet_id": "1535449564479688705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642330369625137154/Hqlif4GY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29952,
+          "following_count": 3638,
+          "like_count": 311020,
+          "listed_count": 107,
+          "tweet_count": 89395
+        },
+        "url": "https://t.co/MfmgQCrW9J",
+        "username": "kzzrttt",
+        "verified": true
+      }
+    ]
+  }
+}

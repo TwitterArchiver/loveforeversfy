@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1788596960020369722",
+    "created_at": "2024-05-10T09:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T10:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788870360869601704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788439117883465729",
+          "start": 0,
+          "username": "chnghurng249451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788870360869601704",
+    "in_reply_to_user_id": "1788439117883465729",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788869430480343091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghurng249451 🥺🌹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1788596960020369722",
+        "created_at": "2024-05-10T09:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T10:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788870360869601704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788439117883465729",
+              "start": 0,
+              "username": "chnghurng249451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788870360869601704",
+        "in_reply_to_user_id": "1788439117883465729",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788869430480343091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghurng249451 🥺🌹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1788439117883465729",
+        "conversation_id": "1788596960020369722",
+        "created_at": "2024-05-10T09:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T10:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788869430480343091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788869430480343091",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788869273534034069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy ☹️被乌汝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "鱼鱼菇🐟🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1563,
+          "like_count": 26456,
+          "listed_count": 8,
+          "tweet_count": 6947
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T05:21:36.000Z",
+        "description": "一个想逃离现实的男娘（不嗑🍬）\n来个人陪我聊会天吧\n🐧：1187106570（无🚪）",
+        "id": "1788439117883465729",
+        "name": "阿哲不会女装",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788440593443741696/wOpYxqyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 83,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "chnghurng249451",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803332531380690944"
+      ],
+      "media_source_tweet_id": [
+        "1803332536300368331"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1803414346363707811",
+    "created_at": "2024-06-19T13:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T14:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803414346363707811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748346218722340864",
+          "start": 3,
+          "username": "Los_Ka1ser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/15rL6zTUyI",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Los_Ka1ser/status/1803332536300368331/photo/1",
+          "media_key": "3_1803332531380690944",
+          "start": 24,
+          "url": "https://t.co/15rL6zTUyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803414346363707811",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803332536300368331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Los_Ka1ser: 给我笑成大分了 https://t.co/15rL6zTUyI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1803332531380690944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQa5YgDaIAA6Dyv.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803332531380690944"
+          ],
+          "media_source_tweet_id": [
+            "1803332536300368331"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1803414346363707811",
+        "created_at": "2024-06-19T13:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T14:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803414346363707811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748346218722340864",
+              "start": 3,
+              "username": "Los_Ka1ser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/15rL6zTUyI",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Los_Ka1ser/status/1803332536300368331/photo/1",
+              "media_key": "3_1803332531380690944",
+              "start": 24,
+              "url": "https://t.co/15rL6zTUyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803414346363707811",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803332536300368331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Los_Ka1ser: 给我笑成大分了 https://t.co/15rL6zTUyI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803332531380690944"
+          ]
+        },
+        "author_id": "1748346218722340864",
+        "conversation_id": "1803332536300368331",
+        "created_at": "2024-06-19T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803332536300368331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/15rL6zTUyI",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Los_Ka1ser/status/1803332536300368331/photo/1",
+              "media_key": "3_1803332531380690944",
+              "start": 8,
+              "url": "https://t.co/15rL6zTUyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803332536300368331",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给我笑成大分了 https://t.co/15rL6zTUyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1566,
+          "like_count": 27809,
+          "listed_count": 8,
+          "tweet_count": 7518
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T14:06:37.000Z",
+        "description": "马克思&卢森堡主义 民主社会主义\n我是来自异世界的天才兆铭SAMA！",
+        "id": "1748346218722340864",
+        "location": "索努斯-李株式會社本部",
+        "name": "Los.🌹🚩",
+        "pinned_tweet_id": "1803298001693319261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798904304889462784/2v557bcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 238,
+          "like_count": 1389,
+          "listed_count": 0,
+          "tweet_count": 923
+        },
+        "username": "Los_Ka1ser",
+        "verified": false
+      }
+    ]
+  }
+}

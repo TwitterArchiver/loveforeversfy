@@ -1,0 +1,398 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801964050022371328",
+        "3_1801964050345324544",
+        "3_1801964050026557440",
+        "3_1801964050026561536"
+      ],
+      "media_source_tweet_id": [
+        "1801964062315847844",
+        "1801964062315847844",
+        "1801964062315847844",
+        "1801964062315847844"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1801974945821647111",
+    "created_at": "2024-06-15T13:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T14:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801974945821647111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/BBGDe8Iya3",
+          "end": 88,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+          "media_key": "3_1801964050022371328",
+          "start": 65,
+          "url": "https://t.co/BBGDe8Iya3"
+        },
+        {
+          "display_url": "pic.twitter.com/BBGDe8Iya3",
+          "end": 88,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+          "media_key": "3_1801964050345324544",
+          "start": 65,
+          "url": "https://t.co/BBGDe8Iya3"
+        },
+        {
+          "display_url": "pic.twitter.com/BBGDe8Iya3",
+          "end": 88,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+          "media_key": "3_1801964050026557440",
+          "start": 65,
+          "url": "https://t.co/BBGDe8Iya3"
+        },
+        {
+          "display_url": "pic.twitter.com/BBGDe8Iya3",
+          "end": 88,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+          "media_key": "3_1801964050026561536",
+          "start": 65,
+          "url": "https://t.co/BBGDe8Iya3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801974945821647111",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801964062315847844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: 海外のこのハック、ヤバすぎる😱😱😱\n999.9999%、でらスコ114514ってwwww https://t.co/BBGDe8Iya3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 232,
+        "media_key": "3_1801964050022371328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQHcwZubkAAk0_i.jpg",
+        "width": 144
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1801964050345324544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQHcwa7bcAA0ImM.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1801964050026557440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQHcwZvbcAAboI4.jpg",
+        "width": 750
+      },
+      {
+        "height": 1907,
+        "media_key": "3_1801964050026561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQHcwZvbgAAIs_l.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801964050022371328",
+            "3_1801964050345324544",
+            "3_1801964050026557440",
+            "3_1801964050026561536"
+          ],
+          "media_source_tweet_id": [
+            "1801964062315847844",
+            "1801964062315847844",
+            "1801964062315847844",
+            "1801964062315847844"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801974945821647111",
+        "created_at": "2024-06-15T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801974945821647111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 88,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050022371328",
+              "start": 65,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 88,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050345324544",
+              "start": 65,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 88,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050026557440",
+              "start": 65,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 88,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050026561536",
+              "start": 65,
+              "url": "https://t.co/BBGDe8Iya3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801974945821647111",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801964062315847844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: 海外のこのハック、ヤバすぎる😱😱😱\n999.9999%、でらスコ114514ってwwww https://t.co/BBGDe8Iya3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801964050022371328",
+            "3_1801964050345324544",
+            "3_1801964050026557440",
+            "3_1801964050026561536"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801964062315847844",
+        "created_at": "2024-06-15T13:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801964062315847844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050022371328",
+              "start": 45,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050345324544",
+              "start": 45,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050026557440",
+              "start": 45,
+              "url": "https://t.co/BBGDe8Iya3"
+            },
+            {
+              "display_url": "pic.twitter.com/BBGDe8Iya3",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1801964062315847844/photo/1",
+              "media_key": "3_1801964050026561536",
+              "start": 45,
+              "url": "https://t.co/BBGDe8Iya3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801964062315847844",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14106,
+          "like_count": 357,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "海外のこのハック、ヤバすぎる😱😱😱\n999.9999%、でらスコ114514ってwwww https://t.co/BBGDe8Iya3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1564,
+          "like_count": 27686,
+          "listed_count": 8,
+          "tweet_count": 7481
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会6回優勝(4連覇中！)🏆／フジテレビ2時間生放送大会出演+優勝／地上波テレビ出演／公式生放送出演／白譜面全曲＆ST紫全曲理論値AP／PANDORA白世界最速理論値AP／太鼓.全良70(25)／プロセカ、ウニ／サブ垢→@ysk_DM_／インスタ→yottan20001202／趣味→温泉＆旅行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 120,
+                "username": "ysk_DM_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓チャンネル登録してね↓   チーム NX＆_X 太鼓:EF",
+        "name": "よしき",
+        "pinned_tweet_id": "1761616037425057931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761969675934810112/CnGYUrmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28138,
+          "following_count": 747,
+          "like_count": 22993,
+          "listed_count": 93,
+          "tweet_count": 59756
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

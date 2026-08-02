@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023533527862509568"
+      ],
+      "media_source_tweet_id": [
+        "2023533885469118936"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2023601090475028938",
+    "created_at": "2026-02-17T03:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023601090475028938"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Fumo",
+          "probability": 0.5724,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729256097020588032",
+          "start": 3,
+          "username": "duhonion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/70h1v6KPHn",
+          "end": 60,
+          "expanded_url": "https://x.com/duhonion/status/2023533885469118936/photo/1",
+          "media_key": "3_2023533527862509568",
+          "start": 37,
+          "url": "https://t.co/70h1v6KPHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023601090475028938",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023533885469118936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duhonion: Fumo dealer #東方Project https://t.co/70h1v6KPHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2409,
+        "media_key": "3_2023533527862509568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUJBb9WgAA4jEJ.jpg",
+        "width": 1971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023533527862509568"
+          ],
+          "media_source_tweet_id": [
+            "2023533885469118936"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2023601090475028938",
+        "created_at": "2026-02-17T03:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023601090475028938"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Fumo",
+              "probability": 0.5724,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729256097020588032",
+              "start": 3,
+              "username": "duhonion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/70h1v6KPHn",
+              "end": 60,
+              "expanded_url": "https://x.com/duhonion/status/2023533885469118936/photo/1",
+              "media_key": "3_2023533527862509568",
+              "start": 37,
+              "url": "https://t.co/70h1v6KPHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023601090475028938",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023533885469118936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duhonion: Fumo dealer #東方Project https://t.co/70h1v6KPHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023533527862509568"
+          ]
+        },
+        "author_id": "1729256097020588032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2023533885469118936",
+        "created_at": "2026-02-16T23:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023533885469118936"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Fumo",
+              "probability": 0.4931,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/70h1v6KPHn",
+              "end": 46,
+              "expanded_url": "https://x.com/duhonion/status/2023533885469118936/photo/1",
+              "media_key": "3_2023533527862509568",
+              "start": 23,
+              "url": "https://t.co/70h1v6KPHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023533885469118936",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 11238,
+          "like_count": 1558,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "Fumo dealer #東方Project https://t.co/70h1v6KPHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 1532,
+          "like_count": 32630,
+          "listed_count": 8,
+          "media_count": 1062,
+          "tweet_count": 10372
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T21:50:41.000Z",
+        "description": "boosty: https://t.co/bBmUDbSkBl\npixiv: https://t.co/0CqZvFx4cH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boosty.to/duhonion",
+                "end": 31,
+                "expanded_url": "http://boosty.to/duhonion",
+                "start": 8,
+                "url": "https://t.co/bBmUDbSkBl"
+              },
+              {
+                "display_url": "pixiv.net/users/83043307",
+                "end": 62,
+                "expanded_url": "https://www.pixiv.net/users/83043307",
+                "start": 39,
+                "url": "https://t.co/0CqZvFx4cH"
+              }
+            ]
+          }
+        },
+        "id": "1729256097020588032",
+        "name": "duhonion (duhota)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021942142382354432/dvh67FY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 38,
+          "like_count": 364,
+          "listed_count": 15,
+          "media_count": 54,
+          "tweet_count": 83
+        },
+        "username": "duhonion",
+        "verified": false
+      }
+    ]
+  }
+}

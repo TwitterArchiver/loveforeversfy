@@ -1,0 +1,274 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807194984170344448"
+      ],
+      "media_source_tweet_id": [
+        "1807195085487948078"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1807236356386742480",
+    "created_at": "2024-06-30T02:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T03:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807236356386742480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741208947397115904",
+          "start": 3,
+          "username": "7amegachi7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zTDZmSAa3K",
+          "end": 47,
+          "expanded_url": "https://twitter.com/7amegachi7/status/1807195085487948078/video/1",
+          "media_key": "7_1807194984170344448",
+          "start": 24,
+          "url": "https://t.co/zTDZmSAa3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807236356386742480",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807195085487948078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7amegachi7: 😭😭😭😭😭😭😭 https://t.co/zTDZmSAa3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6315,
+        "height": 1440,
+        "media_key": "7_1807194984170344448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807194984170344448/pu/img/qB1OmfUcbVbGfLjz.jpg",
+        "public_metrics": {
+          "view_count": 239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807194984170344448/pu/vid/avc1/360x270/sVDtwduidyuuplo8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807194984170344448/pu/vid/avc1/480x360/Th6VJffHYNKd1_zg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807194984170344448/pu/vid/avc1/960x720/c-ibKRrO3E7EjoU_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807194984170344448/pu/pl/XrOAchIirYQ4SWjj.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807194984170344448"
+          ],
+          "media_source_tweet_id": [
+            "1807195085487948078"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807236356386742480",
+        "created_at": "2024-06-30T02:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807236356386742480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741208947397115904",
+              "start": 3,
+              "username": "7amegachi7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zTDZmSAa3K",
+              "end": 47,
+              "expanded_url": "https://twitter.com/7amegachi7/status/1807195085487948078/video/1",
+              "media_key": "7_1807194984170344448",
+              "start": 24,
+              "url": "https://t.co/zTDZmSAa3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807236356386742480",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807195085487948078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7amegachi7: 😭😭😭😭😭😭😭 https://t.co/zTDZmSAa3K"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807194984170344448"
+          ]
+        },
+        "author_id": "1741208947397115904",
+        "conversation_id": "1807195085487948078",
+        "created_at": "2024-06-29T23:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T00:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807195085487948078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zTDZmSAa3K",
+              "end": 31,
+              "expanded_url": "https://twitter.com/7amegachi7/status/1807195085487948078/video/1",
+              "media_key": "7_1807194984170344448",
+              "start": 8,
+              "url": "https://t.co/zTDZmSAa3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807195085487948078",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 531,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭😭😭😭😭 https://t.co/zTDZmSAa3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1570,
+          "like_count": 28195,
+          "listed_count": 7,
+          "tweet_count": 7685
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T21:25:46.000Z",
+        "description": "14 - he/him ʚ♡ɞ 𝑵𝑬𝑬𝑫𝒀 𝑮𝑰𝑹𝑳 𝑶𝑽𝑬𝑹𝑫𝑶𝑺𝑬 ʚ♡ɞ",
+        "id": "1741208947397115904",
+        "location": "𝑩𝑳𝑨𝒁𝑰𝑵𝑮 𝑯𝑬𝑳𝑳",
+        "name": "ame/amegachi/amenyan",
+        "pinned_tweet_id": "1794340175948214496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803906150829588480/mf_VKTDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 3496,
+          "like_count": 57672,
+          "listed_count": 34,
+          "tweet_count": 19055
+        },
+        "username": "7amegachi7",
+        "verified": false
+      }
+    ]
+  }
+}

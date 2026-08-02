@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1816858679456747520",
+        "3_1816858679465103360"
+      ],
+      "media_source_tweet_id": [
+        "1816858702521249918",
+        "1816858702521249918"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816980192264655145",
+    "created_at": "2024-07-26T23:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T00:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816980192264655145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1VvimspLfg",
+          "end": 79,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+          "media_key": "3_1816858679456747520",
+          "start": 56,
+          "url": "https://t.co/1VvimspLfg"
+        },
+        {
+          "display_url": "pic.twitter.com/1VvimspLfg",
+          "end": 79,
+          "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+          "media_key": "3_1816858679465103360",
+          "start": 56,
+          "url": "https://t.co/1VvimspLfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816980192264655145",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816858702521249918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: maimai筐体にサイン書かせていただきました🙇‍♀️🙇‍♀️🙇‍♀️ https://t.co/1VvimspLfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1816858679456747520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTbHV8Qa0AAXHng.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1816858679465103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTbHV8SaUAAqWMh.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816858679456747520",
+            "3_1816858679465103360"
+          ],
+          "media_source_tweet_id": [
+            "1816858702521249918",
+            "1816858702521249918"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816980192264655145",
+        "created_at": "2024-07-26T23:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T00:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816980192264655145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1VvimspLfg",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+              "media_key": "3_1816858679456747520",
+              "start": 56,
+              "url": "https://t.co/1VvimspLfg"
+            },
+            {
+              "display_url": "pic.twitter.com/1VvimspLfg",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+              "media_key": "3_1816858679465103360",
+              "start": 56,
+              "url": "https://t.co/1VvimspLfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816980192264655145",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816858702521249918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: maimai筐体にサイン書かせていただきました🙇‍♀️🙇‍♀️🙇‍♀️ https://t.co/1VvimspLfg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816858679456747520",
+            "3_1816858679465103360"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816858702521249918",
+        "created_at": "2024-07-26T15:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T16:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816858702521249918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1VvimspLfg",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+              "media_key": "3_1816858679456747520",
+              "start": 36,
+              "url": "https://t.co/1VvimspLfg"
+            },
+            {
+              "display_url": "pic.twitter.com/1VvimspLfg",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yottan20001202/status/1816858702521249918/photo/1",
+              "media_key": "3_1816858679465103360",
+              "start": 36,
+              "url": "https://t.co/1VvimspLfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816858702521249918",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21010,
+          "like_count": 346,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "maimai筐体にサイン書かせていただきました🙇‍♀️🙇‍♀️🙇‍♀️ https://t.co/1VvimspLfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1572,
+          "like_count": 29130,
+          "listed_count": 8,
+          "tweet_count": 8181
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会6回優勝(4連覇中！)🏆／フジテレビ2時間生放送大会出演+優勝／地上波テレビ出演／公式生放送出演／白譜面全曲＆ST紫全曲理論値AP／PANDORA白世界最速理論値AP／太鼓.全良71(25)／プロセカ、ウニ／サブ垢@ysk__sub_／インスタ→yottan20001202／趣味→♨️＆旅行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓チャンネル登録してね↓   NX  ND  _X 太鼓EF",
+        "name": "よしき",
+        "pinned_tweet_id": "1761616037425057931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761969675934810112/CnGYUrmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29550,
+          "following_count": 746,
+          "like_count": 23098,
+          "listed_count": 95,
+          "tweet_count": 60105
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828200142811619328",
+        "3_1828200142815776768",
+        "3_1828200142954016768",
+        "3_1828200142807408643"
+      ],
+      "media_source_tweet_id": [
+        "1828200153117008203",
+        "1828200153117008203",
+        "1828200153117008203",
+        "1828200153117008203"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1828356584134599058",
+    "created_at": "2024-08-27T08:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T09:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828356584134599058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764492604090273792",
+          "start": 3,
+          "username": "Roiroidon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bpxog98ljv",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+          "media_key": "3_1828200142811619328",
+          "start": 27,
+          "url": "https://t.co/BpXoG98ljV"
+        },
+        {
+          "display_url": "pic.x.com/bpxog98ljv",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+          "media_key": "3_1828200142815776768",
+          "start": 27,
+          "url": "https://t.co/BpXoG98ljV"
+        },
+        {
+          "display_url": "pic.x.com/bpxog98ljv",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+          "media_key": "3_1828200142954016768",
+          "start": 27,
+          "url": "https://t.co/BpXoG98ljV"
+        },
+        {
+          "display_url": "pic.x.com/bpxog98ljv",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+          "media_key": "3_1828200142807408643",
+          "start": 27,
+          "url": "https://t.co/BpXoG98ljV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828356584134599058",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828200153117008203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Roiroidon: maimaiあるある㉘ https://t.co/BpXoG98ljV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_1828200142811619328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV8SV_qa4AA-F8z.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1063,
+        "media_key": "3_1828200142815776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV8SV_raUAAzdId.jpg",
+        "width": 1048
+      },
+      {
+        "height": 1018,
+        "media_key": "3_1828200142954016768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV8SWAMXsAA4Bn6.jpg",
+        "width": 1011
+      },
+      {
+        "height": 1092,
+        "media_key": "3_1828200142807408643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV8SV_paoAM6CGK.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828200142811619328",
+            "3_1828200142815776768",
+            "3_1828200142954016768",
+            "3_1828200142807408643"
+          ],
+          "media_source_tweet_id": [
+            "1828200153117008203",
+            "1828200153117008203",
+            "1828200153117008203",
+            "1828200153117008203"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1828356584134599058",
+        "created_at": "2024-08-27T08:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T09:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828356584134599058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764492604090273792",
+              "start": 3,
+              "username": "Roiroidon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142811619328",
+              "start": 27,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142815776768",
+              "start": 27,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142954016768",
+              "start": 27,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142807408643",
+              "start": 27,
+              "url": "https://t.co/BpXoG98ljV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828356584134599058",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828200153117008203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Roiroidon: maimaiあるある㉘ https://t.co/BpXoG98ljV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828200142811619328",
+            "3_1828200142815776768",
+            "3_1828200142954016768",
+            "3_1828200142807408643"
+          ]
+        },
+        "author_id": "1764492604090273792",
+        "conversation_id": "1828200153117008203",
+        "created_at": "2024-08-26T22:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T23:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828200153117008203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142811619328",
+              "start": 12,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142815776768",
+              "start": 12,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142954016768",
+              "start": 12,
+              "url": "https://t.co/BpXoG98ljV"
+            },
+            {
+              "display_url": "pic.x.com/bpxog98ljv",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Roiroidon/status/1828200153117008203/photo/1",
+              "media_key": "3_1828200142807408643",
+              "start": 12,
+              "url": "https://t.co/BpXoG98ljV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828200153117008203",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19064,
+          "like_count": 392,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "maimaiあるある㉘ https://t.co/BpXoG98ljV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐丽菇",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1571,
+          "like_count": 30046,
+          "listed_count": 7,
+          "tweet_count": 8412
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T03:26:53.000Z",
+        "description": "maimaiあるあるの中の人 クソ動画・あるある4コマ・アイコンなど作ってます😎依頼はDMまでお願いします！maimaiあるあるはハイライトに全てまとめてあります",
+        "id": "1764492604090273792",
+        "location": "せかせか界隈 里の者🦍",
+        "name": "□iDN(ろいどん)maimaiあるある",
+        "pinned_tweet_id": "1805376181816246280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812401055084199936/9BcTnols_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 177,
+          "like_count": 11985,
+          "listed_count": 11,
+          "tweet_count": 9653
+        },
+        "username": "Roiroidon",
+        "verified": true
+      }
+    ]
+  }
+}

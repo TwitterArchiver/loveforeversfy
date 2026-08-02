@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1891934706821742944",
+    "created_at": "2025-02-18T20:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T21:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891941268973838352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608817124704923648",
+          "start": 0,
+          "username": "Hyperbubuemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891941268973838352",
+    "in_reply_to_user_id": "1608817124704923648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891934706821742944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperbubuemia 羡慕雪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1891934706821742944",
+        "created_at": "2025-02-18T20:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T21:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891941268973838352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608817124704923648",
+              "start": 0,
+              "username": "Hyperbubuemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891941268973838352",
+        "in_reply_to_user_id": "1608817124704923648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891934706821742944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperbubuemia 羡慕雪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891934702392557568"
+          ]
+        },
+        "author_id": "1608817124704923648",
+        "conversation_id": "1891934706821742944",
+        "created_at": "2025-02-18T19:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T20:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891934706821742944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BfohpDYn2p",
+              "end": 23,
+              "expanded_url": "https://x.com/Hyperbubuemia/status/1891934706821742944/photo/1",
+              "media_key": "3_1891934702392557568",
+              "start": 0,
+              "url": "https://t.co/BfohpDYn2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891934706821742944",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BfohpDYn2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1567,
+          "like_count": 33089,
+          "listed_count": 10,
+          "media_count": 974,
+          "tweet_count": 9758
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "🐹🤍🍥｜每日心情@xibubuQvQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "xibubuQvQ"
+              }
+            ]
+          }
+        },
+        "id": "1608817124704923648",
+        "location": "阳光蘑菇房🇨🇦 厦门",
+        "name": "栖布布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874197261430784001/u2lPDuZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 713,
+          "like_count": 8491,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 4946
+        },
+        "username": "Hyperbubuemia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2022650546562429063",
+    "created_at": "2026-02-16T03:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023243275516231853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718776457198280704",
+          "start": 0,
+          "username": "yng014522566684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023243275516231853",
+    "in_reply_to_user_id": "1718776457198280704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023241982340915666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yng014522566684 你来南京来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2022650546562429063",
+        "created_at": "2026-02-16T03:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023243275516231853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718776457198280704",
+              "start": 0,
+              "username": "yng014522566684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023243275516231853",
+        "in_reply_to_user_id": "1718776457198280704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023241982340915666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yng014522566684 你来南京来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718776457198280704",
+        "conversation_id": "2022650546562429063",
+        "created_at": "2026-02-16T03:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023241982340915666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023241982340915666",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022650546562429063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 咋不找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 1529,
+          "like_count": 32608,
+          "listed_count": 8,
+          "media_count": 1061,
+          "tweet_count": 10360
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "我很可爱请给我钱",
+        "id": "1718776457198280704",
+        "name": "小叽",
+        "pinned_tweet_id": "2014786504321860014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790813312378355713/4D4XM3PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 119,
+          "like_count": 2168,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 667
+        },
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

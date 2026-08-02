@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1850461660387201351",
+    "created_at": "2024-10-27T15:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T16:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850554472331972720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "SoutaWashuuYuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850554472331972720",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850461660387201351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoutaWashuuYuki 不要吃苟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1850461660387201351",
+        "created_at": "2024-10-27T15:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850554472331972720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "SoutaWashuuYuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850554472331972720",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850461660387201351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoutaWashuuYuki 不要吃苟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1850461660387201351",
+        "created_at": "2024-10-27T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850461660387201351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850461660387201351",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1952,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄河，长江，还有黑龙江"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄 | ❤️@Aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1586,
+          "like_count": 31469,
+          "listed_count": 7,
+          "tweet_count": 8984
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈LGBT+/🍥2024.4.20/小证/ADHD/178cm57kg/不返校，自行备战 A-Level 润HongKong🇭🇰/08 年 5月生人/少数民族/Apex手柄♿️线性41bug3.0 双赛季铂金😮‍💨/舞萌DX 菜逼 w0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": ".翎 SoutaWashuu🍥👾⚡️🌊🧊♿️",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835424345394749440/t5JDVHut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2927,
+          "following_count": 1255,
+          "like_count": 59079,
+          "listed_count": 7,
+          "tweet_count": 13929
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "SoutaWashuuYuki",
+        "verified": false
+      }
+    ]
+  }
+}

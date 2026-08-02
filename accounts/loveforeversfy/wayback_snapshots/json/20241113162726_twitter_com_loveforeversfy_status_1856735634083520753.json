@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1856735634083520753",
+    "created_at": "2024-11-13T16:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T17:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856735634083520753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762478947621638144",
+          "start": 1,
+          "username": "Kambronya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856735634083520753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤕@Kambronya 叫我问问上海有没有人能去陪陪ta的…ta的状态不太好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1856735634083520753",
+        "created_at": "2024-11-13T16:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856735634083520753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762478947621638144",
+              "start": 1,
+              "username": "Kambronya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856735634083520753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤕@Kambronya 叫我问问上海有没有人能去陪陪ta的…ta的状态不太好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄 | ❤️@Aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1588,
+          "like_count": 31951,
+          "listed_count": 7,
+          "tweet_count": 9284
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "总有一些东西，要用消失来证明它的珍贵。/看黄男给我死🤗",
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831870320929861634/jz2zFNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 56,
+          "like_count": 2086,
+          "listed_count": 0,
+          "tweet_count": 1283
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

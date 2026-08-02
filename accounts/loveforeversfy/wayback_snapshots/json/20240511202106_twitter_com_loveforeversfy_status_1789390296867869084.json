@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1789390296867869084",
+    "created_at": "2024-05-11T20:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T21:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789390296867869084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789390296867869084",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789328160204718582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 一个小药娘政治性抑郁于是去看精神科医生。\n药娘：\"我对制度不认可，感觉自己看不到未来，十分焦虑。\"\n医生：\"你休息半天吧，我给你开个条子。\"\n十分钟后，条子把药娘带走了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1789390296867869084",
+        "created_at": "2024-05-11T20:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T21:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789390296867869084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789390296867869084",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789328160204718582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 一个小药娘政治性抑郁于是去看精神科医生。\n药娘：\"我对制度不认可，感觉自己看不到未来，十分焦虑。\"\n医生：\"你休息半天吧，我给你开个条子。\"\n十分钟后，条子把药娘带走了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1789328160204718582",
+        "created_at": "2024-05-11T16:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T17:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789328160204718582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789328160204718582",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6717,
+          "like_count": 216,
+          "quote_count": 9,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "一个小药娘政治性抑郁于是去看精神科医生。\n药娘：\"我对制度不认可，感觉自己看不到未来，十分焦虑。\"\n医生：\"你休息半天吧，我给你开个条子。\"\n十分钟后，条子把药娘带走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "鱼鱼菇🐟🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1567,
+          "like_count": 26501,
+          "listed_count": 8,
+          "tweet_count": 6976
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 70,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 957
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

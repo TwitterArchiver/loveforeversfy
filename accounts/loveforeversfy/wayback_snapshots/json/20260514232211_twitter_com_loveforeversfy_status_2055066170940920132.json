@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2055055273430262012",
+    "created_at": "2026-05-14T23:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T00:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055066170940920132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054106635111735296",
+          "start": 0,
+          "username": "L_lietosee"
+        },
+        {
+          "end": 21,
+          "id": "1845491203124441093",
+          "start": 12,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055066170940920132",
+    "in_reply_to_user_id": "2054106635111735296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055055273430262012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_lietosee @yu_huacs 扫完一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2055055270703988736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUF4WwbAAATTS_.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2055055273430262012",
+        "created_at": "2026-05-14T23:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055066170940920132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054106635111735296",
+              "start": 0,
+              "username": "L_lietosee"
+            },
+            {
+              "end": 21,
+              "id": "1845491203124441093",
+              "start": 12,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055066170940920132",
+        "in_reply_to_user_id": "2054106635111735296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055055273430262012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_lietosee @yu_huacs 扫完一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055055270703988736"
+          ]
+        },
+        "author_id": "2054106635111735296",
+        "conversation_id": "2055055273430262012",
+        "created_at": "2026-05-14T22:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055055273430262012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "重加工"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6cdDnNC2U",
+              "end": 32,
+              "expanded_url": "https://x.com/L_lietosee/status/2055055273430262012/photo/1",
+              "media_key": "3_2055055270703988736",
+              "start": 9,
+              "url": "https://t.co/Q6cdDnNC2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055055273430262012",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #重加工 https://t.co/Q6cdDnNC2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 1554,
+          "like_count": 34910,
+          "listed_count": 9,
+          "media_count": 1173,
+          "tweet_count": 11135
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:49:42.000Z",
+        "description": "叫我小谎 是一个无糖男娘，低质量coser\n不知道是谁的分身呢",
+        "id": "2054106635111735296",
+        "name": "lie_to love",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054107404670001152/W3B-zKgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 18,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "L_lietosee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车技师 日常发牢骚推 有精神病内容 双相 皮上是健全の公路车技师 想和很多很多人交朋友 一个乐无天的家里蹲 少有cos照 有公路车组车需求可以询问我 我异父异母の🈹🈹@silentbleeding1  另一个我 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜8964",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1354,
+          "like_count": 111736,
+          "listed_count": 8,
+          "media_count": 2048,
+          "tweet_count": 19035
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

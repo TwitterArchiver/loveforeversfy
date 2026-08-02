@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2071474655945519439",
+    "created_at": "2026-06-29T07:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071495086618333188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1514452615299747845",
+          "start": 0,
+          "username": "19bhcsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071495086618333188",
+    "in_reply_to_user_id": "1514452615299747845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071494323041178073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@19bhcsn 杀戮尖塔2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2071474655945519439",
+        "created_at": "2026-06-29T07:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071495086618333188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1514452615299747845",
+              "start": 0,
+              "username": "19bhcsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071495086618333188",
+        "in_reply_to_user_id": "1514452615299747845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071494323041178073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@19bhcsn 杀戮尖塔2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514452615299747845",
+        "conversation_id": "2071474655945519439",
+        "created_at": "2026-06-29T07:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071494323041178073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071494323041178073",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071474655945519439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 这是什么游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1555,
+          "like_count": 35457,
+          "listed_count": 8,
+          "media_count": 1219,
+          "tweet_count": 11404
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T03:57:14.000Z",
+        "description": "☺️",
+        "id": "1514452615299747845",
+        "name": "十九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050242899556827136/gDWXDPBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "19bhcsn",
+        "verified": false
+      }
+    ]
+  }
+}

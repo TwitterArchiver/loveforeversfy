@@ -1,0 +1,387 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1816845166692696383",
+    "created_at": "2024-07-26T14:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T15:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816845166692696383"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 101,
+          "normalized_text": "Echo over you...",
+          "probability": 0.2211,
+          "start": 86,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "945488202307026945",
+          "start": 3,
+          "username": "MuseDashtheGame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816845166692696383",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816760377100656752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuseDashtheGame: [ LIVE ]ミューズラジオ&gt;&gt;&gt;DEEMO II [ 接続中 ]\n\n//天気予報// DEEMO II\n「 Echo over you... 」⇥ デフォルト曲\nカバー長押し&gt;&gt;&gt;裏譜面解禁\n\n//ミューズラジオ// FM105\n⇲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1816845166692696383",
+        "created_at": "2024-07-26T14:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T15:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816845166692696383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "Echo over you...",
+              "probability": 0.2211,
+              "start": 86,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "945488202307026945",
+              "start": 3,
+              "username": "MuseDashtheGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816845166692696383",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816760377100656752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuseDashtheGame: [ LIVE ]ミューズラジオ&gt;&gt;&gt;DEEMO II [ 接続中 ]\n\n//天気予報// DEEMO II\n「 Echo over you... 」⇥ デフォルト曲\nカバー長押し&gt;&gt;&gt;裏譜面解禁\n\n//ミューズラジオ// FM105\n⇲…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1816731584143458307"
+          ]
+        },
+        "author_id": "945488202307026945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1816760377100656752",
+        "created_at": "2024-07-26T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816760377100656752"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "Echo over you...",
+              "probability": 0.4002,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Mutown",
+              "probability": 0.6049,
+              "start": 161,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 217,
+              "start": 208,
+              "tag": "MuseDash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XpvdM2Ty9U",
+              "end": 241,
+              "expanded_url": "https://twitter.com/MuseDashtheGame/status/1816760377100656752/video/1",
+              "media_key": "13_1816731584143458307",
+              "start": 218,
+              "url": "https://t.co/XpvdM2Ty9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816760377100656752",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 25636,
+          "like_count": 912,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "[ LIVE ]ミューズラジオ&gt;&gt;&gt;DEEMO II [ 接続中 ]\n\n//天気予報// DEEMO II\n「 Echo over you... 」⇥ デフォルト曲\nカバー長押し&gt;&gt;&gt;裏譜面解禁\n\n//ミューズラジオ// FM105\n⇲ 新曲4曲\n⇲ タイトル画面1枚\n⇲ テーマ背景『Mutown』1枚\n\n//ミューズキッズ// MUSE KIDS\n⇲ こどもの日イラスト1枚\n#MuseDash https://t.co/XpvdM2Ty9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1572,
+          "like_count": 29125,
+          "listed_count": 8,
+          "tweet_count": 8176
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-26T02:55:28.000Z",
+        "description": "Steam/iOS/Android/Nintendo SwitchアクションリズムゲームMuse Dash公式アカウント!楽曲投稿:submit@peropero.net;お問い合わせ: https://t.co/iVFlE41S79; Discord:https://t.co/n77bpXKIZp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "service.peropero.net/#/",
+                "end": 117,
+                "expanded_url": "http://service.peropero.net/#/",
+                "start": 94,
+                "url": "https://t.co/iVFlE41S79"
+              },
+              {
+                "display_url": "discord.gg/MuseDash",
+                "end": 150,
+                "expanded_url": "http://discord.gg/MuseDash",
+                "start": 127,
+                "url": "https://t.co/n77bpXKIZp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "musedash.peropero.net",
+                "end": 23,
+                "expanded_url": "http://musedash.peropero.net",
+                "start": 0,
+                "url": "https://t.co/9wJA0zftyA"
+              }
+            ]
+          }
+        },
+        "id": "945488202307026945",
+        "name": "Muse Dash公式",
+        "pinned_tweet_id": "1806261924193280341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775090154853806080/m2fEsE2j_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119419,
+          "following_count": 152,
+          "like_count": 1476,
+          "listed_count": 555,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/9wJA0zftyA",
+        "username": "MuseDashtheGame",
+        "verified": false
+      }
+    ]
+  }
+}

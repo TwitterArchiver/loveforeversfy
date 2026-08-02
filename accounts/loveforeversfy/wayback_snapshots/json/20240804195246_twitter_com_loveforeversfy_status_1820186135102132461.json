@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1820150143586570709",
+    "created_at": "2024-08-04T19:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T20:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820186135102132461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251033624222158849",
+          "start": 0,
+          "username": "baozou0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820186135102132461",
+    "in_reply_to_user_id": "1251033624222158849",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820150143586570709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozou0121 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1820150143586570709",
+        "created_at": "2024-08-04T19:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T20:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820186135102132461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251033624222158849",
+              "start": 0,
+              "username": "baozou0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820186135102132461",
+        "in_reply_to_user_id": "1251033624222158849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820150143586570709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozou0121 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820150141187416064"
+          ]
+        },
+        "author_id": "1251033624222158849",
+        "conversation_id": "1820150143586570709",
+        "created_at": "2024-08-04T17:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T18:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820150143586570709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1aoPQulZeb",
+              "end": 27,
+              "expanded_url": "https://twitter.com/baozou0121/status/1820150143586570709/photo/1",
+              "media_key": "3_1820150141187416064",
+              "start": 4,
+              "url": "https://t.co/1aoPQulZeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820150143586570709",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1052,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "练习中 https://t.co/1aoPQulZeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1570,
+          "like_count": 29450,
+          "listed_count": 8,
+          "tweet_count": 8251
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "同志们好！我是日本人喜欢学习汉语、中国文化、和奇怪的知识！如果我的中文错了，请告诉我！今天也用力踩下油门🩵PBとか歴史とか国際交流とか 王洪文嬤嬤😎\n🚫请勿未授权转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\nR-18账号: @baozouR18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "baozouR18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16824,
+          "following_count": 253,
+          "like_count": 47825,
+          "listed_count": 38,
+          "tweet_count": 6226
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": false
+      }
+    ]
+  }
+}

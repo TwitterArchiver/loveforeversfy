@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2063545680401154062",
+    "created_at": "2026-06-07T20:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T21:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063723853894062292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063723853894062292",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063545680401154062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2063545680401154062",
+        "created_at": "2026-06-07T20:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063723853894062292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063723853894062292",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063545680401154062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "2063545680401154062",
+        "created_at": "2026-06-07T08:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063545680401154062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063545680401154062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想整一个群\n大大方方往里进\n评论过10个我开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 1555,
+          "like_count": 35190,
+          "listed_count": 8,
+          "media_count": 1193,
+          "tweet_count": 11269
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "滨边雨怜（曾用名：伊藤政子 伊政兰 体調不良） 猫砂帮荣誉成员 老学校客座教授 主讲谈论 人在日本 合法住民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Kyushu",
+        "name": "浜辺雨怜没听懂没听见不懂",
+        "pinned_tweet_id": "2050110766905475396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048064307309797376/v6DCWgfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 514,
+          "like_count": 6072,
+          "listed_count": 3,
+          "media_count": 572,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

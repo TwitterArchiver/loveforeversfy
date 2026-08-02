@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2048331324214456640",
+    "created_at": "2026-04-26T09:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048331324214456640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2048291599441080631",
+          "start": 4,
+          "url": "https://t.co/3zESltBUIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048331324214456640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048291599441080631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人 https://t.co/3zESltBUIU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2048331324214456640",
+        "created_at": "2026-04-26T09:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048331324214456640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2048291599441080631",
+              "start": 4,
+              "url": "https://t.co/3zESltBUIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048331324214456640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048291599441080631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人 https://t.co/3zESltBUIU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048291599441080631",
+        "created_at": "2026-04-26T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048291599441080631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048291599441080631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我很抑郁，动力缺失。\n我的第一个想法是，是我分手害得。\n我的第二个想法是，是我本身就这样，分手只是我找的理由。\n我的第三个想法是，我的第二个想法是我过度思考导致的。\n我感觉自己每天都用这样的metacognition的方式把自己的能量耗光了\n这句话是metacognition吗？\n哈哈这句话也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1558,
+          "like_count": 34384,
+          "listed_count": 8,
+          "media_count": 1158,
+          "tweet_count": 10976
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 274,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

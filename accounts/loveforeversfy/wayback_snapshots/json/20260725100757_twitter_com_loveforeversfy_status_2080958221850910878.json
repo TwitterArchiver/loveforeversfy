@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080345717714083841"
+      ],
+      "media_source_tweet_id": [
+        "2080345723795890382"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2080958221850910878",
+    "created_at": "2026-07-25T10:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080958221850910878"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757294154781270016",
+          "start": 3,
+          "username": "tok0y4mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9n1JGdHWDH",
+          "end": 75,
+          "expanded_url": "https://x.com/tok0y4mi/status/2080345723795890382/photo/1",
+          "media_key": "3_2080345717714083841",
+          "start": 52,
+          "url": "https://t.co/9n1JGdHWDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080958221850910878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1083
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080345723795890382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tok0y4mi: ヤニねこ見てたら、実家のような安心感のある筐体が出てきてワロタ\n#ヤニねこ https://t.co/9n1JGdHWDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080345717714083841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7faHpaYAEuk7b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080345717714083841"
+          ]
+        },
+        "author_id": "1757294154781270016",
+        "conversation_id": "2080345723795890382",
+        "created_at": "2026-07-23T17:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080345723795890382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n1JGdHWDH",
+              "end": 61,
+              "expanded_url": "https://x.com/tok0y4mi/status/2080345723795890382/photo/1",
+              "media_key": "3_2080345717714083841",
+              "start": 38,
+              "url": "https://t.co/9n1JGdHWDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080345723795890382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 176235,
+          "like_count": 4361,
+          "quote_count": 78,
+          "reply_count": 11,
+          "retweet_count": 1083
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニねこ見てたら、実家のような安心感のある筐体が出てきてワロタ\n#ヤニねこ https://t.co/9n1JGdHWDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080345717714083841"
+          ],
+          "media_source_tweet_id": [
+            "2080345723795890382"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2080958221850910878",
+        "created_at": "2026-07-25T10:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080958221850910878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757294154781270016",
+              "start": 3,
+              "username": "tok0y4mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n1JGdHWDH",
+              "end": 75,
+              "expanded_url": "https://x.com/tok0y4mi/status/2080345723795890382/photo/1",
+              "media_key": "3_2080345717714083841",
+              "start": 52,
+              "url": "https://t.co/9n1JGdHWDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080958221850910878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1083
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080345723795890382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tok0y4mi: ヤニねこ見てたら、実家のような安心感のある筐体が出てきてワロタ\n#ヤニねこ https://t.co/9n1JGdHWDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 1558,
+          "like_count": 35768,
+          "listed_count": 10,
+          "media_count": 1249,
+          "tweet_count": 11571
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-13T06:42:48.000Z",
+        "description": "Youtube登録数30万+14万｜常世ノ闇の音ゲー垢｜海外ほぼ全機種勢｜Rhythm game player｜チュマイBEMANI太鼓26‘十段｜舞🌈16/チュ🌈17/DDR☀️皆｜中文日本語ENG 🆗｜寧々推し 前世？→@tokoyaminomori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "tokoyaminomori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZ8wW…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCZ8wWU0teJKhqP56OK2tDzA",
+                "start": 0,
+                "url": "https://t.co/UhmCEX9PIy"
+              }
+            ]
+          }
+        },
+        "id": "1757294154781270016",
+        "name": "TOKOYAMi(常闇)",
+        "pinned_tweet_id": "2038932935567618330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774502707333902336/ojW5eS3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10003,
+          "following_count": 81,
+          "like_count": 400,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/UhmCEX9PIy",
+        "username": "tok0y4mi",
+        "verified": true
+      }
+    ]
+  }
+}

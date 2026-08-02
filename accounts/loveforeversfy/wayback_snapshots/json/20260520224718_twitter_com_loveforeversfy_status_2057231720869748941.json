@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057231717950525442",
+        "3_2057231717900099585"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2057231720869748941",
+    "created_at": "2026-05-20T22:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057231720869748941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8tCAqLiakF",
+          "end": 25,
+          "expanded_url": "https://x.com/loveforeversfy/status/2057231720869748941/photo/1",
+          "media_key": "3_2057231717950525442",
+          "start": 2,
+          "url": "https://t.co/8tCAqLiakF"
+        },
+        {
+          "display_url": "pic.x.com/8tCAqLiakF",
+          "end": 25,
+          "expanded_url": "https://x.com/loveforeversfy/status/2057231720869748941/photo/1",
+          "media_key": "3_2057231717900099585",
+          "start": 2,
+          "url": "https://t.co/8tCAqLiakF"
+        },
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2057223715805647095",
+          "start": 26,
+          "url": "https://t.co/EuzRaGLkvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057231720869748941",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057223715805647095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（ https://t.co/8tCAqLiakF https://t.co/EuzRaGLkvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2057231717950525442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzBWQkbkAIoI78.jpg",
+        "width": 1180
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2057231717900099585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzBWQYaIAEhpuN.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2024,
+        "media_key": "3_2057223712873820160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIy6ETVasAAAwZS.jpg",
+        "width": 1176
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2057223711124852736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIy6EM0bkAAU5G3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057231717950525442",
+            "3_2057231717900099585"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2057231720869748941",
+        "created_at": "2026-05-20T22:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057231720869748941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8tCAqLiakF",
+              "end": 25,
+              "expanded_url": "https://x.com/loveforeversfy/status/2057231720869748941/photo/1",
+              "media_key": "3_2057231717950525442",
+              "start": 2,
+              "url": "https://t.co/8tCAqLiakF"
+            },
+            {
+              "display_url": "pic.x.com/8tCAqLiakF",
+              "end": 25,
+              "expanded_url": "https://x.com/loveforeversfy/status/2057231720869748941/photo/1",
+              "media_key": "3_2057231717900099585",
+              "start": 2,
+              "url": "https://t.co/8tCAqLiakF"
+            },
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2057223715805647095",
+              "start": 26,
+              "url": "https://t.co/EuzRaGLkvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057231720869748941",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057223715805647095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（ https://t.co/8tCAqLiakF https://t.co/EuzRaGLkvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057223712873820160",
+            "3_2057223711124852736"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2057223715805647095",
+        "created_at": "2026-05-20T22:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057223715805647095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiEFYafiuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/ashasw114514/status/2057223715805647095/photo/1",
+              "media_key": "3_2057223712873820160",
+              "start": 4,
+              "url": "https://t.co/ZiEFYafiuJ"
+            },
+            {
+              "display_url": "pic.x.com/ZiEFYafiuJ",
+              "end": 27,
+              "expanded_url": "https://x.com/ashasw114514/status/2057223715805647095/photo/1",
+              "media_key": "3_2057223711124852736",
+              "start": 4,
+              "url": "https://t.co/ZiEFYafiuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057223715805647095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍一下 https://t.co/ZiEFYafiuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1564,
+          "like_count": 35048,
+          "listed_count": 9,
+          "media_count": 1182,
+          "tweet_count": 11186
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 2924,
+          "like_count": 6726,
+          "listed_count": 8,
+          "media_count": 496,
+          "tweet_count": 4248
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2041506005574709594",
+    "created_at": "2026-04-07T13:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041506005574709594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorcerer198964…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Sorcerer198964/status/2041455500353540591",
+          "start": 7,
+          "url": "https://t.co/Ff90oOUgeE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041506005574709594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041455500353540591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶你怎么死了 https://t.co/Ff90oOUgeE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2041455360553226240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS01ZaXkAA5oi3.jpg",
+        "width": 1145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2041506005574709594",
+        "created_at": "2026-04-07T13:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041506005574709594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer198964…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Sorcerer198964/status/2041455500353540591",
+              "start": 7,
+              "url": "https://t.co/Ff90oOUgeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041506005574709594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041455500353540591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶你怎么死了 https://t.co/Ff90oOUgeE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041455360553226240"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041455500353540591",
+        "created_at": "2026-04-07T09:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041455500353540591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YBW2FkPal",
+              "end": 56,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2041455500353540591/photo/1",
+              "media_key": "3_2041455360553226240",
+              "start": 33,
+              "url": "https://t.co/4YBW2FkPal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041455500353540591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新号复活\n前世：\n互fo帮转一下吧\n唉可惜了我号就这样没了。。。 https://t.co/4YBW2FkPal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 1547,
+          "like_count": 33862,
+          "listed_count": 8,
+          "media_count": 1141,
+          "tweet_count": 10745
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

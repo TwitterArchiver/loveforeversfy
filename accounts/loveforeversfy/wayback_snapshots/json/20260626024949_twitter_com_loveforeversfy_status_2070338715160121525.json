@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2070338715160121525",
+    "created_at": "2026-06-26T02:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070338715160121525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987496594594496512",
+          "start": 3,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070338715160121525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070002503836672159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aldn126633: 如果我有7条命，我会用6条在公共场合自杀，以此给伤害过我的同学和骂过我的人留下心理创伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2070338715160121525",
+        "created_at": "2026-06-26T02:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070338715160121525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987496594594496512",
+              "start": 3,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070338715160121525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070002503836672159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aldn126633: 如果我有7条命，我会用6条在公共场合自杀，以此给伤害过我的同学和骂过我的人留下心理创伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987496594594496512",
+        "conversation_id": "2070002503836672159",
+        "created_at": "2026-06-25T04:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070002503836672159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070002503836672159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2511,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "如果我有7条命，我会用6条在公共场合自杀，以此给伤害过我的同学和骂过我的人留下心理创伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 1558,
+          "like_count": 35385,
+          "listed_count": 8,
+          "media_count": 1218,
+          "tweet_count": 11393
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n分身@kiwi_03096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 23,
+          "like_count": 204,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1827712454740320256"
+      ],
+      "media_source_tweet_id": [
+        "1827712469042901196"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1827937678983311557",
+    "created_at": "2024-08-26T05:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T06:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827937678983311557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1361240414309605379",
+          "start": 3,
+          "username": "NazrinRat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgrtiplvp9",
+          "end": 85,
+          "expanded_url": "https://twitter.com/NazrinRat/status/1827712469042901196/video/1",
+          "media_key": "7_1827712454740320256",
+          "start": 62,
+          "url": "https://t.co/FgrTIpLVp9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827937678983311557",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827712469042901196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NazrinRat: spent all on microtransactions and commissions https://t.co/FgrTIpLVp9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12329,
+        "height": 400,
+        "media_key": "7_1827712454740320256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1827712454740320256/pu/img/Xp8bieXpuIJC8oVg.jpg",
+        "public_metrics": {
+          "view_count": 4260
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827712454740320256/pu/vid/avc1/320x400/Ejbj0W4S-pw2vVdz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1827712454740320256/pu/pl/IE0rpWKn58KRkdY2.m3u8?tag=12"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827712454740320256"
+          ],
+          "media_source_tweet_id": [
+            "1827712469042901196"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1827937678983311557",
+        "created_at": "2024-08-26T05:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T06:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827937678983311557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1361240414309605379",
+              "start": 3,
+              "username": "NazrinRat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgrtiplvp9",
+              "end": 85,
+              "expanded_url": "https://twitter.com/NazrinRat/status/1827712469042901196/video/1",
+              "media_key": "7_1827712454740320256",
+              "start": 62,
+              "url": "https://t.co/FgrTIpLVp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827937678983311557",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827712469042901196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NazrinRat: spent all on microtransactions and commissions https://t.co/FgrTIpLVp9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827712454740320256"
+          ]
+        },
+        "author_id": "1361240414309605379",
+        "conversation_id": "1827712469042901196",
+        "created_at": "2024-08-25T14:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T15:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827712469042901196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgrtiplvp9",
+              "end": 70,
+              "expanded_url": "https://twitter.com/NazrinRat/status/1827712469042901196/video/1",
+              "media_key": "7_1827712454740320256",
+              "start": 47,
+              "url": "https://t.co/FgrTIpLVp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827712469042901196",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 8818,
+          "like_count": 696,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "spent all on microtransactions and commissions https://t.co/FgrTIpLVp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐蘑利菇",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1570,
+          "like_count": 29926,
+          "listed_count": 7,
+          "tweet_count": 8402
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T09:06:26.000Z",
+        "description": "evil girl reposter\n@bihoujo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "bihoujo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bihoujo.straw.page",
+                "end": 23,
+                "expanded_url": "https://bihoujo.straw.page",
+                "start": 0,
+                "url": "https://t.co/Ei0t4ptLuw"
+              }
+            ]
+          }
+        },
+        "id": "1361240414309605379",
+        "location": "posts made with hatred",
+        "name": "sloush ☆",
+        "pinned_tweet_id": "1822123681763700998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814586908011601921/mjUZkI5p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66953,
+          "following_count": 345,
+          "like_count": 32094,
+          "listed_count": 119,
+          "tweet_count": 18726
+        },
+        "url": "https://t.co/Ei0t4ptLuw",
+        "username": "NazrinRat",
+        "verified": false
+      }
+    ]
+  }
+}

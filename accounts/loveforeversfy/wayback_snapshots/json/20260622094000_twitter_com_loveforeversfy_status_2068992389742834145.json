@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062837239084638208"
+      ],
+      "media_source_tweet_id": [
+        "2062837298211733850"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068992389742834145",
+    "created_at": "2026-06-22T09:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068992389742834145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1337902475609690113",
+          "start": 3,
+          "username": "killmyaffairs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyMn3DkoBT",
+          "end": 85,
+          "expanded_url": "https://x.com/minjiluvr67/status/2062837298211733850/video/1",
+          "media_key": "13_2062837239084638208",
+          "start": 62,
+          "url": "https://t.co/iyMn3DkoBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068992389742834145",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4869
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068786649199251570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killmyaffairs: mis soluciones cuando algo no m sale bien \nhttps://t.co/iyMn3DkoBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13477,
+        "height": 598,
+        "media_key": "13_2062837239084638208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062837239084638208/img/-y8ezjj_vtGtZXON.jpg",
+        "public_metrics": {
+          "view_count": 524485
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062837239084638208/vid/avc1/324x270/tknI6-o9OnuPJJQ2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062837239084638208/vid/avc1/432x360/3ViJSaf5eqiRC12k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062837239084638208/vid/avc1/720x598/xQ1vC6TwHTPJhGPx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062837239084638208/pl/kVCLetmJTyQVoniY.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062837239084638208"
+          ],
+          "media_source_tweet_id": [
+            "2062837298211733850"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068992389742834145",
+        "created_at": "2026-06-22T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068992389742834145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1337902475609690113",
+              "start": 3,
+              "username": "killmyaffairs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyMn3DkoBT",
+              "end": 85,
+              "expanded_url": "https://x.com/minjiluvr67/status/2062837298211733850/video/1",
+              "media_key": "13_2062837239084638208",
+              "start": 62,
+              "url": "https://t.co/iyMn3DkoBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068992389742834145",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4869
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068786649199251570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killmyaffairs: mis soluciones cuando algo no m sale bien \nhttps://t.co/iyMn3DkoBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062837239084638208"
+          ],
+          "media_source_tweet_id": [
+            "2062837298211733850"
+          ]
+        },
+        "author_id": "1337902475609690113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068786649199251570",
+        "created_at": "2026-06-21T20:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068786649199251570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyMn3DkoBT",
+              "end": 66,
+              "expanded_url": "https://x.com/minjiluvr67/status/2062837298211733850/video/1",
+              "media_key": "13_2062837239084638208",
+              "start": 43,
+              "url": "https://t.co/iyMn3DkoBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068786649199251570",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1409,
+          "impression_count": 256747,
+          "like_count": 16546,
+          "quote_count": 38,
+          "reply_count": 26,
+          "retweet_count": 4869
+        },
+        "reply_settings": "everyone",
+        "text": "mis soluciones cuando algo no m sale bien \nhttps://t.co/iyMn3DkoBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 1558,
+          "like_count": 35295,
+          "listed_count": 8,
+          "media_count": 1204,
+          "tweet_count": 11342
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T23:29:54.000Z",
+        "description": "mi vida por el satosugu",
+        "id": "1337902475609690113",
+        "location": "she/her ",
+        "name": "karen",
+        "pinned_tweet_id": "1819448945611100167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061293460158590977/Qw4TKZo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23817,
+          "following_count": 12238,
+          "like_count": 40253,
+          "listed_count": 264,
+          "media_count": 5702,
+          "tweet_count": 192225
+        },
+        "url": "",
+        "username": "killmyaffairs",
+        "verified": true
+      }
+    ]
+  }
+}

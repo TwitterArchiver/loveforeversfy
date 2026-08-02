@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980478204516155392"
+      ],
+      "media_source_tweet_id": [
+        "1980478210757611984"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1980568388511625255",
+    "created_at": "2025-10-21T09:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980568388511625255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "国旗鯖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612069262344192000",
+          "start": 3,
+          "username": "Kokky_rhythm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WqC2nAT8x8",
+          "end": 46,
+          "expanded_url": "https://x.com/Kokky_rhythm/status/1980478210757611984/photo/1",
+          "media_key": "3_1980478204516155392",
+          "start": 23,
+          "url": "https://t.co/WqC2nAT8x8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980568388511625255",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980478210757611984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kokky_rhythm: #国旗鯖 https://t.co/WqC2nAT8x8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1980478204516155392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wSbxmWwAAyGBQ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980478204516155392"
+          ],
+          "media_source_tweet_id": [
+            "1980478210757611984"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1980568388511625255",
+        "created_at": "2025-10-21T09:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980568388511625255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "国旗鯖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612069262344192000",
+              "start": 3,
+              "username": "Kokky_rhythm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqC2nAT8x8",
+              "end": 46,
+              "expanded_url": "https://x.com/Kokky_rhythm/status/1980478210757611984/photo/1",
+              "media_key": "3_1980478204516155392",
+              "start": 23,
+              "url": "https://t.co/WqC2nAT8x8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980568388511625255",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980478210757611984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kokky_rhythm: #国旗鯖 https://t.co/WqC2nAT8x8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980478204516155392"
+          ]
+        },
+        "author_id": "1612069262344192000",
+        "conversation_id": "1980478210757611984",
+        "created_at": "2025-10-21T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980478210757611984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "国旗鯖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqC2nAT8x8",
+              "end": 28,
+              "expanded_url": "https://x.com/Kokky_rhythm/status/1980478210757611984/photo/1",
+              "media_key": "3_1980478204516155392",
+              "start": 5,
+              "url": "https://t.co/WqC2nAT8x8"
+            },
+            {
+              "display_url": "x.com/kokky_rhythm/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kokky_rhythm/status/1980458051389067707",
+              "start": 29,
+              "url": "https://t.co/Ooa8KvgsyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980478210757611984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 37906,
+          "like_count": 373,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980458051389067707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#国旗鯖 https://t.co/WqC2nAT8x8 https://t.co/Ooa8KvgsyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 1512,
+          "like_count": 31965,
+          "listed_count": 7,
+          "media_count": 989,
+          "tweet_count": 9790
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T12:50:50.000Z",
+        "description": "rhythm game player | Phigros 完全制覇 | 拡張プロフィール見て",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kokky-rhythm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kokky-rhythm",
+                "start": 0,
+                "url": "https://t.co/w68ZyvNsiE"
+              }
+            ]
+          }
+        },
+        "id": "1612069262344192000",
+        "location": "愛知 ♂ JP/EN OK 🍜🔋タメ◎",
+        "name": "K☺︎kky 🍜🔋",
+        "pinned_tweet_id": "1872925134463651884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774814305067937792/Hmr0_uKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 2091,
+          "like_count": 179083,
+          "listed_count": 19,
+          "media_count": 6845,
+          "tweet_count": 48567
+        },
+        "url": "https://t.co/w68ZyvNsiE",
+        "username": "Kokky_rhythm",
+        "verified": true
+      }
+    ]
+  }
+}

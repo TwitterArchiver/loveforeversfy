@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1791079082140254389",
+    "created_at": "2024-05-16T12:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T13:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791079082140254389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682996525830635520",
+          "start": 3,
+          "username": "Heyrach_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791079082140254389",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790965121210368237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heyrach_0: 你说你没有地域歧视，那现在放在你面前有两个选择，一个是成为北京人，一个是成为河南人，你选哪个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1791079082140254389",
+        "created_at": "2024-05-16T12:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791079082140254389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682996525830635520",
+              "start": 3,
+              "username": "Heyrach_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791079082140254389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790965121210368237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heyrach_0: 你说你没有地域歧视，那现在放在你面前有两个选择，一个是成为北京人，一个是成为河南人，你选哪个"
+      },
+      {
+        "attachments": {},
+        "author_id": "1682996525830635520",
+        "conversation_id": "1790965121210368237",
+        "created_at": "2024-05-16T04:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T05:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790965121210368237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790965121210368237",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 39834,
+          "like_count": 245,
+          "quote_count": 5,
+          "reply_count": 74,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你说你没有地域歧视，那现在放在你面前有两个选择，一个是成为北京人，一个是成为河南人，你选哪个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1568,
+          "like_count": 26861,
+          "listed_count": 8,
+          "tweet_count": 7113
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:10:26.000Z",
+        "description": "歪斜錯位",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz_001.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz_001.damo3.site/#/register?code=lAdLL6dy",
+                "start": 0,
+                "url": "https://t.co/Q6oFsc0Cgx"
+              }
+            ]
+          }
+        },
+        "id": "1682996525830635520",
+        "location": "🚪188   ↓下面自用VPN",
+        "name": "Heyrach",
+        "pinned_tweet_id": "1754118152903106989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682996994326040576/jSIANlUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 548,
+          "like_count": 31609,
+          "listed_count": 15,
+          "tweet_count": 6985
+        },
+        "url": "https://t.co/Q6oFsc0Cgx",
+        "username": "Heyrach_0",
+        "verified": false
+      }
+    ]
+  }
+}

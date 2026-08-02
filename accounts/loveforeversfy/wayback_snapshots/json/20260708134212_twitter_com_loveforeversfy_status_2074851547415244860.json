@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074851547415244860",
+    "created_at": "2026-07-08T13:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074851547415244860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2294196414",
+          "start": 3,
+          "username": "hachitori_kuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074851547415244860",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074522399140463010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachitori_kuri: both of them are depressed\n\nhowever, one of them has more resources and is able to properly identify &amp; lessen the impac…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074851547415244860",
+        "created_at": "2026-07-08T13:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074851547415244860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2294196414",
+              "start": 3,
+              "username": "hachitori_kuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074851547415244860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074522399140463010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachitori_kuri: both of them are depressed\n\nhowever, one of them has more resources and is able to properly identify &amp; lessen the impac…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2294196414",
+        "conversation_id": "2074522399140463010",
+        "created_at": "2026-07-07T15:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074522399140463010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/The_Eggroller/…",
+              "end": 308,
+              "expanded_url": "https://twitter.com/The_Eggroller/status/2074508746408255923",
+              "start": 285,
+              "url": "https://t.co/UqbL87VyLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074522399140463010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 171283,
+          "like_count": 13284,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 1321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074508746408255923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "both of them are depressed\n\nhowever, one of them has more resources and is able to properly identify &amp; lessen the impact on her\n\nthe other is stuck in a horrific miserly cycle, compounded by society's neglect of people of lower income suffering like her\n\nin this essay we'll expl— https://t.co/UqbL87VyLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 1556,
+          "like_count": 35645,
+          "listed_count": 8,
+          "media_count": 1228,
+          "tweet_count": 11465
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-16T10:01:43.000Z",
+        "description": "highly political himedanshi | pfp: Kinosaki Mei, MARRIAGETOXIN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckthisshi.net",
+                "end": 23,
+                "expanded_url": "http://fuckthisshi.net",
+                "start": 0,
+                "url": "https://t.co/KUzrYHLKmv"
+              }
+            ]
+          }
+        },
+        "id": "2294196414",
+        "location": "no idea where im goin",
+        "name": "Ka Viand 🇵🇸",
+        "pinned_tweet_id": "1910984099474641285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070439315264729088/zK0Lqcn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1950,
+          "like_count": 183528,
+          "listed_count": 10,
+          "media_count": 493,
+          "tweet_count": 83298
+        },
+        "url": "https://t.co/KUzrYHLKmv",
+        "username": "hachitori_kuri",
+        "verified": false
+      }
+    ]
+  }
+}

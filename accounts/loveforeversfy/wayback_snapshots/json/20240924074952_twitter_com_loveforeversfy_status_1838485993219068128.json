@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838485979193315330"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1838485993219068128",
+    "created_at": "2024-09-24T07:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T08:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838485993219068128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2yn8oqfsto",
+          "end": 33,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1838485993219068128/photo/1",
+          "media_key": "3_1838485979193315330",
+          "start": 10,
+          "url": "https://t.co/2yn8oqfStO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838485993219068128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为这个有含金量 https://t.co/2yn8oqfStO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1838485979193315330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYOdQeJakAIF3sp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838485979193315330"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838485993219068128",
+        "created_at": "2024-09-24T07:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T08:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838485993219068128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yn8oqfsto",
+              "end": 33,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1838485993219068128/photo/1",
+              "media_key": "3_1838485979193315330",
+              "start": 10,
+              "url": "https://t.co/2yn8oqfStO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838485993219068128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为这个有含金量 https://t.co/2yn8oqfStO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1577,
+          "like_count": 30767,
+          "listed_count": 7,
+          "tweet_count": 8602
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

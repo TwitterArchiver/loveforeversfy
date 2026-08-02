@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847279383800901633"
+      ],
+      "media_source_tweet_id": [
+        "1847279388884340921"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1847566306650050766",
+    "created_at": "2024-10-19T09:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T10:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847566306650050766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568986898076684289",
+          "start": 3,
+          "username": "nirakuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fc2orlFXxP",
+          "end": 37,
+          "expanded_url": "https://x.com/nirakuyo/status/1847279388884340921/photo/1",
+          "media_key": "3_1847279383800901633",
+          "start": 14,
+          "url": "https://t.co/Fc2orlFXxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847566306650050766",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847279388884340921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nirakuyo: https://t.co/Fc2orlFXxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1847279383800901633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaLaz_Ba8AEEnw_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847279383800901633"
+          ],
+          "media_source_tweet_id": [
+            "1847279388884340921"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1847566306650050766",
+        "created_at": "2024-10-19T09:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T10:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847566306650050766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568986898076684289",
+              "start": 3,
+              "username": "nirakuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fc2orlFXxP",
+              "end": 37,
+              "expanded_url": "https://x.com/nirakuyo/status/1847279388884340921/photo/1",
+              "media_key": "3_1847279383800901633",
+              "start": 14,
+              "url": "https://t.co/Fc2orlFXxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847566306650050766",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847279388884340921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nirakuyo: https://t.co/Fc2orlFXxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847279383800901633"
+          ]
+        },
+        "author_id": "1568986898076684289",
+        "conversation_id": "1847279388884340921",
+        "created_at": "2024-10-18T14:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847279388884340921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fc2orlFXxP",
+              "end": 23,
+              "expanded_url": "https://x.com/nirakuyo/status/1847279388884340921/photo/1",
+              "media_key": "3_1847279383800901633",
+              "start": 0,
+              "url": "https://t.co/Fc2orlFXxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847279388884340921",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1618,
+          "impression_count": 2066833,
+          "like_count": 56178,
+          "quote_count": 511,
+          "reply_count": 174,
+          "retweet_count": 8214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fc2orlFXxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1582,
+          "like_count": 31251,
+          "listed_count": 7,
+          "tweet_count": 8850
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T15:36:56.000Z",
+        "description": "男 で す ！ ←大事。発展途上の学生音ゲーマー。ガンガン絡んでくださぁぁぁい！！！／ゲキチュウマイ、Arcaea、Phigros、ユメステ、DDR、ボルテ、Rotaeno等／チュウニ🌈16.36 ゲキ🌈15.57 ユメステ🌈1010.71 DDR天王星++",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apps.apple.com/jp/app/id64471…",
+                "end": 23,
+                "expanded_url": "https://apps.apple.com/jp/app/id6447166623",
+                "start": 0,
+                "url": "https://t.co/6YeYJbtwap"
+              }
+            ]
+          }
+        },
+        "id": "1568986898076684289",
+        "location": "日本一ゲキチュウマイ置いてる店舗少ない県🍊",
+        "name": "🍀ゆかりん🍀 vs 受験",
+        "pinned_tweet_id": "1830076688941588671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774790347388063744/SEd16jLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1337,
+          "like_count": 70874,
+          "listed_count": 7,
+          "tweet_count": 21234
+        },
+        "url": "https://t.co/6YeYJbtwap",
+        "username": "nirakuyo",
+        "verified": false
+      }
+    ]
+  }
+}

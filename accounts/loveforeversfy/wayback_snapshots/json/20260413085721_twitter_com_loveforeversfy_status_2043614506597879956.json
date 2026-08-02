@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043614504114913280"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2043614506597879956",
+    "created_at": "2026-04-13T08:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043614506597879956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cvy2TJ5HOj",
+          "end": 34,
+          "expanded_url": "https://x.com/loveforeversfy/status/2043614506597879956/photo/1",
+          "media_key": "3_2043614504114913280",
+          "start": 11,
+          "url": "https://t.co/Cvy2TJ5HOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043614506597879956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还敢贩毒吗你们👿👿👿 https://t.co/Cvy2TJ5HOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043614504114913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxgkF-bAAA41N0.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043614504114913280"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2043614506597879956",
+        "created_at": "2026-04-13T08:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043614506597879956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvy2TJ5HOj",
+              "end": 34,
+              "expanded_url": "https://x.com/loveforeversfy/status/2043614506597879956/photo/1",
+              "media_key": "3_2043614504114913280",
+              "start": 11,
+              "url": "https://t.co/Cvy2TJ5HOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043614506597879956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还敢贩毒吗你们👿👿👿 https://t.co/Cvy2TJ5HOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1548,
+          "like_count": 34064,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 10819
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

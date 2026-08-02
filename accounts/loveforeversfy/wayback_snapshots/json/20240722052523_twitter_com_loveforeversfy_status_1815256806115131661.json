@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1814967557851611136"
+      ],
+      "media_source_tweet_id": [
+        "1814967588717551982"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1815256806115131661",
+    "created_at": "2024-07-22T05:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T06:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815256806115131661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2328837740",
+          "start": 3,
+          "username": "_pjm168xx_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/F8ZMwaZ3VB",
+          "end": 39,
+          "expanded_url": "https://twitter.com/_pjm168xx_/status/1814967588717551982/video/1",
+          "media_key": "7_1814967557851611136",
+          "start": 16,
+          "url": "https://t.co/F8ZMwaZ3VB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815256806115131661",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10744
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814967588717551982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_pjm168xx_: https://t.co/F8ZMwaZ3VB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19180,
+        "height": 1024,
+        "media_key": "7_1814967557851611136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1814967557851611136/pu/img/jbpSIiXlcqxxWQ-B.jpg",
+        "public_metrics": {
+          "view_count": 339112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814967557851611136/pu/vid/avc1/320x568/Ph-OyysTaDxW-r26.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814967557851611136/pu/vid/avc1/480x852/6dK9GE9NQ0Lt9IA8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814967557851611136/pu/vid/avc1/576x1024/ikT1eprzgDxLjzOL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1814967557851611136/pu/pl/-99jzGww99uOomOl.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814967557851611136"
+          ],
+          "media_source_tweet_id": [
+            "1814967588717551982"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815256806115131661",
+        "created_at": "2024-07-22T05:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T06:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815256806115131661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2328837740",
+              "start": 3,
+              "username": "_pjm168xx_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/F8ZMwaZ3VB",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_pjm168xx_/status/1814967588717551982/video/1",
+              "media_key": "7_1814967557851611136",
+              "start": 16,
+              "url": "https://t.co/F8ZMwaZ3VB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815256806115131661",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10744
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814967588717551982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_pjm168xx_: https://t.co/F8ZMwaZ3VB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814967557851611136"
+          ]
+        },
+        "author_id": "2328837740",
+        "conversation_id": "1814967588717551982",
+        "created_at": "2024-07-21T10:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T11:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814967588717551982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/F8ZMwaZ3VB",
+              "end": 23,
+              "expanded_url": "https://twitter.com/_pjm168xx_/status/1814967588717551982/video/1",
+              "media_key": "7_1814967557851611136",
+              "start": 0,
+              "url": "https://t.co/F8ZMwaZ3VB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814967588717551982",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3051,
+          "impression_count": 631572,
+          "like_count": 28701,
+          "quote_count": 722,
+          "reply_count": 71,
+          "retweet_count": 10744
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F8ZMwaZ3VB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1572,
+          "like_count": 28830,
+          "listed_count": 8,
+          "tweet_count": 8089
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-05T14:03:23.000Z",
+        "description": "นักวิจัยความสัมพันธ์ระหว่างตัวการ์ตูน",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/3CdIx…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/3CdIxJXeV1N9DfsvB9PL0g?si=Rngri5M9T4agcaSEPhR8cA&dl_branch=1",
+                "start": 0,
+                "url": "https://t.co/20PcguwFRL"
+              }
+            ]
+          }
+        },
+        "id": "2328837740",
+        "location": "Rak P’ Kageyama jon tai hong",
+        "name": "จีเมย์จัง",
+        "pinned_tweet_id": "1738033828797808872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799068545147674624/UIlFQp9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43650,
+          "following_count": 167,
+          "like_count": 20989,
+          "listed_count": 44,
+          "tweet_count": 164929
+        },
+        "url": "https://t.co/20PcguwFRL",
+        "username": "_pjm168xx_",
+        "verified": false
+      }
+    ]
+  }
+}

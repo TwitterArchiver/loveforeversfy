@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2082244994245804300",
+    "created_at": "2026-07-28T23:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082244994245804300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loveforeversfy…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/2074320763830845923",
+          "start": 6,
+          "url": "https://t.co/ENW60f6YTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082244994245804300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074320763830845923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已被青蒜😭 https://t.co/ENW60f6YTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2074320760794140672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl3veFaUAApcMZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2082244994245804300",
+        "created_at": "2026-07-28T23:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082244994245804300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2074320763830845923",
+              "start": 6,
+              "url": "https://t.co/ENW60f6YTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082244994245804300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074320763830845923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已被青蒜😭 https://t.co/ENW60f6YTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074320760794140672"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074320763830845923",
+        "created_at": "2026-07-07T02:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074320763830845923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blNIX3KGUH",
+              "end": 32,
+              "expanded_url": "https://x.com/loveforeversfy/status/2074320763830845923/photo/1",
+              "media_key": "3_2074320760794140672",
+              "start": 9,
+              "url": "https://t.co/blNIX3KGUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320763830845923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15481,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位祖宗我的天哪 https://t.co/blNIX3KGUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 1554,
+          "like_count": 35816,
+          "listed_count": 10,
+          "media_count": 1250,
+          "tweet_count": 11590
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

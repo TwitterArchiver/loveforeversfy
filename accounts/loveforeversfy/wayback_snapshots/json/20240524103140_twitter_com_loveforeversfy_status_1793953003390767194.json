@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1793501527107371008"
+      ],
+      "media_source_tweet_id": [
+        "1793501540478820769"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1793953003390767194",
+    "created_at": "2024-05-24T10:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T11:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793953003390767194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1552090312964640768",
+          "start": 3,
+          "username": "two_last_kiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SxK45oDAld",
+          "end": 53,
+          "expanded_url": "https://twitter.com/two_last_kiss/status/1793501540478820769/video/1",
+          "media_key": "7_1793501527107371008",
+          "start": 30,
+          "url": "https://t.co/SxK45oDAld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793953003390767194",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793501540478820769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @two_last_kiss: 经典回顾之武士道精神 https://t.co/SxK45oDAld"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13290,
+        "height": 236,
+        "media_key": "7_1793501527107371008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1793501527107371008/pu/img/NnGzxTAeHWHOU56L.jpg",
+        "public_metrics": {
+          "view_count": 5058
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1793501527107371008/pu/vid/avc1/480x236/ioS2FD5tGN_eGZ5Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1793501527107371008/pu/pl/INuOoDzTjM8FU0S6.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1793501527107371008"
+          ],
+          "media_source_tweet_id": [
+            "1793501540478820769"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1793953003390767194",
+        "created_at": "2024-05-24T10:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T11:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793953003390767194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552090312964640768",
+              "start": 3,
+              "username": "two_last_kiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SxK45oDAld",
+              "end": 53,
+              "expanded_url": "https://twitter.com/two_last_kiss/status/1793501540478820769/video/1",
+              "media_key": "7_1793501527107371008",
+              "start": 30,
+              "url": "https://t.co/SxK45oDAld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793953003390767194",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793501540478820769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @two_last_kiss: 经典回顾之武士道精神 https://t.co/SxK45oDAld"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1793501527107371008"
+          ]
+        },
+        "author_id": "1552090312964640768",
+        "conversation_id": "1793501540478820769",
+        "created_at": "2024-05-23T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793501540478820769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SxK45oDAld",
+              "end": 34,
+              "expanded_url": "https://twitter.com/two_last_kiss/status/1793501540478820769/video/1",
+              "media_key": "7_1793501527107371008",
+              "start": 11,
+              "url": "https://t.co/SxK45oDAld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793501540478820769",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 15765,
+          "like_count": 301,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之武士道精神 https://t.co/SxK45oDAld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1566,
+          "like_count": 27367,
+          "listed_count": 8,
+          "tweet_count": 7251
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T00:35:59.000Z",
+        "description": "成分:東方眾/VOCALOID/二次元/淫夢民/クッキー/例のアレ/音mad\n老公: @dongxuelianhaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "dongxuelianhaha"
+              }
+            ]
+          }
+        },
+        "id": "1552090312964640768",
+        "location": "London, England",
+        "name": "一切都是破石头门的选择！（不爱国的请划走）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722480561032478720/EG5jtZSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1355,
+          "like_count": 42046,
+          "listed_count": 8,
+          "tweet_count": 6422
+        },
+        "username": "two_last_kiss",
+        "verified": false
+      }
+    ]
+  }
+}

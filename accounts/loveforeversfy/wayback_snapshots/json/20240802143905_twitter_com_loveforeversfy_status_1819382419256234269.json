@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1819382419256234269",
+    "created_at": "2024-08-02T14:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T15:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819382419256234269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yjX1637538/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523",
+          "start": 5,
+          "url": "https://t.co/nwE7hYJupL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819382419256234269",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818956675463737523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疯狂输出 https://t.co/nwE7hYJupL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1819382419256234269",
+        "created_at": "2024-08-02T14:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T15:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819382419256234269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yjX1637538/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523",
+              "start": 5,
+              "url": "https://t.co/nwE7hYJupL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819382419256234269",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818956675463737523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疯狂输出 https://t.co/nwE7hYJupL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818956623748194304",
+            "3_1818956637488717824",
+            "3_1818956649773625344",
+            "3_1818956662570618880"
+          ]
+        },
+        "author_id": "1692055372318773250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1818956675463737523",
+        "created_at": "2024-08-01T10:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T11:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818956675463737523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Uz0TgcAhIs",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523/photo/1",
+              "media_key": "3_1818956623748194304",
+              "start": 20,
+              "url": "https://t.co/Uz0TgcAhIs"
+            },
+            {
+              "display_url": "pic.twitter.com/Uz0TgcAhIs",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523/photo/1",
+              "media_key": "3_1818956637488717824",
+              "start": 20,
+              "url": "https://t.co/Uz0TgcAhIs"
+            },
+            {
+              "display_url": "pic.twitter.com/Uz0TgcAhIs",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523/photo/1",
+              "media_key": "3_1818956649773625344",
+              "start": 20,
+              "url": "https://t.co/Uz0TgcAhIs"
+            },
+            {
+              "display_url": "pic.twitter.com/Uz0TgcAhIs",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yjX1637538/status/1818956675463737523/photo/1",
+              "media_key": "3_1818956662570618880",
+              "start": 20,
+              "url": "https://t.co/Uz0TgcAhIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818956675463737523",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 139665,
+          "like_count": 658,
+          "quote_count": 22,
+          "reply_count": 71,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "QQ群友在群里玩AI把AI艹死了😳😳😳 https://t.co/Uz0TgcAhIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1569,
+          "like_count": 29338,
+          "listed_count": 8,
+          "tweet_count": 8223
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:07:14.000Z",
+        "description": "人生本来很多事就是徒劳无功的啊。",
+        "id": "1692055372318773250",
+        "location": "距离0.1公里",
+        "name": "0721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809742970708717568/v1Ll2bzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 217,
+          "like_count": 21146,
+          "listed_count": 0,
+          "tweet_count": 1345
+        },
+        "username": "yjX1637538",
+        "verified": false
+      }
+    ]
+  }
+}

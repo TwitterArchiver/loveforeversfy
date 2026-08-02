@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1891879710331695355",
+    "created_at": "2025-02-18T17:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T18:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891896470015529462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1558662653668601856",
+          "start": 0,
+          "username": "0CYAN929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891896470015529462",
+    "in_reply_to_user_id": "1558662653668601856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891879710331695355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0CYAN929 飞升。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1891879710331695355",
+        "created_at": "2025-02-18T17:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T18:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891896470015529462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1558662653668601856",
+              "start": 0,
+              "username": "0CYAN929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891896470015529462",
+        "in_reply_to_user_id": "1558662653668601856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891879710331695355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0CYAN929 飞升。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891879409440710656",
+            "3_1891879409436561409",
+            "3_1891879409432268800",
+            "3_1891879409419681792"
+          ]
+        },
+        "author_id": "1558662653668601856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891879710331695355",
+        "created_at": "2025-02-18T15:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891879710331695355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmJTiNYUUY",
+              "end": 23,
+              "expanded_url": "https://x.com/0CYAN929/status/1891879710331695355/photo/1",
+              "media_key": "3_1891879409440710656",
+              "start": 0,
+              "url": "https://t.co/dmJTiNYUUY"
+            },
+            {
+              "display_url": "pic.x.com/dmJTiNYUUY",
+              "end": 23,
+              "expanded_url": "https://x.com/0CYAN929/status/1891879710331695355/photo/1",
+              "media_key": "3_1891879409436561409",
+              "start": 0,
+              "url": "https://t.co/dmJTiNYUUY"
+            },
+            {
+              "display_url": "pic.x.com/dmJTiNYUUY",
+              "end": 23,
+              "expanded_url": "https://x.com/0CYAN929/status/1891879710331695355/photo/1",
+              "media_key": "3_1891879409432268800",
+              "start": 0,
+              "url": "https://t.co/dmJTiNYUUY"
+            },
+            {
+              "display_url": "pic.x.com/dmJTiNYUUY",
+              "end": 23,
+              "expanded_url": "https://x.com/0CYAN929/status/1891879710331695355/photo/1",
+              "media_key": "3_1891879409419681792",
+              "start": 0,
+              "url": "https://t.co/dmJTiNYUUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891879710331695355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dmJTiNYUUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1567,
+          "like_count": 33084,
+          "listed_count": 10,
+          "media_count": 974,
+          "tweet_count": 9749
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T03:52:06.000Z",
+        "description": "全网最尊重对立的账号 小号@0SAKA929",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "0SAKA929"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/86230532",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/86230532",
+                "start": 0,
+                "url": "https://t.co/OhsEYLmgSa"
+              }
+            ]
+          }
+        },
+        "id": "1558662653668601856",
+        "location": "我画画像角色黑但是我画成这样我也很无奈 别骂我求你了我先投降",
+        "name": "猫对立梦幻之角",
+        "pinned_tweet_id": "1875625397511127460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686616491695738880/58SkbFY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 590,
+          "like_count": 5705,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/OhsEYLmgSa",
+        "username": "0CYAN929",
+        "verified": false
+      }
+    ]
+  }
+}

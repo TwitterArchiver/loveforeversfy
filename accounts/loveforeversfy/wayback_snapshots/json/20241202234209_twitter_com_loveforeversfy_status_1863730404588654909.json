@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863730400750956544"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1863730404588654909",
+    "created_at": "2024-12-02T23:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T00:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863730404588654909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2PUDVnVucC",
+          "end": 36,
+          "expanded_url": "https://x.com/loveforeversfy/status/1863730404588654909/photo/1",
+          "media_key": "3_1863730400750956544",
+          "start": 13,
+          "url": "https://t.co/2PUDVnVucC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863730404588654909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血图  重操旧业了属于是 https://t.co/2PUDVnVucC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863730404588654909].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863730404588654909",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863730404588654909"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1863730400750956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd1M7M3bcAA3s4b.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1589,
+          "like_count": 32554,
+          "listed_count": 7,
+          "media_count": 934,
+          "tweet_count": 9505
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

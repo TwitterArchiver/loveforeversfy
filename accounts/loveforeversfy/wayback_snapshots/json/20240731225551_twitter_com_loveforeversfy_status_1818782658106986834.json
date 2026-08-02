@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818675792978522112"
+      ],
+      "media_source_tweet_id": [
+        "1818676139985932340"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1818782658106986834",
+    "created_at": "2024-07-31T22:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T23:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818782658106986834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515857228280086533",
+          "start": 3,
+          "username": "acervomadoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/WuMthJxYbL",
+          "end": 41,
+          "expanded_url": "https://twitter.com/acervomadoka/status/1818676139985932340/photo/1",
+          "media_key": "3_1818675792978522112",
+          "start": 18,
+          "url": "https://t.co/WuMthJxYbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818782658106986834",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4671
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818676139985932340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acervomadoka: https://t.co/WuMthJxYbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_1818675792978522112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT07_3oWMAAWIQO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818675792978522112"
+          ],
+          "media_source_tweet_id": [
+            "1818676139985932340"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1818782658106986834",
+        "created_at": "2024-07-31T22:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T23:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818782658106986834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515857228280086533",
+              "start": 3,
+              "username": "acervomadoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WuMthJxYbL",
+              "end": 41,
+              "expanded_url": "https://twitter.com/acervomadoka/status/1818676139985932340/photo/1",
+              "media_key": "3_1818675792978522112",
+              "start": 18,
+              "url": "https://t.co/WuMthJxYbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818782658106986834",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4671
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818676139985932340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acervomadoka: https://t.co/WuMthJxYbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818675792978522112"
+          ]
+        },
+        "author_id": "1515857228280086533",
+        "conversation_id": "1818676139985932340",
+        "created_at": "2024-07-31T15:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T16:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818676139985932340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WuMthJxYbL",
+              "end": 23,
+              "expanded_url": "https://twitter.com/acervomadoka/status/1818676139985932340/photo/1",
+              "media_key": "3_1818675792978522112",
+              "start": 0,
+              "url": "https://t.co/WuMthJxYbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818676139985932340",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1713,
+          "impression_count": 511669,
+          "like_count": 28882,
+          "quote_count": 236,
+          "reply_count": 223,
+          "retweet_count": 4671
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WuMthJxYbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1569,
+          "like_count": 29319,
+          "listed_count": 8,
+          "tweet_count": 8213
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T00:59:07.000Z",
+        "description": "ACERVO DEDICADO A MADOKA MAGIA E PUELLA MAGI EM GERAL",
+        "id": "1515857228280086533",
+        "location": "Mitakihara",
+        "name": "acervo Madoka Magica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797617354748067840/WY_Wq0QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 27,
+          "like_count": 702,
+          "listed_count": 0,
+          "tweet_count": 682
+        },
+        "username": "acervomadoka",
+        "verified": false
+      }
+    ]
+  }
+}

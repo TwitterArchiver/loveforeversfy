@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1804414010286313493",
+    "created_at": "2024-06-22T11:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T12:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804471995997762040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804471995997762040",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804453552389345754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI 菜的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1804414010286313493",
+        "created_at": "2024-06-22T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804471995997762040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804471995997762040",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804453552389345754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI 菜的🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "1804414010286313493",
+        "created_at": "2024-06-22T09:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T10:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804453552389345754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "大神",
+              "probability": 0.5973,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804453552389345754",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804414010286313493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 大神带我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1575,
+          "like_count": 27958,
+          "listed_count": 8,
+          "tweet_count": 7589
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "😶‍🌫️😶‍🌫️😶‍🌫️",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "阿卡林（赤座灯里）",
+        "pinned_tweet_id": "1801740343278453164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804452659975626752/uX72fROl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 101,
+          "like_count": 3328,
+          "listed_count": 3,
+          "tweet_count": 10016
+        },
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

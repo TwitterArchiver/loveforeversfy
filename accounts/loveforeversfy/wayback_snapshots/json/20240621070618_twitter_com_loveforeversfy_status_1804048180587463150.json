@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1804048180587463150",
+    "created_at": "2024-06-21T07:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T08:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804048180587463150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1652805094008659970",
+          "start": 3,
+          "username": "bydyouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804048180587463150",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803817402401960306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bydyouyu: 【公告】\n大家好，\n因音乐组合ツユ的成员ぷす近日引起事件所带来的负面社会影响，经过研究讨论，我决定出勤打一把舞萌\n对各位舞萌吃造成的不便，我十分高兴\n\n2024.6.20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1804048180587463150",
+        "created_at": "2024-06-21T07:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T08:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804048180587463150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1652805094008659970",
+              "start": 3,
+              "username": "bydyouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804048180587463150",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803817402401960306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bydyouyu: 【公告】\n大家好，\n因音乐组合ツユ的成员ぷす近日引起事件所带来的负面社会影响，经过研究讨论，我决定出勤打一把舞萌\n对各位舞萌吃造成的不便，我十分高兴\n\n2024.6.20"
+      },
+      {
+        "attachments": {},
+        "author_id": "1652805094008659970",
+        "conversation_id": "1803817402401960306",
+        "created_at": "2024-06-20T15:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803817402401960306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803817402401960306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【公告】\n大家好，\n因音乐组合ツユ的成员ぷす近日引起事件所带来的负面社会影响，经过研究讨论，我决定出勤打一把舞萌\n对各位舞萌吃造成的不便，我十分高兴\n\n2024.6.20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1572,
+          "like_count": 27855,
+          "listed_count": 8,
+          "tweet_count": 7548
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T22:40:25.000Z",
+        "description": "臭打音游的，不混圈(主玩mai，ongeki，pjsk，chunithm) 基本无雷  啥都发点，个人观点居多，不建政  极度社恐  欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/lJ0hE8E2LW"
+              }
+            ]
+          }
+        },
+        "id": "1652805094008659970",
+        "location": "床上",
+        "name": "youyu",
+        "pinned_tweet_id": "1778342800322593097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781894082513780736/QTRRF8dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 121,
+          "like_count": 4304,
+          "listed_count": 0,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/lJ0hE8E2LW",
+        "username": "bydyouyu",
+        "verified": false
+      }
+    ]
+  }
+}

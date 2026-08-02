@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1815988736368468415"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1816339313300496687",
+    "created_at": "2024-07-25T05:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T06:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816339313300496687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1764215347673255937",
+          "start": 3,
+          "username": "ShameimaruTengu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KjZAwzkmkG",
+          "end": 44,
+          "expanded_url": "https://twitter.com/ShameimaruTengu/status/1815988736368468415/video/1",
+          "media_key": "7_1815988682962395138",
+          "start": 21,
+          "url": "https://t.co/KjZAwzkmkG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816339313300496687",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815988736368468415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShameimaruTengu: https://t.co/KjZAwzkmkG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1815988736368468415"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1816339313300496687",
+        "created_at": "2024-07-25T05:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T06:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816339313300496687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1764215347673255937",
+              "start": 3,
+              "username": "ShameimaruTengu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KjZAwzkmkG",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ShameimaruTengu/status/1815988736368468415/video/1",
+              "media_key": "7_1815988682962395138",
+              "start": 21,
+              "url": "https://t.co/KjZAwzkmkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816339313300496687",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815988736368468415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShameimaruTengu: https://t.co/KjZAwzkmkG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1815988682962395138"
+          ]
+        },
+        "author_id": "1764215347673255937",
+        "conversation_id": "1815988736368468415",
+        "created_at": "2024-07-24T05:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T06:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815988736368468415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KjZAwzkmkG",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ShameimaruTengu/status/1815988736368468415/video/1",
+              "media_key": "7_1815988682962395138",
+              "start": 0,
+              "url": "https://t.co/KjZAwzkmkG"
+            },
+            {
+              "display_url": "x.com/3letter_/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/3letter_/status/1815902645015531962",
+              "start": 24,
+              "url": "https://t.co/vDXC81DjUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815988736368468415",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2203,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815902645015531962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KjZAwzkmkG https://t.co/vDXC81DjUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1574,
+          "like_count": 28994,
+          "listed_count": 8,
+          "tweet_count": 8138
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T09:05:08.000Z",
+        "description": "Real life Zera from Litchi Hikari Club btw!! | Seme to my uke Jaibo | Realest Touhou and LHC fan ever | #ProudMalaysian | Straight people DNI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 104,
+                "tag": "ProudMalaysian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yixisarmpitsni…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yixisarmpitsniffer",
+                "start": 0,
+                "url": "https://t.co/EjMwuGFA7D"
+              }
+            ]
+          }
+        },
+        "id": "1764215347673255937",
+        "location": "Pro-fic but antis can follow",
+        "name": "Zera ★ Roblox Nugget",
+        "pinned_tweet_id": "1814859745293181292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813591207177822208/SKzr1l9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 410,
+          "like_count": 38560,
+          "listed_count": 0,
+          "tweet_count": 17365
+        },
+        "url": "https://t.co/EjMwuGFA7D",
+        "username": "ShameimaruTengu",
+        "verified": false
+      }
+    ]
+  }
+}

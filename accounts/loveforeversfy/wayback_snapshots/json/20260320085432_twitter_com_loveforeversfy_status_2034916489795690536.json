@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2034889239742357658",
+    "created_at": "2026-03-20T08:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034916489795690536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034916489795690536",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034901051091165305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI 多打（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2034889239742357658",
+        "created_at": "2026-03-20T08:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034916489795690536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034916489795690536",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034901051091165305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI 多打（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "2034889239742357658",
+        "created_at": "2026-03-20T07:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034901051091165305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034901051091165305",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034889239742357658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy ？？强强？？\n我一辈子W4😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 1545,
+          "like_count": 33475,
+          "listed_count": 8,
+          "media_count": 1116,
+          "tweet_count": 10624
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "对我来说，无痛死去才是最好的祝福。",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "病弱の牢爻（三代目）",
+        "pinned_tweet_id": "1839307765539549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999487455284854792/vyCVBcTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 161,
+          "like_count": 17984,
+          "listed_count": 3,
+          "media_count": 747,
+          "tweet_count": 12166
+        },
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2061077725641867470",
+    "created_at": "2026-05-31T13:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061077725641867470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643480388663386112",
+          "start": 3,
+          "username": "ori_nmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061077725641867470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 856
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060350737935409538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ori_nmk: タバコはガチで吸った方がいい\n\nストレス発散できてかつ寿命縮めれる\nとかこれ以上幸せなことはない\n\n人生100年時代とかアホかて\n\n90歳、100歳でまだ心臓動いてる\nとか生き地獄でしかない\n\n寿命縮めて、早々にこの世から\n去った方が幸福度は高くなる…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060350730532450304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfWEr4acAAr-U4.jpg",
+        "width": 2034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2061077725641867470",
+        "created_at": "2026-05-31T13:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061077725641867470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643480388663386112",
+              "start": 3,
+              "username": "ori_nmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077725641867470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 856
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060350737935409538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ori_nmk: タバコはガチで吸った方がいい\n\nストレス発散できてかつ寿命縮めれる\nとかこれ以上幸せなことはない\n\n人生100年時代とかアホかて\n\n90歳、100歳でまだ心臓動いてる\nとか生き地獄でしかない\n\n寿命縮めて、早々にこの世から\n去った方が幸福度は高くなる…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060350730532450304"
+          ]
+        },
+        "author_id": "1643480388663386112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-05-29T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060350737935409538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYc2643rlh",
+              "end": 174,
+              "expanded_url": "https://x.com/ori_nmk/status/2060350737935409538/photo/1",
+              "media_key": "3_2060350730532450304",
+              "start": 151,
+              "url": "https://t.co/PYc2643rlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060350737935409538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 545356,
+          "like_count": 6315,
+          "quote_count": 378,
+          "reply_count": 183,
+          "retweet_count": 856
+        },
+        "reply_settings": "everyone",
+        "text": "タバコはガチで吸った方がいい\n\nストレス発散できてかつ寿命縮めれる\nとかこれ以上幸せなことはない\n\n人生100年時代とかアホかて\n\n90歳、100歳でまだ心臓動いてる\nとか生き地獄でしかない\n\n寿命縮めて、早々にこの世から\n去った方が幸福度は高くなる\n\n短期的快楽を犠牲に\nして健康をとるなど愚の骨頂 https://t.co/PYc2643rlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1557,
+          "like_count": 35106,
+          "listed_count": 8,
+          "media_count": 1188,
+          "tweet_count": 11236
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:07:24.000Z",
+        "description": "サイコパス思想",
+        "id": "1643480388663386112",
+        "name": "ケッキング山田",
+        "pinned_tweet_id": "2060632387399397753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992773066766880769/5npSnLqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250,
+          "following_count": 444,
+          "like_count": 26305,
+          "listed_count": 28,
+          "media_count": 1435,
+          "tweet_count": 15330
+        },
+        "username": "ori_nmk",
+        "verified": true
+      }
+    ]
+  }
+}

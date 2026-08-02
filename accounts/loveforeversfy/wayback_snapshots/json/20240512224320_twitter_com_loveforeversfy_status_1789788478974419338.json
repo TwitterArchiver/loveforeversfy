@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1789788478974419338",
+    "created_at": "2024-05-12T22:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T23:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789788478974419338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383473182854684674",
+          "start": 3,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789788478974419338",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789719488935375139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanwangnan: 十四为什么是一个正常人？ \n因为ta觉得原推列举的五条全都狗屁不通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1789788478974419338",
+        "created_at": "2024-05-12T22:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T23:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789788478974419338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383473182854684674",
+              "start": 3,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789788478974419338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789719488935375139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanwangnan: 十四为什么是一个正常人？ \n因为ta觉得原推列举的五条全都狗屁不通"
+      },
+      {
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "1789719488935375139",
+        "created_at": "2024-05-12T18:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T19:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789719488935375139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KURANAGA3/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/KURANAGA3/status/1788935632250630253",
+              "start": 34,
+              "url": "https://t.co/NGyoal1bZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789719488935375139",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 295,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788935632250630253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十四为什么是一个正常人？ \n因为ta觉得原推列举的五条全都狗屁不通 https://t.co/NGyoal1bZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "鱼鱼菇🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1567,
+          "like_count": 26587,
+          "listed_count": 8,
+          "tweet_count": 7018
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "只是一般顺男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1877484597",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1877484597",
+                "start": 0,
+                "url": "https://t.co/x0ZUl8lt1S"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 92,
+          "like_count": 32315,
+          "listed_count": 12,
+          "tweet_count": 17670
+        },
+        "url": "https://t.co/x0ZUl8lt1S",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

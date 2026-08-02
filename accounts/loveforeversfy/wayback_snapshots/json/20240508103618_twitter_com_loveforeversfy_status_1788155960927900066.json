@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1788132596452610462",
+    "created_at": "2024-05-08T10:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T11:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788155960927900066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587260925039771648",
+          "start": 0,
+          "username": "Chloelikemaimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788155960927900066",
+    "in_reply_to_user_id": "1587260925039771648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788132596452610462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloelikemaimai 这么会打红谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1788132596452610462",
+        "created_at": "2024-05-08T10:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T11:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788155960927900066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587260925039771648",
+              "start": 0,
+              "username": "Chloelikemaimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788155960927900066",
+        "in_reply_to_user_id": "1587260925039771648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788132596452610462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloelikemaimai 这么会打红谱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788132592308678656"
+          ]
+        },
+        "author_id": "1587260925039771648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1788132596452610462",
+        "created_at": "2024-05-08T09:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T10:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788132596452610462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CgfoCGnVlt",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Chloelikemaimai/status/1788132596452610462/photo/1",
+              "media_key": "3_1788132592308678656",
+              "start": 18,
+              "url": "https://t.co/CgfoCGnVlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788132596452610462",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候B50上面的红能变紫😢😢😢 https://t.co/CgfoCGnVlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "鱼鱼菇🐟🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1559,
+          "like_count": 26318,
+          "listed_count": 8,
+          "tweet_count": 6895
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T01:51:18.000Z",
+        "description": "你好，再见。",
+        "id": "1587260925039771648",
+        "location": "Paradise",
+        "name": "Chloe",
+        "pinned_tweet_id": "1775361129482784847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775093868171780096/oA319UFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 251,
+          "like_count": 8703,
+          "listed_count": 0,
+          "tweet_count": 2228
+        },
+        "username": "Chloelikemaimai",
+        "verified": false
+      }
+    ]
+  }
+}

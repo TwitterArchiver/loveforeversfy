@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2071492519284928665",
+    "created_at": "2026-06-29T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071492519284928665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/forallcurious/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/forallcurious/status/2071292676088254595",
+          "start": 2,
+          "url": "https://t.co/de4HZAJcMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071492519284928665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071292676088254595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "菇 https://t.co/de4HZAJcMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2071291305783951360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL60d-ubgAAuYoE.png",
+        "width": 900
+      },
+      {
+        "height": 1313,
+        "media_key": "3_2071291760857542656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL604eAbcAA4xwt.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2071492519284928665",
+        "created_at": "2026-06-29T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071492519284928665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forallcurious/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/forallcurious/status/2071292676088254595",
+              "start": 2,
+              "url": "https://t.co/de4HZAJcMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071492519284928665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071292676088254595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菇 https://t.co/de4HZAJcMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071291305783951360",
+            "3_2071291760857542656"
+          ]
+        },
+        "author_id": "2327098700",
+        "conversation_id": "2071292676088254595",
+        "created_at": "2026-06-28T18:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071292676088254595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uiu08xCLGl",
+              "end": 130,
+              "expanded_url": "https://x.com/forallcurious/status/2071292676088254595/photo/1",
+              "media_key": "3_2071291305783951360",
+              "start": 107,
+              "url": "https://t.co/Uiu08xCLGl"
+            },
+            {
+              "display_url": "pic.x.com/Uiu08xCLGl",
+              "end": 130,
+              "expanded_url": "https://x.com/forallcurious/status/2071292676088254595/photo/1",
+              "media_key": "3_2071291760857542656",
+              "start": 107,
+              "url": "https://t.co/Uiu08xCLGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071292676088254595",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3030,
+          "impression_count": 1095260,
+          "like_count": 10618,
+          "quote_count": 225,
+          "reply_count": 276,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "JUST IN🚨: New mycologist theory says you're a mushroom having human experience — and it kind of make sense https://t.co/Uiu08xCLGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1555,
+          "like_count": 35450,
+          "listed_count": 8,
+          "media_count": 1219,
+          "tweet_count": 11403
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-04T13:13:34.000Z",
+        "description": "Astronomy Vibes 🌌",
+        "id": "2327098700",
+        "location": "Mars",
+        "name": "All day Astronomy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890108715056910337/AmpRFtXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457266,
+          "following_count": 1,
+          "like_count": 7550,
+          "listed_count": 1434,
+          "media_count": 8165,
+          "tweet_count": 13753
+        },
+        "url": "",
+        "username": "forallcurious",
+        "verified": true
+      }
+    ]
+  }
+}

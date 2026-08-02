@@ -1,0 +1,305 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801107448562118657"
+      ],
+      "media_source_tweet_id": [
+        "1801107461916787035"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1801254757744717914",
+    "created_at": "2024-06-13T14:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801254757744717914"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "中国",
+          "probability": 0.5226,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2863705844",
+          "start": 3,
+          "username": "HelitiaCitrus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rNMMBdyxYl",
+          "end": 60,
+          "expanded_url": "https://twitter.com/HelitiaCitrus/status/1801107461916787035/photo/1",
+          "media_key": "3_1801107448562118657",
+          "start": 37,
+          "url": "https://t.co/rNMMBdyxYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801254757744717914",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801107461916787035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HelitiaCitrus: 中国版maimai、2000台突破 https://t.co/rNMMBdyxYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1801107448562118657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP7Rrona8AEWWpc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801107448562118657"
+          ],
+          "media_source_tweet_id": [
+            "1801107461916787035"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801254757744717914",
+        "created_at": "2024-06-13T14:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801254757744717914"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "中国",
+              "probability": 0.5226,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2863705844",
+              "start": 3,
+              "username": "HelitiaCitrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rNMMBdyxYl",
+              "end": 60,
+              "expanded_url": "https://twitter.com/HelitiaCitrus/status/1801107461916787035/photo/1",
+              "media_key": "3_1801107448562118657",
+              "start": 37,
+              "url": "https://t.co/rNMMBdyxYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801254757744717914",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801107461916787035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HelitiaCitrus: 中国版maimai、2000台突破 https://t.co/rNMMBdyxYl"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801107448562118657"
+          ]
+        },
+        "author_id": "2863705844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801107461916787035",
+        "created_at": "2024-06-13T04:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T05:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801107461916787035"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.5458,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rNMMBdyxYl",
+              "end": 41,
+              "expanded_url": "https://twitter.com/HelitiaCitrus/status/1801107461916787035/photo/1",
+              "media_key": "3_1801107448562118657",
+              "start": 18,
+              "url": "https://t.co/rNMMBdyxYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801107461916787035",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中国版maimai、2000台突破 https://t.co/rNMMBdyxYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1565,
+          "like_count": 27627,
+          "listed_count": 8,
+          "tweet_count": 7468
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-19T00:09:57.000Z",
+        "description": "広州住んでいる. ただの音ゲープレイヤー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Yakiniku.Helitia.com",
+                "end": 23,
+                "expanded_url": "http://Yakiniku.Helitia.com",
+                "start": 0,
+                "url": "https://t.co/tljCwkpzK3"
+              }
+            ]
+          }
+        },
+        "id": "2863705844",
+        "location": "Hoshizora",
+        "name": "ヘリティア",
+        "pinned_tweet_id": "1801243812628779378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677413860985430016/6Q7r0rxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 557,
+          "like_count": 1392,
+          "listed_count": 1,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/tljCwkpzK3",
+        "username": "HelitiaCitrus",
+        "verified": false
+      }
+    ]
+  }
+}

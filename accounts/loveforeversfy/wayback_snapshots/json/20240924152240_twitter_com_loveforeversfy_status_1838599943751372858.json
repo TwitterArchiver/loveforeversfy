@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1838327291517993400"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1838599943751372858",
+    "created_at": "2024-09-24T15:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T16:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838599943751372858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621721783077584896",
+          "start": 3,
+          "username": "Phoque_Yu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/26bvi7ywtu",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Phoque_Yu/status/1838327291517993400/video/1",
+          "media_key": "7_1838327265819492352",
+          "start": 42,
+          "url": "https://t.co/26bVI7YWtU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838599943751372858",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838327291517993400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoque_Yu: he’s the only one left now https://t.co/26bVI7YWtU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1838327291517993400"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1838599943751372858",
+        "created_at": "2024-09-24T15:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T16:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838599943751372858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621721783077584896",
+              "start": 3,
+              "username": "Phoque_Yu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/26bvi7ywtu",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Phoque_Yu/status/1838327291517993400/video/1",
+              "media_key": "7_1838327265819492352",
+              "start": 42,
+              "url": "https://t.co/26bVI7YWtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838599943751372858",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838327291517993400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoque_Yu: he’s the only one left now https://t.co/26bVI7YWtU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838327265819492352"
+          ]
+        },
+        "author_id": "1621721783077584896",
+        "conversation_id": "1838327291517993400",
+        "created_at": "2024-09-23T21:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T22:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838327291517993400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26bvi7ywtu",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Phoque_Yu/status/1838327291517993400/video/1",
+              "media_key": "7_1838327265819492352",
+              "start": 27,
+              "url": "https://t.co/26bVI7YWtU"
+            },
+            {
+              "display_url": "x.com/phoque_yu/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/phoque_yu/status/1837357257564246367",
+              "start": 51,
+              "url": "https://t.co/aMZTRCvJji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838327291517993400",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 37977,
+          "like_count": 2708,
+          "quote_count": 29,
+          "reply_count": 17,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837357257564246367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "he’s the only one left now https://t.co/26bVI7YWtU https://t.co/aMZTRCvJji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1577,
+          "like_count": 30782,
+          "listed_count": 7,
+          "tweet_count": 8603
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T04:06:27.000Z",
+        "description": "twenty+1 ello, I just like to type what’s in my mind.  Heavy rtw on Omori content. along with other stuff I like",
+        "id": "1621721783077584896",
+        "name": "Phoque Yu",
+        "pinned_tweet_id": "1794338022055715044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698289773218279424/J0ZFF7j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 466,
+          "like_count": 58728,
+          "listed_count": 2,
+          "tweet_count": 41729
+        },
+        "username": "Phoque_Yu",
+        "verified": false
+      }
+    ]
+  }
+}

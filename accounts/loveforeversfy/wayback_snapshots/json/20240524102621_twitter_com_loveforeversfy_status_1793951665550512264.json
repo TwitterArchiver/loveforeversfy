@@ -1,0 +1,317 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793928772762099712"
+      ],
+      "media_source_tweet_id": [
+        "1793928775643852901"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      }
+    ],
+    "conversation_id": "1793951665550512264",
+    "created_at": "2024-05-24T10:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T11:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793951665550512264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/goFDOSRJWv",
+          "end": 57,
+          "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1793928775643852901/photo/1",
+          "media_key": "3_1793928772762099712",
+          "start": 34,
+          "url": "https://t.co/goFDOSRJWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793951665550512264",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793928775643852901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: D4DJ Colabo！ https://t.co/goFDOSRJWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_1793928772762099712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOVQttTWYAAxVFw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793928772762099712"
+          ],
+          "media_source_tweet_id": [
+            "1793928775643852901"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "1793951665550512264",
+        "created_at": "2024-05-24T10:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T11:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793951665550512264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/goFDOSRJWv",
+              "end": 57,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1793928775643852901/photo/1",
+              "media_key": "3_1793928772762099712",
+              "start": 34,
+              "url": "https://t.co/goFDOSRJWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793951665550512264",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793928775643852901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: D4DJ Colabo！ https://t.co/goFDOSRJWv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793928772762099712"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "1793928775643852901",
+        "created_at": "2024-05-24T08:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T09:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793928775643852901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/goFDOSRJWv",
+              "end": 36,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1793928775643852901/photo/1",
+              "media_key": "3_1793928772762099712",
+              "start": 13,
+              "url": "https://t.co/goFDOSRJWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793928775643852901",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 128120,
+          "like_count": 6376,
+          "quote_count": 107,
+          "reply_count": 7,
+          "retweet_count": 1174
+        },
+        "reply_settings": "everyone",
+        "text": "D4DJ Colabo！ https://t.co/goFDOSRJWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1565,
+          "like_count": 27364,
+          "listed_count": 8,
+          "tweet_count": 7248
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリやめられないね https://t.co/vvQuMSgTJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 52,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 29,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.angelkawaii.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.angelkawaii.x/",
+                "start": 0,
+                "url": "https://t.co/XaUNcD4kIo"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483494206371155973/8L2Fs4p0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505648,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1241,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/XaUNcD4kIo",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

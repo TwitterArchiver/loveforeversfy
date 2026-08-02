@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1806592785530966210",
+    "created_at": "2024-06-28T08:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T09:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806602496070291476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "phenovuoido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806602496070291476",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806597413337018703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phenovuoido 仅限一晚没睡觉的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1806592785530966210",
+        "created_at": "2024-06-28T08:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T09:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806602496070291476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "phenovuoido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806602496070291476",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806597413337018703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phenovuoido 仅限一晚没睡觉的状态"
+      },
+      {
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1806592785530966210",
+        "created_at": "2024-06-28T07:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T08:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806597413337018703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806597413337018703",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806592785530966210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 不社恐真好啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1570,
+          "like_count": 28136,
+          "listed_count": 8,
+          "tweet_count": 7662
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "Liberté, Egalité, Fraternité | DX RATING 13537  🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "just-a-wip.lamia.fm",
+                "end": 23,
+                "expanded_url": "http://just-a-wip.lamia.fm",
+                "start": 0,
+                "url": "https://t.co/PCMUG1NLu6"
+              }
+            ]
+          }
+        },
+        "id": "1779154402588172288",
+        "location": "/ Amoy, FJ / Kingston, ON /",
+        "name": "小虚空，风铃海的游鱼。",
+        "pinned_tweet_id": "1787384727248454085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800037469272092672/UDs1HlRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 212,
+          "like_count": 31190,
+          "listed_count": 0,
+          "tweet_count": 5536
+        },
+        "url": "https://t.co/PCMUG1NLu6",
+        "username": "phenovuoido",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2020356268075151779",
+    "created_at": "2026-02-08T06:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T07:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020385417313562749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776096283802996737",
+          "start": 0,
+          "username": "yottan20001202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020385417313562749",
+    "in_reply_to_user_id": "776096283802996737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020356268075151779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yottan20001202 あなたを抱いて"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2020356268075151779",
+        "created_at": "2026-02-08T06:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020385417313562749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776096283802996737",
+              "start": 0,
+              "username": "yottan20001202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020385417313562749",
+        "in_reply_to_user_id": "776096283802996737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020356268075151779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yottan20001202 あなたを抱いて"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "776096283802996737",
+        "conversation_id": "2020356268075151779",
+        "created_at": "2026-02-08T04:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020356268075151779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020356268075151779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 47517,
+          "like_count": 903,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "母親、今までありがとう。\n天国でも｢maimai選手権1位！｣｢maimai MURASAKi！｣ってみんなにたくさん自慢してね。\nお疲れ様。安らかに眠ってね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 1531,
+          "like_count": 32446,
+          "listed_count": 8,
+          "media_count": 1057,
+          "tweet_count": 10287
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／KoP4th.5thスコアアタック1位(4th単独303%)／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52053,
+          "following_count": 815,
+          "like_count": 24729,
+          "listed_count": 92,
+          "media_count": 13634,
+          "tweet_count": 65038
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

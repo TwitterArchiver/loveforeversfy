@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1798080639016804352"
+      ],
+      "media_source_tweet_id": [
+        "1798080668578312505"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1798295117339787748",
+    "created_at": "2024-06-05T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798295117339787748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1631357025962668032",
+          "start": 3,
+          "username": "byYamiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8Db0X4R2qL",
+          "end": 37,
+          "expanded_url": "https://twitter.com/byYamiii/status/1798080668578312505/video/1",
+          "media_key": "7_1798080639016804352",
+          "start": 14,
+          "url": "https://t.co/8Db0X4R2qL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798295117339787748",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2311
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798080668578312505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @byYamiii: https://t.co/8Db0X4R2qL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9822,
+        "height": 1280,
+        "media_key": "7_1798080639016804352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1798080639016804352/pu/img/VCOlgfAlThgjEnAe.jpg",
+        "public_metrics": {
+          "view_count": 164411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798080639016804352/pu/vid/avc1/320x568/ZwEgZxFOZHD7VgoW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798080639016804352/pu/vid/avc1/480x852/ONjC1kLK0hC4t_BG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798080639016804352/pu/vid/avc1/720x1280/gFpu9v6j7jjA7nmS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1798080639016804352/pu/pl/V5C1pThe-NAkd8ZM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798080639016804352"
+          ],
+          "media_source_tweet_id": [
+            "1798080668578312505"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1798295117339787748",
+        "created_at": "2024-06-05T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798295117339787748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631357025962668032",
+              "start": 3,
+              "username": "byYamiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8Db0X4R2qL",
+              "end": 37,
+              "expanded_url": "https://twitter.com/byYamiii/status/1798080668578312505/video/1",
+              "media_key": "7_1798080639016804352",
+              "start": 14,
+              "url": "https://t.co/8Db0X4R2qL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798295117339787748",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2311
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798080668578312505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @byYamiii: https://t.co/8Db0X4R2qL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798080639016804352"
+          ]
+        },
+        "author_id": "1631357025962668032",
+        "conversation_id": "1798080668578312505",
+        "created_at": "2024-06-04T19:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T20:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798080668578312505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8Db0X4R2qL",
+              "end": 23,
+              "expanded_url": "https://twitter.com/byYamiii/status/1798080668578312505/video/1",
+              "media_key": "7_1798080639016804352",
+              "start": 0,
+              "url": "https://t.co/8Db0X4R2qL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798080668578312505",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3195,
+          "impression_count": 276329,
+          "like_count": 16188,
+          "quote_count": 203,
+          "reply_count": 137,
+          "retweet_count": 2311
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8Db0X4R2qL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1559,
+          "like_count": 27629,
+          "listed_count": 8,
+          "tweet_count": 7360
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T18:13:27.000Z",
+        "description": "traficante de femboys - no te haré daño - público cualquier cosa",
+        "id": "1631357025962668032",
+        "name": "Yami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797415149520785408/QwxPsb0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6020,
+          "following_count": 856,
+          "like_count": 36826,
+          "listed_count": 10,
+          "tweet_count": 17690
+        },
+        "username": "byYamiii",
+        "verified": false
+      }
+    ]
+  }
+}

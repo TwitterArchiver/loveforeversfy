@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827603999438118913"
+      ],
+      "media_source_tweet_id": [
+        "1827604003955601550"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1827762169653719215",
+    "created_at": "2024-08-25T17:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T18:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827762169653719215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "6005462",
+          "start": 3,
+          "username": "8964kevin_t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psnebrly3b",
+          "end": 44,
+          "expanded_url": "https://twitter.com/8964kevin_t/status/1827604003955601550/photo/1",
+          "media_key": "3_1827603999438118913",
+          "start": 21,
+          "url": "https://t.co/pSnEbrLY3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827762169653719215",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827604003955601550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964kevin_t: 。。。 https://t.co/pSnEbrLY3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1827603999438118913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVz0J4iXoAERRKM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827603999438118913"
+          ],
+          "media_source_tweet_id": [
+            "1827604003955601550"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1827762169653719215",
+        "created_at": "2024-08-25T17:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T18:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827762169653719215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "6005462",
+              "start": 3,
+              "username": "8964kevin_t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psnebrly3b",
+              "end": 44,
+              "expanded_url": "https://twitter.com/8964kevin_t/status/1827604003955601550/photo/1",
+              "media_key": "3_1827603999438118913",
+              "start": 21,
+              "url": "https://t.co/pSnEbrLY3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827762169653719215",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827604003955601550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964kevin_t: 。。。 https://t.co/pSnEbrLY3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827603999438118913"
+          ]
+        },
+        "author_id": "6005462",
+        "conversation_id": "1827604003955601550",
+        "created_at": "2024-08-25T07:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T08:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827604003955601550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psnebrly3b",
+              "end": 27,
+              "expanded_url": "https://twitter.com/8964kevin_t/status/1827604003955601550/photo/1",
+              "media_key": "3_1827603999438118913",
+              "start": 4,
+              "url": "https://t.co/pSnEbrLY3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827604003955601550",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 233953,
+          "like_count": 865,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "。。。 https://t.co/pSnEbrLY3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐蘑利菇",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1570,
+          "like_count": 29908,
+          "listed_count": 7,
+          "tweet_count": 8390
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-13T09:03:31.000Z",
+        "description": "ISTP",
+        "id": "6005462",
+        "location": "我在加州，不约。",
+        "name": "KT 64 长腿叔叔",
+        "pinned_tweet_id": "1572681753327996928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583719988124258304/j4pV7UPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15154,
+          "following_count": 771,
+          "like_count": 107902,
+          "listed_count": 51,
+          "tweet_count": 89867
+        },
+        "username": "8964kevin_t",
+        "verified": true
+      }
+    ]
+  }
+}

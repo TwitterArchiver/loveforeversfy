@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1904808839024959820",
+    "created_at": "2025-03-26T08:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T09:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904809432871297279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551615370535919616",
+          "start": 0,
+          "username": "zazanb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904809432871297279",
+    "in_reply_to_user_id": "1551615370535919616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904808839024959820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zazanb666 嘎嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20050,
+        "height": 3840,
+        "media_key": "7_1904805569179103232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904805569179103232/pu/img/7HfsALcgMaD1WPZq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904805569179103232/pu/vid/avc1/320x568/k_hl8fWXtwQ4O-KK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904805569179103232/pu/vid/avc1/480x852/ce996rAfU34119zE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904805569179103232/pu/vid/avc1/720x1280/0XDpkcxwXQ400-IP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904805569179103232/pu/pl/KxE3qNG7kszHDww-.m3u8?tag=12"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1904808839024959820",
+        "created_at": "2025-03-26T08:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T09:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904809432871297279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551615370535919616",
+              "start": 0,
+              "username": "zazanb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904809432871297279",
+        "in_reply_to_user_id": "1551615370535919616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904808839024959820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zazanb666 嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904805569179103232"
+          ]
+        },
+        "author_id": "1551615370535919616",
+        "conversation_id": "1904808839024959820",
+        "created_at": "2025-03-26T08:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T09:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904808839024959820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeJNdERCVq",
+              "end": 23,
+              "expanded_url": "https://x.com/zazanb666/status/1904808839024959820/video/1",
+              "media_key": "7_1904805569179103232",
+              "start": 0,
+              "url": "https://t.co/TeJNdERCVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904808839024959820",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TeJNdERCVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 1556,
+          "like_count": 33137,
+          "listed_count": 8,
+          "media_count": 986,
+          "tweet_count": 9829
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 538,
+          "like_count": 363,
+          "listed_count": 5,
+          "media_count": 1177,
+          "tweet_count": 16802
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

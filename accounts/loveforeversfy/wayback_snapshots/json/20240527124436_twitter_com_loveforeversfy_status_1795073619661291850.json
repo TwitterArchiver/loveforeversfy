@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1795068892454191304",
+    "created_at": "2024-05-27T12:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T13:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795073619661291850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389509705999949829",
+          "start": 0,
+          "username": "EmoPoppyRequiem"
+        },
+        {
+          "end": 33,
+          "id": "1570036970830860288",
+          "start": 17,
+          "username": "Natsusaki_Yomi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795073619661291850",
+    "in_reply_to_user_id": "1389509705999949829",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795068892454191304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoPoppyRequiem @Natsusaki_Yomi_ 😡😡😡😡😡😡😡😡😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1795068892454191304].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1795068892454191304",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1795068892454191304"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1795068892454191304",
+        "created_at": "2024-05-27T12:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T13:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795073619661291850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389509705999949829",
+              "start": 0,
+              "username": "EmoPoppyRequiem"
+            },
+            {
+              "end": 33,
+              "id": "1570036970830860288",
+              "start": 17,
+              "username": "Natsusaki_Yomi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795073619661291850",
+        "in_reply_to_user_id": "1389509705999949829",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795068892454191304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoPoppyRequiem @Natsusaki_Yomi_ 😡😡😡😡😡😡😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1563,
+          "like_count": 27444,
+          "listed_count": 8,
+          "tweet_count": 7276
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ",
+        "id": "1389509705999949829",
+        "name": "薇可絲✂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678441323953819648/-vcpDqIO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1810,
+          "like_count": 116318,
+          "listed_count": 8,
+          "tweet_count": 57628
+        },
+        "username": "EmoPoppyRequiem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T13:09:27.000Z",
+        "description": "🇨🇳/🇦🇺/Post tweets mainly in simplified chinese/English is also okay.",
+        "id": "1570036970830860288",
+        "location": "Melbourne, Victoria",
+        "name": "Aniteranium",
+        "pinned_tweet_id": "1783756085045989791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783066261897056256/2LGEW-0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 59,
+          "like_count": 1449,
+          "listed_count": 0,
+          "tweet_count": 434
+        },
+        "username": "Natsusaki_Yomi_",
+        "verified": false
+      }
+    ]
+  }
+}

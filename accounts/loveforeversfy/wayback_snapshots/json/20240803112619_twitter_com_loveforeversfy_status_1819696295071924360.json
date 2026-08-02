@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1819458937982218240"
+      ],
+      "media_source_tweet_id": [
+        "1819458990318956964"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819696295071924360",
+    "created_at": "2024-08-03T11:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T12:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819696295071924360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1099082900056739840",
+          "start": 3,
+          "username": "ExtremeBlitz__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Imh2ugGsoZ",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ExtremeBlitz__/status/1819458990318956964/video/1",
+          "media_key": "7_1819458937982218240",
+          "start": 20,
+          "url": "https://t.co/Imh2ugGsoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819696295071924360",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 550
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819458990318956964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ExtremeBlitz__: https://t.co/Imh2ugGsoZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 1080,
+        "media_key": "7_1819458937982218240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819458937982218240/pu/img/uJMaTfsVYQoCqY0n.jpg",
+        "public_metrics": {
+          "view_count": 59334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819458937982218240/pu/pl/_E23dSB1X-r3lVuC.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819458937982218240/pu/vid/avc1/720x720/Uv62vxzY2DbGFKk6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819458937982218240/pu/vid/avc1/320x320/CjICzMYEUz-MMS4O.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819458937982218240/pu/vid/avc1/540x540/4xdzLGlt_7PpJj9x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819458937982218240/pu/vid/avc1/1080x1080/r-Pcaofatj3HL3oL.mp4?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819458937982218240"
+          ],
+          "media_source_tweet_id": [
+            "1819458990318956964"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819696295071924360",
+        "created_at": "2024-08-03T11:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T12:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819696295071924360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1099082900056739840",
+              "start": 3,
+              "username": "ExtremeBlitz__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Imh2ugGsoZ",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ExtremeBlitz__/status/1819458990318956964/video/1",
+              "media_key": "7_1819458937982218240",
+              "start": 20,
+              "url": "https://t.co/Imh2ugGsoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819696295071924360",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 550
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819458990318956964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ExtremeBlitz__: https://t.co/Imh2ugGsoZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819458937982218240"
+          ]
+        },
+        "author_id": "1099082900056739840",
+        "conversation_id": "1819458990318956964",
+        "created_at": "2024-08-02T19:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T20:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819458990318956964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Imh2ugGsoZ",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ExtremeBlitz__/status/1819458990318956964/video/1",
+              "media_key": "7_1819458937982218240",
+              "start": 0,
+              "url": "https://t.co/Imh2ugGsoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819458990318956964",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 100504,
+          "like_count": 8348,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Imh2ugGsoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1570,
+          "like_count": 29394,
+          "listed_count": 8,
+          "tweet_count": 8235
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T23:05:58.000Z",
+        "description": "real - editor",
+        "id": "1099082900056739840",
+        "location": "Jordan",
+        "name": "duck",
+        "pinned_tweet_id": "1808577165073473621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705880241531502592/7pn9NVaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300668,
+          "following_count": 470,
+          "like_count": 11317,
+          "listed_count": 453,
+          "tweet_count": 5443
+        },
+        "username": "ExtremeBlitz__",
+        "verified": true
+      }
+    ]
+  }
+}

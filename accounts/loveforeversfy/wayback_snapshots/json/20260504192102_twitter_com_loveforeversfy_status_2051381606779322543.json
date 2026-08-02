@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051321145597837312"
+      ],
+      "media_source_tweet_id": [
+        "2051321148659691598"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2051381606779322543",
+    "created_at": "2026-05-04T19:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T20:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051381606779322543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNJ5NPfIYA",
+          "end": 49,
+          "expanded_url": "https://x.com/careforme123/status/2051321148659691598/photo/1",
+          "media_key": "3_2051321145597837312",
+          "start": 26,
+          "url": "https://t.co/JNJ5NPfIYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051381606779322543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051321148659691598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: 减肥圈，新博主 https://t.co/JNJ5NPfIYA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1808,
+        "media_key": "3_2051321145597837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfBtqubQAA1Qog.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051321145597837312"
+          ],
+          "media_source_tweet_id": [
+            "2051321148659691598"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2051381606779322543",
+        "created_at": "2026-05-04T19:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051381606779322543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNJ5NPfIYA",
+              "end": 49,
+              "expanded_url": "https://x.com/careforme123/status/2051321148659691598/photo/1",
+              "media_key": "3_2051321145597837312",
+              "start": 26,
+              "url": "https://t.co/JNJ5NPfIYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051381606779322543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051321148659691598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: 减肥圈，新博主 https://t.co/JNJ5NPfIYA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051321145597837312"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051321148659691598",
+        "created_at": "2026-05-04T15:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051321148659691598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNJ5NPfIYA",
+              "end": 31,
+              "expanded_url": "https://x.com/careforme123/status/2051321148659691598/photo/1",
+              "media_key": "3_2051321145597837312",
+              "start": 8,
+              "url": "https://t.co/JNJ5NPfIYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051321148659691598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "减肥圈，新博主 https://t.co/JNJ5NPfIYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 1556,
+          "like_count": 34656,
+          "listed_count": 9,
+          "media_count": 1164,
+          "tweet_count": 11055
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 448,
+          "like_count": 4788,
+          "listed_count": 5,
+          "media_count": 540,
+          "tweet_count": 1983
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807577516170792960"
+      ],
+      "media_source_tweet_id": [
+        "1807577549830021319"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1807595328956457030",
+    "created_at": "2024-07-01T02:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T03:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807595328956457030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1661857916998279168",
+          "start": 3,
+          "username": "MeilingDefender"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bjY6lLJxGa",
+          "end": 66,
+          "expanded_url": "https://twitter.com/MeilingDefender/status/1807577549830021319/video/1",
+          "media_key": "7_1807577516170792960",
+          "start": 43,
+          "url": "https://t.co/bjY6lLJxGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807595328956457030",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807577549830021319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeilingDefender: HAPPY PRIDE MONTH!!!! https://t.co/bjY6lLJxGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9735,
+        "height": 720,
+        "media_key": "7_1807577516170792960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807577516170792960/pu/img/KeMro-EjSfOpVhZx.jpg",
+        "public_metrics": {
+          "view_count": 1118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807577516170792960/pu/vid/avc1/480x270/5UGZkav-VNAmE8KB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807577516170792960/pu/vid/avc1/640x360/D7RCMPP93LYxeMDN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807577516170792960/pu/vid/avc1/1280x720/yUO3PFNek1q4V65d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807577516170792960/pu/pl/M4Uy7NJxPb1xWZgd.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807577516170792960"
+          ],
+          "media_source_tweet_id": [
+            "1807577549830021319"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1807595328956457030",
+        "created_at": "2024-07-01T02:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T03:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807595328956457030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1661857916998279168",
+              "start": 3,
+              "username": "MeilingDefender"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bjY6lLJxGa",
+              "end": 66,
+              "expanded_url": "https://twitter.com/MeilingDefender/status/1807577549830021319/video/1",
+              "media_key": "7_1807577516170792960",
+              "start": 43,
+              "url": "https://t.co/bjY6lLJxGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807595328956457030",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807577549830021319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeilingDefender: HAPPY PRIDE MONTH!!!! https://t.co/bjY6lLJxGa"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807577516170792960"
+          ]
+        },
+        "author_id": "1661857916998279168",
+        "conversation_id": "1807577549830021319",
+        "created_at": "2024-07-01T00:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T01:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807577549830021319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bjY6lLJxGa",
+              "end": 45,
+              "expanded_url": "https://twitter.com/MeilingDefender/status/1807577549830021319/video/1",
+              "media_key": "7_1807577516170792960",
+              "start": 22,
+              "url": "https://t.co/bjY6lLJxGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807577549830021319",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2761,
+          "like_count": 311,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "HAPPY PRIDE MONTH!!!! https://t.co/bjY6lLJxGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1572,
+          "like_count": 28266,
+          "listed_count": 7,
+          "tweet_count": 7719
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-25T22:13:13.000Z",
+        "description": "Proud Father to 29 fumos, I post pictures of them here. I also collect Meiling Merch. I love all my fumos equally, especially Meiling who I love the most.",
+        "id": "1661857916998279168",
+        "name": "Meiling’s Strongest Soldier",
+        "pinned_tweet_id": "1779631002106909120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779631134953111552/V-aOMZpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 781,
+          "like_count": 22248,
+          "listed_count": 5,
+          "tweet_count": 18401
+        },
+        "username": "MeilingDefender",
+        "verified": false
+      }
+    ]
+  }
+}

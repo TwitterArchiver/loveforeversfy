@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807909703688900608"
+      ],
+      "media_source_tweet_id": [
+        "1807909748471443960"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1808055869747482943",
+    "created_at": "2024-07-02T08:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T09:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808055869747482943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780108015687151616",
+          "start": 3,
+          "username": "Tanryel0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bomih5j67X",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Tanryel0/status/1807909748471443960/video/1",
+          "media_key": "7_1807909703688900608",
+          "start": 14,
+          "url": "https://t.co/bomih5j67X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808055869747482943",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2404
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807909748471443960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tanryel0: https://t.co/bomih5j67X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20411,
+        "height": 1280,
+        "media_key": "7_1807909703688900608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807909703688900608/pu/img/htZ-4nvUULxnPGT3.jpg",
+        "public_metrics": {
+          "view_count": 216687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807909703688900608/pu/vid/avc1/320x568/uub07afMbCkP1RlV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807909703688900608/pu/vid/avc1/480x852/eatk9VEAte5q-d8L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807909703688900608/pu/vid/avc1/720x1280/ASwFKUGdmPMDr694.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807909703688900608/pu/pl/2dBcRtOv0gVsk58s.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807909703688900608"
+          ],
+          "media_source_tweet_id": [
+            "1807909748471443960"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1808055869747482943",
+        "created_at": "2024-07-02T08:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T09:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808055869747482943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780108015687151616",
+              "start": 3,
+              "username": "Tanryel0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bomih5j67X",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Tanryel0/status/1807909748471443960/video/1",
+              "media_key": "7_1807909703688900608",
+              "start": 14,
+              "url": "https://t.co/bomih5j67X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808055869747482943",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2404
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807909748471443960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tanryel0: https://t.co/bomih5j67X"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807909703688900608"
+          ]
+        },
+        "author_id": "1780108015687151616",
+        "conversation_id": "1807909748471443960",
+        "created_at": "2024-07-01T22:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T23:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807909748471443960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bomih5j67X",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Tanryel0/status/1807909748471443960/video/1",
+              "media_key": "7_1807909703688900608",
+              "start": 0,
+              "url": "https://t.co/bomih5j67X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807909748471443960",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1553,
+          "impression_count": 491472,
+          "like_count": 12922,
+          "quote_count": 93,
+          "reply_count": 16,
+          "retweet_count": 2404
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bomih5j67X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1571,
+          "like_count": 28285,
+          "listed_count": 7,
+          "tweet_count": 7729
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T05:37:08.000Z",
+        "description": "I will just post everything I like about anime/manga(most of them BTR)",
+        "id": "1780108015687151616",
+        "name": "Tanyel(BTR/Anime Posting)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362296173674496/7BHIr_LV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 254,
+          "like_count": 540,
+          "listed_count": 9,
+          "tweet_count": 249
+        },
+        "username": "Tanryel0",
+        "verified": false
+      }
+    ]
+  }
+}

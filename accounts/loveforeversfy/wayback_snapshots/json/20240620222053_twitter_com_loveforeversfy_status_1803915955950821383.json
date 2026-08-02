@@ -1,0 +1,255 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1798587734019477504"
+      ],
+      "media_source_tweet_id": [
+        "1798587771583709278"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1803915955950821383",
+    "created_at": "2024-06-20T22:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T23:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803915955950821383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599012090517540869",
+          "start": 3,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hV9h1G7bDg",
+          "end": 43,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1798587771583709278/video/1",
+          "media_key": "7_1798587734019477504",
+          "start": 20,
+          "url": "https://t.co/hV9h1G7bDg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803915955950821383",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798587771583709278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforeversfy: https://t.co/hV9h1G7bDg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7776,
+        "height": 1280,
+        "media_key": "7_1798587734019477504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1798587734019477504/pu/img/y1lqq8RWnRix-FqU.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798587734019477504/pu/vid/avc1/320x568/3HZgZWOTbQJ6DUJr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798587734019477504/pu/vid/avc1/480x852/fuuS_0m0CeaK__FS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798587734019477504/pu/vid/avc1/720x1280/wioot3ATI36TPf77.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1798587734019477504/pu/pl/znl4IpbHCU_SL2ux.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798587734019477504"
+          ],
+          "media_source_tweet_id": [
+            "1798587771583709278"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1803915955950821383",
+        "created_at": "2024-06-20T22:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T23:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803915955950821383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599012090517540869",
+              "start": 3,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hV9h1G7bDg",
+              "end": 43,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1798587771583709278/video/1",
+              "media_key": "7_1798587734019477504",
+              "start": 20,
+              "url": "https://t.co/hV9h1G7bDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803915955950821383",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798587771583709278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveforeversfy: https://t.co/hV9h1G7bDg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798587734019477504"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1798587771583709278",
+        "created_at": "2024-06-06T05:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T06:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798587771583709278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hV9h1G7bDg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1798587771583709278/video/1",
+              "media_key": "7_1798587734019477504",
+              "start": 0,
+              "url": "https://t.co/hV9h1G7bDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798587771583709278",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hV9h1G7bDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1567,
+          "like_count": 27850,
+          "listed_count": 8,
+          "tweet_count": 7544
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2068352910615003589",
+    "created_at": "2026-06-22T21:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T22:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069167198447579320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989031117111062528",
+          "start": 0,
+          "username": "kaionjiaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069167198447579320",
+    "in_reply_to_user_id": "1989031117111062528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069166613094653966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaionjiaoi 奈酱怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2068352910615003589",
+        "created_at": "2026-06-22T21:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069167198447579320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989031117111062528",
+              "start": 0,
+              "username": "kaionjiaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069167198447579320",
+        "in_reply_to_user_id": "1989031117111062528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069166613094653966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaionjiaoi 奈酱怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989031117111062528",
+        "conversation_id": "2068352910615003589",
+        "created_at": "2026-06-22T21:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069166613094653966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069166613094653966",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069166509512090014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 可以可以我们走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 1558,
+          "like_count": 35304,
+          "listed_count": 8,
+          "media_count": 1206,
+          "tweet_count": 11354
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "19YMtF/海洋生物/HRT.2024/生日10.2/🚪64/持证含糖/ADHD/rle进行中/来和我逛街/来玩ow/常驻南京/欢迎同类和我贴贴!/也欢迎同类约我旅行！/泛左翼激跨/好宝宝好妹妹@LiciiQAQ/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 95,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "kaionjiaoi",
+        "verified": false
+      }
+    ]
+  }
+}

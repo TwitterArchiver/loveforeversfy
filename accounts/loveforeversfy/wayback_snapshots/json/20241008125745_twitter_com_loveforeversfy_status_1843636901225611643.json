@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1843598513520947643",
+    "created_at": "2024-10-08T12:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T13:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843636901225611643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1196353892193198086",
+          "start": 0,
+          "username": "Gim_Gitsuragi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843636901225611643",
+    "in_reply_to_user_id": "1196353892193198086",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843603387105104367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gim_Gitsuragi 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T12:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843636901225611643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1196353892193198086",
+              "start": 0,
+              "username": "Gim_Gitsuragi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843636901225611643",
+        "in_reply_to_user_id": "1196353892193198086",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843603387105104367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gim_Gitsuragi 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196353892193198086",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T10:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T11:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843603387105104367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843603387105104367",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843598513520947643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 我还以为是张亮麻辣浪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1581,
+          "like_count": 31061,
+          "listed_count": 7,
+          "tweet_count": 8728
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-18T09:06:16.000Z",
+        "description": "enby\n💛🤍💜🖤\n\n我的挚爱@lectrochemist\n\n擅长逃避抵触和恶意妄想。离我远一点比较好大概。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "lectrochemist"
+              }
+            ]
+          }
+        },
+        "id": "1196353892193198086",
+        "name": "卡几莫多",
+        "pinned_tweet_id": "1827235490883371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838158504785559553/BcjdltL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 330,
+          "like_count": 38452,
+          "listed_count": 0,
+          "tweet_count": 5044
+        },
+        "username": "Gim_Gitsuragi",
+        "verified": false
+      }
+    ]
+  }
+}

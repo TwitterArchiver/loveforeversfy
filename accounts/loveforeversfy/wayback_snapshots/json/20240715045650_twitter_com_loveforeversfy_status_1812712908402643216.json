@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1812502172053164115",
+    "created_at": "2024-07-15T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812712908402643216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        },
+        {
+          "end": 22,
+          "id": "1492097874565468172",
+          "start": 11,
+          "username": "citrus_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812712908402643216",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812712824327840183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya @citrus_404 我也想🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1812502172053164115",
+        "created_at": "2024-07-15T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812712908402643216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            },
+            {
+              "end": 22,
+              "id": "1492097874565468172",
+              "start": 11,
+              "username": "citrus_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812712908402643216",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812712824327840183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya @citrus_404 我也想🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1762478947621638144",
+        "conversation_id": "1812502172053164115",
+        "created_at": "2024-07-15T04:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T05:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812712824327840183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492097874565468172",
+              "start": 0,
+              "username": "citrus_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812712824327840183",
+        "in_reply_to_user_id": "1492097874565468172",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812502172053164115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citrus_404 😭我想和C老师在面基"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1569,
+          "like_count": 28644,
+          "listed_count": 8,
+          "tweet_count": 7935
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "这一次我们能互相陪伴，直至落幕 / 我的一切-------我的一切@Aranda_5201314 / @IWantMyLilDoggy / -------破碎 下坠 恍惚 上升 濒死 / 电影 摄像师 喜欢酷酷运镜 / 攒留学费中 /雨从天降，血液倒流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Aranda_5201314"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          }
+        },
+        "id": "1762478947621638144",
+        "name": "Bronya（kam消失版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764447429301309440/812ytq0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 24,
+          "like_count": 910,
+          "listed_count": 0,
+          "tweet_count": 411
+        },
+        "username": "Kambronya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1806668157236732119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21008,
+          "following_count": 217,
+          "like_count": 41423,
+          "listed_count": 58,
+          "tweet_count": 11907
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

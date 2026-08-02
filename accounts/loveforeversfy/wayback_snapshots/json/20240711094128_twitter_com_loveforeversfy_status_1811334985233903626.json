@@ -1,0 +1,471 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1811329857726615552",
+        "7_1811329934046253056",
+        "7_1811329934058766336",
+        "7_1811330052103262208"
+      ],
+      "media_source_tweet_id": [
+        "1811330125394514265",
+        "1811330125394514265",
+        "1811330125394514265",
+        "1811330125394514265"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1811334985233903626",
+    "created_at": "2024-07-11T09:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T10:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811334985233903626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578364241362309120",
+          "start": 3,
+          "username": "wuren_Ltd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/76uVZ2rBah",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+          "media_key": "7_1811329857726615552",
+          "start": 22,
+          "url": "https://t.co/76uVZ2rBah"
+        },
+        {
+          "display_url": "pic.twitter.com/76uVZ2rBah",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+          "media_key": "7_1811329934046253056",
+          "start": 22,
+          "url": "https://t.co/76uVZ2rBah"
+        },
+        {
+          "display_url": "pic.twitter.com/76uVZ2rBah",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+          "media_key": "7_1811329934058766336",
+          "start": 22,
+          "url": "https://t.co/76uVZ2rBah"
+        },
+        {
+          "display_url": "pic.twitter.com/76uVZ2rBah",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+          "media_key": "7_1811330052103262208",
+          "start": 22,
+          "url": "https://t.co/76uVZ2rBah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811334985233903626",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811330125394514265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuren_Ltd: 爱国视频集合 https://t.co/76uVZ2rBah"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38220,
+        "height": 1280,
+        "media_key": "7_1811329857726615552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1811329857726615552/pu/img/EfK_sf-3x0OJe99s.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329857726615552/pu/vid/avc1/320x568/mSxDF_WiB7fpBPa2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329857726615552/pu/vid/avc1/480x852/vsioi2dQxvgjOOiC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329857726615552/pu/vid/avc1/720x1280/g1bkih-JXc3gEjyG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1811329857726615552/pu/pl/Hbgi_X9LCV0zaFxP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 56261,
+        "height": 1280,
+        "media_key": "7_1811329934046253056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1811329934046253056/pu/img/_pEbFmphuge_J6_o.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934046253056/pu/vid/avc1/320x568/BFGP4GIMry6l7VU-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934046253056/pu/vid/avc1/480x852/L2zeUKer2-S8gReA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934046253056/pu/vid/avc1/720x1280/vHXjNmdJjgUsakLo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934046253056/pu/pl/dk7H6_PCaOpSNDst.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 110759,
+        "height": 960,
+        "media_key": "7_1811329934058766336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1811329934058766336/pu/img/TQG-JU5Sc9BV9S4l.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934058766336/pu/vid/avc1/320x564/-PV11A3UStPeks1s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934058766336/pu/vid/avc1/480x846/iMiyQ0ITmnaZRbHD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934058766336/pu/vid/avc1/544x960/xez99hEvAvxuclJo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1811329934058766336/pu/pl/Ohk6aB7HVgAL0ncD.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 58374,
+        "height": 1280,
+        "media_key": "7_1811330052103262208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1811330052103262208/pu/img/bjD3jsfW5TD32NmP.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811330052103262208/pu/vid/avc1/320x568/9OJasVN-STRWlT6v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811330052103262208/pu/vid/avc1/480x852/4Kn_14ZwBtGlGIBm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811330052103262208/pu/vid/avc1/720x1280/ifSMjVPCH4SSzeUD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1811330052103262208/pu/pl/nirpRiQzaPm0aZyg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811329857726615552",
+            "7_1811329934046253056",
+            "7_1811329934058766336",
+            "7_1811330052103262208"
+          ],
+          "media_source_tweet_id": [
+            "1811330125394514265",
+            "1811330125394514265",
+            "1811330125394514265",
+            "1811330125394514265"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1811334985233903626",
+        "created_at": "2024-07-11T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811334985233903626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578364241362309120",
+              "start": 3,
+              "username": "wuren_Ltd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329857726615552",
+              "start": 22,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329934046253056",
+              "start": 22,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329934058766336",
+              "start": 22,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811330052103262208",
+              "start": 22,
+              "url": "https://t.co/76uVZ2rBah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811334985233903626",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811330125394514265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuren_Ltd: 爱国视频集合 https://t.co/76uVZ2rBah"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811329857726615552",
+            "7_1811329934046253056",
+            "7_1811329934058766336",
+            "7_1811330052103262208"
+          ]
+        },
+        "author_id": "1578364241362309120",
+        "conversation_id": "1811330125394514265",
+        "created_at": "2024-07-11T09:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T10:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811330125394514265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 30,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329857726615552",
+              "start": 7,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 30,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329934046253056",
+              "start": 7,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 30,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811329934058766336",
+              "start": 7,
+              "url": "https://t.co/76uVZ2rBah"
+            },
+            {
+              "display_url": "pic.twitter.com/76uVZ2rBah",
+              "end": 30,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1811330125394514265/video/1",
+              "media_key": "7_1811330052103262208",
+              "start": 7,
+              "url": "https://t.co/76uVZ2rBah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811330125394514265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爱国视频集合 https://t.co/76uVZ2rBah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1568,
+          "like_count": 28505,
+          "listed_count": 8,
+          "tweet_count": 7849
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么\n满洲人属\n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点\n功德箱开放，不知道你为什么想给我钱但是来者不拒\ntelegram开放，与私信一起随机回复，看心情\n加我steam好友：1055344426\n招梦2记，collective unconscious搭子\n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+hSN98rWyhi9lZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+hSN98rWyhi9lZDFl",
+                "start": 0,
+                "url": "https://t.co/qjx9TNjVAB"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "阿米娜·阔伊姆@五代目",
+        "pinned_tweet_id": "1807299314269499457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807053252791586816/Ze6VAfLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20693,
+          "following_count": 1209,
+          "like_count": 15018,
+          "listed_count": 65,
+          "tweet_count": 15286
+        },
+        "url": "https://t.co/qjx9TNjVAB",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

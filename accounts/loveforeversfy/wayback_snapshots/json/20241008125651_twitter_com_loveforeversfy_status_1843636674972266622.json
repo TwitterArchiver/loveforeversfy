@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1843598513520947643",
+    "created_at": "2024-10-08T12:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T13:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843636674972266622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1114874967324332032",
+          "start": 0,
+          "username": "FogPointer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843636674972266622",
+    "in_reply_to_user_id": "1114874967324332032",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843606554861547607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FogPointer 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843636674972266622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1114874967324332032",
+              "start": 0,
+              "username": "FogPointer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843636674972266622",
+        "in_reply_to_user_id": "1114874967324332032",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843606554861547607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FogPointer 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114874967324332032",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T10:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T11:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843606554861547607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843606554861547607",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843598513520947643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 看着好香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1581,
+          "like_count": 31061,
+          "listed_count": 7,
+          "tweet_count": 8725
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T12:58:00.000Z",
+        "description": "どうせ100年後にはみんな 溶けてひとつになってしまうんだ\n反正100年后大家都会溶为一体吧",
+        "id": "1114874967324332032",
+        "location": "现实稳定锚",
+        "name": "😯",
+        "pinned_tweet_id": "1775390662139281444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603940980163739653/-4a4WEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1732,
+          "like_count": 26501,
+          "listed_count": 2,
+          "tweet_count": 8571
+        },
+        "username": "FogPointer",
+        "verified": false
+      }
+    ]
+  }
+}

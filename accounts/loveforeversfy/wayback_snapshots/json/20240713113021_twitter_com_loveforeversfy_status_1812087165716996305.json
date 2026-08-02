@@ -1,0 +1,260 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1811880332859265024"
+      ],
+      "media_source_tweet_id": [
+        "1811880341428170936"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1812087165716996305",
+    "created_at": "2024-07-13T11:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T12:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812087165716996305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741208947397115904",
+          "start": 3,
+          "username": "7amegachi7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1zPEYcUFKW",
+          "end": 43,
+          "expanded_url": "https://twitter.com/7amegachi7/status/1811880341428170936/video/1",
+          "media_key": "7_1811880332859265024",
+          "start": 20,
+          "url": "https://t.co/1zPEYcUFKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812087165716996305",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1258
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811880341428170936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7amegachi7: OK！ https://t.co/1zPEYcUFKW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1000,
+        "height": 568,
+        "media_key": "7_1811880332859265024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1811880332859265024/pu/img/se3MJT4SPCv2M3nq.jpg",
+        "public_metrics": {
+          "view_count": 21802
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811880332859265024/pu/vid/avc1/392x270/qmYY4mt9G1MJvs3O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811880332859265024/pu/vid/avc1/524x360/50mrTaZMI8ndAEM2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1811880332859265024/pu/vid/avc1/828x568/9KUQKWR1U4NVlMxb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1811880332859265024/pu/pl/hd0uplEmjGxT3ile.m3u8?tag=12"
+          }
+        ],
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811880332859265024"
+          ],
+          "media_source_tweet_id": [
+            "1811880341428170936"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1812087165716996305",
+        "created_at": "2024-07-13T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812087165716996305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741208947397115904",
+              "start": 3,
+              "username": "7amegachi7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1zPEYcUFKW",
+              "end": 43,
+              "expanded_url": "https://twitter.com/7amegachi7/status/1811880341428170936/video/1",
+              "media_key": "7_1811880332859265024",
+              "start": 20,
+              "url": "https://t.co/1zPEYcUFKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812087165716996305",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1258
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811880341428170936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7amegachi7: OK！ https://t.co/1zPEYcUFKW"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811880332859265024"
+          ]
+        },
+        "author_id": "1741208947397115904",
+        "conversation_id": "1811880341428170936",
+        "created_at": "2024-07-12T21:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T22:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811880341428170936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1zPEYcUFKW",
+              "end": 27,
+              "expanded_url": "https://twitter.com/7amegachi7/status/1811880341428170936/video/1",
+              "media_key": "7_1811880332859265024",
+              "start": 4,
+              "url": "https://t.co/1zPEYcUFKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811880341428170936",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 809,
+          "impression_count": 64633,
+          "like_count": 6166,
+          "quote_count": 40,
+          "reply_count": 7,
+          "retweet_count": 1258
+        },
+        "reply_settings": "everyone",
+        "text": "OK！ https://t.co/1zPEYcUFKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1567,
+          "like_count": 28576,
+          "listed_count": 8,
+          "tweet_count": 7898
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T21:25:46.000Z",
+        "description": "14 - he/him ʚ♡ɞ 𝑵𝑬𝑬𝑫𝒀 𝑮𝑰𝑹𝑳 𝑶𝑽𝑬𝑹𝑫𝑶𝑺𝑬 ʚ♡ɞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/4akAfMwN",
+                "end": 23,
+                "expanded_url": "https://discord.gg/4akAfMwN",
+                "start": 0,
+                "url": "https://t.co/wDomWwmsZu"
+              }
+            ]
+          }
+        },
+        "id": "1741208947397115904",
+        "location": "𝑩𝑳𝑨𝒁𝑰𝑵𝑮 𝑯𝑬𝑳𝑳",
+        "name": "ame/amegachi/amenyan",
+        "pinned_tweet_id": "1812086835293606056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807492880836988928/zxxTpsgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4223,
+          "following_count": 4120,
+          "like_count": 68250,
+          "listed_count": 43,
+          "tweet_count": 21362
+        },
+        "url": "https://t.co/wDomWwmsZu",
+        "username": "7amegachi7",
+        "verified": false
+      }
+    ]
+  }
+}

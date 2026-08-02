@@ -1,0 +1,144 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800605690396037120"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800605701502595083",
+    "created_at": "2024-06-11T19:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T20:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800605701502595083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gT0rmcw0Ye",
+          "end": 23,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1800605701502595083/video/1",
+          "media_key": "7_1800605690396037120",
+          "start": 0,
+          "url": "https://t.co/gT0rmcw0Ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800605701502595083",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gT0rmcw0Ye"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10681,
+        "height": 640,
+        "media_key": "7_1800605690396037120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800605690396037120/pu/img/Z_wFjdDOHCAzPPF3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800605690396037120/pu/vid/avc1/320x426/tllszsRMCFm-gZ62.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800605690396037120/pu/vid/avc1/480x640/RVzA09I08E3S70y9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800605690396037120/pu/pl/SI49nQNyUG_MOX5k.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1800605690396037120"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800605701502595083",
+        "created_at": "2024-06-11T19:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T20:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800605701502595083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gT0rmcw0Ye",
+              "end": 23,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1800605701502595083/video/1",
+              "media_key": "7_1800605690396037120",
+              "start": 0,
+              "url": "https://t.co/gT0rmcw0Ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800605701502595083",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gT0rmcw0Ye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1565,
+          "like_count": 27915,
+          "listed_count": 8,
+          "tweet_count": 7450
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036114453473955840"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2036114461258596476",
+    "created_at": "2026-03-23T16:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036114461258596476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1989031117111062528",
+          "start": 13,
+          "username": "kaionjiaoi"
+        },
+        {
+          "end": 37,
+          "id": "2001730411890905088",
+          "start": 25,
+          "username": "FuyutoriGin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YzE5hRTbcd",
+          "end": 61,
+          "expanded_url": "https://x.com/loveforeversfy/status/2036114461258596476/photo/1",
+          "media_key": "3_2036114453473955840",
+          "start": 38,
+          "url": "https://t.co/YzE5hRTbcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036114461258596476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞配酒，______？\n@kaionjiaoi @FuyutoriGin https://t.co/YzE5hRTbcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036114453473955840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEG7TsFakAAM_l-.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036114453473955840"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036114461258596476",
+        "created_at": "2026-03-23T16:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036114461258596476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1989031117111062528",
+              "start": 13,
+              "username": "kaionjiaoi"
+            },
+            {
+              "end": 37,
+              "id": "2001730411890905088",
+              "start": 25,
+              "username": "FuyutoriGin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzE5hRTbcd",
+              "end": 61,
+              "expanded_url": "https://x.com/loveforeversfy/status/2036114461258596476/photo/1",
+              "media_key": "3_2036114453473955840",
+              "start": 38,
+              "url": "https://t.co/YzE5hRTbcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036114461258596476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞配酒，______？\n@kaionjiaoi @FuyutoriGin https://t.co/YzE5hRTbcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1544,
+          "like_count": 33558,
+          "listed_count": 8,
+          "media_count": 1118,
+          "tweet_count": 10643
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "19YMtF/海洋生物/HRT.2024/生日10.2/持证含糖/ADHD/rle/来打maimai/来打ow/常驻南京/欢迎和我贴贴!/挚爱@FuyutoriGin/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 61,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "kaionjiaoi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T19:05:13.000Z",
+        "description": "02/mtf/od小手子/妹妹@3638349600Ogas, @kaionjiaoi/永远的爱人@Grinin_mark",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "3638349600Ogas"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "kaionjiaoi"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "2001730411890905088",
+        "location": "南京",
+        "name": "Fuyutori Gin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001730930323656707/vO3as0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "FuyutoriGin",
+        "verified": false
+      }
+    ]
+  }
+}

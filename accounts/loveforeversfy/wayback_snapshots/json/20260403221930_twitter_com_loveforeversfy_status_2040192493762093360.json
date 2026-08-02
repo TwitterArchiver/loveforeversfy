@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040192465966362624"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2040192493762093360",
+    "created_at": "2026-04-03T22:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T23:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040192493762093360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6phblwBkG",
+          "end": 32,
+          "expanded_url": "https://x.com/loveforeversfy/status/2040192493762093360/video/1",
+          "media_key": "7_2040192465966362624",
+          "start": 9,
+          "url": "https://t.co/H6phblwBkG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040192493762093360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老鼠克大象这一块 https://t.co/H6phblwBkG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11732,
+        "height": 1280,
+        "media_key": "7_2040192465966362624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040192465966362624/pu/img/sI4OK61Gtfk1NdDz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040192465966362624/pu/vid/avc1/320x568/Dq_6Jiex2DtxRjsp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040192465966362624/pu/vid/avc1/480x852/w0GKZx4NFY9Jyt9I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040192465966362624/pu/vid/avc1/720x1280/ZzKgqppn5xIq2Ixt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040192465966362624/pu/pl/N2DNMoZUnJocv2_5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040192465966362624"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2040192493762093360",
+        "created_at": "2026-04-03T22:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040192493762093360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6phblwBkG",
+              "end": 32,
+              "expanded_url": "https://x.com/loveforeversfy/status/2040192493762093360/video/1",
+              "media_key": "7_2040192465966362624",
+              "start": 9,
+              "url": "https://t.co/H6phblwBkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040192493762093360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老鼠克大象这一块 https://t.co/H6phblwBkG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 1549,
+          "like_count": 33778,
+          "listed_count": 8,
+          "media_count": 1137,
+          "tweet_count": 10727
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

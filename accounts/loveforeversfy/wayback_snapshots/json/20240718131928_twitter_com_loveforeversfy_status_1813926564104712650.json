@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1813926564104712650",
+    "created_at": "2024-07-18T13:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T14:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813926564104712650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1753348784573001728",
+          "start": 3,
+          "username": "rorochan_990126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813926564104712650",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813566126951133440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rorochan_990126: 祝这位爷早日得上抑郁症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1813926564104712650",
+        "created_at": "2024-07-18T13:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T14:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813926564104712650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1753348784573001728",
+              "start": 3,
+              "username": "rorochan_990126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813926564104712650",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813566126951133440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rorochan_990126: 祝这位爷早日得上抑郁症"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "1813566126951133440",
+        "created_at": "2024-07-17T13:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813566126951133440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaxiaoqiang/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xiaxiaoqiang/status/1813489856405733566",
+              "start": 12,
+              "url": "https://t.co/3UPdjMi5He"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813566126951133440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8753,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813489856405733566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝这位爷早日得上抑郁症 https://t.co/3UPdjMi5He"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1571,
+          "like_count": 28757,
+          "listed_count": 8,
+          "tweet_count": 8010
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "溫和藍色 / 08 / 女的 / 邊緣行者 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 禮貌互fo",
+        "id": "1753348784573001728",
+        "location": "「愛與數據是她的精神安定劑」",
+        "name": "Mobius' poison✟",
+        "pinned_tweet_id": "1813911848695324827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811687996581904386/FgOgBS53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 941,
+          "like_count": 38650,
+          "listed_count": 4,
+          "tweet_count": 5680
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

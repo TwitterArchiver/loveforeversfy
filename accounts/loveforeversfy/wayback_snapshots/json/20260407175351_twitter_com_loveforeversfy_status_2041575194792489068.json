@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2041524459673362440",
+    "created_at": "2026-04-07T17:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041575194792489068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 28,
+          "id": "1599987342630002694",
+          "start": 16,
+          "username": "lny27974684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041575194792489068",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041524459673362440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer198964 @lny27974684 给我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041524426366427136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTzpjnaoAAvWX-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2041524459673362440",
+        "created_at": "2026-04-07T17:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041575194792489068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 28,
+              "id": "1599987342630002694",
+              "start": 16,
+              "username": "lny27974684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041575194792489068",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041524459673362440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer198964 @lny27974684 给我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041524426366427136"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041524459673362440",
+        "created_at": "2026-04-07T14:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041524459673362440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599987342630002694",
+              "start": 2,
+              "username": "lny27974684"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B31r0xMlU5",
+              "end": 60,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2041524459673362440/photo/1",
+              "media_key": "3_2041524426366427136",
+              "start": 37,
+              "url": "https://t.co/B31r0xMlU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041524459673362440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@lny27974684 赠送的14板pr\n祝你上第五高原平稳降落呀 https://t.co/B31r0xMlU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1547,
+          "like_count": 33874,
+          "listed_count": 8,
+          "media_count": 1141,
+          "tweet_count": 10750
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 236,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      }
+    ]
+  }
+}

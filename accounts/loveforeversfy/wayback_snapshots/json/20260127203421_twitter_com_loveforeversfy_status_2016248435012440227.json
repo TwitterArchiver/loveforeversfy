@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006212151757705216"
+      ],
+      "media_source_tweet_id": [
+        "2006212207726432290"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016248435012440227",
+    "created_at": "2026-01-27T20:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016248435012440227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1495523101697888258",
+          "start": 3,
+          "username": "vomitgorelover"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Kitty Gore · single · 2025 · 1 songs",
+          "display_url": "open.spotify.com/album/3Q7tKI6G…",
+          "end": 43,
+          "expanded_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "Everything in between - Single by Kitty Gore | Spotify",
+          "unwound_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+          "url": "https://t.co/q7hK74NieN"
+        },
+        {
+          "display_url": "pic.x.com/V6Boc0Wom7",
+          "end": 67,
+          "expanded_url": "https://x.com/vomitgorelover/status/2006212207726432290/video/1",
+          "media_key": "13_2006212151757705216",
+          "start": 44,
+          "url": "https://t.co/V6Boc0Wom7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016248435012440227",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006212207726432290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vomitgorelover: https://t.co/q7hK74NieN https://t.co/V6Boc0Wom7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7266,
+        "height": 1080,
+        "media_key": "13_2006212151757705216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006212151757705216/img/v1ojL-a0xG7YHlYv.jpg",
+        "public_metrics": {
+          "view_count": 580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006212151757705216/vid/avc1/724x720/zls01fOGnkaj8pbG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006212151757705216/vid/avc1/362x360/stiGA3o3O8cXDWYh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006212151757705216/pl/hA014bDKd6w77fBo.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006212151757705216/vid/avc1/1086x1080/KFR3bWWk-Yb6dQ5m.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006212151757705216/vid/avc1/270x270/ixaOuBjD5OnSDUck.mp4"
+          }
+        ],
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006212151757705216"
+          ],
+          "media_source_tweet_id": [
+            "2006212207726432290"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016248435012440227",
+        "created_at": "2026-01-27T20:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016248435012440227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1495523101697888258",
+              "start": 3,
+              "username": "vomitgorelover"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Kitty Gore · single · 2025 · 1 songs",
+              "display_url": "open.spotify.com/album/3Q7tKI6G…",
+              "end": 43,
+              "expanded_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "Everything in between - Single by Kitty Gore | Spotify",
+              "unwound_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+              "url": "https://t.co/q7hK74NieN"
+            },
+            {
+              "display_url": "pic.x.com/V6Boc0Wom7",
+              "end": 67,
+              "expanded_url": "https://x.com/vomitgorelover/status/2006212207726432290/video/1",
+              "media_key": "13_2006212151757705216",
+              "start": 44,
+              "url": "https://t.co/V6Boc0Wom7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016248435012440227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006212207726432290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vomitgorelover: https://t.co/q7hK74NieN https://t.co/V6Boc0Wom7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006212151757705216"
+          ]
+        },
+        "author_id": "1495523101697888258",
+        "conversation_id": "2006212207726432290",
+        "created_at": "2025-12-31T03:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006212207726432290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kitty Gore · single · 2025 · 1 songs",
+              "display_url": "open.spotify.com/album/3Q7tKI6G…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008872348582326272/uBj0kg2I?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Everything in between - Single by Kitty Gore | Spotify",
+              "unwound_url": "https://open.spotify.com/album/3Q7tKI6GkPY0lpCdtU5EId?si=8pPAN_phSDutRO5_NKwYwA",
+              "url": "https://t.co/q7hK74NieN"
+            },
+            {
+              "display_url": "pic.x.com/V6Boc0Wom7",
+              "end": 47,
+              "expanded_url": "https://x.com/vomitgorelover/status/2006212207726432290/video/1",
+              "media_key": "13_2006212151757705216",
+              "start": 24,
+              "url": "https://t.co/V6Boc0Wom7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006212207726432290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2788,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q7hK74NieN https://t.co/V6Boc0Wom7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2015704075187429844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1524,
+          "like_count": 32360,
+          "listed_count": 7,
+          "media_count": 1050,
+          "tweet_count": 10202
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T22:17:56.000Z",
+        "description": "Hardcore hooligan. :3 🇮🇷 🏴󠁧󠁢󠁳󠁣󠁴󠁿 22. https://t.co/DvB1I2J9Cs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/5LTWVCZ…",
+                "end": 60,
+                "expanded_url": "https://open.spotify.com/artist/5LTWVCZP9xAPItWtIVi9YR?si=FvazimlrSfGGitm2H20iag",
+                "start": 37,
+                "url": "https://t.co/DvB1I2J9Cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KittyGoremuzik",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KittyGoremuzik",
+                "start": 0,
+                "url": "https://t.co/R0qRPoKx70"
+              }
+            ]
+          }
+        },
+        "id": "1495523101697888258",
+        "location": "Down a hole, Glasgow",
+        "name": "ଘ(∩^o^)⊃━☆゜ Kitty Gore",
+        "pinned_tweet_id": "1987684249193840812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006289026211250176/qotV1eXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22901,
+          "following_count": 257,
+          "like_count": 18940,
+          "listed_count": 51,
+          "media_count": 3100,
+          "tweet_count": 6847
+        },
+        "url": "https://t.co/R0qRPoKx70",
+        "username": "vomitgorelover",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1790740797530558958",
+    "created_at": "2024-05-15T14:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T15:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790755371172425778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790755371172425778",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790750746822189146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 可是我认为在国内机子这么少人这么多的情况下规则应该拼机让更多人可以玩到这样来设计更合理😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1790740797530558958",
+        "created_at": "2024-05-15T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790755371172425778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790755371172425778",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790750746822189146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 可是我认为在国内机子这么少人这么多的情况下规则应该拼机让更多人可以玩到这样来设计更合理😢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "1790740797530558958",
+        "created_at": "2024-05-15T14:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790750746822189146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790750746822189146",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790740797530558958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 其实主要看排卡排到谁，例如轮到A,B两张卡了，这个时候B站出来说要单刷，那就很不合规矩，想单刷的话那这还没到你呢\n但如果是A要提出单刷的话，那其实没什么事情\n舞萌其实本就是单刷为主玩法，拼机为额外玩法，这和文化有关系\n在机厅每个人都是消费者，轮到自己的卡时，都有选择单刷的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1566,
+          "like_count": 26794,
+          "listed_count": 8,
+          "tweet_count": 7095
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "只是一般顺男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1877484597",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1877484597",
+                "start": 0,
+                "url": "https://t.co/x0ZUl8lt1S"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 91,
+          "like_count": 32182,
+          "listed_count": 12,
+          "tweet_count": 17702
+        },
+        "url": "https://t.co/x0ZUl8lt1S",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

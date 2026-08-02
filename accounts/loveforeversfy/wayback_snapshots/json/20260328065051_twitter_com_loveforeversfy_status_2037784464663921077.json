@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2037754956091158992",
+    "created_at": "2026-03-28T06:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037784464663921077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992142628343996416",
+          "start": 0,
+          "username": "Witch198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037784464663921077",
+    "in_reply_to_user_id": "1992142628343996416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037754956091158992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witch198964 俺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2037754956091158992",
+        "created_at": "2026-03-28T06:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037784464663921077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992142628343996416",
+              "start": 0,
+              "username": "Witch198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037784464663921077",
+        "in_reply_to_user_id": "1992142628343996416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037754956091158992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witch198964 俺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992142628343996416",
+        "conversation_id": "2037754956091158992",
+        "created_at": "2026-03-28T04:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037754956091158992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037754956091158992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买大鲨鱼，可是没人能陪我去宜家呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 1550,
+          "like_count": 33620,
+          "listed_count": 8,
+          "media_count": 1124,
+          "tweet_count": 10679
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T08:07:09.000Z",
+        "description": "MTF，TQ，ENTP，公路车，精英社会自由主义，美股/理工/生物/哲学/政经，Cantonese，同类互fo可面",
+        "id": "1992142628343996416",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Witch🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034994870910427157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037766248273170433/x_uOGJpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 321,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 292
+        },
+        "username": "Witch198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1886370783775338496"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1886370810618937420",
+    "created_at": "2025-02-03T11:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T12:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886370810618937420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Omxn5TYl1U",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/1886370810618937420/video/1",
+          "media_key": "7_1886370783775338496",
+          "start": 5,
+          "url": "https://t.co/Omxn5TYl1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886370810618937420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "公鸡下蛋 https://t.co/Omxn5TYl1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15310,
+        "height": 1280,
+        "media_key": "7_1886370783775338496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1886370783775338496/pu/img/cXePXWMmZmBZKmv_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886370783775338496/pu/vid/avc1/320x568/vWNkQTUQGD3bdBsX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886370783775338496/pu/vid/avc1/480x852/VGR_spQ13YUGB821.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886370783775338496/pu/vid/avc1/720x1280/uZDZWeefGe_yI3ax.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1886370783775338496/pu/pl/ZWUy5bsziOZ3rqY8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886370783775338496"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1886370810618937420",
+        "created_at": "2025-02-03T11:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886370810618937420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Omxn5TYl1U",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/1886370810618937420/video/1",
+              "media_key": "7_1886370783775338496",
+              "start": 5,
+              "url": "https://t.co/Omxn5TYl1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886370810618937420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公鸡下蛋 https://t.co/Omxn5TYl1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1568,
+          "like_count": 32939,
+          "listed_count": 10,
+          "media_count": 961,
+          "tweet_count": 9676
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

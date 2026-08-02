@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1815238237864296731",
+    "created_at": "2024-07-22T04:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T05:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815240826710356429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649510225341452288",
+          "start": 0,
+          "username": "cuindog57460"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815240826710356429",
+    "in_reply_to_user_id": "1649510225341452288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815240711312408979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuindog57460 好吧我以为是真人😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1815238237864296731",
+        "created_at": "2024-07-22T04:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T05:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815240826710356429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649510225341452288",
+              "start": 0,
+              "username": "cuindog57460"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815240826710356429",
+        "in_reply_to_user_id": "1649510225341452288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815240711312408979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuindog57460 好吧我以为是真人😢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1649510225341452288",
+        "conversation_id": "1815238237864296731",
+        "created_at": "2024-07-22T04:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T05:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815240711312408979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815240711312408979",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815240223170978060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 这ai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1571,
+          "like_count": 28827,
+          "listed_count": 8,
+          "tweet_count": 8088
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T20:27:45.000Z",
+        "description": "人类灭绝主义，加速进入原始社会，加速灭绝人类/世界上的另一个我@KawawaDiana8964/小号 @What1s7777777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "What1s7777777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhpartyball.miraheze.org/wiki",
+                "end": 23,
+                "expanded_url": "https://zhpartyball.miraheze.org/wiki",
+                "start": 0,
+                "url": "https://t.co/oK5El00jl9"
+              }
+            ]
+          }
+        },
+        "id": "1649510225341452288",
+        "location": "距离你8.9km",
+        "name": "荧惑高",
+        "pinned_tweet_id": "1814648690180825571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813803103487213568/Gwmk1k1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 871,
+          "like_count": 6826,
+          "listed_count": 2,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/oK5El00jl9",
+        "username": "cuindog57460",
+        "verified": false
+      }
+    ]
+  }
+}

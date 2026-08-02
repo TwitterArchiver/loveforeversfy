@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2020926004638908704",
+    "created_at": "2026-02-09T18:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T19:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020926277218336805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020926277218336805",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020926004638908704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 咳咳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20005,
+        "height": 1560,
+        "media_key": "13_2020925700249980928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020925700249980928/img/0-f2PtrxoEixOqyK.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020925700249980928/vid/avc1/320x692/3iJbff1GErJmmcIX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020925700249980928/vid/avc1/480x1040/-7vqVcH99Bfhf48T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020925700249980928/vid/avc1/720x1560/JVw6MyTA-3yoMpzB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020925700249980928/pl/nNW7FR9aztt_JrYP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2020926004638908704",
+        "created_at": "2026-02-09T18:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020926277218336805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020926277218336805",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020926004638908704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 咳咳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020925700249980928"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2020926004638908704",
+        "created_at": "2026-02-09T18:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:20:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020925807024275724",
+          "2020926004638908704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1599012090517540869",
+              "start": 15,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/weOKOQPzqo",
+              "end": 54,
+              "expanded_url": "https://x.com/Goldwater8964/status/2020926004638908704/video/1",
+              "media_key": "13_2020925700249980928",
+              "start": 31,
+              "url": "https://t.co/weOKOQPzqo"
+            },
+            {
+              "display_url": "x.com/goldwater8964/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/goldwater8964/status/2020598734716113096",
+              "start": 55,
+              "url": "https://t.co/M6ouiAP83W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020926004638908704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020598734716113096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只给你们看十个小时，然后就删\n@loveforeversfy https://t.co/weOKOQPzqo https://t.co/M6ouiAP83W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 1529,
+          "like_count": 32496,
+          "listed_count": 8,
+          "media_count": 1060,
+          "tweet_count": 10313
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断政治立场/成分/学历/家境/圈子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2020453742424789167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 525,
+          "like_count": 2573,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 625
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889196707931377664"
+      ],
+      "media_source_tweet_id": [
+        "1889196712025296974"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1889583001249468524",
+    "created_at": "2025-02-12T07:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T08:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889583001249468524"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1334247847374548992",
+          "start": 3,
+          "username": "SaintSFGil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4gx2Knpf5l",
+          "end": 51,
+          "expanded_url": "https://x.com/SaintSFGil/status/1889196712025296974/photo/1",
+          "media_key": "3_1889196707931377664",
+          "start": 28,
+          "url": "https://t.co/4gx2Knpf5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889583001249468524",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889196712025296974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaintSFGil: #maimai_art https://t.co/4gx2Knpf5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1889196707931377664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjfGZX8WUAACuu7.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889196707931377664"
+          ],
+          "media_source_tweet_id": [
+            "1889196712025296974"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1889583001249468524",
+        "created_at": "2025-02-12T07:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889583001249468524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1334247847374548992",
+              "start": 3,
+              "username": "SaintSFGil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gx2Knpf5l",
+              "end": 51,
+              "expanded_url": "https://x.com/SaintSFGil/status/1889196712025296974/photo/1",
+              "media_key": "3_1889196707931377664",
+              "start": 28,
+              "url": "https://t.co/4gx2Knpf5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889583001249468524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889196712025296974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaintSFGil: #maimai_art https://t.co/4gx2Knpf5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889196707931377664"
+          ]
+        },
+        "author_id": "1334247847374548992",
+        "conversation_id": "1889196712025296974",
+        "created_at": "2025-02-11T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889196712025296974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gx2Knpf5l",
+              "end": 35,
+              "expanded_url": "https://x.com/SaintSFGil/status/1889196712025296974/photo/1",
+              "media_key": "3_1889196707931377664",
+              "start": 12,
+              "url": "https://t.co/4gx2Knpf5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889196712025296974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2880,
+          "like_count": 253,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/4gx2Knpf5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1566,
+          "like_count": 32957,
+          "listed_count": 10,
+          "media_count": 965,
+          "tweet_count": 9691
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-02T21:27:38.000Z",
+        "description": "20 - Rhythm Games, Cars, Airsoft. Graphic Designer. IIDX DJ GIL 9th Dan, CHUNITHM 16.29, WACCA 2650 Avid Plushie Collector. Art @SaintSFGil2 Priv @SaintSFGil3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "SaintSFGil2"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "SaintSFGil3"
+              }
+            ]
+          }
+        },
+        "id": "1334247847374548992",
+        "location": "Round1 GVM Staff!",
+        "name": "Saint “Super 𝓕𝓻𝓮𝓪𝓴” Gil",
+        "pinned_tweet_id": "1882096769246605773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889569582744035328/eHTG-5aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 2371,
+          "like_count": 238817,
+          "listed_count": 19,
+          "media_count": 14252,
+          "tweet_count": 47576
+        },
+        "username": "SaintSFGil",
+        "verified": false
+      }
+    ]
+  }
+}

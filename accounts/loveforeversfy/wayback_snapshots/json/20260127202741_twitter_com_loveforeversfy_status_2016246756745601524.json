@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2015780636515283199",
+    "created_at": "2026-01-27T20:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016246756745601524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009488009180401667",
+          "start": 0,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016246756745601524",
+    "in_reply_to_user_id": "2009488009180401667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015780636515283199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asabakasaiko 主人我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2015780636515283199",
+        "created_at": "2026-01-27T20:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016246756745601524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016246756745601524",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015780636515283199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko 主人我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009488009180401667",
+        "conversation_id": "2015780636515283199",
+        "created_at": "2026-01-26T13:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015780636515283199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2015704075187429844",
+              "start": 6,
+              "url": "https://t.co/EQwsQyucZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015780636515283199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015704075187429844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的狗 https://t.co/EQwsQyucZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2015704075187429844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1524,
+          "like_count": 32356,
+          "listed_count": 7,
+          "media_count": 1050,
+          "tweet_count": 10200
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看，男娘，🚪58，88，什么事都可以来私我",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 129,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 234
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

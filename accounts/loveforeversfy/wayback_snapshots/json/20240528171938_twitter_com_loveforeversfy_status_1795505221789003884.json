@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1795503585758745056",
+    "created_at": "2024-05-28T17:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T18:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795505221789003884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492097874565468172",
+          "start": 0,
+          "username": "citrus_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795505221789003884",
+    "in_reply_to_user_id": "1492097874565468172",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795503585758745056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citrus_404 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1795503585758745056",
+        "created_at": "2024-05-28T17:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T18:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795505221789003884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492097874565468172",
+              "start": 0,
+              "username": "citrus_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795505221789003884",
+        "in_reply_to_user_id": "1492097874565468172",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795503585758745056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citrus_404 🥺"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795503574811910144"
+          ]
+        },
+        "author_id": "1492097874565468172",
+        "conversation_id": "1795503585758745056",
+        "created_at": "2024-05-28T17:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T18:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795503585758745056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/X1TjHbXDEN",
+              "end": 28,
+              "expanded_url": "https://twitter.com/citrus_404/status/1795503585758745056/photo/1",
+              "media_key": "3_1795503574811910144",
+              "start": 5,
+              "url": "https://t.co/X1TjHbXDEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795503585758745056",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 208,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mood https://t.co/X1TjHbXDEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 1564,
+          "like_count": 27462,
+          "listed_count": 8,
+          "tweet_count": 7287
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1753064413186183275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20279,
+          "following_count": 220,
+          "like_count": 41714,
+          "listed_count": 59,
+          "tweet_count": 11754
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2050098592296431865",
+    "created_at": "2026-05-16T17:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055708452207669335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055708452207669335",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055705563296825752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang 好扣好扣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2050098592296431865",
+        "created_at": "2026-05-16T17:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055708452207669335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055708452207669335",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055705563296825752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang 好扣好扣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393065220323647494",
+        "conversation_id": "2050098592296431865",
+        "created_at": "2026-05-16T17:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055705563296825752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055705563296825752",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055704850298798373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 我在吉隆坡给他的相机和电脑扣了，笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 1557,
+          "like_count": 34975,
+          "listed_count": 9,
+          "media_count": 1177,
+          "tweet_count": 11154
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…/只精通4g63和2jz其他发动机别问我我不知道",
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053918733442420736/VsXftETk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 590,
+          "like_count": 6909,
+          "listed_count": 5,
+          "media_count": 795,
+          "tweet_count": 6496
+        },
+        "username": "dangshuang",
+        "verified": true
+      }
+    ]
+  }
+}

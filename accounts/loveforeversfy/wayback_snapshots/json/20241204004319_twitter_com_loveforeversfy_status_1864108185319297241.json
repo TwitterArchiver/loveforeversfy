@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1864098976292581515",
+    "created_at": "2024-12-04T00:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T01:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864108185319297241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608817124704923648",
+          "start": 0,
+          "username": "Hyperbubuemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864108185319297241",
+    "in_reply_to_user_id": "1608817124704923648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864098976292581515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperbubuemia 我我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1864098976292581515",
+        "created_at": "2024-12-04T00:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T01:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864108185319297241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608817124704923648",
+              "start": 0,
+              "username": "Hyperbubuemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864108185319297241",
+        "in_reply_to_user_id": "1608817124704923648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864098976292581515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperbubuemia 我我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608817124704923648",
+        "conversation_id": "1864098976292581515",
+        "created_at": "2024-12-04T00:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T01:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864098976292581515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864098976292581515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人要加布布steam好友吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1584,
+          "like_count": 32580,
+          "listed_count": 7,
+          "media_count": 934,
+          "tweet_count": 9510
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "吃吃卡卡鼠综合症🐹🤍｜每日心情@xibubuQvQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "xibubuQvQ"
+              }
+            ]
+          }
+        },
+        "id": "1608817124704923648",
+        "location": "阳光蘑菇房🇨🇦",
+        "name": "栖布布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852388428953886720/diuFxiff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 705,
+          "like_count": 7996,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 4748
+        },
+        "username": "Hyperbubuemia",
+        "verified": true
+      }
+    ]
+  }
+}

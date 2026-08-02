@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1843830220622835878",
+    "created_at": "2024-10-09T01:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T02:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843832676865945753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843832676865945753",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843830220622835878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii 不清的水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1843830220622835878",
+        "created_at": "2024-10-09T01:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T02:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843832676865945753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843832676865945753",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843830220622835878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 不清的水"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843830204659314688"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1843830220622835878",
+        "created_at": "2024-10-09T01:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T02:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843830220622835878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnoRXQDd1T",
+              "end": 46,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1843830220622835878/photo/1",
+              "media_key": "3_1843830204659314688",
+              "start": 23,
+              "url": "https://t.co/LnoRXQDd1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843830220622835878",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水至清则无（）？\n1.薯条\n2.鱼\n3.钝角 https://t.co/LnoRXQDd1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "？ | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1581,
+          "like_count": 31099,
+          "listed_count": 7,
+          "tweet_count": 8751
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "中推特供之故事大王的人间冒险。世界反折耳根协会会长现已卷土重来。来聊，承接：防水补漏、情感咨询、水泥型号推荐、排忧解难、摘星揽月。🚪88，美女免费。投喂爱发电右下链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 380,
+          "like_count": 1667,
+          "listed_count": 6,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

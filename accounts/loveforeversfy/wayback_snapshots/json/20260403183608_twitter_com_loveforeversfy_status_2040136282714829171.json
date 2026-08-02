@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040068866530033664"
+      ],
+      "media_source_tweet_id": [
+        "2040068892173976017"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2040136282714829171",
+    "created_at": "2026-04-03T18:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040136282714829171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942051519395983360",
+          "start": 3,
+          "username": "bluewolflan66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnVTiBHTxI",
+          "end": 57,
+          "expanded_url": "https://x.com/bluewolflan66/status/2040068892173976017/video/1",
+          "media_key": "7_2040068866530033664",
+          "start": 34,
+          "url": "https://t.co/PnVTiBHTxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040136282714829171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040068892173976017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluewolflan66: 最高指示：骚男娘到底在哪里？ https://t.co/PnVTiBHTxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27167,
+        "height": 720,
+        "media_key": "7_2040068866530033664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040068866530033664/pu/img/DSQH7OIdQVY09gk0.jpg",
+        "public_metrics": {
+          "view_count": 5397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040068866530033664/pu/vid/avc1/480x270/fMB6zSx6wtBQ8iWe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040068866530033664/pu/vid/avc1/640x360/jnfq8Yc8pBvFOz2d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040068866530033664/pu/vid/avc1/1280x720/6TfhQH-Z3Q_QPl7z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040068866530033664/pu/pl/sBeI4uIzVyT761jl.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040068866530033664"
+          ],
+          "media_source_tweet_id": [
+            "2040068892173976017"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2040136282714829171",
+        "created_at": "2026-04-03T18:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040136282714829171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942051519395983360",
+              "start": 3,
+              "username": "bluewolflan66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnVTiBHTxI",
+              "end": 57,
+              "expanded_url": "https://x.com/bluewolflan66/status/2040068892173976017/video/1",
+              "media_key": "7_2040068866530033664",
+              "start": 34,
+              "url": "https://t.co/PnVTiBHTxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040136282714829171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040068892173976017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluewolflan66: 最高指示：骚男娘到底在哪里？ https://t.co/PnVTiBHTxI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040068866530033664"
+          ]
+        },
+        "author_id": "1942051519395983360",
+        "conversation_id": "2040068892173976017",
+        "created_at": "2026-04-03T14:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040068892173976017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnVTiBHTxI",
+              "end": 38,
+              "expanded_url": "https://x.com/bluewolflan66/status/2040068892173976017/video/1",
+              "media_key": "7_2040068866530033664",
+              "start": 15,
+              "url": "https://t.co/PnVTiBHTxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040068892173976017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 11276,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "最高指示：骚男娘到底在哪里？ https://t.co/PnVTiBHTxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 1549,
+          "like_count": 33762,
+          "listed_count": 8,
+          "media_count": 1136,
+          "tweet_count": 10724
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T02:42:37.000Z",
+        "description": "🇹🇼🇯🇵🇺🇦🇮🇱  包蜜，小學博士生，管理老中這一块，安卓護照持有者，謝謝你發給我的台灣國國籍🥰",
+        "id": "1942051519395983360",
+        "location": "Singapore",
+        "name": "阿蘭（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005065655738138624/Wuwox6lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 236,
+          "like_count": 7330,
+          "listed_count": 15,
+          "media_count": 1348,
+          "tweet_count": 3745
+        },
+        "username": "bluewolflan66",
+        "verified": true
+      }
+    ]
+  }
+}

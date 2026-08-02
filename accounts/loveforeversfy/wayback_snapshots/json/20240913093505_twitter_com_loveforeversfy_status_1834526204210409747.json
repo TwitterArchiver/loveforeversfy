@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1834387017591128417",
+    "created_at": "2024-09-13T09:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T10:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834526204210409747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1294873066984488960",
+          "start": 0,
+          "username": "Qiji67373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834526204210409747",
+    "in_reply_to_user_id": "1294873066984488960",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834413874147402083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiji67373 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1834387017591128417",
+        "created_at": "2024-09-13T09:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T10:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834526204210409747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1294873066984488960",
+              "start": 0,
+              "username": "Qiji67373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834526204210409747",
+        "in_reply_to_user_id": "1294873066984488960",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834413874147402083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiji67373 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294873066984488960",
+        "conversation_id": "1834387017591128417",
+        "created_at": "2024-09-13T02:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T03:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834413874147402083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834413874147402083",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834387017591128417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 蘑菇你好漂亮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 1570,
+          "like_count": 30432,
+          "listed_count": 7,
+          "tweet_count": 8523
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "奇迹师；长大，但不要成为无趣的大人；有且仅有一个爱人  @LazyAline ；保持对美好和艺术的向往；世界反折耳根协会会员；在火车站等飞机的人；",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "LazyAline"
+              }
+            ]
+          }
+        },
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "奇迹行者抓不住彩色蝴蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713957329677500418/wAHUHaSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 483,
+          "like_count": 2927,
+          "listed_count": 15,
+          "tweet_count": 4594
+        },
+        "username": "Qiji67373",
+        "verified": false
+      }
+    ]
+  }
+}

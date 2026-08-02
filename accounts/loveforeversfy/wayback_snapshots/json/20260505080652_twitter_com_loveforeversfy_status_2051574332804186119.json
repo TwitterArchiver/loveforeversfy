@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2051574331579502592"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2051574332804186119",
+    "created_at": "2026-05-05T08:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051574332804186119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051574332804186119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我算什么圈的推🤔"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-06T08:06:51.000Z",
+        "id": "2051574331579502592",
+        "options": [
+          {
+            "label": "跨畜",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "欧迪蛆",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "死妈",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "碎碎念",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2051574331579502592"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2051574332804186119",
+        "created_at": "2026-05-05T08:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051574332804186119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051574332804186119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我算什么圈的推🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1555,
+          "like_count": 34667,
+          "listed_count": 9,
+          "media_count": 1164,
+          "tweet_count": 11060
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

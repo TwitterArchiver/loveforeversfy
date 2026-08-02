@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2026558461895659672",
+    "created_at": "2026-02-25T10:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026611163631591694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818731995310309376",
+          "start": 0,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026611163631591694",
+    "in_reply_to_user_id": "1818731995310309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026608148254175513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregaabalin 这边好热。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2026558461895659672",
+        "created_at": "2026-02-25T10:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026611163631591694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026611163631591694",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026608148254175513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregaabalin 这边好热。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818731995310309376",
+        "conversation_id": "2026558461895659672",
+        "created_at": "2026-02-25T10:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026608148254175513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026608148254175513",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026558461895659672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 我昨天刚走掉的……\n带我回去😭\n北边好冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 1536,
+          "like_count": 32848,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 10472
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "个人信息",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔怔乐子人",
+        "pinned_tweet_id": "2019287591275958775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021824040504373248/slwPNlHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 2736,
+          "like_count": 169931,
+          "listed_count": 12,
+          "media_count": 1577,
+          "tweet_count": 32319
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

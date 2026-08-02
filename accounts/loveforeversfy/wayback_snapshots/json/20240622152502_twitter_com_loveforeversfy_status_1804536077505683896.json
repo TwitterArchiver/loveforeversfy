@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1804502957314204055",
+    "created_at": "2024-06-22T15:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T16:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804536077505683896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389509705999949829",
+          "start": 0,
+          "username": "EmoPoppyRequiem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804536077505683896",
+    "in_reply_to_user_id": "1389509705999949829",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804529622647796213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoPoppyRequiem 对"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1804529622647796213].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1804529622647796213",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1804529622647796213"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1804502957314204055",
+        "created_at": "2024-06-22T15:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T16:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804536077505683896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389509705999949829",
+              "start": 0,
+              "username": "EmoPoppyRequiem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804536077505683896",
+        "in_reply_to_user_id": "1389509705999949829",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804529622647796213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoPoppyRequiem 对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1575,
+          "like_count": 27980,
+          "listed_count": 8,
+          "tweet_count": 7597
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ",
+        "id": "1389509705999949829",
+        "name": "薇可絲✂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678441323953819648/-vcpDqIO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1835,
+          "like_count": 115699,
+          "listed_count": 8,
+          "tweet_count": 58987
+        },
+        "username": "EmoPoppyRequiem",
+        "verified": false
+      }
+    ]
+  }
+}

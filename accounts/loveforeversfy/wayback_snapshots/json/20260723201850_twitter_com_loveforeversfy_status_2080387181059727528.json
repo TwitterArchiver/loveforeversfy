@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2080301951112409536",
+    "created_at": "2026-07-23T20:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080387181059727528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902754830835392512",
+          "start": 0,
+          "username": "NorthLingkongRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080387181059727528",
+    "in_reply_to_user_id": "1902754830835392512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080351913661681846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NorthLingkongRd 玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2080301951112409536",
+        "created_at": "2026-07-23T20:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080387181059727528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902754830835392512",
+              "start": 0,
+              "username": "NorthLingkongRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080387181059727528",
+        "in_reply_to_user_id": "1902754830835392512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080351913661681846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorthLingkongRd 玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902754830835392512",
+        "conversation_id": "2080301951112409536",
+        "created_at": "2026-07-23T17:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080351913661681846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080351913661681846",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080301951112409536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 操了，你跟骚爹玩不跟我玩，操死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 1556,
+          "like_count": 35735,
+          "listed_count": 10,
+          "media_count": 1246,
+          "tweet_count": 11561
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T16:15:14.000Z",
+        "description": "唯见南来北往，月恒日升。\nNO OVERDOSE.",
+        "id": "1902754830835392512",
+        "location": "North Lingkong Road Station",
+        "name": "Shanghai Metro Line 22",
+        "pinned_tweet_id": "2028619184989749505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903499041771749376/VRerfJui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 138,
+          "like_count": 4833,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "NorthLingkongRd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2011751726987297130",
+    "created_at": "2026-01-15T12:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T13:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011773223042752599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664627530425352192",
+          "start": 0,
+          "username": "MGlimpze26770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011773223042752599",
+    "in_reply_to_user_id": "1664627530425352192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011770979975118952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MGlimpze26770 🥺❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2011751726987297130",
+        "created_at": "2026-01-15T12:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011773223042752599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664627530425352192",
+              "start": 0,
+              "username": "MGlimpze26770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011773223042752599",
+        "in_reply_to_user_id": "1664627530425352192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011770979975118952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MGlimpze26770 🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "2011751726987297130",
+        "created_at": "2026-01-15T12:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011770979975118952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011770979975118952",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011769617749065857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 还在计划，没有预算买新衣服😇（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "再后来所有人死了烂了",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1512,
+          "like_count": 32116,
+          "listed_count": 7,
+          "media_count": 1038,
+          "tweet_count": 10102
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 391,
+          "like_count": 6857,
+          "listed_count": 3,
+          "media_count": 689,
+          "tweet_count": 6378
+        },
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

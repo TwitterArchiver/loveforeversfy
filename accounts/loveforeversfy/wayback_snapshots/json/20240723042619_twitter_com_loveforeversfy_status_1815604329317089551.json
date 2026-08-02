@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1815602267028095074",
+    "created_at": "2024-07-23T04:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T05:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815604329317089551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815604329317089551",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815602267028095074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya 我是你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1815602267028095074",
+        "created_at": "2024-07-23T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815604329317089551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815604329317089551",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815602267028095074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya 我是你妈"
+      },
+      {
+        "attachments": {},
+        "author_id": "1762478947621638144",
+        "conversation_id": "1815602267028095074",
+        "created_at": "2024-07-23T04:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815602267028095074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hatadanna/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hatadanna/status/1815331302138392660",
+              "start": 5,
+              "url": "https://t.co/xZ2gGvYKIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815602267028095074",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815331302138392660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没爸妈😎 https://t.co/xZ2gGvYKIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1571,
+          "like_count": 28878,
+          "listed_count": 8,
+          "tweet_count": 8107
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "这一次我们能互相陪伴，直至落幕 / 我的一切-------我的一切@Aranda_5201314 / @IWantMyLilDoggy / -------破碎 下坠 恍惚 上升 濒死 / 电影 摄像师 喜欢酷酷运镜 / 攒留学费中 /雨从天降，血液倒流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Aranda_5201314"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          }
+        },
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764447429301309440/812ytq0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 24,
+          "like_count": 965,
+          "listed_count": 0,
+          "tweet_count": 464
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

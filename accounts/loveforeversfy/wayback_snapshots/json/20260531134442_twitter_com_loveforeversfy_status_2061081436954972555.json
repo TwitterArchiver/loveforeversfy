@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060506184818245632"
+      ],
+      "media_source_tweet_id": [
+        "2060506283912884343"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2061081436954972555",
+    "created_at": "2026-05-31T13:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061081436954972555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915165497470939136",
+          "start": 3,
+          "username": "maus_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJlY3tPnEJ",
+          "end": 65,
+          "expanded_url": "https://x.com/maus_chan/status/2060506283912884343/video/1",
+          "media_key": "13_2060506184818245632",
+          "start": 42,
+          "url": "https://t.co/aJlY3tPnEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061081436954972555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 866
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060506283912884343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maus_chan: no P-chan dont expload,.., https://t.co/aJlY3tPnEJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5735,
+        "height": 720,
+        "media_key": "13_2060506184818245632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060506184818245632/img/Z0sr9MEPo08xSewn.jpg",
+        "public_metrics": {
+          "view_count": 16125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060506184818245632/vid/avc1/276x270/BrlzHKFP66r4Oca9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060506184818245632/vid/avc1/370x360/ljL2dfit9G8tqdiK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060506184818245632/vid/avc1/740x720/NxinuJzaCDcRTWQG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060506184818245632/pl/nQIGZVI3y-ghD3w9.m3u8"
+          }
+        ],
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060506184818245632"
+          ],
+          "media_source_tweet_id": [
+            "2060506283912884343"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2061081436954972555",
+        "created_at": "2026-05-31T13:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061081436954972555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915165497470939136",
+              "start": 3,
+              "username": "maus_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJlY3tPnEJ",
+              "end": 65,
+              "expanded_url": "https://x.com/maus_chan/status/2060506283912884343/video/1",
+              "media_key": "13_2060506184818245632",
+              "start": 42,
+              "url": "https://t.co/aJlY3tPnEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061081436954972555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 866
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060506283912884343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maus_chan: no P-chan dont expload,.., https://t.co/aJlY3tPnEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060506184818245632"
+          ]
+        },
+        "author_id": "1915165497470939136",
+        "conversation_id": "2060506283912884343",
+        "created_at": "2026-05-29T23:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060506283912884343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJlY3tPnEJ",
+              "end": 50,
+              "expanded_url": "https://x.com/maus_chan/status/2060506283912884343/video/1",
+              "media_key": "13_2060506184818245632",
+              "start": 27,
+              "url": "https://t.co/aJlY3tPnEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060506283912884343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 43501,
+          "like_count": 5174,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 866
+        },
+        "reply_settings": "everyone",
+        "text": "no P-chan dont expload,.., https://t.co/aJlY3tPnEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1557,
+          "like_count": 35109,
+          "listed_count": 8,
+          "media_count": 1188,
+          "tweet_count": 11238
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T22:07:10.000Z",
+        "description": "_________________๑♡⁠๑___________________\ncute imouto princess ⋮ i post outfits sometimes \ni like hugs too,.,.,. (｡･ω･｡)ﾉ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/yuki_yuyu",
+                "end": 23,
+                "expanded_url": "https://throne.com/yuki_yuyu",
+                "start": 0,
+                "url": "https://t.co/OmjuWE1gFo"
+              }
+            ]
+          }
+        },
+        "id": "1915165497470939136",
+        "location": "MDNI",
+        "name": "⊹⊱•••《 𝕂𝕀𝔸 》•••⊰⊹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060506677216972803/FtNoFNjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9113,
+          "following_count": 875,
+          "like_count": 14248,
+          "listed_count": 14,
+          "media_count": 1944,
+          "tweet_count": 22698
+        },
+        "url": "https://t.co/OmjuWE1gFo",
+        "username": "maus_chan",
+        "verified": true
+      }
+    ]
+  }
+}

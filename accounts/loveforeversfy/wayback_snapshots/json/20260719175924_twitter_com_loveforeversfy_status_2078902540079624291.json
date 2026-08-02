@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2078817744993284530",
+    "created_at": "2026-07-19T17:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078902540079624291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078902540079624291",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078817744993284530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 😱😱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078817744993284530].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078817744993284530",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078817744993284530"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2078817744993284530",
+        "created_at": "2026-07-19T17:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078902540079624291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078902540079624291",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078817744993284530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 1556,
+          "like_count": 35654,
+          "listed_count": 10,
+          "media_count": 1239,
+          "tweet_count": 11527
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "因为我们都还肺痒痒，不知烟高雾厚",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "缅北老丁",
+        "pinned_tweet_id": "2070145424841965673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068155672940929024/AFlQLk7S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9784,
+          "following_count": 3305,
+          "like_count": 50005,
+          "listed_count": 34,
+          "media_count": 1561,
+          "tweet_count": 13216
+        },
+        "url": "",
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1837652227822952926",
+    "created_at": "2024-09-22T00:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T01:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837652227822952926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667772925347528704",
+          "start": 3,
+          "username": "DumbLumiThing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837652227822952926",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1636
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837518915716645182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DumbLumiThing: \"If you push the button, you there is a 99% chance you will get a blåhaj, but there is a 1% chance you become a girl\" ht…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1837652227822952926",
+        "created_at": "2024-09-22T00:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T01:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837652227822952926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667772925347528704",
+              "start": 3,
+              "username": "DumbLumiThing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837652227822952926",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1636
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837518915716645182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DumbLumiThing: \"If you push the button, you there is a 99% chance you will get a blåhaj, but there is a 1% chance you become a girl\" ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837518766466650112"
+          ]
+        },
+        "author_id": "1667772925347528704",
+        "conversation_id": "1837518915716645182",
+        "created_at": "2024-09-21T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837518915716645182"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "blåhaj",
+              "probability": 0.4346,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjnv5htv5x",
+              "end": 141,
+              "expanded_url": "https://twitter.com/DumbLumiThing/status/1837518915716645182/video/1",
+              "media_key": "7_1837518766466650112",
+              "start": 118,
+              "url": "https://t.co/CJNV5HTV5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837518915716645182",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1497,
+          "impression_count": 216532,
+          "like_count": 15003,
+          "quote_count": 74,
+          "reply_count": 133,
+          "retweet_count": 1636
+        },
+        "reply_settings": "everyone",
+        "text": "\"If you push the button, you there is a 99% chance you will get a blåhaj, but there is a 1% chance you become a girl\" https://t.co/CJNV5HTV5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1575,
+          "like_count": 30650,
+          "listed_count": 7,
+          "tweet_count": 8581
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T05:57:23.000Z",
+        "description": "Literally bocchi irl\n\nTaken",
+        "id": "1667772925347528704",
+        "location": "Setagaya, Tokyo",
+        "name": "🌸Lumi🌸",
+        "pinned_tweet_id": "1829034329382531300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836947195909795840/xvpCAzh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10142,
+          "following_count": 2394,
+          "like_count": 5258,
+          "listed_count": 75,
+          "tweet_count": 6086
+        },
+        "username": "DumbLumiThing",
+        "verified": false
+      }
+    ]
+  }
+}

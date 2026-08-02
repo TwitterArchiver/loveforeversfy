@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1825500424050544934"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1825502085917630679",
+    "created_at": "2024-08-19T11:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T12:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825502085917630679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1217118667625775105",
+          "start": 3,
+          "username": "InfernoidSnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4gqnncy59x",
+          "end": 51,
+          "expanded_url": "https://twitter.com/InfernoidSnow/status/1825500424050544934/video/1",
+          "media_key": "7_1825500388906373120",
+          "start": 28,
+          "url": "https://t.co/4gqNncy59X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825502085917630679",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825500424050544934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @InfernoidSnow: 武术指导：叮咚鸡 https://t.co/4gqNncy59X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1825500424050544934"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1825502085917630679",
+        "created_at": "2024-08-19T11:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825502085917630679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1217118667625775105",
+              "start": 3,
+              "username": "InfernoidSnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gqnncy59x",
+              "end": 51,
+              "expanded_url": "https://twitter.com/InfernoidSnow/status/1825500424050544934/video/1",
+              "media_key": "7_1825500388906373120",
+              "start": 28,
+              "url": "https://t.co/4gqNncy59X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825502085917630679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825500424050544934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @InfernoidSnow: 武术指导：叮咚鸡 https://t.co/4gqNncy59X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825500388906373120"
+          ]
+        },
+        "author_id": "1217118667625775105",
+        "conversation_id": "1825500424050544934",
+        "created_at": "2024-08-19T11:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825500424050544934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gqnncy59x",
+              "end": 32,
+              "expanded_url": "https://twitter.com/InfernoidSnow/status/1825500424050544934/video/1",
+              "media_key": "7_1825500388906373120",
+              "start": 9,
+              "url": "https://t.co/4gqNncy59X"
+            },
+            {
+              "display_url": "x.com/SKINSWukong/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/SKINSWukong/status/1825171980108140809",
+              "start": 33,
+              "url": "https://t.co/MGRZFK3TqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825500424050544934",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825171980108140809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "武术指导：叮咚鸡 https://t.co/4gqNncy59X https://t.co/MGRZFK3TqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐丽还我钱盆栽🍄",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1571,
+          "like_count": 29791,
+          "listed_count": 8,
+          "tweet_count": 8353
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-14T16:18:09.000Z",
+        "description": "天下無敵の幸運が永远にあなた达に伴うことを望みます",
+        "id": "1217118667625775105",
+        "location": "桦树世界",
+        "name": "500％醇厚桃汁",
+        "pinned_tweet_id": "1744511870059286981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821032646220406784/U1ZQuK9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 1015,
+          "like_count": 64055,
+          "listed_count": 4,
+          "tweet_count": 20767
+        },
+        "username": "InfernoidSnow",
+        "verified": false
+      }
+    ]
+  }
+}

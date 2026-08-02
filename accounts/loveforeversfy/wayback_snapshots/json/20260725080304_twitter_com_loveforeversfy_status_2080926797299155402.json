@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2080926797299155402",
+    "created_at": "2026-07-25T08:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080926797299155402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zdragov/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zdragov/status/2080511780640678125",
+          "start": 3,
+          "url": "https://t.co/dBlEYdwFqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080926797299155402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080511780640678125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同感 https://t.co/dBlEYdwFqf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2080926797299155402",
+        "created_at": "2026-07-25T08:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080926797299155402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zdragov/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zdragov/status/2080511780640678125",
+              "start": 3,
+              "url": "https://t.co/dBlEYdwFqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080926797299155402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080511780640678125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同感 https://t.co/dBlEYdwFqf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1200982989317885953",
+        "conversation_id": "2080204455631548636",
+        "created_at": "2026-07-24T04:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080511780640678125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968887571334971392",
+              "start": 0,
+              "username": "Antiqua2161575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080511780640678125",
+        "in_reply_to_user_id": "1968887571334971392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1961,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080204455631548636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antiqua2161575 why r we cheating in maimai bro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 1558,
+          "like_count": 35756,
+          "listed_count": 10,
+          "media_count": 1247,
+          "tweet_count": 11565
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-01T03:40:45.000Z",
+        "description": "“Mfs be on vacation and still be thinking about their POS Honda” 🇹🇭🇳🇿 | turn off my retweets pls",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.pronouns.page/@zdragov",
+                "end": 23,
+                "expanded_url": "https://en.pronouns.page/@zdragov",
+                "start": 0,
+                "url": "https://t.co/oRxnYKPIFP"
+              }
+            ]
+          }
+        },
+        "id": "1200982989317885953",
+        "name": "zdr",
+        "pinned_tweet_id": "2000954014125752516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573411213379506177/FUbdJE2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 985,
+          "like_count": 285446,
+          "listed_count": 3,
+          "media_count": 1504,
+          "tweet_count": 61510
+        },
+        "url": "https://t.co/oRxnYKPIFP",
+        "username": "zdragov",
+        "verified": false
+      }
+    ]
+  }
+}

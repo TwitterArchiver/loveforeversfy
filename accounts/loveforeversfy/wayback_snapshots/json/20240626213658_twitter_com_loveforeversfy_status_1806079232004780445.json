@@ -1,0 +1,258 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1805697189869764609"
+      ],
+      "media_source_tweet_id": [
+        "1805697229099090136"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1806079232004780445",
+    "created_at": "2024-06-26T21:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T22:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806079232004780445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "271210628",
+          "start": 3,
+          "username": "iFunny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/v9uic74cdf",
+          "end": 35,
+          "expanded_url": "https://twitter.com/iFunny/status/1805697229099090136/video/1",
+          "media_key": "7_1805697189869764609",
+          "start": 12,
+          "url": "https://t.co/v9uic74cdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806079232004780445",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 722
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805697229099090136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iFunny: https://t.co/v9uic74cdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3530,
+        "height": 640,
+        "media_key": "7_1805697189869764609",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1805697189869764609/pu/img/l-eXG53Y-hJXV3hp.jpg",
+        "public_metrics": {
+          "view_count": 40617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805697189869764609/pu/vid/avc1/320x320/vtT-H4LW4TY8wFrm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805697189869764609/pu/vid/avc1/540x540/uL0dOVVIcaqAMHcl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805697189869764609/pu/vid/avc1/640x640/3QSGBMrJVeWvt3A6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1805697189869764609/pu/pl/ye51Fx0bs-Kq8snT.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805697189869764609"
+          ],
+          "media_source_tweet_id": [
+            "1805697229099090136"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1806079232004780445",
+        "created_at": "2024-06-26T21:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T22:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806079232004780445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "271210628",
+              "start": 3,
+              "username": "iFunny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/v9uic74cdf",
+              "end": 35,
+              "expanded_url": "https://twitter.com/iFunny/status/1805697229099090136/video/1",
+              "media_key": "7_1805697189869764609",
+              "start": 12,
+              "url": "https://t.co/v9uic74cdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806079232004780445",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 722
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805697229099090136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iFunny: https://t.co/v9uic74cdf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805697189869764609"
+          ]
+        },
+        "author_id": "271210628",
+        "conversation_id": "1805697229099090136",
+        "created_at": "2024-06-25T20:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T21:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805697229099090136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/v9uic74cdf",
+              "end": 23,
+              "expanded_url": "https://twitter.com/iFunny/status/1805697229099090136/video/1",
+              "media_key": "7_1805697189869764609",
+              "start": 0,
+              "url": "https://t.co/v9uic74cdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805697229099090136",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1016,
+          "impression_count": 66168,
+          "like_count": 5094,
+          "quote_count": 31,
+          "reply_count": 22,
+          "retweet_count": 722
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v9uic74cdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1570,
+          "like_count": 28116,
+          "listed_count": 8,
+          "tweet_count": 7639
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-24T02:18:30.000Z",
+        "description": "Official X account for iFunny 🙂 Mostly Satire",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/ifunny",
+                "end": 23,
+                "expanded_url": "https://bento.me/ifunny",
+                "start": 0,
+                "url": "https://t.co/DJ4bUvIezZ"
+              }
+            ]
+          }
+        },
+        "id": "271210628",
+        "name": "iFunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805238121724010496/P6puR_ZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106505,
+          "following_count": 633,
+          "like_count": 8242,
+          "listed_count": 101,
+          "tweet_count": 23290
+        },
+        "url": "https://t.co/DJ4bUvIezZ",
+        "username": "iFunny",
+        "verified": true
+      }
+    ]
+  }
+}

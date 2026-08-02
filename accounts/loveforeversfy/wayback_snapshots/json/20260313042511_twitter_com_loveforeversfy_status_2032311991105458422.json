@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2032311991105458422",
+    "created_at": "2026-03-13T04:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032311991105458422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032311991105458422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031938485758935130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hg3551019177402: 医生能不能给我开点冰毒抗抑郁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2032311991105458422",
+        "created_at": "2026-03-13T04:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032311991105458422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032311991105458422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031938485758935130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hg3551019177402: 医生能不能给我开点冰毒抗抑郁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2031938485758935130",
+        "created_at": "2026-03-12T03:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031938485758935130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031938485758935130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19654,
+          "like_count": 345,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "医生能不能给我开点冰毒抗抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 1540,
+          "like_count": 33324,
+          "listed_count": 8,
+          "media_count": 1112,
+          "tweet_count": 10594
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "我有心境障碍👁",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2031205922421485909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030171547676332036/mrTSo8cT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 287,
+          "like_count": 18116,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 6484
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

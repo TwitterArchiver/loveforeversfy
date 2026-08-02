@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020243580162584577",
+        "3_2020243580414283777",
+        "3_2020243580430987264",
+        "3_2020243581106286592"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2020243584084218182",
+    "created_at": "2026-02-07T21:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T22:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020243584084218182"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "美菇秀秀",
+          "probability": 0.3241,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggNeDziTmL",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+          "media_key": "3_2020243580162584577",
+          "start": 5,
+          "url": "https://t.co/ggNeDziTmL"
+        },
+        {
+          "display_url": "pic.x.com/ggNeDziTmL",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+          "media_key": "3_2020243580414283777",
+          "start": 5,
+          "url": "https://t.co/ggNeDziTmL"
+        },
+        {
+          "display_url": "pic.x.com/ggNeDziTmL",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+          "media_key": "3_2020243580430987264",
+          "start": 5,
+          "url": "https://t.co/ggNeDziTmL"
+        },
+        {
+          "display_url": "pic.x.com/ggNeDziTmL",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+          "media_key": "3_2020243581106286592",
+          "start": 5,
+          "url": "https://t.co/ggNeDziTmL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020243584084218182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美菇秀秀 https://t.co/ggNeDziTmL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020243580162584577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlY1RtasAEwM9x.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020243580414283777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlY1SpbUAEncrr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020243580430987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlY1StaMAA8A6O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020243581106286592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlY1VOacAA5vUe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020243580162584577",
+            "3_2020243580414283777",
+            "3_2020243580430987264",
+            "3_2020243581106286592"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2020243584084218182",
+        "created_at": "2026-02-07T21:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T22:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020243584084218182"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "美菇秀秀",
+              "probability": 0.3241,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggNeDziTmL",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+              "media_key": "3_2020243580162584577",
+              "start": 5,
+              "url": "https://t.co/ggNeDziTmL"
+            },
+            {
+              "display_url": "pic.x.com/ggNeDziTmL",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+              "media_key": "3_2020243580414283777",
+              "start": 5,
+              "url": "https://t.co/ggNeDziTmL"
+            },
+            {
+              "display_url": "pic.x.com/ggNeDziTmL",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+              "media_key": "3_2020243580430987264",
+              "start": 5,
+              "url": "https://t.co/ggNeDziTmL"
+            },
+            {
+              "display_url": "pic.x.com/ggNeDziTmL",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182/photo/1",
+              "media_key": "3_2020243581106286592",
+              "start": 5,
+              "url": "https://t.co/ggNeDziTmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020243584084218182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美菇秀秀 https://t.co/ggNeDziTmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 1531,
+          "like_count": 32433,
+          "listed_count": 8,
+          "media_count": 1057,
+          "tweet_count": 10278
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

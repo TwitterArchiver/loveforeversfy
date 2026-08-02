@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1819635913317929465",
+    "created_at": "2024-08-03T07:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T08:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819635913317929465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Round1CA/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Round1CA/status/1819126272917713071",
+          "start": 3,
+          "url": "https://t.co/xtJxfqUK61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819635913317929465",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819126272917713071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪 https://t.co/xtJxfqUK61"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1819635913317929465",
+        "created_at": "2024-08-03T07:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T08:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819635913317929465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Round1CA/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Round1CA/status/1819126272917713071",
+              "start": 3,
+              "url": "https://t.co/xtJxfqUK61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819635913317929465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819126272917713071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪 https://t.co/xtJxfqUK61"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819126269734273024"
+          ]
+        },
+        "author_id": "1774719106828406784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819126272917713071",
+        "created_at": "2024-08-01T21:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T22:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819126272917713071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "maimai DX",
+              "probability": 0.636,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "North America",
+              "probability": 0.9542,
+              "start": 91,
+              "type": "Place"
+            },
+            {
+              "end": 213,
+              "normalized_text": "maimai",
+              "probability": 0.3788,
+              "start": 208,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 206,
+              "start": 190,
+              "tag": "PlayPartyRepeat"
+            },
+            {
+              "end": 214,
+              "start": 207,
+              "tag": "maimai"
+            },
+            {
+              "end": 219,
+              "start": 215,
+              "tag": "fun"
+            },
+            {
+              "end": 228,
+              "start": 220,
+              "tag": "weekend"
+            },
+            {
+              "end": 238,
+              "start": 229,
+              "tag": "sounding"
+            },
+            {
+              "end": 251,
+              "start": 239,
+              "tag": "rhythmgames"
+            },
+            {
+              "end": 259,
+              "start": 252,
+              "tag": "arcade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fMMIRYoSrd",
+              "end": 283,
+              "expanded_url": "https://twitter.com/Round1CA/status/1819126272917713071/photo/1",
+              "media_key": "3_1819126269734273024",
+              "start": 260,
+              "url": "https://t.co/fMMIRYoSrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819126272917713071",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 27442,
+          "like_count": 561,
+          "quote_count": 34,
+          "reply_count": 18,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "After a successful location test, maimai DX has finally arrived to all Round1 locations in North America!\n\nHowever… the machines look a little different from the ones used during the test.\n\n#PlayPartyRepeat #maimai #fun #weekend #sounding #rhythmgames #arcade https://t.co/fMMIRYoSrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1570,
+          "like_count": 29369,
+          "listed_count": 8,
+          "tweet_count": 8226
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T08:43:05.000Z",
+        "description": "✨ALL THE FUN UNDER ONE ROOF |🎳🕹Round1 Bowling & Arcade |🏀🏓Spo-Cha: ALL YOU CAN PLAY | OPEN EVERY DAY ✨ #PLAYPARTYREPEAT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 103,
+                "tag": "PLAYPARTYREPEAT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "round1.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.round1.co.jp/",
+                "start": 0,
+                "url": "https://t.co/TaryJv7uLM"
+              }
+            ]
+          }
+        },
+        "id": "1774719106828406784",
+        "location": "Canada",
+        "name": "Round1 Canada",
+        "pinned_tweet_id": "1774909246481842433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774719940710608896/aoHfQb0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 69,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/TaryJv7uLM",
+        "username": "Round1CA",
+        "verified": false
+      }
+    ]
+  }
+}

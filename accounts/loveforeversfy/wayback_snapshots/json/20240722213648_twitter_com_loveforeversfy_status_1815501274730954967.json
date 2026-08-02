@@ -1,0 +1,615 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1815086940196090295"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1815501274730954967",
+    "created_at": "2024-07-22T21:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T22:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815501274730954967"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Biden",
+          "probability": 0.9089,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Miku2024",
+          "probability": 0.6166,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "Miku2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/anof34ShoC",
+          "end": 81,
+          "expanded_url": "https://twitter.com/HatsuneMiku/status/1815086940196090295/photo/1",
+          "media_key": "3_1815086935972491264",
+          "start": 58,
+          "url": "https://t.co/anof34ShoC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815501274730954967",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70998
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815086940196090295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: Biden is out, the time is now. #Miku2024 https://t.co/anof34ShoC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1815086940196090295"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1815501274730954967",
+        "created_at": "2024-07-22T21:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T22:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815501274730954967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Biden",
+              "probability": 0.9089,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Miku2024",
+              "probability": 0.6166,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "Miku2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/anof34ShoC",
+              "end": 81,
+              "expanded_url": "https://twitter.com/HatsuneMiku/status/1815086940196090295/photo/1",
+              "media_key": "3_1815086935972491264",
+              "start": 58,
+              "url": "https://t.co/anof34ShoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815501274730954967",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70998
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815086940196090295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: Biden is out, the time is now. #Miku2024 https://t.co/anof34ShoC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815086935972491264"
+          ]
+        },
+        "author_id": "205565258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1815086940196090295",
+        "created_at": "2024-07-21T18:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T19:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815086940196090295"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Biden",
+              "probability": 0.8927,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Miku2024",
+              "probability": 0.6156,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "Miku2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/anof34ShoC",
+              "end": 64,
+              "expanded_url": "https://twitter.com/HatsuneMiku/status/1815086940196090295/photo/1",
+              "media_key": "3_1815086935972491264",
+              "start": 41,
+              "url": "https://t.co/anof34ShoC"
+            },
+            {
+              "display_url": "x.com/joebiden/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/joebiden/status/1815080881981190320",
+              "start": 65,
+              "url": "https://t.co/4TxDecyXbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815086940196090295",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11840,
+          "impression_count": 7408123,
+          "like_count": 359233,
+          "quote_count": 1926,
+          "reply_count": 1012,
+          "retweet_count": 70998
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815080881981190320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Biden is out, the time is now. #Miku2024 https://t.co/anof34ShoC https://t.co/4TxDecyXbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1571,
+          "like_count": 28851,
+          "listed_count": 8,
+          "tweet_count": 8099
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "CV01: Digital DIVA ³⁹  ♡ ♬ ~ (Fan Account)",
+        "id": "205565258",
+        "location": "WiFi / 日本",
+        "name": "Miku",
+        "pinned_tweet_id": "1374974498307465217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524481966967599104/gmAz54Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186191,
+          "following_count": 0,
+          "like_count": 23,
+          "listed_count": 94,
+          "tweet_count": 267
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065302358058487808"
+      ],
+      "media_source_tweet_id": [
+        "2065302366728212758"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2065422525895680192",
+    "created_at": "2026-06-12T13:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065422525895680192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oahCdeAObs",
+          "end": 54,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2065302366728212758/photo/1",
+          "media_key": "3_2065302358058487808",
+          "start": 31,
+          "url": "https://t.co/oahCdeAObs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065422525895680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065302366728212758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 穆斯林在动漫周边店前祈祷 https://t.co/oahCdeAObs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2065302358058487808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKltjV3aUAA4hzL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065302358058487808"
+          ],
+          "media_source_tweet_id": [
+            "2065302366728212758"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2065422525895680192",
+        "created_at": "2026-06-12T13:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065422525895680192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oahCdeAObs",
+              "end": 54,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2065302366728212758/photo/1",
+              "media_key": "3_2065302358058487808",
+              "start": 31,
+              "url": "https://t.co/oahCdeAObs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065422525895680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065302366728212758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 穆斯林在动漫周边店前祈祷 https://t.co/oahCdeAObs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065302358058487808"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2065302366728212758",
+        "created_at": "2026-06-12T05:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065302366728212758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oahCdeAObs",
+              "end": 36,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2065302366728212758/photo/1",
+              "media_key": "3_2065302358058487808",
+              "start": 13,
+              "url": "https://t.co/oahCdeAObs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065302366728212758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 35786,
+          "like_count": 585,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "穆斯林在动漫周边店前祈祷 https://t.co/oahCdeAObs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1554,
+          "like_count": 35205,
+          "listed_count": 8,
+          "media_count": 1196,
+          "tweet_count": 11294
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5558,
+          "following_count": 1898,
+          "like_count": 63672,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 11799
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

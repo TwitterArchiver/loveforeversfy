@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2016253388036702241",
+    "created_at": "2026-01-27T20:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016253388036702241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nocontextnub/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nocontextnub/status/2015825337188233442",
+          "start": 6,
+          "url": "https://t.co/hw8mijRFV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016253388036702241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015825337188233442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁和我这样 https://t.co/hw8mijRFV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015825327226761217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mmdG6WMAEblTY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015825327201595405",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mmdG0WMA0-7VJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2016253388036702241",
+        "created_at": "2026-01-27T20:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016253388036702241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocontextnub/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nocontextnub/status/2015825337188233442",
+              "start": 6,
+              "url": "https://t.co/hw8mijRFV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016253388036702241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015825337188233442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我这样 https://t.co/hw8mijRFV2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015825327226761217",
+            "3_2015825327201595405"
+          ]
+        },
+        "author_id": "2008290443013054464",
+        "conversation_id": "2015825337188233442",
+        "created_at": "2026-01-26T16:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015825337188233442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkeLbaGKGv",
+              "end": 23,
+              "expanded_url": "https://x.com/nocontextnub/status/2015825337188233442/photo/1",
+              "media_key": "3_2015825327226761217",
+              "start": 0,
+              "url": "https://t.co/zkeLbaGKGv"
+            },
+            {
+              "display_url": "pic.x.com/zkeLbaGKGv",
+              "end": 23,
+              "expanded_url": "https://x.com/nocontextnub/status/2015825337188233442/photo/1",
+              "media_key": "3_2015825327201595405",
+              "start": 0,
+              "url": "https://t.co/zkeLbaGKGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015825337188233442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 34365,
+          "like_count": 1974,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zkeLbaGKGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2015704075187429844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 1524,
+          "like_count": 32362,
+          "listed_count": 7,
+          "media_count": 1047,
+          "tweet_count": 10200
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T21:32:16.000Z",
+        "description": "your daily dose of silly stuff",
+        "id": "2008290443013054464",
+        "name": "no context nub",
+        "pinned_tweet_id": "2015840995074580574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015414721424293888/6bzIOc-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9182,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 8,
+          "media_count": 153,
+          "tweet_count": 154
+        },
+        "username": "nocontextnub",
+        "verified": true
+      }
+    ]
+  }
+}

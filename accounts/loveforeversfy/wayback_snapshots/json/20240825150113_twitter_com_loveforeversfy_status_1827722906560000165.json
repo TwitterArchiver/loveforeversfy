@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1827722906560000165",
+    "created_at": "2024-08-25T15:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T16:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827722906560000165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1804587925805596672",
+          "start": 3,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827722906560000165",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827598285714100733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki: 14:44 甲基苯丙胺0mg+二乙酰吗啡0mg+麦角酸二乙酰胺0mg+苯环己哌啶0mg+古柯碱0mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1827722906560000165",
+        "created_at": "2024-08-25T15:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T16:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827722906560000165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1804587925805596672",
+              "start": 3,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827722906560000165",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827598285714100733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki: 14:44 甲基苯丙胺0mg+二乙酰吗啡0mg+麦角酸二乙酰胺0mg+苯环己哌啶0mg+古柯碱0mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1827598285714100733",
+        "created_at": "2024-08-25T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827598285714100733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_mucha_000/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/_mucha_000/status/1827548903534727518",
+              "start": 51,
+              "url": "https://t.co/AG5wYlD35p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827598285714100733",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2264,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827548903534727518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14:44 甲基苯丙胺0mg+二乙酰吗啡0mg+麦角酸二乙酰胺0mg+苯环己哌啶0mg+古柯碱0mg https://t.co/AG5wYlD35p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐蘑利菇",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1570,
+          "like_count": 29892,
+          "listed_count": 7,
+          "tweet_count": 8383
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki/about/",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/about/",
+                "start": 0,
+                "url": "https://t.co/tnegj5Lbot"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "白云山右美沙芬制药厂",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1810253570194976859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806463087572393984/YX1f9713_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 408,
+          "like_count": 4819,
+          "listed_count": 0,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/tnegj5Lbot",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

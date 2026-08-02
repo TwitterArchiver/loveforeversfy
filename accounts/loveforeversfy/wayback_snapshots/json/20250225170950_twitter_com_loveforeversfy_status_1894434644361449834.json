@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1894430862894375161",
+    "created_at": "2025-02-25T17:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T18:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894434644361449834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523658790868250624",
+          "start": 0,
+          "username": "NanBo0ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894434644361449834",
+    "in_reply_to_user_id": "1523658790868250624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894430862894375161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanBo0ne 🐱🎻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8066,
+        "height": 1280,
+        "media_key": "7_1894430832833560577",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1894430832833560577/pu/img/j4CTX-ReE5jRL4my.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894430832833560577/pu/vid/avc1/320x568/OrxhcJ2ceQQo5pbU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894430832833560577/pu/vid/avc1/480x852/vEJfm38_B0tY-4Yc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894430832833560577/pu/vid/avc1/720x1280/fdRF_0_9RRC4r-2z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1894430832833560577/pu/pl/C8ANgtowxLta03bF.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1894430862894375161",
+        "created_at": "2025-02-25T17:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T18:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894434644361449834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523658790868250624",
+              "start": 0,
+              "username": "NanBo0ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894434644361449834",
+        "in_reply_to_user_id": "1523658790868250624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894430862894375161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanBo0ne 🐱🎻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1894430832833560577"
+          ]
+        },
+        "author_id": "1523658790868250624",
+        "conversation_id": "1894430862894375161",
+        "created_at": "2025-02-25T16:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894430862894375161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ow43HKpiM6",
+              "end": 23,
+              "expanded_url": "https://x.com/NanBo0ne/status/1894430862894375161/video/1",
+              "media_key": "7_1894430832833560577",
+              "start": 0,
+              "url": "https://t.co/Ow43HKpiM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894430862894375161",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ow43HKpiM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1566,
+          "like_count": 33147,
+          "listed_count": 7,
+          "media_count": 977,
+          "tweet_count": 9791
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T13:39:08.000Z",
+        "description": "可以陪我打一辈子的彩虹六号吗",
+        "id": "1523658790868250624",
+        "location": "喵",
+        "name": "南波万🏳️",
+        "pinned_tweet_id": "1661254148069953536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877603543164792836/4jDDzrpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 492,
+          "like_count": 23904,
+          "listed_count": 3,
+          "media_count": 711,
+          "tweet_count": 6318
+        },
+        "username": "NanBo0ne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003363101849387008"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2003271050315055172",
+    "created_at": "2025-12-23T07:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T08:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003363111823372379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389509705999949829",
+          "start": 0,
+          "username": "EmoPoppyRequiem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtfIcliFTN",
+          "end": 47,
+          "expanded_url": "https://x.com/loveforeversfy/status/2003363111823372379/photo/1",
+          "media_key": "3_2003363101849387008",
+          "start": 24,
+          "url": "https://t.co/VtfIcliFTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003363111823372379",
+    "in_reply_to_user_id": "1389509705999949829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003334744990449975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoPoppyRequiem 已听从等效果 https://t.co/VtfIcliFTN"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003334744990449975].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003334744990449975",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003334744990449975"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003363101849387008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81gIHnbgAAb6qZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003363101849387008"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2003271050315055172",
+        "created_at": "2025-12-23T07:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003363111823372379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389509705999949829",
+              "start": 0,
+              "username": "EmoPoppyRequiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtfIcliFTN",
+              "end": 47,
+              "expanded_url": "https://x.com/loveforeversfy/status/2003363111823372379/photo/1",
+              "media_key": "3_2003363101849387008",
+              "start": 24,
+              "url": "https://t.co/VtfIcliFTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003363111823372379",
+        "in_reply_to_user_id": "1389509705999949829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003334744990449975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoPoppyRequiem 已听从等效果 https://t.co/VtfIcliFTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1497,
+          "like_count": 31872,
+          "listed_count": 7,
+          "media_count": 999,
+          "tweet_count": 9827
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ  提问箱https://t.co/uKFsGxnPM4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinkule",
+                "end": 39,
+                "expanded_url": "https://ngl.link/xinkule",
+                "start": 16,
+                "url": "https://t.co/uKFsGxnPM4"
+              }
+            ]
+          }
+        },
+        "id": "1389509705999949829",
+        "location": "还君明珠双泪垂 恨不相逢未嫁时",
+        "name": "薇可絲✂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926579688215830528/dkgSOySf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 3030,
+          "like_count": 123359,
+          "listed_count": 3,
+          "media_count": 6921,
+          "tweet_count": 67949
+        },
+        "username": "EmoPoppyRequiem",
+        "verified": false
+      }
+    ]
+  }
+}

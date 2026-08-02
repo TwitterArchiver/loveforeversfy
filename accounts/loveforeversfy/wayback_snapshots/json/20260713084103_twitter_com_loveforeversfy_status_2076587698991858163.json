@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2076144284395548738",
+    "created_at": "2026-07-13T08:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076587698991858163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        },
+        {
+          "end": 20,
+          "id": "1884546510919979008",
+          "start": 11,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076587698991858163",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076366282753212461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_China @iamThuja 😘"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076366282753212461].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076366282753212461",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076366282753212461"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2076144284395548738",
+        "created_at": "2026-07-13T08:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076587698991858163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            },
+            {
+              "end": 20,
+              "id": "1884546510919979008",
+              "start": 11,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076587698991858163",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076366282753212461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_China @iamThuja 😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 1554,
+          "like_count": 35694,
+          "listed_count": 8,
+          "media_count": 1230,
+          "tweet_count": 11478
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "淡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/dFc51Ulij1"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067523971298545664/LsfGiNSo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 950,
+          "like_count": 188493,
+          "listed_count": 21,
+          "media_count": 1269,
+          "tweet_count": 4661
+        },
+        "url": "https://t.co/dFc51Ulij1",
+        "username": "NMD_China",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2075172798977438064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 973,
+          "like_count": 8464,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1788208738371035369",
+    "created_at": "2024-05-08T16:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T17:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788245871299264654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512505650815070208",
+          "start": 0,
+          "username": "_ZeroZeroTwo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788245871299264654",
+    "in_reply_to_user_id": "1512505650815070208",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788226670316675490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ZeroZeroTwo_ 💥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1788208738371035369",
+        "created_at": "2024-05-08T16:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T17:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788245871299264654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512505650815070208",
+              "start": 0,
+              "username": "_ZeroZeroTwo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788245871299264654",
+        "in_reply_to_user_id": "1512505650815070208",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788226670316675490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ZeroZeroTwo_ 💥"
+      },
+      {
+        "attachments": {},
+        "author_id": "1512505650815070208",
+        "conversation_id": "1788208738371035369",
+        "created_at": "2024-05-08T15:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T16:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788226670316675490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788226670316675490",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788226282892968238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy woc地雷\n别爆我推底下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "鱼鱼菇🐟🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1560,
+          "like_count": 26333,
+          "listed_count": 8,
+          "tweet_count": 6900
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T19:00:38.000Z",
+        "description": "まだ，君を見ている                                                                             \nI'm still watching you.",
+        "id": "1512505650815070208",
+        "location": "地獄",
+        "name": "紅",
+        "pinned_tweet_id": "1754942002242978140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781989465319514112/BHTGBfSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 2073,
+          "like_count": 81990,
+          "listed_count": 11,
+          "tweet_count": 6617
+        },
+        "username": "_ZeroZeroTwo_",
+        "verified": false
+      }
+    ]
+  }
+}

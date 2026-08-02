@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055182522418692096",
+        "3_2055182527909007360",
+        "3_2055182534607347712",
+        "3_2055182539804069888"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055181724666261757",
+    "created_at": "2026-05-15T07:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055182542064775307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8qjDnbgVz",
+          "end": 26,
+          "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+          "media_key": "3_2055182522418692096",
+          "start": 3,
+          "url": "https://t.co/z8qjDnbgVz"
+        },
+        {
+          "display_url": "pic.x.com/z8qjDnbgVz",
+          "end": 26,
+          "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+          "media_key": "3_2055182527909007360",
+          "start": 3,
+          "url": "https://t.co/z8qjDnbgVz"
+        },
+        {
+          "display_url": "pic.x.com/z8qjDnbgVz",
+          "end": 26,
+          "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+          "media_key": "3_2055182534607347712",
+          "start": 3,
+          "url": "https://t.co/z8qjDnbgVz"
+        },
+        {
+          "display_url": "pic.x.com/z8qjDnbgVz",
+          "end": 26,
+          "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+          "media_key": "3_2055182539804069888",
+          "start": 3,
+          "url": "https://t.co/z8qjDnbgVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055182542064775307",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055181724666261757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更多 https://t.co/z8qjDnbgVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2055182522418692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV5nYVbgAAm0Bf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055182527909007360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV5nsybEAAFazw.jpg",
+        "width": 2019
+      },
+      {
+        "height": 722,
+        "media_key": "3_2055182534607347712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV5oFvboAA3wh4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 787,
+        "media_key": "3_2055182539804069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV5oZGbUAANPD0.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055181721713434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV44xea4AALtwc.jpg",
+        "width": 2062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055182522418692096",
+            "3_2055182527909007360",
+            "3_2055182534607347712",
+            "3_2055182539804069888"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055181724666261757",
+        "created_at": "2026-05-15T07:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055182542064775307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8qjDnbgVz",
+              "end": 26,
+              "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+              "media_key": "3_2055182522418692096",
+              "start": 3,
+              "url": "https://t.co/z8qjDnbgVz"
+            },
+            {
+              "display_url": "pic.x.com/z8qjDnbgVz",
+              "end": 26,
+              "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+              "media_key": "3_2055182527909007360",
+              "start": 3,
+              "url": "https://t.co/z8qjDnbgVz"
+            },
+            {
+              "display_url": "pic.x.com/z8qjDnbgVz",
+              "end": 26,
+              "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+              "media_key": "3_2055182534607347712",
+              "start": 3,
+              "url": "https://t.co/z8qjDnbgVz"
+            },
+            {
+              "display_url": "pic.x.com/z8qjDnbgVz",
+              "end": 26,
+              "expanded_url": "https://x.com/loveforeversfy/status/2055182542064775307/photo/1",
+              "media_key": "3_2055182539804069888",
+              "start": 3,
+              "url": "https://t.co/z8qjDnbgVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055182542064775307",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055181724666261757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更多 https://t.co/z8qjDnbgVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055181721713434624"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055181724666261757",
+        "created_at": "2026-05-15T07:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055181724666261757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1389509705999949829",
+              "start": 14,
+              "username": "EmoPoppyRequiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sJR4zXe80",
+              "end": 54,
+              "expanded_url": "https://x.com/loveforeversfy/status/2055181724666261757/photo/1",
+              "media_key": "3_2055181721713434624",
+              "start": 31,
+              "url": "https://t.co/2sJR4zXe80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055181724666261757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "守望先锋是一款拍照游戏🔪🐷\n@EmoPoppyRequiem https://t.co/2sJR4zXe80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 1555,
+          "like_count": 34934,
+          "listed_count": 9,
+          "media_count": 1175,
+          "tweet_count": 11145
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

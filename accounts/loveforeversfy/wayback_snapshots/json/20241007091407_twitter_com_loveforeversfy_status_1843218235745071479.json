@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1843218235745071479",
+    "created_at": "2024-10-07T09:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T10:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843218235745071479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "8964_wxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843218235745071479",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843214682859212961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_wxd: 恭喜你走遍了该区域哦！\n【2024法定节假日区域】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1843218235745071479",
+        "created_at": "2024-10-07T09:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T10:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843218235745071479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "8964_wxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843218235745071479",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843214682859212961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_wxd: 恭喜你走遍了该区域哦！\n【2024法定节假日区域】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602663153623388161",
+        "conversation_id": "1843214682859212961",
+        "created_at": "2024-10-07T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843214682859212961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843214682859212961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你走遍了该区域哦！\n【2024法定节假日区域】"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1582,
+          "like_count": 31010,
+          "listed_count": 7,
+          "tweet_count": 8703
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "狠狠攒钱整adx\n\n另外👮别来盯我了，这没你想看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.world/@xdw_2887",
+                "end": 23,
+                "expanded_url": "https://mastodon.world/@xdw_2887",
+                "start": 0,
+                "url": "https://t.co/cmUTtRtmx0"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837059195511939072/76vzLjme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 3929,
+          "like_count": 46955,
+          "listed_count": 9,
+          "tweet_count": 7436
+        },
+        "url": "https://t.co/cmUTtRtmx0",
+        "username": "8964_wxd",
+        "verified": false
+      }
+    ]
+  }
+}

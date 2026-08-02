@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810340498177208320"
+      ],
+      "media_source_tweet_id": [
+        "1810340662468018400"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1810350825929334968",
+    "created_at": "2024-07-08T16:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T17:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810350825929334968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578364241362309120",
+          "start": 3,
+          "username": "wuren_Ltd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OpwgFhNOyY",
+          "end": 38,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1810340662468018400/video/1",
+          "media_key": "7_1810340498177208320",
+          "start": 15,
+          "url": "https://t.co/OpwgFhNOyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810350825929334968",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810340662468018400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuren_Ltd: https://t.co/OpwgFhNOyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "7_1810340498177208320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810340498177208320/pu/img/QnxjrMUrbpFfyfLa.jpg",
+        "public_metrics": {
+          "view_count": 423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810340498177208320/pu/vid/avc1/320x568/gR0k6yxEhKRl-sws.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810340498177208320/pu/vid/avc1/480x852/n_a1qXbStJDqTPIm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810340498177208320/pu/vid/avc1/720x1280/TXKen9HMXF-OgkxS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810340498177208320/pu/pl/e96WBHmTVJRmnvjb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810340498177208320"
+          ],
+          "media_source_tweet_id": [
+            "1810340662468018400"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810350825929334968",
+        "created_at": "2024-07-08T16:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T17:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810350825929334968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578364241362309120",
+              "start": 3,
+              "username": "wuren_Ltd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OpwgFhNOyY",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1810340662468018400/video/1",
+              "media_key": "7_1810340498177208320",
+              "start": 15,
+              "url": "https://t.co/OpwgFhNOyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810350825929334968",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810340662468018400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuren_Ltd: https://t.co/OpwgFhNOyY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810340498177208320"
+          ]
+        },
+        "author_id": "1578364241362309120",
+        "conversation_id": "1810340662468018400",
+        "created_at": "2024-07-08T15:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T16:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810340662468018400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OpwgFhNOyY",
+              "end": 23,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1810340662468018400/video/1",
+              "media_key": "7_1810340498177208320",
+              "start": 0,
+              "url": "https://t.co/OpwgFhNOyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810340662468018400",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 889,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OpwgFhNOyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1571,
+          "like_count": 28458,
+          "listed_count": 8,
+          "tweet_count": 7819
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么\n满洲人属\n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点\n功德箱开放，不知道你为什么想给我钱但是来者不拒\ntelegram开放，与私信一起随机回复，看心情\n加我steam好友：1055344426\n招梦2记，collective unconscious搭子\n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+hSN98rWyhi9lZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+hSN98rWyhi9lZDFl",
+                "start": 0,
+                "url": "https://t.co/qjx9TNjVAB"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "阿米娜·阔伊姆@五代目",
+        "pinned_tweet_id": "1807299314269499457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807053252791586816/Ze6VAfLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21032,
+          "following_count": 1197,
+          "like_count": 14862,
+          "listed_count": 65,
+          "tweet_count": 15018
+        },
+        "url": "https://t.co/qjx9TNjVAB",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

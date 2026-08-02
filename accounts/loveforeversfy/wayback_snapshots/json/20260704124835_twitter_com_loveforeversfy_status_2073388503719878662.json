@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2073388503719878662",
+    "created_at": "2026-07-04T12:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073388503719878662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587895138109603840",
+          "start": 3,
+          "username": "Clovmoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073388503719878662",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073217139541000535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Clovmoon: Estaba en la calle y unas niñas estaban haciendo 67 y yo también hice el 67 y ellas se emocionaron y todas juntas hicimos 67…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2073217136495878144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWMAFMW4AASmtL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2073388503719878662",
+        "created_at": "2026-07-04T12:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073388503719878662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587895138109603840",
+              "start": 3,
+              "username": "Clovmoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073388503719878662",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073217139541000535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Clovmoon: Estaba en la calle y unas niñas estaban haciendo 67 y yo también hice el 67 y ellas se emocionaron y todas juntas hicimos 67…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073217136495878144"
+          ]
+        },
+        "author_id": "1587895138109603840",
+        "conversation_id": "2073217139541000535",
+        "created_at": "2026-07-04T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073217139541000535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1OyRU0bHv",
+              "end": 151,
+              "expanded_url": "https://x.com/Clovmoon/status/2073217139541000535/photo/1",
+              "media_key": "3_2073217136495878144",
+              "start": 128,
+              "url": "https://t.co/G1OyRU0bHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073217139541000535",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 936,
+          "impression_count": 183205,
+          "like_count": 30033,
+          "quote_count": 63,
+          "reply_count": 61,
+          "retweet_count": 3308
+        },
+        "reply_settings": "everyone",
+        "text": "Estaba en la calle y unas niñas estaban haciendo 67 y yo también hice el 67 y ellas se emocionaron y todas juntas hicimos 67  😭 https://t.co/G1OyRU0bHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1556,
+          "like_count": 35526,
+          "listed_count": 8,
+          "media_count": 1223,
+          "tweet_count": 11432
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T19:51:34.000Z",
+        "description": "Dibujante 🗣️‼️ • 🇵🇪 • Punkrocker de corazón y entrenadora de mapaches • 2da cuenta : @clovxmoon • Sigueme si eres dibujante así bn chido t regalo una galleta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "clovxmoon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@clxvermoon?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@clxvermoon?_r=1&_t=ZS-94ORG22UIQH",
+                "start": 0,
+                "url": "https://t.co/6y9XUDRcdS"
+              }
+            ]
+          }
+        },
+        "id": "1587895138109603840",
+        "location": "ñiñiñiñi",
+        "name": "Clov! 🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413248316059648/7tTYuXvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23084,
+          "following_count": 9803,
+          "like_count": 127540,
+          "listed_count": 33,
+          "media_count": 5849,
+          "tweet_count": 32788
+        },
+        "url": "https://t.co/6y9XUDRcdS",
+        "username": "Clovmoon",
+        "verified": false
+      }
+    ]
+  }
+}

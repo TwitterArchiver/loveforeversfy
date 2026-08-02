@@ -1,0 +1,503 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1799845771254350218",
+    "created_at": "2024-06-09T16:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T17:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799845771254350218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "795188519115358208",
+          "start": 3,
+          "username": "tweetsoku1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "1: それでも動く名無し 警備員 2024/06/09(日) 11:40:49.58 ID:TdOAr2po0 >>本当は、今夏のサイバー犯罪条約の問題に、もっと関心を持ってもらいたかったのが、正直なところではあります。",
+          "display_url": "tweetsoku.news/2024/06/09/%e5…",
+          "end": 73,
+          "expanded_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+          "images": [
+            {
+              "height": 469,
+              "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=orig",
+              "width": 624
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 50,
+          "status": 200,
+          "title": "再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 | TweeterＢreakingＮews－ツイッ速！",
+          "unwound_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+          "url": "https://t.co/pAycFadkN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799845771254350218",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799644336273162610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tweetsoku1: 再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 https://t.co/pAycFadkN9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1799845771254350218",
+        "created_at": "2024-06-09T16:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T17:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799845771254350218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "795188519115358208",
+              "start": 3,
+              "username": "tweetsoku1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1: それでも動く名無し 警備員 2024/06/09(日) 11:40:49.58 ID:TdOAr2po0 >>本当は、今夏のサイバー犯罪条約の問題に、もっと関心を持ってもらいたかったのが、正直なところではあります。",
+              "display_url": "tweetsoku.news/2024/06/09/%e5…",
+              "end": 73,
+              "expanded_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+              "images": [
+                {
+                  "height": 469,
+                  "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=orig",
+                  "width": 624
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 | TweeterＢreakingＮews－ツイッ速！",
+              "unwound_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+              "url": "https://t.co/pAycFadkN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799845771254350218",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799644336273162610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tweetsoku1: 再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 https://t.co/pAycFadkN9"
+      },
+      {
+        "attachments": {},
+        "author_id": "795188519115358208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1799644336273162610",
+        "created_at": "2024-06-09T03:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T04:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799644336273162610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1: それでも動く名無し 警備員 2024/06/09(日) 11:40:49.58 ID:TdOAr2po0 >>本当は、今夏のサイバー犯罪条約の問題に、もっと関心を持ってもらいたかったのが、正直なところではあります。",
+              "display_url": "tweetsoku.news/2024/06/09/%e5…",
+              "end": 57,
+              "expanded_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+              "images": [
+                {
+                  "height": 469,
+                  "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=orig",
+                  "width": 624
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1799644384184639488/219YUDmu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 | TweeterＢreakingＮews－ツイッ速！",
+              "unwound_url": "https://tweetsoku.news/2024/06/09/%e5%86%8d%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e4%b8%96%e7%95%8c%e7%9a%84%e3%81%ab%e3%82%a8%e3%83%ad%e6%bc%ab%e7%94%bb%e3%81%8c%e7%a6%81%e6%ad%a2%e3%81%ab%e3%81%aa%e3%82%8b%e6%9d%a1%e7%b4%84%e3%81%8c/",
+              "url": "https://t.co/pAycFadkN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799644336273162610",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 136478,
+          "like_count": 869,
+          "quote_count": 179,
+          "reply_count": 281,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "再)【悲報】世界的にエロ漫画が禁止になる条約が国連で可決される模様 https://t.co/pAycFadkN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1561,
+          "like_count": 27791,
+          "listed_count": 8,
+          "tweet_count": 7419
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T08:58:11.000Z",
+        "description": "国内、世界の政治/経済のニュースを主に発信しています。その他気になるニュースやメディアで扱わないニュースも発信しています。(すべての記事は5chの転載になります。不適切な記事&削除希望がございましたらお問い合わせ欄からご連絡をお願い致します)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tweetsoku.news",
+                "end": 23,
+                "expanded_url": "https://tweetsoku.news/",
+                "start": 0,
+                "url": "https://t.co/TkKfvacPnk"
+              }
+            ]
+          }
+        },
+        "id": "795188519115358208",
+        "name": "ツイッター速報〜BreakingNews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1215505874833141760/_bZhlriT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153376,
+          "following_count": 25085,
+          "like_count": 147987,
+          "listed_count": 1210,
+          "tweet_count": 222178
+        },
+        "url": "https://t.co/TkKfvacPnk",
+        "username": "tweetsoku1",
+        "verified": true
+      }
+    ]
+  }
+}

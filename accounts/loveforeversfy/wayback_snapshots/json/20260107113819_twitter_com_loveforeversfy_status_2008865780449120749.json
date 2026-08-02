@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2008857030187213025",
+    "created_at": "2026-01-07T11:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008865780449120749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1731243248205852672",
+          "start": 0,
+          "username": "1srain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008865780449120749",
+    "in_reply_to_user_id": "1731243248205852672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008857030187213025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1srain 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2008857030187213025",
+        "created_at": "2026-01-07T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008865780449120749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1731243248205852672",
+              "start": 0,
+              "username": "1srain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008865780449120749",
+        "in_reply_to_user_id": "1731243248205852672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008857030187213025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1srain 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731243248205852672",
+        "conversation_id": "2008857030187213025",
+        "created_at": "2026-01-07T11:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008857030187213025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008857030187213025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜现在是谁吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱⚠️",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1511,
+          "like_count": 32001,
+          "listed_count": 7,
+          "media_count": 1032,
+          "tweet_count": 10016
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T09:25:39.000Z",
+        "description": "我是阿雪。门槛188/288/488。我很可爱请给我打钱",
+        "id": "1731243248205852672",
+        "location": "★狐狐",
+        "name": "雪",
+        "pinned_tweet_id": "1973580233094865192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934667798112047104/OgXEGS_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7258,
+          "following_count": 115,
+          "like_count": 9007,
+          "listed_count": 14,
+          "media_count": 602,
+          "tweet_count": 3182
+        },
+        "username": "1srain",
+        "verified": false
+      }
+    ]
+  }
+}

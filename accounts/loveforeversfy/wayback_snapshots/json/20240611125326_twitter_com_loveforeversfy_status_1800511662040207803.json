@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800492105535721472"
+      ],
+      "media_source_tweet_id": [
+        "1800492107708407812"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800511662040207803",
+    "created_at": "2024-06-11T12:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T13:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800511662040207803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/RzyXsrHVuY",
+          "end": 49,
+          "expanded_url": "https://twitter.com/nyalra/status/1800492107708407812/photo/1",
+          "media_key": "3_1800492105535721472",
+          "start": 26,
+          "url": "https://t.co/RzyXsrHVuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800511662040207803",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800492107708407812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: ピアスつくるよ（新グッズ） https://t.co/RzyXsrHVuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1800492105535721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPyiB9NaEAAaXgk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800492105535721472"
+          ],
+          "media_source_tweet_id": [
+            "1800492107708407812"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800511662040207803",
+        "created_at": "2024-06-11T12:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T13:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800511662040207803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RzyXsrHVuY",
+              "end": 49,
+              "expanded_url": "https://twitter.com/nyalra/status/1800492107708407812/photo/1",
+              "media_key": "3_1800492105535721472",
+              "start": 26,
+              "url": "https://t.co/RzyXsrHVuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800511662040207803",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800492107708407812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: ピアスつくるよ（新グッズ） https://t.co/RzyXsrHVuY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800492105535721472"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "1800492107708407812",
+        "created_at": "2024-06-11T11:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T12:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800492107708407812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RzyXsrHVuY",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nyalra/status/1800492107708407812/photo/1",
+              "media_key": "3_1800492105535721472",
+              "start": 14,
+              "url": "https://t.co/RzyXsrHVuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800492107708407812",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 32524,
+          "like_count": 1757,
+          "quote_count": 47,
+          "reply_count": 7,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "ピアスつくるよ（新グッズ） https://t.co/RzyXsrHVuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1564,
+          "like_count": 27888,
+          "listed_count": 8,
+          "tweet_count": 7440
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "新刊小説『蜘蛛』https://t.co/P0fQtvhcwc その他 https://t.co/FpDBn2UOyV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/49uyBgI",
+                "end": 31,
+                "expanded_url": "http://amzn.to/49uyBgI",
+                "start": 8,
+                "url": "https://t.co/P0fQtvhcwc"
+              },
+              {
+                "display_url": "lit.link/nyalra",
+                "end": 59,
+                "expanded_url": "https://lit.link/nyalra",
+                "start": 36,
+                "url": "https://t.co/FpDBn2UOyV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/C2BvvG_rJdG/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/C2BvvG_rJdG/",
+                "start": 0,
+                "url": "https://t.co/mX7eBFLDlM"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "にゃるら",
+        "pinned_tweet_id": "1777388068594667748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799741274549035008/dPkcKipe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137294,
+          "following_count": 666,
+          "like_count": 350876,
+          "listed_count": 1161,
+          "tweet_count": 34246
+        },
+        "url": "https://t.co/mX7eBFLDlM",
+        "username": "nyalra",
+        "verified": false
+      }
+    ]
+  }
+}

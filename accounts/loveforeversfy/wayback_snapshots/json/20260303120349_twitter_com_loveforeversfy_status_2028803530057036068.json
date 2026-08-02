@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028803497224003584"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2028803530057036068",
+    "created_at": "2026-03-03T12:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028803530057036068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNwVQSgKx3",
+          "end": 40,
+          "expanded_url": "https://x.com/loveforeversfy/status/2028803530057036068/video/1",
+          "media_key": "7_2028803497224003584",
+          "start": 17,
+          "url": "https://t.co/rNwVQSgKx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028803530057036068",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 黑利群是对的 https://t.co/rNwVQSgKx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6139,
+        "height": 1280,
+        "media_key": "7_2028803497224003584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028803497224003584/pu/img/utHo2Wymk1hpHJqS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028803497224003584/pu/vid/avc1/320x568/lSUCcV3c83FGXoVg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028803497224003584/pu/vid/avc1/480x852/QAU6HYrXx-Z7P74C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028803497224003584/pu/vid/avc1/720x1280/DaGL-7Pnxe6LxyVu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028803497224003584/pu/pl/4hvKjBPJLCLv1fxc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028803497224003584"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2028803530057036068",
+        "created_at": "2026-03-03T12:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028803530057036068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNwVQSgKx3",
+              "end": 40,
+              "expanded_url": "https://x.com/loveforeversfy/status/2028803530057036068/video/1",
+              "media_key": "7_2028803497224003584",
+              "start": 17,
+              "url": "https://t.co/rNwVQSgKx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028803530057036068",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 黑利群是对的 https://t.co/rNwVQSgKx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1538,
+          "like_count": 33004,
+          "listed_count": 8,
+          "media_count": 1089,
+          "tweet_count": 10527
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 混乱与淫乱的集合体 友所有群体  爱着你们深 深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n窝的哦尼酱@lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2026648623505879381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 1222,
+          "like_count": 107293,
+          "listed_count": 9,
+          "media_count": 1950,
+          "tweet_count": 18159
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

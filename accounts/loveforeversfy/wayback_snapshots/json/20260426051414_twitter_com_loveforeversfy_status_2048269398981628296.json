@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2048039792483668471",
+    "created_at": "2026-04-26T05:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048269398981628296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1526505069688004609",
+          "start": 0,
+          "username": "xiutian6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048269398981628296",
+    "in_reply_to_user_id": "1526505069688004609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048266515636728116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiutian6 俺也一样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2048039792483668471",
+        "created_at": "2026-04-26T05:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048269398981628296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1526505069688004609",
+              "start": 0,
+              "username": "xiutian6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048269398981628296",
+        "in_reply_to_user_id": "1526505069688004609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048266515636728116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiutian6 俺也一样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526505069688004609",
+        "conversation_id": "2048039792483668471",
+        "created_at": "2026-04-26T05:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048266515636728116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048266515636728116",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048039792483668471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 气死人了…朋友全是官服我是b服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1558,
+          "like_count": 34380,
+          "listed_count": 8,
+          "media_count": 1158,
+          "tweet_count": 10973
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T10:09:12.000Z",
+        "description": "os：我私信怎么被封了\n生理♂，泛性恋，\n舟，派，oc，od\n家里不给治精神病于是被赶出来无家可归了",
+        "id": "1526505069688004609",
+        "location": "终焉",
+        "name": "朽天/Erosioneの使者",
+        "pinned_tweet_id": "2043141441640399265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043140397321637888/ZO6N9Wx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 152,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "xiutian6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842765536339595264"
+      ],
+      "media_source_tweet_id": [
+        "1842765560196849769"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1842916357006111146",
+    "created_at": "2024-10-06T13:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T14:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842916357006111146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1312318951653863424",
+          "start": 3,
+          "username": "Qimuli750"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B60CKsuE2S",
+          "end": 50,
+          "expanded_url": "https://x.com/Qimuli750/status/1842765560196849769/video/1",
+          "media_key": "7_1842765536339595264",
+          "start": 27,
+          "url": "https://t.co/B60CKsuE2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842916357006111146",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842765560196849769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qimuli750: 原神玩家的水平还在上升 https://t.co/B60CKsuE2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8655,
+        "height": 1280,
+        "media_key": "7_1842765536339595264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842765536339595264/pu/img/4e8wAjlmLPFzegXc.jpg",
+        "public_metrics": {
+          "view_count": 372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842765536339595264/pu/vid/avc1/320x568/licXX5A_Wbg74S4C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842765536339595264/pu/vid/avc1/480x852/1hlPv57NQbFpiEgW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842765536339595264/pu/vid/avc1/720x1280/JfTtRj8MZKtwT12g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842765536339595264/pu/pl/fIu79T4em29lff9w.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842765536339595264"
+          ],
+          "media_source_tweet_id": [
+            "1842765560196849769"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1842916357006111146",
+        "created_at": "2024-10-06T13:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T14:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842916357006111146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1312318951653863424",
+              "start": 3,
+              "username": "Qimuli750"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B60CKsuE2S",
+              "end": 50,
+              "expanded_url": "https://x.com/Qimuli750/status/1842765560196849769/video/1",
+              "media_key": "7_1842765536339595264",
+              "start": 27,
+              "url": "https://t.co/B60CKsuE2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842916357006111146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842765560196849769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qimuli750: 原神玩家的水平还在上升 https://t.co/B60CKsuE2S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842765536339595264"
+          ]
+        },
+        "author_id": "1312318951653863424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1842765560196849769",
+        "created_at": "2024-10-06T03:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T04:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842765560196849769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B60CKsuE2S",
+              "end": 35,
+              "expanded_url": "https://x.com/Qimuli750/status/1842765560196849769/video/1",
+              "media_key": "7_1842765536339595264",
+              "start": 12,
+              "url": "https://t.co/B60CKsuE2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842765560196849769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 711,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原神玩家的水平还在上升 https://t.co/B60CKsuE2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1579,
+          "like_count": 30973,
+          "listed_count": 7,
+          "tweet_count": 8684
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T09:10:05.000Z",
+        "description": "狮子座INFP-T 4W5  焦虑型依恋（中度）",
+        "id": "1312318951653863424",
+        "location": "湖北武汉",
+        "name": "繁星七月",
+        "pinned_tweet_id": "1416295179619872770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446859443983958016/ngx06-mh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 223,
+          "like_count": 1015,
+          "listed_count": 0,
+          "tweet_count": 885
+        },
+        "username": "Qimuli750",
+        "verified": false
+      }
+    ]
+  }
+}

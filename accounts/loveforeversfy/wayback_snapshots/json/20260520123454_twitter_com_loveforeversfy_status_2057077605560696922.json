@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2057041174863683925",
+    "created_at": "2026-05-20T12:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057077605560696922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758532281873125377",
+          "start": 0,
+          "username": "miyoko39196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057077605560696922",
+    "in_reply_to_user_id": "1758532281873125377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057073393732899240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyoko39196 憔悴喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2057041174863683925",
+        "created_at": "2026-05-20T12:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057077605560696922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758532281873125377",
+              "start": 0,
+              "username": "miyoko39196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057077605560696922",
+        "in_reply_to_user_id": "1758532281873125377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057073393732899240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyoko39196 憔悴喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758532281873125377",
+        "conversation_id": "2057041174863683925",
+        "created_at": "2026-05-20T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057073393732899240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057073393732899240",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057041174863683925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 怎么这么瘦，这么憔悴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1562,
+          "like_count": 35040,
+          "listed_count": 9,
+          "media_count": 1181,
+          "tweet_count": 11184
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为范马刃牙／照见五蕴皆空度一切苦厄／因为她是我的骄傲",
+        "id": "1758532281873125377",
+        "location": "Macau",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 125,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 683
+        },
+        "username": "miyoko39196",
+        "verified": false
+      }
+    ]
+  }
+}

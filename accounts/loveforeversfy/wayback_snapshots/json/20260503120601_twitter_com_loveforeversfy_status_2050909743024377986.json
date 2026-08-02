@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050909740230905856"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2050909743024377986",
+    "created_at": "2026-05-03T12:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050909743024377986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uL3UZyKal1",
+          "end": 29,
+          "expanded_url": "https://x.com/loveforeversfy/status/2050909743024377986/photo/1",
+          "media_key": "3_2050909740230905856",
+          "start": 6,
+          "url": "https://t.co/uL3UZyKal1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050909743024377986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玉米面大王 https://t.co/uL3UZyKal1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050909740230905856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZLiuTaEAAUZPQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050909740230905856"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2050909743024377986",
+        "created_at": "2026-05-03T12:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050909743024377986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uL3UZyKal1",
+              "end": 29,
+              "expanded_url": "https://x.com/loveforeversfy/status/2050909743024377986/photo/1",
+              "media_key": "3_2050909740230905856",
+              "start": 6,
+              "url": "https://t.co/uL3UZyKal1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050909743024377986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米面大王 https://t.co/uL3UZyKal1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 1557,
+          "like_count": 34618,
+          "listed_count": 8,
+          "media_count": 1164,
+          "tweet_count": 11043
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

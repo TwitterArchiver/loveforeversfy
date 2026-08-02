@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1794449103906316444",
+    "created_at": "2024-05-26T09:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T10:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794666330966368533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "Valeria_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794666330966368533",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794449103906316444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valeria_xyn 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1794449103906316444",
+        "created_at": "2024-05-26T09:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794666330966368533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "Valeria_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794666330966368533",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794449103906316444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valeria_xyn 还真是"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794449101544951808"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "1794449103906316444",
+        "created_at": "2024-05-25T19:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794449103906316444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z2lXeaYfvl",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Valeria_xyn/status/1794449103906316444/photo/1",
+              "media_key": "3_1794449101544951808",
+              "start": 67,
+              "url": "https://t.co/z2lXeaYfvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794449103906316444",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4032,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很好奇，难道只有我和丁真会捧着词典读得津津有味吗？\n\n我还记得我初中的时候，晚自习会抱着《现代汉语词典》读，一读就是一节课…… https://t.co/z2lXeaYfvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 1565,
+          "like_count": 27422,
+          "listed_count": 8,
+          "tweet_count": 7266
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feijiyun38.xyz/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://feijiyun38.xyz/auth/register?code=ECn1",
+                "start": 0,
+                "url": "https://t.co/JRYrTUtOwa"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "⬇️Sponsored link⬇️",
+        "name": "🍥 Valeria 🏳️‍⚧️",
+        "pinned_tweet_id": "1675306856850550785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746515536283140096/-tyRLvuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5352,
+          "following_count": 2720,
+          "like_count": 92499,
+          "listed_count": 14,
+          "tweet_count": 11307
+        },
+        "url": "https://t.co/JRYrTUtOwa",
+        "username": "Valeria_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

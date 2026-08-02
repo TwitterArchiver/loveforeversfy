@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2076586677502607466",
+    "created_at": "2026-07-13T08:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076586677502607466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r1nwtff/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/r1nwtff/status/2076038558960214078",
+          "start": 14,
+          "url": "https://t.co/cbh9hPLxiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076586677502607466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076038558960214078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "床上再堆半床东西就是我房间 https://t.co/cbh9hPLxiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2076038554803666945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-SEPcWgAESKpa.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2076586677502607466",
+        "created_at": "2026-07-13T08:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076586677502607466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r1nwtff/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/r1nwtff/status/2076038558960214078",
+              "start": 14,
+              "url": "https://t.co/cbh9hPLxiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076586677502607466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076038558960214078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "床上再堆半床东西就是我房间 https://t.co/cbh9hPLxiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076038554803666945"
+          ]
+        },
+        "author_id": "1652093768282120194",
+        "conversation_id": "2076038558960214078",
+        "created_at": "2026-07-11T20:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076038558960214078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aY9cKd72Lp",
+              "end": 78,
+              "expanded_url": "https://x.com/r1nwtff/status/2076038558960214078/photo/1",
+              "media_key": "3_2076038554803666945",
+              "start": 55,
+              "url": "https://t.co/aY9cKd72Lp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076038558960214078",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 107281,
+          "like_count": 12323,
+          "quote_count": 45,
+          "reply_count": 23,
+          "retweet_count": 4302
+        },
+        "reply_settings": "everyone",
+        "text": "“Espero no me engañes\"\nComo se mira un día normal mío: https://t.co/aY9cKd72Lp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 1554,
+          "like_count": 35693,
+          "listed_count": 8,
+          "media_count": 1230,
+          "tweet_count": 11477
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-28T23:34:01.000Z",
+        "description": "she/her #subtwt #drugstwt #shtwt #obstwt 🥢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "subtwt"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "drugstwt"
+              },
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "shtwt"
+              },
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "obstwt"
+              }
+            ]
+          }
+        },
+        "id": "1652093768282120194",
+        "location": "Raccon city 🩻",
+        "name": "Rin 💌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073988248980865025/QfvtIqtW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 173,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "r1nwtff",
+        "verified": false
+      }
+    ]
+  }
+}

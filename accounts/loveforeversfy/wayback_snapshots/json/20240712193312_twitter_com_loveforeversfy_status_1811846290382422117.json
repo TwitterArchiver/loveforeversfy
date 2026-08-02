@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1811846290382422117",
+    "created_at": "2024-07-12T19:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T20:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811846290382422117"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "maimai中国版 首舞舞舞get",
+          "probability": 0.0857,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1500878843380666370",
+          "start": 3,
+          "username": "tonyncl5208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811846290382422117",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811797987120808326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tonyncl5208: maimai中国版\n首舞舞舞get！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1811846290382422117",
+        "created_at": "2024-07-12T19:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T20:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811846290382422117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "maimai中国版 首舞舞舞get",
+              "probability": 0.0857,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1500878843380666370",
+              "start": 3,
+              "username": "tonyncl5208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811846290382422117",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811797987120808326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tonyncl5208: maimai中国版\n首舞舞舞get！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811797979478786049",
+            "3_1811797979474665472"
+          ]
+        },
+        "author_id": "1500878843380666370",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1811797987120808326",
+        "created_at": "2024-07-12T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811797987120808326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LkF1awkXRq",
+              "end": 155,
+              "expanded_url": "https://twitter.com/tonyncl5208/status/1811797987120808326/photo/1",
+              "media_key": "3_1811797979478786049",
+              "start": 132,
+              "url": "https://t.co/LkF1awkXRq"
+            },
+            {
+              "display_url": "pic.twitter.com/LkF1awkXRq",
+              "end": 155,
+              "expanded_url": "https://twitter.com/tonyncl5208/status/1811797987120808326/photo/1",
+              "media_key": "3_1811797979474665472",
+              "start": 132,
+              "url": "https://t.co/LkF1awkXRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811797987120808326",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1649,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "maimai中国版\n首舞舞舞get！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！ https://t.co/LkF1awkXRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1568,
+          "like_count": 28553,
+          "listed_count": 8,
+          "tweet_count": 7875
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T16:59:44.000Z",
+        "description": "上海maimai玩家 SD 谱面AP制霸 舞神/熊神，会回关所有人",
+        "id": "1500878843380666370",
+        "name": "tonyncl5208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500879008871104512/ikjoeDCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 1055,
+          "like_count": 100,
+          "listed_count": 0,
+          "tweet_count": 123
+        },
+        "username": "tonyncl5208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2028392274518999040"
+      ],
+      "media_source_tweet_id": [
+        "2028666674308850134"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028770078322548741",
+    "created_at": "2026-03-03T09:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028770078322548741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1602957650194747392",
+          "start": 3,
+          "username": "ExranoI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iFML4fNlHq",
+          "end": 41,
+          "expanded_url": "https://x.com/ExranoI/status/2028666674308850134/photo/1",
+          "media_key": "16_2028392274518999040",
+          "start": 18,
+          "url": "https://t.co/iFML4fNlHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028770078322548741",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028666674308850134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ExranoI: 😮🫢🥵🔞 https://t.co/iFML4fNlHq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028770078322548741].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028770078322548741",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028770078322548741"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "16_2028392274518999040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCZMBtvaAAA8Rm-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCZMBtvaAAA8Rm-.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028392274518999040"
+          ]
+        },
+        "author_id": "1602957650194747392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028666674308850134",
+        "created_at": "2026-03-03T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028666674308850134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFML4fNlHq",
+              "end": 28,
+              "expanded_url": "https://x.com/ExranoI/status/2028666674308850134/photo/1",
+              "media_key": "16_2028392274518999040",
+              "start": 5,
+              "url": "https://t.co/iFML4fNlHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028666674308850134",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 811,
+          "impression_count": 17279,
+          "like_count": 2314,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "😮🫢🥵🔞 https://t.co/iFML4fNlHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1538,
+          "like_count": 32996,
+          "listed_count": 8,
+          "media_count": 1085,
+          "tweet_count": 10517
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T09:24:46.000Z",
+        "description": "Exrano/エクラノ\n🔞NSFS|男の娘好き ! Artist mainly drawing femboys\nPatreon: https://t.co/Qniqubo7yE\nFANBOX: https://t.co/xBVfrVSjTy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Exranowonderla…",
+                "end": 88,
+                "expanded_url": "http://patreon.com/Exranowonderland",
+                "start": 65,
+                "url": "https://t.co/Qniqubo7yE"
+              },
+              {
+                "display_url": "fanbox.cc/@exrano000",
+                "end": 120,
+                "expanded_url": "http://www.fanbox.cc/@exrano000",
+                "start": 97,
+                "url": "https://t.co/xBVfrVSjTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2550100",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/2550100",
+                "start": 0,
+                "url": "https://t.co/r1iMEGwMqo"
+              }
+            ]
+          }
+        },
+        "id": "1602957650194747392",
+        "location": "Exrano Woderland",
+        "name": "Exrano🔞",
+        "pinned_tweet_id": "1929714129398591867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883065798379683840/BbqHaOxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30869,
+          "following_count": 2642,
+          "like_count": 10611,
+          "listed_count": 117,
+          "media_count": 115,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/r1iMEGwMqo",
+        "username": "ExranoI",
+        "verified": true
+      }
+    ]
+  }
+}

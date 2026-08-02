@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1814116056203710786",
+    "created_at": "2024-07-19T02:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T03:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814130672099025232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814130672099025232",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814123934285222318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1814116056203710786",
+        "created_at": "2024-07-19T02:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T03:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814130672099025232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814130672099025232",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814123934285222318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 😎"
+      },
+      {
+        "attachments": {},
+        "author_id": "1583422861099692032",
+        "conversation_id": "1814116056203710786",
+        "created_at": "2024-07-19T02:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T03:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814123934285222318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814123934285222318",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814116056203710786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1570,
+          "like_count": 28800,
+          "listed_count": 8,
+          "tweet_count": 8034
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 6284,
+          "like_count": 419736,
+          "listed_count": 29,
+          "tweet_count": 15000
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

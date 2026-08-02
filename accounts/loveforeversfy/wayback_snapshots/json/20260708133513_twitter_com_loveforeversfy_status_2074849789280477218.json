@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074803743967854592"
+      ],
+      "media_source_tweet_id": [
+        "2074803748820635886"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074849789280477218",
+    "created_at": "2026-07-08T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074849789280477218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780161015705190400",
+          "start": 3,
+          "username": "vxdrq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CddeQTJHFt",
+          "end": 76,
+          "expanded_url": "https://x.com/vxdrq/status/2074803748820635886/photo/1",
+          "media_key": "3_2074803743967854592",
+          "start": 53,
+          "url": "https://t.co/CddeQTJHFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074849789280477218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074803748820635886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vxdrq: せっかくなんでマルボロアイスブラストの擬人化を貼っておきます。\nアイブラは俺の嫁。 https://t.co/CddeQTJHFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074803743967854592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsvAynawAAukx0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074803743967854592"
+          ],
+          "media_source_tweet_id": [
+            "2074803748820635886"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074849789280477218",
+        "created_at": "2026-07-08T13:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074849789280477218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780161015705190400",
+              "start": 3,
+              "username": "vxdrq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CddeQTJHFt",
+              "end": 76,
+              "expanded_url": "https://x.com/vxdrq/status/2074803748820635886/photo/1",
+              "media_key": "3_2074803743967854592",
+              "start": 53,
+              "url": "https://t.co/CddeQTJHFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074849789280477218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074803748820635886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vxdrq: せっかくなんでマルボロアイスブラストの擬人化を貼っておきます。\nアイブラは俺の嫁。 https://t.co/CddeQTJHFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074803743967854592"
+          ]
+        },
+        "author_id": "1780161015705190400",
+        "conversation_id": "2074803748820635886",
+        "created_at": "2026-07-08T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074803748820635886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CddeQTJHFt",
+              "end": 65,
+              "expanded_url": "https://x.com/vxdrq/status/2074803748820635886/photo/1",
+              "media_key": "3_2074803743967854592",
+              "start": 42,
+              "url": "https://t.co/CddeQTJHFt"
+            },
+            {
+              "display_url": "x.com/vxdrq/status/2…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/vxdrq/status/2074641721464684659",
+              "start": 66,
+              "url": "https://t.co/SJTMFJj1vY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074803748820635886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 94301,
+          "like_count": 3381,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074641721464684659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "せっかくなんでマルボロアイスブラストの擬人化を貼っておきます。\nアイブラは俺の嫁。 https://t.co/CddeQTJHFt https://t.co/SJTMFJj1vY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 1556,
+          "like_count": 35643,
+          "listed_count": 8,
+          "media_count": 1228,
+          "tweet_count": 11464
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T09:07:35.000Z",
+        "description": "アークナイツ,エンドフィールド,東方などのイラストを描きます！\nFANBOX【https://t.co/hmoW4furKD】\nSkeb【https://t.co/rdROvjnyYk】\nEmail【vxdrq999@gmail.com】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vxdrq.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://vxdrq.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/hmoW4furKD"
+              },
+              {
+                "display_url": "skeb.jp/@vxdrq",
+                "end": 92,
+                "expanded_url": "https://skeb.jp/@vxdrq",
+                "start": 69,
+                "url": "https://t.co/rdROvjnyYk"
+              }
+            ]
+          }
+        },
+        "id": "1780161015705190400",
+        "location": "緑一色",
+        "name": "VXDRQ@夏コミ土曜【西1め24ab】",
+        "pinned_tweet_id": "2016082700231442714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788667550072803329/qTLoZCug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96804,
+          "following_count": 998,
+          "like_count": 4954,
+          "listed_count": 561,
+          "media_count": 458,
+          "tweet_count": 2528
+        },
+        "url": "",
+        "username": "vxdrq",
+        "verified": true
+      }
+    ]
+  }
+}

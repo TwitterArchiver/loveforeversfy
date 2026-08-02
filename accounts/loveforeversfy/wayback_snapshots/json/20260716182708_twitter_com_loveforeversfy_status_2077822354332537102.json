@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077634521273450496"
+      ],
+      "media_source_tweet_id": [
+        "2077634536653922775"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2077822354332537102",
+    "created_at": "2026-07-16T18:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077822354332537102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhGJVvDTIm",
+          "end": 49,
+          "expanded_url": "https://x.com/satireorcry1/status/2077634536653922775/video/1",
+          "media_key": "13_2077634521273450496",
+          "start": 26,
+          "url": "https://t.co/BhGJVvDTIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077822354332537102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077634536653922775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 经典疫情回顾： https://t.co/BhGJVvDTIm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12366,
+        "height": 1210,
+        "media_key": "13_2077634521273450496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077634521273450496/img/OywU2xAZ0nk3NuTj.jpg",
+        "public_metrics": {
+          "view_count": 23176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077634521273450496/vid/avc1/320x536/gk8PTi7ZVx99zK2E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077634521273450496/vid/avc1/480x806/kCOmW-lISa40fbru.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077634521273450496/vid/avc1/720x1210/xCyUsTZERLSAEp7A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077634521273450496/pl/mbTzJ5zPgObadh7E.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077634521273450496"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2077634536653922775",
+        "created_at": "2026-07-16T06:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077634536653922775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhGJVvDTIm",
+              "end": 31,
+              "expanded_url": "https://x.com/satireorcry1/status/2077634536653922775/video/1",
+              "media_key": "13_2077634521273450496",
+              "start": 8,
+              "url": "https://t.co/BhGJVvDTIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634536653922775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 48850,
+          "like_count": 382,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "经典疫情回顾： https://t.co/BhGJVvDTIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077634521273450496"
+          ],
+          "media_source_tweet_id": [
+            "2077634536653922775"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2077822354332537102",
+        "created_at": "2026-07-16T18:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077822354332537102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhGJVvDTIm",
+              "end": 49,
+              "expanded_url": "https://x.com/satireorcry1/status/2077634536653922775/video/1",
+              "media_key": "13_2077634521273450496",
+              "start": 26,
+              "url": "https://t.co/BhGJVvDTIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077822354332537102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077634536653922775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 经典疫情回顾： https://t.co/BhGJVvDTIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 1554,
+          "like_count": 35783,
+          "listed_count": 8,
+          "media_count": 1232,
+          "tweet_count": 11507
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39900,
+          "following_count": 1729,
+          "like_count": 24226,
+          "listed_count": 111,
+          "media_count": 5921,
+          "tweet_count": 7897
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

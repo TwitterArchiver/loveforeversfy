@@ -1,0 +1,297 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810601680263901184"
+      ],
+      "media_source_tweet_id": [
+        "1810601727277593016"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1810676344264819034",
+    "created_at": "2024-07-09T14:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T15:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810676344264819034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764028664361197568",
+          "start": 3,
+          "username": "sottuannisei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/JK0LDGBkGy",
+          "end": 66,
+          "expanded_url": "https://twitter.com/sottuannisei/status/1810601727277593016/video/1",
+          "media_key": "7_1810601680263901184",
+          "start": 43,
+          "url": "https://t.co/JK0LDGBkGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810676344264819034",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810601727277593016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sottuannisei: Moon of Noon AIルイージcover https://t.co/JK0LDGBkGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28931,
+        "height": 720,
+        "media_key": "7_1810601680263901184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810601680263901184/pu/img/jGfX7XQ9ggLB6lmX.jpg",
+        "public_metrics": {
+          "view_count": 8968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810601680263901184/pu/vid/avc1/320x320/UfGD40PdgmSXVOlR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810601680263901184/pu/vid/avc1/540x540/mAERwh5AQsoMEKeV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810601680263901184/pu/vid/avc1/720x720/HAJS-Eok5BeZMPgc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810601680263901184/pu/pl/CfBV-SU8zSfHyX4c.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810601680263901184"
+          ],
+          "media_source_tweet_id": [
+            "1810601727277593016"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810676344264819034",
+        "created_at": "2024-07-09T14:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T15:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810676344264819034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764028664361197568",
+              "start": 3,
+              "username": "sottuannisei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JK0LDGBkGy",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sottuannisei/status/1810601727277593016/video/1",
+              "media_key": "7_1810601680263901184",
+              "start": 43,
+              "url": "https://t.co/JK0LDGBkGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810676344264819034",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810601727277593016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sottuannisei: Moon of Noon AIルイージcover https://t.co/JK0LDGBkGy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810601680263901184"
+          ]
+        },
+        "author_id": "1764028664361197568",
+        "conversation_id": "1810601727277593016",
+        "created_at": "2024-07-09T09:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T10:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810601727277593016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JK0LDGBkGy",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sottuannisei/status/1810601727277593016/video/1",
+              "media_key": "7_1810601680263901184",
+              "start": 25,
+              "url": "https://t.co/JK0LDGBkGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810601727277593016",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 33058,
+          "like_count": 638,
+          "quote_count": 28,
+          "reply_count": 3,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "Moon of Noon AIルイージcover https://t.co/JK0LDGBkGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1571,
+          "like_count": 28456,
+          "listed_count": 8,
+          "tweet_count": 7822
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T20:44:55.000Z",
+        "description": "🪦@sottuanhazako #kosen8101145141919s 07 モブ音ゲーマー 地力De$tro¥er最弱 DMP 淫夢 スパム以外フォロバ100 リプ返は気分 タメでいいよ ルイージうざかったらブロックかミュートして、どうぞ  サブ垢兼AIルイージbot @AILuigibot",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 16,
+                "tag": "kosen8101145141919s"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "sottuanhazako"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "AILuigibot"
+              }
+            ]
+          }
+        },
+        "id": "1764028664361197568",
+        "location": "ルイージを擦る",
+        "name": "そっつあん🍙",
+        "pinned_tweet_id": "1809206211830796508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808358321931550720/1JO0Zz_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1351,
+          "like_count": 10183,
+          "listed_count": 0,
+          "tweet_count": 2901
+        },
+        "username": "sottuannisei",
+        "verified": false
+      }
+    ]
+  }
+}

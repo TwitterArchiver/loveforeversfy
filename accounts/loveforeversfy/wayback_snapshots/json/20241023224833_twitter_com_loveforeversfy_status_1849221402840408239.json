@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1849032334810697728"
+      ],
+      "media_source_tweet_id": [
+        "1849032380906147925"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1849221402840408239",
+    "created_at": "2024-10-23T22:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T23:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849221402840408239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1667772925347528704",
+          "start": 3,
+          "username": "DumbLumiThing"
+        }
+      ]
+    },
+    "id": "1849221402840408239",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849032380906147925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DumbLumiThing: Friend sent me this while i was having a mental breakdown https://t.co/UQbgYd6Q4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10541,
+        "height": 1280,
+        "media_key": "7_1849032334810697728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1849032334810697728/pu/img/3oL8AsejyZzZDh4i.jpg",
+        "public_metrics": {
+          "view_count": 812045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849032334810697728/pu/vid/avc1/320x568/bNkMzz8sMksUIuAx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849032334810697728/pu/vid/avc1/480x852/jWj5tRfDLCUR-GyJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849032334810697728/pu/vid/avc1/720x1280/_8hp9GX0YxFuAlx9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1849032334810697728/pu/pl/Hu2WAoOqq70adYmm.m3u8?tag=12&v=99c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1849032334810697728"
+          ],
+          "media_source_tweet_id": [
+            "1849032380906147925"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1849221402840408239",
+        "created_at": "2024-10-23T22:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T23:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849221402840408239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1667772925347528704",
+              "start": 3,
+              "username": "DumbLumiThing"
+            }
+          ]
+        },
+        "id": "1849221402840408239",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849032380906147925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DumbLumiThing: Friend sent me this while i was having a mental breakdown https://t.co/UQbgYd6Q4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1588,
+          "like_count": 32480,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 9491
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T05:57:23.000Z",
+        "description": "I like eating rocks",
+        "id": "1667772925347528704",
+        "location": "trans she/her",
+        "name": "🌸Lumi🌸",
+        "pinned_tweet_id": "1848701241012187337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861031785699946496/MYZxUVl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15878,
+          "following_count": 2429,
+          "like_count": 6906,
+          "listed_count": 109,
+          "media_count": 2283,
+          "tweet_count": 9083
+        },
+        "username": "DumbLumiThing",
+        "verified": false
+      }
+    ]
+  }
+}

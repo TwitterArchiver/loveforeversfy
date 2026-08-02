@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2040608501945524375",
+    "created_at": "2026-04-05T05:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040666661930582235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967912752560869377",
+          "start": 0,
+          "username": "ItoMasako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040666661930582235",
+    "in_reply_to_user_id": "1967912752560869377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040608501945524375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ItoMasako8964 荒野求生这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040608488695738368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGym95bMAAUDKr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2040608501945524375",
+        "created_at": "2026-04-05T05:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040666661930582235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967912752560869377",
+              "start": 0,
+              "username": "ItoMasako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040666661930582235",
+        "in_reply_to_user_id": "1967912752560869377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040608501945524375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItoMasako8964 荒野求生这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040608488695738368"
+          ]
+        },
+        "author_id": "1967912752560869377",
+        "conversation_id": "2040608501945524375",
+        "created_at": "2026-04-05T01:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040608501945524375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1eT87wEWZ",
+              "end": 31,
+              "expanded_url": "https://x.com/ItoMasako8964/status/2040608501945524375/photo/1",
+              "media_key": "3_2040608488695738368",
+              "start": 8,
+              "url": "https://t.co/m1eT87wEWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040608501945524375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在前往…学校 https://t.co/m1eT87wEWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1549,
+          "like_count": 33823,
+          "listed_count": 8,
+          "media_count": 1141,
+          "tweet_count": 10740
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T11:25:51.000Z",
+        "description": "申必的是奇异搞笑的",
+        "id": "1967912752560869377",
+        "location": "日本 神奈川冲浪里",
+        "name": "雨怜在日本读高中太寒冷了感觉冰墩墩",
+        "pinned_tweet_id": "2029934189899043317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029879773397405707/qwCr2p5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 50
+        },
+        "username": "ItoMasako8964",
+        "verified": false
+      }
+    ]
+  }
+}

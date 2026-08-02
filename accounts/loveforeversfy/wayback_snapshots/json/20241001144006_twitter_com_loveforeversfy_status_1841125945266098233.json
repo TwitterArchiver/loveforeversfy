@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1841125838634242051"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1841125945266098233",
+    "created_at": "2024-10-01T14:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T15:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841125945266098233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m0Gd44LXcm",
+          "end": 27,
+          "expanded_url": "https://x.com/loveforeversfy/status/1841125945266098233/video/1",
+          "media_key": "7_1841125838634242051",
+          "start": 4,
+          "url": "https://t.co/m0Gd44LXcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841125945266098233",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好的猫 https://t.co/m0Gd44LXcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14978,
+        "height": 1280,
+        "media_key": "7_1841125838634242051",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1841125838634242051/pu/img/cyWZhgihMltSojdH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841125838634242051/pu/vid/avc1/320x568/H6OYRrAHUXXoVors.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841125838634242051/pu/vid/avc1/480x852/c6yXuuk9PFWUYDj7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841125838634242051/pu/vid/avc1/720x1280/UXgSVjCbN0GUD0DM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1841125838634242051/pu/pl/ldPI9u-fzbvfB46A.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841125838634242051"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1841125945266098233",
+        "created_at": "2024-10-01T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841125945266098233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0Gd44LXcm",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/1841125945266098233/video/1",
+              "media_key": "7_1841125838634242051",
+              "start": 4,
+              "url": "https://t.co/m0Gd44LXcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841125945266098233",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的猫 https://t.co/m0Gd44LXcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1580,
+          "like_count": 30876,
+          "listed_count": 7,
+          "tweet_count": 8647
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

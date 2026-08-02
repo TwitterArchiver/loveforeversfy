@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1826605219490443264",
+        "7_1826605223085047808",
+        "7_1826605233142939648"
+      ],
+      "media_source_tweet_id": [
+        "1826605353922167008",
+        "1826605353922167008",
+        "1826605353922167008"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1826914712027795931",
+    "created_at": "2024-08-23T09:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T10:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826914712027795931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jpfpn3iqsy",
+          "end": 89,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+          "media_key": "7_1826605219490443264",
+          "start": 66,
+          "url": "https://t.co/Jpfpn3iQsY"
+        },
+        {
+          "display_url": "pic.x.com/jpfpn3iqsy",
+          "end": 89,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+          "media_key": "7_1826605223085047808",
+          "start": 66,
+          "url": "https://t.co/Jpfpn3iQsY"
+        },
+        {
+          "display_url": "pic.x.com/jpfpn3iqsy",
+          "end": 89,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+          "media_key": "7_1826605233142939648",
+          "start": 66,
+          "url": "https://t.co/Jpfpn3iQsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826914712027795931",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826605353922167008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 江苏南京。一名退伍军人指责一车主身为中国人不该在车内挂美国国旗，并要求车主把美国国旗撕掉。 https://t.co/Jpfpn3iQsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27120,
+        "height": 640,
+        "media_key": "7_1826605219490443264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1826605219490443264/pu/img/aq6xL9-uigeT-AQo.jpg",
+        "public_metrics": {
+          "view_count": 595339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605219490443264/pu/vid/avc1/320x556/kB5ryG6jB_UlyWS7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605219490443264/pu/vid/avc1/368x640/KaG6ZEkUEZFpRZxo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1826605219490443264/pu/pl/wdN-8oStv_rDRdGq.m3u8?tag=12"
+          }
+        ],
+        "width": 368
+      },
+      {
+        "duration_ms": 35333,
+        "height": 640,
+        "media_key": "7_1826605223085047808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1826605223085047808/pu/img/hui8qCFGtU4py-j5.jpg",
+        "public_metrics": {
+          "view_count": 103384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605223085047808/pu/vid/avc1/320x556/sdqVtNc0uGQ9pdjC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605223085047808/pu/vid/avc1/368x640/wecycsdmdyogRBe1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1826605223085047808/pu/pl/WKQWcxvogYta_J0x.m3u8?tag=12"
+          }
+        ],
+        "width": 368
+      },
+      {
+        "duration_ms": 55170,
+        "height": 640,
+        "media_key": "7_1826605233142939648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1826605233142939648/pu/img/ndcekuFPlwV4XrqC.jpg",
+        "public_metrics": {
+          "view_count": 80097
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605233142939648/pu/vid/avc1/320x556/RuhFpf9tDlBzpvHB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826605233142939648/pu/vid/avc1/368x640/P5Vw4pdez1arc1Ws.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1826605233142939648/pu/pl/D8oSGlPp9HWurZpm.m3u8?tag=12"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1826605219490443264",
+            "7_1826605223085047808",
+            "7_1826605233142939648"
+          ],
+          "media_source_tweet_id": [
+            "1826605353922167008",
+            "1826605353922167008",
+            "1826605353922167008"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1826914712027795931",
+        "created_at": "2024-08-23T09:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826914712027795931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 89,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605219490443264",
+              "start": 66,
+              "url": "https://t.co/Jpfpn3iQsY"
+            },
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 89,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605223085047808",
+              "start": 66,
+              "url": "https://t.co/Jpfpn3iQsY"
+            },
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 89,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605233142939648",
+              "start": 66,
+              "url": "https://t.co/Jpfpn3iQsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826914712027795931",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826605353922167008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 江苏南京。一名退伍军人指责一车主身为中国人不该在车内挂美国国旗，并要求车主把美国国旗撕掉。 https://t.co/Jpfpn3iQsY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1826605219490443264",
+            "7_1826605223085047808",
+            "7_1826605233142939648"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1826605353922167008",
+        "created_at": "2024-08-22T13:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T14:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826605353922167008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605219490443264",
+              "start": 46,
+              "url": "https://t.co/Jpfpn3iQsY"
+            },
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605223085047808",
+              "start": 46,
+              "url": "https://t.co/Jpfpn3iQsY"
+            },
+            {
+              "display_url": "pic.x.com/jpfpn3iqsy",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1826605353922167008/video/1",
+              "media_key": "7_1826605233142939648",
+              "start": 46,
+              "url": "https://t.co/Jpfpn3iQsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826605353922167008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 1335939,
+          "like_count": 3814,
+          "quote_count": 94,
+          "reply_count": 1134,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "江苏南京。一名退伍军人指责一车主身为中国人不该在车内挂美国国旗，并要求车主把美国国旗撕掉。 https://t.co/Jpfpn3iQsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐丽蓄力旭栗盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1568,
+          "like_count": 29845,
+          "listed_count": 8,
+          "tweet_count": 8371
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671815,
+          "following_count": 914,
+          "like_count": 5183,
+          "listed_count": 7643,
+          "tweet_count": 21729
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

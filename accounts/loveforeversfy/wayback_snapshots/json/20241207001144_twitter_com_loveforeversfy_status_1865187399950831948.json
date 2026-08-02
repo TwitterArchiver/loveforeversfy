@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1865187399950831948",
+    "created_at": "2024-12-07T00:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T01:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865187399950831948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youngrock360/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/youngrock360/status/1864672453265641838",
+          "start": 3,
+          "url": "https://t.co/JjQH46el7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865187399950831948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864672453265641838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神人 https://t.co/JjQH46el7I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1865187399950831948",
+        "created_at": "2024-12-07T00:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T01:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865187399950831948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youngrock360/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/youngrock360/status/1864672453265641838",
+              "start": 3,
+              "url": "https://t.co/JjQH46el7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865187399950831948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864672453265641838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人 https://t.co/JjQH46el7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864668340796768256",
+            "3_1864668511890755636"
+          ]
+        },
+        "author_id": "1562732766592380930",
+        "conversation_id": "1864672453265641838",
+        "created_at": "2024-12-05T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864672453265641838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohFobOErUm",
+              "end": 111,
+              "expanded_url": "https://x.com/youngrock360/status/1864672453265641838/photo/1",
+              "media_key": "3_1864668340796768256",
+              "start": 88,
+              "url": "https://t.co/ohFobOErUm"
+            },
+            {
+              "display_url": "pic.x.com/ohFobOErUm",
+              "end": 111,
+              "expanded_url": "https://x.com/youngrock360/status/1864672453265641838/photo/1",
+              "media_key": "3_1864668511890755636",
+              "start": 88,
+              "url": "https://t.co/ohFobOErUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864672453265641838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "11 feminine behaviors that you MUST avoid as a man\n\n1. Crossing your legs while sitting"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15583,
+          "impression_count": 6872993,
+          "like_count": 21330,
+          "quote_count": 581,
+          "reply_count": 1027,
+          "retweet_count": 1678
+        },
+        "reply_settings": "everyone",
+        "text": "11 feminine behaviors that you MUST avoid as a man\n\n1. Crossing your legs while sitting https://t.co/ohFobOErUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1584,
+          "like_count": 32622,
+          "listed_count": 7,
+          "media_count": 935,
+          "tweet_count": 9518
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T09:25:17.000Z",
+        "description": "Transforming “nice shy guys” Into Confident Badasses. Dm Me “Badass” to Start",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/youngrockunfil…",
+                "end": 23,
+                "expanded_url": "https://t.me/youngrockunfiltered",
+                "start": 0,
+                "url": "https://t.co/KThmAMBHpI"
+              }
+            ]
+          }
+        },
+        "id": "1562732766592380930",
+        "location": "Unfiltered Badass Tips Here",
+        "name": "Young Rock | Badassism Coach",
+        "pinned_tweet_id": "1861732160463683943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733169852351938560/iQZu7bqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18852,
+          "following_count": 537,
+          "like_count": 36664,
+          "listed_count": 80,
+          "media_count": 1484,
+          "tweet_count": 12382
+        },
+        "url": "https://t.co/KThmAMBHpI",
+        "username": "youngrock360",
+        "verified": true
+      }
+    ]
+  }
+}

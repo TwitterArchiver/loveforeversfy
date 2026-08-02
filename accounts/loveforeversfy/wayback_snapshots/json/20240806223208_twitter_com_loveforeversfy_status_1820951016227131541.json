@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1820951016227131541",
+    "created_at": "2024-08-06T22:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T23:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820951016227131541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1597945043251187712",
+          "start": 3,
+          "username": "RayestandRaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820951016227131541",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820698329115767175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RayestandRaye: 我们的学生会主席发了个她的2024年账单的朋友圈，微信就支出了十万，还隔着发朋友圈说：“谁把我钱偷走了”\n殊不知她已经进入了我的献忠名单👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1820951016227131541",
+        "created_at": "2024-08-06T22:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T23:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820951016227131541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1597945043251187712",
+              "start": 3,
+              "username": "RayestandRaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820951016227131541",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820698329115767175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RayestandRaye: 我们的学生会主席发了个她的2024年账单的朋友圈，微信就支出了十万，还隔着发朋友圈说：“谁把我钱偷走了”\n殊不知她已经进入了我的献忠名单👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "1820698329115767175",
+        "created_at": "2024-08-06T05:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T06:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820698329115767175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820698329115767175",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10370,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们的学生会主席发了个她的2024年账单的朋友圈，微信就支出了十万，还隔着发朋友圈说：“谁把我钱偷走了”\n殊不知她已经进入了我的献忠名单👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1570,
+          "like_count": 29479,
+          "listed_count": 8,
+          "tweet_count": 8271
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "命运笼罩我以不公，我却将它谱成诗歌\n倘若今日仍是坚韧，那么死亡明日再说",
+        "id": "1597945043251187712",
+        "location": "前往天国的道路",
+        "name": "Rayest",
+        "pinned_tweet_id": "1761444674458497366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814252770591195136/y3Jec8hh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 591,
+          "like_count": 33163,
+          "listed_count": 5,
+          "tweet_count": 6819
+        },
+        "username": "RayestandRaye",
+        "verified": false
+      }
+    ]
+  }
+}

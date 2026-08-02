@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1821906972142129411",
+    "created_at": "2024-08-09T13:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T14:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821907595411726572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821907595411726572",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821906972142129411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya 我也要吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1821906972142129411",
+        "created_at": "2024-08-09T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821907595411726572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821907595411726572",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821906972142129411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya 我也要吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821906963946459136"
+          ]
+        },
+        "author_id": "1762478947621638144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1821906972142129411",
+        "created_at": "2024-08-09T13:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T14:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821906972142129411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ypctxyvfp",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Kambronya/status/1821906972142129411/photo/1",
+              "media_key": "3_1821906963946459136",
+              "start": 23,
+              "url": "https://t.co/9YpctXyvfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821906972142129411",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日料是没得吃了，被🐻带到了她熟悉的苍蝇馆子🤔 https://t.co/9YpctXyvfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1572,
+          "like_count": 29538,
+          "listed_count": 8,
+          "tweet_count": 8283
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "我的一切-------就是我自己/天空不再下雨，血液不再倒流/",
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764447429301309440/812ytq0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 33,
+          "like_count": 1184,
+          "listed_count": 0,
+          "tweet_count": 550
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

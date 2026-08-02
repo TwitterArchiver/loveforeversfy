@@ -1,0 +1,635 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802297638219636736",
+        "7_1802297650202771457"
+      ],
+      "media_source_tweet_id": [
+        "1802298200994500927",
+        "1802298200994500927"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Baking Actions",
+          "id": "846772834588229632",
+          "name": "Baking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Baking Actions",
+          "id": "846772834588229632",
+          "name": "Baking"
+        }
+      }
+    ],
+    "conversation_id": "1802310631246417972",
+    "created_at": "2024-06-16T12:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T13:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802310631246417972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        },
+        {
+          "end": 56,
+          "id": "1313122922886643714",
+          "start": 40,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/C4dSmk0inV",
+          "end": 111,
+          "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+          "media_key": "3_1802297638219636736",
+          "start": 88,
+          "url": "https://t.co/C4dSmk0inV"
+        },
+        {
+          "display_url": "pic.twitter.com/C4dSmk0inV",
+          "end": 111,
+          "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+          "media_key": "7_1802297650202771457",
+          "start": 88,
+          "url": "https://t.co/C4dSmk0inV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802310631246417972",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802298200994500927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 【超てんちゃん50万フォロワーおめでとう！】\n@x_angelkawaii_x\n\nスタッフ一同、お祝いの気持ちを込めてケーキを作りました！🎉 https://t.co/C4dSmk0inV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_1802297638219636736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQMMJymbYAA-1sv.jpg",
+        "width": 4000
+      },
+      {
+        "duration_ms": 9100,
+        "height": 1080,
+        "media_key": "7_1802297650202771457",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802297650202771457/pu/img/Vgj9jGJYATpy_tns.jpg",
+        "public_metrics": {
+          "view_count": 4474
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802297650202771457/pu/vid/avc1/480x270/acNRvRZJSSE_jauV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802297650202771457/pu/vid/avc1/640x360/NJCx2ZGKgDhhxndy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802297650202771457/pu/vid/avc1/1280x720/fQc3vFSCeV2OrP2M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802297650202771457/pu/pl/7cyNgGukiUP19P-A.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802297638219636736",
+            "7_1802297650202771457"
+          ],
+          "media_source_tweet_id": [
+            "1802298200994500927",
+            "1802298200994500927"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Baking Actions",
+              "id": "846772834588229632",
+              "name": "Baking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Baking Actions",
+              "id": "846772834588229632",
+              "name": "Baking"
+            }
+          }
+        ],
+        "conversation_id": "1802310631246417972",
+        "created_at": "2024-06-16T12:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T13:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802310631246417972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            },
+            {
+              "end": 56,
+              "id": "1313122922886643714",
+              "start": 40,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/C4dSmk0inV",
+              "end": 111,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+              "media_key": "3_1802297638219636736",
+              "start": 88,
+              "url": "https://t.co/C4dSmk0inV"
+            },
+            {
+              "display_url": "pic.twitter.com/C4dSmk0inV",
+              "end": 111,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+              "media_key": "7_1802297650202771457",
+              "start": 88,
+              "url": "https://t.co/C4dSmk0inV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802310631246417972",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802298200994500927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 【超てんちゃん50万フォロワーおめでとう！】\n@x_angelkawaii_x\n\nスタッフ一同、お祝いの気持ちを込めてケーキを作りました！🎉 https://t.co/C4dSmk0inV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802297638219636736",
+            "7_1802297650202771457"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Baking Actions",
+              "id": "846772834588229632",
+              "name": "Baking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Baking Actions",
+              "id": "846772834588229632",
+              "name": "Baking"
+            }
+          }
+        ],
+        "conversation_id": "1802298200994500927",
+        "created_at": "2024-06-16T11:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T12:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802298200994500927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1313122922886643714",
+              "start": 23,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/C4dSmk0inV",
+              "end": 94,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+              "media_key": "3_1802297638219636736",
+              "start": 71,
+              "url": "https://t.co/C4dSmk0inV"
+            },
+            {
+              "display_url": "pic.twitter.com/C4dSmk0inV",
+              "end": 94,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1802298200994500927/video/1",
+              "media_key": "7_1802297650202771457",
+              "start": 71,
+              "url": "https://t.co/C4dSmk0inV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802298200994500927",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 15866,
+          "like_count": 1572,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "【超てんちゃん50万フォロワーおめでとう！】\n@x_angelkawaii_x\n\nスタッフ一同、お祝いの気持ちを込めてケーキを作りました！🎉 https://t.co/C4dSmk0inV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1566,
+          "like_count": 27685,
+          "listed_count": 8,
+          "tweet_count": 7482
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/M5DW5V8xeX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 137,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 114,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "1801809352296218700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19283,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 19,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリやめられないね https://t.co/vvQuMSgTJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 52,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 29,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.angelkawaii.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.angelkawaii.x/",
+                "start": 0,
+                "url": "https://t.co/XaUNcD4kIo"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483494206371155973/8L2Fs4p0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513708,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1258,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/XaUNcD4kIo",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

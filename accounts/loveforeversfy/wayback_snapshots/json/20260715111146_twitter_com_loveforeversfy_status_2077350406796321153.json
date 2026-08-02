@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2077348811278807090",
+    "created_at": "2026-07-15T11:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077350406796321153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        },
+        {
+          "end": 21,
+          "id": "2063957681984225280",
+          "start": 11,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 38,
+          "id": "2007397795532333056",
+          "start": 22,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077350406796321153",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077348811278807090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu @YuwenMewo @shaoxiancao1314 我去我也想见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077348803334856704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ5uvlbYAApnwz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2077348811278807090",
+        "created_at": "2026-07-15T11:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077350406796321153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            },
+            {
+              "end": 21,
+              "id": "2063957681984225280",
+              "start": 11,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 38,
+              "id": "2007397795532333056",
+              "start": 22,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077350406796321153",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077348811278807090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu @YuwenMewo @shaoxiancao1314 我去我也想见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077348803334856704"
+          ]
+        },
+        "author_id": "1570319690869899266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077348811278807090",
+        "created_at": "2026-07-15T11:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077348811278807090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2063957681984225280",
+              "start": 9,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 36,
+              "id": "2007397795532333056",
+              "start": 20,
+              "username": "shaoxiancao1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVcqTmky82",
+              "end": 60,
+              "expanded_url": "https://x.com/Yuko0Ruuu/status/2077348811278807090/photo/1",
+              "media_key": "3_2077348803334856704",
+              "start": 37,
+              "url": "https://t.co/QVcqTmky82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077348811278807090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩上未成年了（？\n@YuwenMewo @shaoxiancao1314 https://t.co/QVcqTmky82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 1554,
+          "like_count": 35742,
+          "listed_count": 8,
+          "media_count": 1232,
+          "tweet_count": 11493
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "—/ @tongzikin 那我们到底是谁啊 @catower233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "tongzikin"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "catower233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuko.hk",
+                "end": 23,
+                "expanded_url": "http://yuko.hk",
+                "start": 0,
+                "url": "https://t.co/gkVRocnSxQ"
+              }
+            ]
+          }
+        },
+        "id": "1570319690869899266",
+        "location": "39°58'30.0\"N 116°19'00.0\"E",
+        "name": "Yukoの残余物",
+        "pinned_tweet_id": "2053654128723935631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068972324272087040/7mW3wwal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 153,
+          "like_count": 10148,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 6699
+        },
+        "url": "https://t.co/gkVRocnSxQ",
+        "username": "Yuko0Ruuu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2075292615134884207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 75,
+          "like_count": 173,
+          "listed_count": 6,
+          "media_count": 588,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "",
+        "id": "2007397795532333056",
+        "name": "烧仙草🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029278451736485888/iKkTT_aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 496,
+          "like_count": 6261,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "shaoxiancao1314",
+        "verified": false
+      }
+    ]
+  }
+}

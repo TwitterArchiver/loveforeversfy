@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1815414346081562624"
+      ],
+      "media_source_tweet_id": [
+        "1815414396983611502"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1815731101111034167",
+    "created_at": "2024-07-23T12:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T13:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815731101111034167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1316036072921538564",
+          "start": 3,
+          "username": "tsunderebutt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/We2DXggBJn",
+          "end": 41,
+          "expanded_url": "https://twitter.com/tsunderebutt/status/1815414396983611502/video/1",
+          "media_key": "13_1815414346081562624",
+          "start": 18,
+          "url": "https://t.co/We2DXggBJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815731101111034167",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2098
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815414396983611502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsunderebutt: https://t.co/We2DXggBJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5300,
+        "height": 826,
+        "media_key": "13_1815414346081562624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1815414346081562624/img/SvmelupcSRUBruHh.jpg",
+        "public_metrics": {
+          "view_count": 152871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815414346081562624/vid/avc1/320x458/af148Bzz6dzquiOO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815414346081562624/vid/avc1/480x688/-W-7JJr-i7LOTT5M.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815414346081562624/vid/avc1/576x826/KYCU0yAAXzqjDhfj.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1815414346081562624/pl/dOmRF92vBPglQa9S.m3u8?tag=16"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815414346081562624"
+          ],
+          "media_source_tweet_id": [
+            "1815414396983611502"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815731101111034167",
+        "created_at": "2024-07-23T12:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T13:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815731101111034167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1316036072921538564",
+              "start": 3,
+              "username": "tsunderebutt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/We2DXggBJn",
+              "end": 41,
+              "expanded_url": "https://twitter.com/tsunderebutt/status/1815414396983611502/video/1",
+              "media_key": "13_1815414346081562624",
+              "start": 18,
+              "url": "https://t.co/We2DXggBJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815731101111034167",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2098
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815414396983611502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsunderebutt: https://t.co/We2DXggBJn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815414346081562624"
+          ]
+        },
+        "author_id": "1316036072921538564",
+        "conversation_id": "1815414396983611502",
+        "created_at": "2024-07-22T15:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T16:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815414396983611502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/We2DXggBJn",
+              "end": 23,
+              "expanded_url": "https://twitter.com/tsunderebutt/status/1815414396983611502/video/1",
+              "media_key": "13_1815414346081562624",
+              "start": 0,
+              "url": "https://t.co/We2DXggBJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815414396983611502",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1991,
+          "impression_count": 217645,
+          "like_count": 17132,
+          "quote_count": 22,
+          "reply_count": 27,
+          "retweet_count": 2098
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/We2DXggBJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1571,
+          "like_count": 28923,
+          "listed_count": 8,
+          "tweet_count": 8116
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T15:20:36.000Z",
+        "description": "cosplayer and shitposter | owner of two puppies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsunderebutt.carrd.co",
+                "end": 23,
+                "expanded_url": "http://tsunderebutt.carrd.co",
+                "start": 0,
+                "url": "https://t.co/KIxGADKW0e"
+              }
+            ]
+          }
+        },
+        "id": "1316036072921538564",
+        "location": "latina",
+        "name": "mellow 🐈‍⬛",
+        "pinned_tweet_id": "1806828413061054893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699221058933366784/WvQkCFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22562,
+          "following_count": 460,
+          "like_count": 79218,
+          "listed_count": 47,
+          "tweet_count": 24074
+        },
+        "url": "https://t.co/KIxGADKW0e",
+        "username": "tsunderebutt",
+        "verified": true
+      }
+    ]
+  }
+}

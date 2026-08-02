@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "id": "1575491917986439171",
+          "name": "Social Media & Networking Company"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1586927984010592257",
+          "name": "Vine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1587069325998886912",
+          "name": "Vine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1577324397714493441",
+          "name": "Video Sharing app"
+        }
+      }
+    ],
+    "conversation_id": "2024716082842567114",
+    "created_at": "2026-02-20T05:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024716082842567114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NatureUnedited…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/NatureUnedited/status/2024611858661900505",
+          "start": 4,
+          "url": "https://t.co/kVFztmihP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024716082842567114",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024611858661900505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8*3 https://t.co/kVFztmihP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22592,
+        "height": 768,
+        "media_key": "13_2024611782438887424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024611782438887424/img/TaqGN9qYQKSEY2We.jpg",
+        "public_metrics": {
+          "view_count": 13907
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024611782438887424/vid/avc1/320x400/z7RVAglzooWsg_Zr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024611782438887424/vid/avc1/480x600/nI6ThejHXMadd5Q8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024611782438887424/vid/avc1/614x768/LS0w6CRgYqeL-MxI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024611782438887424/pl/I79rZNhjrkjlBmgX.m3u8"
+          }
+        ],
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "id": "1575491917986439171",
+              "name": "Social Media & Networking Company"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1586927984010592257",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1587069325998886912",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1577324397714493441",
+              "name": "Video Sharing app"
+            }
+          }
+        ],
+        "conversation_id": "2024716082842567114",
+        "created_at": "2026-02-20T05:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024716082842567114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NatureUnedited…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/NatureUnedited/status/2024611858661900505",
+              "start": 4,
+              "url": "https://t.co/kVFztmihP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024716082842567114",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024611858661900505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8*3 https://t.co/kVFztmihP4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024611782438887424"
+          ]
+        },
+        "author_id": "1413025697996546049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "id": "1575491917986439171",
+              "name": "Social Media & Networking Company"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1586927984010592257",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1587069325998886912",
+              "name": "Vine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1577324397714493441",
+              "name": "Video Sharing app"
+            }
+          }
+        ],
+        "conversation_id": "2024611858661900505",
+        "created_at": "2026-02-19T22:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T23:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024611858661900505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHH43XmRPk",
+              "end": 55,
+              "expanded_url": "https://x.com/NatureUnedited/status/2024611858661900505/video/1",
+              "media_key": "13_2024611782438887424",
+              "start": 32,
+              "url": "https://t.co/AHH43XmRPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024611858661900505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 32810,
+          "like_count": 1911,
+          "quote_count": 30,
+          "reply_count": 21,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "New born long-nosed vine snakes https://t.co/AHH43XmRPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 1533,
+          "like_count": 32696,
+          "listed_count": 8,
+          "media_count": 1063,
+          "tweet_count": 10401
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T06:43:29.000Z",
+        "description": "🐶😺🐼🐫🐯🐇🐴🐊🐺🐆🐨🐘🐈\n Daily animal videos to brighten your feed 🐾",
+        "id": "1413025697996546049",
+        "name": "Nature Unedited",
+        "pinned_tweet_id": "2022407499723534481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997457624556589056/z_hRiQW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241979,
+          "following_count": 20,
+          "like_count": 627,
+          "listed_count": 404,
+          "media_count": 2299,
+          "tweet_count": 2455
+        },
+        "username": "NatureUnedited",
+        "verified": true
+      }
+    ]
+  }
+}

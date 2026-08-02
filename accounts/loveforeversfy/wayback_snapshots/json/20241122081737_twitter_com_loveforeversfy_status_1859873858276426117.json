@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1859715539964141568"
+      ],
+      "media_source_tweet_id": [
+        "1859715708118237649"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1859873858276426117",
+    "created_at": "2024-11-22T08:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T09:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859873858276426117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1449077146102677507",
+          "start": 3,
+          "username": "PERFECTL00P"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKCjN5RR5y",
+          "end": 56,
+          "expanded_url": "https://x.com/PERFECTL00P/status/1859715708118237649/photo/1",
+          "media_key": "16_1859715539964141568",
+          "start": 33,
+          "url": "https://t.co/bKCjN5RR5y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859873858276426117",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1801
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859715708118237649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PERFECTL00P: 𝙽𝚎𝚝 𝚁𝚒𝚍𝚎𝚛 🪱🤠🕸️📄 https://t.co/bKCjN5RR5y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "16_1859715539964141568",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gc8Jbi7WIAAx_4k.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gc8Jbi7WIAAx_4k.mp4"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1859715539964141568"
+          ],
+          "media_source_tweet_id": [
+            "1859715708118237649"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1859873858276426117",
+        "created_at": "2024-11-22T08:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T09:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859873858276426117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1449077146102677507",
+              "start": 3,
+              "username": "PERFECTL00P"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKCjN5RR5y",
+              "end": 56,
+              "expanded_url": "https://x.com/PERFECTL00P/status/1859715708118237649/photo/1",
+              "media_key": "16_1859715539964141568",
+              "start": 33,
+              "url": "https://t.co/bKCjN5RR5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859873858276426117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1801
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859715708118237649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PERFECTL00P: 𝙽𝚎𝚝 𝚁𝚒𝚍𝚎𝚛 🪱🤠🕸️📄 https://t.co/bKCjN5RR5y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1859715539964141568"
+          ]
+        },
+        "author_id": "1449077146102677507",
+        "conversation_id": "1859715708118237649",
+        "created_at": "2024-11-21T21:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T22:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859715708118237649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKCjN5RR5y",
+              "end": 39,
+              "expanded_url": "https://x.com/PERFECTL00P/status/1859715708118237649/photo/1",
+              "media_key": "16_1859715539964141568",
+              "start": 16,
+              "url": "https://t.co/bKCjN5RR5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859715708118237649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1684,
+          "impression_count": 253773,
+          "like_count": 12124,
+          "quote_count": 86,
+          "reply_count": 132,
+          "retweet_count": 1801
+        },
+        "reply_settings": "everyone",
+        "text": "𝙽𝚎𝚝 𝚁𝚒𝚍𝚎𝚛 🪱🤠🕸️📄 https://t.co/bKCjN5RR5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1586,
+          "like_count": 32174,
+          "listed_count": 7,
+          "tweet_count": 9385
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T18:18:20.000Z",
+        "description": "High Contrast // High Saturation //Gif Alchemist 🧙‍♂️// Futurist // Maker of 🤌 Loops // https://t.co/iHxlEpxXpq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "objkt.com/profile/perfec…",
+                "end": 111,
+                "expanded_url": "http://objkt.com/profile/perfectloop",
+                "start": 88,
+                "url": "https://t.co/iHxlEpxXpq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/PERFECTLOOP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/PERFECTLOOP",
+                "start": 0,
+                "url": "https://t.co/Xdi2TxxEiU"
+              }
+            ]
+          }
+        },
+        "id": "1449077146102677507",
+        "location": "xyz",
+        "name": "░ perfectloop.tez.░",
+        "pinned_tweet_id": "1859715708118237649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828589126460837888/3P5wQkJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7666,
+          "following_count": 1300,
+          "like_count": 14200,
+          "listed_count": 105,
+          "tweet_count": 4122
+        },
+        "url": "https://t.co/Xdi2TxxEiU",
+        "username": "PERFECTL00P",
+        "verified": true
+      }
+    ]
+  }
+}

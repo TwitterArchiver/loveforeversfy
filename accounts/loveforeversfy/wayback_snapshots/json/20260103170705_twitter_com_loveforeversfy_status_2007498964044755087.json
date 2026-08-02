@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007498955505184777"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2007498964044755087",
+    "created_at": "2026-01-03T17:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007498964044755087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ElPnJjdOja",
+          "end": 27,
+          "expanded_url": "https://x.com/loveforeversfy/status/2007498964044755087/photo/1",
+          "media_key": "3_2007498955505184777",
+          "start": 4,
+          "url": "https://t.co/ElPnJjdOja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007498964044755087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鬼来袭 https://t.co/ElPnJjdOja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007498955505184777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wRqfHasAkJiHi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007498955505184777"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2007498964044755087",
+        "created_at": "2026-01-03T17:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007498964044755087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElPnJjdOja",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/2007498964044755087/photo/1",
+              "media_key": "3_2007498955505184777",
+              "start": 4,
+              "url": "https://t.co/ElPnJjdOja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007498964044755087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鬼来袭 https://t.co/ElPnJjdOja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1505,
+          "like_count": 31893,
+          "listed_count": 7,
+          "media_count": 1017,
+          "tweet_count": 9924
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

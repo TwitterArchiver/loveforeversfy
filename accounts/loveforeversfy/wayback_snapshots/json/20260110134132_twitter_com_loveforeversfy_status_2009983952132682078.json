@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2009983952132682078",
+    "created_at": "2026-01-10T13:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T14:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009983952132682078"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "男娘"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "线下"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "援交"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599012090517540869",
+          "start": 3,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/MUbZgP",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/MUbZgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009983952132682078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009975311161844140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforeversfy: 宝宝们我要穷死了😭😭\n这里江浙沪男娘接线下哦\n注意是男娘⚠️是男娘⚠️\n聊天门槛58💰哦\n纯绿600半绿800半黄1300\n包夜过夜1600\n求求大家了爱你们❤️\n要穷死了😭\n#男娘 #线下 #援交 https://t.co/MUbZgP…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009983952132682078].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009983952132682078",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009983952132682078"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009975295135363076",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Td4bHasAQgKgs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2009975295152140293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Td4bLasAUOK5P.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2009975295705788418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Td4dPasAIRycb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2009975296028758016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Td4eca0AAXiVe.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009975295135363076",
+            "3_2009975295152140293",
+            "3_2009975295705788418",
+            "3_2009975296028758016"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2009975311161844140",
+        "created_at": "2026-01-10T13:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T14:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009975311161844140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "男娘"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "线下"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "援交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUbZgPfxRH",
+              "end": 123,
+              "expanded_url": "https://x.com/loveforeversfy/status/2009975311161844140/photo/1",
+              "media_key": "3_2009975295135363076",
+              "start": 100,
+              "url": "https://t.co/MUbZgPfxRH"
+            },
+            {
+              "display_url": "pic.x.com/MUbZgPfxRH",
+              "end": 123,
+              "expanded_url": "https://x.com/loveforeversfy/status/2009975311161844140/photo/1",
+              "media_key": "3_2009975295152140293",
+              "start": 100,
+              "url": "https://t.co/MUbZgPfxRH"
+            },
+            {
+              "display_url": "pic.x.com/MUbZgPfxRH",
+              "end": 123,
+              "expanded_url": "https://x.com/loveforeversfy/status/2009975311161844140/photo/1",
+              "media_key": "3_2009975295705788418",
+              "start": 100,
+              "url": "https://t.co/MUbZgPfxRH"
+            },
+            {
+              "display_url": "pic.x.com/MUbZgPfxRH",
+              "end": 123,
+              "expanded_url": "https://x.com/loveforeversfy/status/2009975311161844140/photo/1",
+              "media_key": "3_2009975296028758016",
+              "start": 100,
+              "url": "https://t.co/MUbZgPfxRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009975311161844140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们我要穷死了😭😭\n这里江浙沪男娘接线下哦\n注意是男娘⚠️是男娘⚠️\n聊天门槛58💰哦\n纯绿600半绿800半黄1300\n包夜过夜1600\n求求大家了爱你们❤️\n要穷死了😭\n#男娘 #线下 #援交 https://t.co/MUbZgPfxRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱⚠️",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1513,
+          "like_count": 32055,
+          "listed_count": 7,
+          "media_count": 1036,
+          "tweet_count": 10058
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

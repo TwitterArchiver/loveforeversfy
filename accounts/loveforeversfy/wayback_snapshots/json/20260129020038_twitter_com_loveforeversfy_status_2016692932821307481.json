@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2016692932821307481",
+    "created_at": "2026-01-29T02:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016692932821307481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorsacerba/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Sorsacerba/status/2016570661138026928",
+          "start": 8,
+          "url": "https://t.co/0OPnEwzsh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016692932821307481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016570661138026928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们谁来当我妈 https://t.co/0OPnEwzsh7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2016692932821307481",
+        "created_at": "2026-01-29T02:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016692932821307481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorsacerba/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Sorsacerba/status/2016570661138026928",
+              "start": 8,
+              "url": "https://t.co/0OPnEwzsh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016692932821307481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016570661138026928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁来当我妈 https://t.co/0OPnEwzsh7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "2016570661138026928",
+        "created_at": "2026-01-28T17:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016570661138026928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016570661138026928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026目标：认七个妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 1522,
+          "like_count": 32396,
+          "listed_count": 7,
+          "media_count": 1050,
+          "tweet_count": 10228
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "顺治男\n\n恋人 @HacchiTheMaid",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "HacchiTheMaid"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "波浪超越失去理智的时光，你将获得解救",
+        "pinned_tweet_id": "2013326207077822510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 711,
+          "like_count": 65492,
+          "listed_count": 5,
+          "media_count": 1460,
+          "tweet_count": 17957
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

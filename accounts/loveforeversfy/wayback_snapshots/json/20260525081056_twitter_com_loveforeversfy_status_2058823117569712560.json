@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2058793916900798740",
+    "created_at": "2026-05-25T08:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058823117569712560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758532281873125377",
+          "start": 0,
+          "username": "miyoko39196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058823117569712560",
+    "in_reply_to_user_id": "1758532281873125377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058793916900798740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyoko39196 已经听得足够了，请不要再端上来了。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2058793909611044864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJOJyAaoAAEMEJ.jpg",
+        "width": 499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2058793916900798740",
+        "created_at": "2026-05-25T08:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058823117569712560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758532281873125377",
+              "start": 0,
+              "username": "miyoko39196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058823117569712560",
+        "in_reply_to_user_id": "1758532281873125377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058793916900798740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyoko39196 已经听得足够了，请不要再端上来了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058793909611044864"
+          ]
+        },
+        "author_id": "1758532281873125377",
+        "conversation_id": "2058793916900798740",
+        "created_at": "2026-05-25T06:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058793916900798740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z4lAbmvvh",
+              "end": 93,
+              "expanded_url": "https://x.com/miyoko39196/status/2058793916900798740/photo/1",
+              "media_key": "3_2058793909611044864",
+              "start": 70,
+              "url": "https://t.co/9z4lAbmvvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058793916900798740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回想起上次喝大了，半夜给好闺蜜讲侠客行的故事\n下回要给闺蜜讲刃牙大擂台篇郭海皇不敌范马勇次郎，装死保命的名场面。\n(图文无关，这是烈海皇) https://t.co/9z4lAbmvvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1560,
+          "like_count": 35094,
+          "listed_count": 8,
+          "media_count": 1184,
+          "tweet_count": 11214
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为范马刃牙／照见五蕴皆空度一切苦厄／因为她是我的骄傲",
+        "id": "1758532281873125377",
+        "location": "Macau",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 127,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 689
+        },
+        "username": "miyoko39196",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1803197185623764992"
+      ],
+      "media_source_tweet_id": [
+        "1803197240367788299"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1803324500660076903",
+    "created_at": "2024-06-19T07:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T08:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803324500660076903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474091860025122817",
+          "start": 3,
+          "username": "ShitpostGate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/A31hn0j6GO",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ShitpostGate/status/1803197240367788299/video/1",
+          "media_key": "13_1803197185623764992",
+          "start": 18,
+          "url": "https://t.co/A31hn0j6GO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803324500660076903",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2339
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803197240367788299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostGate: https://t.co/A31hn0j6GO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 720,
+        "media_key": "13_1803197185623764992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1803197185623764992/img/REpr3oEezSy2L3lc.jpg",
+        "public_metrics": {
+          "view_count": 240255
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1803197185623764992/vid/avc1/272x270/TZ-BW7xLMqgBQg9x.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1803197185623764992/vid/avc1/364x360/DFC7_z0XrGGan03r.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1803197185623764992/vid/avc1/730x720/JFjattK9EmEeSX5T.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1803197185623764992/pl/BW380bDupsAR27uJ.m3u8?tag=16"
+          }
+        ],
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1803197185623764992"
+          ],
+          "media_source_tweet_id": [
+            "1803197240367788299"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1803324500660076903",
+        "created_at": "2024-06-19T07:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803324500660076903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474091860025122817",
+              "start": 3,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/A31hn0j6GO",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ShitpostGate/status/1803197240367788299/video/1",
+              "media_key": "13_1803197185623764992",
+              "start": 18,
+              "url": "https://t.co/A31hn0j6GO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803324500660076903",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2339
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803197240367788299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostGate: https://t.co/A31hn0j6GO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1803197185623764992"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "conversation_id": "1803197240367788299",
+        "created_at": "2024-06-18T22:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T23:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803197240367788299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/A31hn0j6GO",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ShitpostGate/status/1803197240367788299/video/1",
+              "media_key": "13_1803197185623764992",
+              "start": 0,
+              "url": "https://t.co/A31hn0j6GO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803197240367788299",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2280,
+          "impression_count": 389561,
+          "like_count": 21583,
+          "quote_count": 26,
+          "reply_count": 31,
+          "retweet_count": 2339
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A31hn0j6GO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1565,
+          "like_count": 27784,
+          "listed_count": 8,
+          "tweet_count": 7516
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love Shitposting and posting whatever I want/mostly memes/some personal stuff I like. Love old school stuff including weapons.",
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1751129054810706038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335763,
+          "following_count": 2113,
+          "like_count": 1944,
+          "listed_count": 2724,
+          "tweet_count": 28971
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020331774803656704"
+      ],
+      "media_source_tweet_id": [
+        "2020331778184204356"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2020433603654775129",
+    "created_at": "2026-02-08T09:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020433603654775129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825900977398136832",
+          "start": 3,
+          "username": "anu_maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBiG4frREE",
+          "end": 52,
+          "expanded_url": "https://x.com/anu_maimai/status/2020331778184204356/photo/1",
+          "media_key": "3_2020331774803656704",
+          "start": 29,
+          "url": "https://t.co/NBiG4frREE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020433603654775129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020331778184204356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anu_maimai: 50円maimai 始動 https://t.co/NBiG4frREE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020331774803656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmpC4WbQAATUjG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020331774803656704"
+          ],
+          "media_source_tweet_id": [
+            "2020331778184204356"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2020433603654775129",
+        "created_at": "2026-02-08T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020433603654775129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825900977398136832",
+              "start": 3,
+              "username": "anu_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBiG4frREE",
+              "end": 52,
+              "expanded_url": "https://x.com/anu_maimai/status/2020331778184204356/photo/1",
+              "media_key": "3_2020331774803656704",
+              "start": 29,
+              "url": "https://t.co/NBiG4frREE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020433603654775129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020331778184204356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anu_maimai: 50円maimai 始動 https://t.co/NBiG4frREE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020331774803656704"
+          ]
+        },
+        "author_id": "1825900977398136832",
+        "conversation_id": "2020331778184204356",
+        "created_at": "2026-02-08T03:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020331778184204356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBiG4frREE",
+              "end": 36,
+              "expanded_url": "https://x.com/anu_maimai/status/2020331778184204356/photo/1",
+              "media_key": "3_2020331774803656704",
+              "start": 13,
+              "url": "https://t.co/NBiG4frREE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020331778184204356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6748,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50円maimai 始動 https://t.co/NBiG4frREE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 1531,
+          "like_count": 32463,
+          "listed_count": 8,
+          "media_count": 1059,
+          "tweet_count": 10299
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:21:42.000Z",
+        "description": "maimai【理論値802 / ★5 632譜面 / ★6 20譜面/ 1神1舞舞】  / せきゆKINGDOM\n\n/  YouTubeでいろいろ投稿してます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@anu_maimai?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@anu_maimai?si=r1aeF9MJTvmmbTF4",
+                "start": 0,
+                "url": "https://t.co/f01c978mDb"
+              }
+            ]
+          }
+        },
+        "id": "1825900977398136832",
+        "location": "福岡 / チュウマイ理論値 802__802 : 1604",
+        "name": "あぬ︎✩.*˚",
+        "pinned_tweet_id": "1939581848499507583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856012861526740992/ExQBagWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 307,
+          "like_count": 2571,
+          "listed_count": 3,
+          "media_count": 4121,
+          "tweet_count": 6625
+        },
+        "url": "https://t.co/f01c978mDb",
+        "username": "anu_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

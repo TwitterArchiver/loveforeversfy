@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802750102551023617",
+        "3_1802750117315022848"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1802750132049588530",
+    "created_at": "2024-06-17T17:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T18:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802750132049588530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OS3YPChlj6",
+          "end": 41,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1802750132049588530/photo/1",
+          "media_key": "3_1802750102551023617",
+          "start": 18,
+          "url": "https://t.co/OS3YPChlj6"
+        },
+        {
+          "display_url": "pic.twitter.com/OS3YPChlj6",
+          "end": 41,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1802750132049588530/photo/1",
+          "media_key": "3_1802750117315022848",
+          "start": 18,
+          "url": "https://t.co/OS3YPChlj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802750132049588530",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不应该在上中专吗这是给我干哪来了 https://t.co/OS3YPChlj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_1802750102551023617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQSnqrlaUAE5z2j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1802750117315022848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQSnrilbEAAA0FZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802750102551023617",
+            "3_1802750117315022848"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802750132049588530",
+        "created_at": "2024-06-17T17:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T18:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802750132049588530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OS3YPChlj6",
+              "end": 41,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1802750132049588530/photo/1",
+              "media_key": "3_1802750102551023617",
+              "start": 18,
+              "url": "https://t.co/OS3YPChlj6"
+            },
+            {
+              "display_url": "pic.twitter.com/OS3YPChlj6",
+              "end": 41,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1802750132049588530/photo/1",
+              "media_key": "3_1802750117315022848",
+              "start": 18,
+              "url": "https://t.co/OS3YPChlj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802750132049588530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不应该在上中专吗这是给我干哪来了 https://t.co/OS3YPChlj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1566,
+          "like_count": 27719,
+          "listed_count": 8,
+          "tweet_count": 7495
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

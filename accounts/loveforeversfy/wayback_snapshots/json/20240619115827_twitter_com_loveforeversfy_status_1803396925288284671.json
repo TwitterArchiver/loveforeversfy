@@ -1,0 +1,236 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803371128628428800"
+      ],
+      "media_source_tweet_id": [
+        "1803371145950810364"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1803396925288284671",
+    "created_at": "2024-06-19T11:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T12:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803396925288284671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/jG8I3ZxjHB",
+          "end": 62,
+          "expanded_url": "https://twitter.com/lovesickdoe/status/1803371145950810364/photo/1",
+          "media_key": "3_1803371128628428800",
+          "start": 39,
+          "url": "https://t.co/jG8I3ZxjHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803396925288284671",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803371145950810364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: autism creature emoji https://t.co/jG8I3ZxjHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 242,
+        "media_key": "3_1803371128628428800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQbcfKAXwAAktoo.png",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803371128628428800"
+          ],
+          "media_source_tweet_id": [
+            "1803371145950810364"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1803396925288284671",
+        "created_at": "2024-06-19T11:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T12:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803396925288284671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jG8I3ZxjHB",
+              "end": 62,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1803371145950810364/photo/1",
+              "media_key": "3_1803371128628428800",
+              "start": 39,
+              "url": "https://t.co/jG8I3ZxjHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803396925288284671",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803371145950810364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: autism creature emoji https://t.co/jG8I3ZxjHB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803371128628428800"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "conversation_id": "1803371145950810364",
+        "created_at": "2024-06-19T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803371145950810364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jG8I3ZxjHB",
+              "end": 45,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1803371145950810364/photo/1",
+              "media_key": "3_1803371128628428800",
+              "start": 22,
+              "url": "https://t.co/jG8I3ZxjHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803371145950810364",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2299,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "autism creature emoji https://t.co/jG8I3ZxjHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1566,
+          "like_count": 27802,
+          "listed_count": 8,
+          "tweet_count": 7518
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "about this account:\ni post sanrio, animals, cute items and do giveaways from time to time!\n\nplease email me for a quick response! miffylover97@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "ʚ go to link for more info ",
+        "name": "/ᐠ - ˕ -マ",
+        "pinned_tweet_id": "1800508871326503268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661501060878413825/8V91hoDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141972,
+          "following_count": 254,
+          "like_count": 51042,
+          "listed_count": 631,
+          "tweet_count": 40358
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

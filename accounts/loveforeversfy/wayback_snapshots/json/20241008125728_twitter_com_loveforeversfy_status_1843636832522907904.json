@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1843598513520947643",
+    "created_at": "2024-10-08T12:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T13:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843636832522907904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1682333282451718145",
+          "start": 0,
+          "username": "psttftr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/IWantMyLilDogg…",
+          "end": 32,
+          "expanded_url": "https://x.com/IWantMyLilDoggy/status/1843602599825785077?t=R0imznZxuAQz3F0D2Q5Tww&s=19",
+          "start": 9,
+          "url": "https://t.co/OHBjRo3a80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843636832522907904",
+    "in_reply_to_user_id": "1682333282451718145",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843602599825785077",
+        "type": "quoted"
+      },
+      {
+        "id": "1843635051009085460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psttftr https://t.co/OHBjRo3a80你吃这个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1843635051009085460].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1843635051009085460",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1843635051009085460"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T12:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843636832522907904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1682333282451718145",
+              "start": 0,
+              "username": "psttftr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/IWantMyLilDogg…",
+              "end": 32,
+              "expanded_url": "https://x.com/IWantMyLilDoggy/status/1843602599825785077?t=R0imznZxuAQz3F0D2Q5Tww&s=19",
+              "start": 9,
+              "url": "https://t.co/OHBjRo3a80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843636832522907904",
+        "in_reply_to_user_id": "1682333282451718145",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843602599825785077",
+            "type": "quoted"
+          },
+          {
+            "id": "1843635051009085460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psttftr https://t.co/OHBjRo3a80你吃这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1025546987578556417",
+        "conversation_id": "1843598513520947643",
+        "created_at": "2024-10-08T10:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T11:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843602599825785077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843602599825785077",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843598513520947643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 特大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1581,
+          "like_count": 31061,
+          "listed_count": 7,
+          "tweet_count": 8727
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T10:14:55.000Z",
+        "description": "玩玩你的",
+        "id": "1682333282451718145",
+        "name": "99.9969%",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841907764421074944/daq8LI1T_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 215,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "psttftr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/发点自己喜欢的有趣东西/是活人！/没有水印的图会写上自己所看到的出处/很喜欢的微博博主是@奇思乱想吧 和@今日memes/我爱你 希望你幸福快乐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "喵星",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739889137615069185/hzgXM4T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 2835,
+          "like_count": 127935,
+          "listed_count": 17,
+          "tweet_count": 23663
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      }
+    ]
+  }
+}

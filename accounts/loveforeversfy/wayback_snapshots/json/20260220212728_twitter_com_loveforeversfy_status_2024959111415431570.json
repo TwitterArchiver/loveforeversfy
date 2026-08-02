@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2024899755630100730",
+    "created_at": "2026-02-20T21:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T22:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024959111415431570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268401906210095104",
+          "start": 0,
+          "username": "Laowang_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024959111415431570",
+    "in_reply_to_user_id": "1268401906210095104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024958911368102331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laowang_nya 羡慕你们顺的头发我头发好爆炸😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024958878698602496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoZXxmagAAik92.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2024899755630100730",
+        "created_at": "2026-02-20T21:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024959111415431570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1268401906210095104",
+              "start": 0,
+              "username": "Laowang_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024959111415431570",
+        "in_reply_to_user_id": "1268401906210095104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024958911368102331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laowang_nya 羡慕你们顺的头发我头发好爆炸😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024958878698602496"
+          ]
+        },
+        "author_id": "1268401906210095104",
+        "conversation_id": "2024899755630100730",
+        "created_at": "2026-02-20T21:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024958911368102331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piwpFJ13f9",
+              "end": 43,
+              "expanded_url": "https://x.com/Laowang_nya/status/2024958911368102331/photo/1",
+              "media_key": "3_2024958878698602496",
+              "start": 20,
+              "url": "https://t.co/piwpFJ13f9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024958911368102331",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024899755630100730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 我好醜 https://t.co/piwpFJ13f9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 1532,
+          "like_count": 32727,
+          "listed_count": 8,
+          "media_count": 1065,
+          "tweet_count": 10420
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T04:39:23.000Z",
+        "description": "老王 Beta V2.0 圆角都沒人要版 自傷癖 系統Windows10專業工作站版  22H2 19045:6466 人機 血圖⚠️ 請給我打賞🚪30獲取聯絡方式 可線下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/XI7PmzrDj0"
+              }
+            ]
+          }
+        },
+        "id": "1268401906210095104",
+        "location": "台北市, 台灣",
+        "name": "神楽坂 老王（絕望版）🍥",
+        "pinned_tweet_id": "1967375025499222398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000804696475553792/HVGlKynb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 441,
+          "like_count": 5112,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/XI7PmzrDj0",
+        "username": "Laowang_nya",
+        "verified": false
+      }
+    ]
+  }
+}

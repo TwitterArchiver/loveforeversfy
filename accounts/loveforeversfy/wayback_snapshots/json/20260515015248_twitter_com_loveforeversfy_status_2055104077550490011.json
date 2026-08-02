@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2054737148847489309",
+    "created_at": "2026-05-15T01:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055104077550490011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055104077550490011",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054737148847489309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu 抱抱你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2054737148847489309",
+        "created_at": "2026-05-15T01:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055104077550490011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055104077550490011",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054737148847489309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu 抱抱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570319690869899266",
+        "conversation_id": "2054737148847489309",
+        "created_at": "2026-05-14T01:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054737148847489309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054737148847489309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底为什么要回来\n好无助\n过敏0人care\n破碎的身体被说自己就会好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 1554,
+          "like_count": 34921,
+          "listed_count": 9,
+          "media_count": 1173,
+          "tweet_count": 11139
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "搞？我不到啊😭😭😭",
+        "id": "1570319690869899266",
+        "location": "39°58'30.0\"N 116°19'00.0\"E",
+        "name": "🍉✰Yuko✰🍉",
+        "pinned_tweet_id": "2053654128723935631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622708737495687169/fa99ZwzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 144,
+          "like_count": 9532,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 6220
+        },
+        "username": "Yuko0Ruuu",
+        "verified": true
+      }
+    ]
+  }
+}

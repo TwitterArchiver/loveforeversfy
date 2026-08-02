@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1825654727142440960"
+      ],
+      "media_source_tweet_id": [
+        "1825656667079401614"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1825947005614698809",
+    "created_at": "2024-08-20T17:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T18:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825947005614698809"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Lain",
+          "probability": 0.5688,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "sm64coopdx",
+          "probability": 0.6513,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "serialexperimentslain",
+          "probability": 0.5814,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 77,
+          "normalized_text": "lainiwakura",
+          "probability": 0.6186,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 31,
+          "tag": "sm64coopdx"
+        },
+        {
+          "end": 65,
+          "start": 43,
+          "tag": "serialexperimentslain"
+        },
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "lainiwakura"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "900766333",
+          "start": 3,
+          "username": "Cockzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fm3ahknq8a",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Cockzzz/status/1825656667079401614/video/1",
+          "media_key": "7_1825654727142440960",
+          "start": 79,
+          "url": "https://t.co/FM3ahkNq8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825947005614698809",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825656667079401614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cockzzz: Lain with friends\n#sm64coopdx #serialexperimentslain #lainiwakura https://t.co/FM3ahkNq8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126366,
+        "height": 1080,
+        "media_key": "7_1825654727142440960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1825654727142440960/pu/img/Qiy9CcKL_YY-RrJ7.jpg",
+        "public_metrics": {
+          "view_count": 4233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825654727142440960/pu/vid/avc1/480x270/nX6WnH1RGm2fDGmG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825654727142440960/pu/vid/avc1/640x360/vuHk7VDngiIdayy5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825654727142440960/pu/vid/avc1/1280x720/6KSVi7uuBOqf4Ewd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1825654727142440960/pu/pl/ZA2l-H0kPZSNSB6G.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825654727142440960"
+          ],
+          "media_source_tweet_id": [
+            "1825656667079401614"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1825947005614698809",
+        "created_at": "2024-08-20T17:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T18:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825947005614698809"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Lain",
+              "probability": 0.5688,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "sm64coopdx",
+              "probability": 0.6513,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "serialexperimentslain",
+              "probability": 0.5814,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "lainiwakura",
+              "probability": 0.6186,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "sm64coopdx"
+            },
+            {
+              "end": 65,
+              "start": 43,
+              "tag": "serialexperimentslain"
+            },
+            {
+              "end": 78,
+              "start": 66,
+              "tag": "lainiwakura"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "900766333",
+              "start": 3,
+              "username": "Cockzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm3ahknq8a",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Cockzzz/status/1825656667079401614/video/1",
+              "media_key": "7_1825654727142440960",
+              "start": 79,
+              "url": "https://t.co/FM3ahkNq8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825947005614698809",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825656667079401614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cockzzz: Lain with friends\n#sm64coopdx #serialexperimentslain #lainiwakura https://t.co/FM3ahkNq8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825654727142440960"
+          ]
+        },
+        "author_id": "900766333",
+        "conversation_id": "1825656667079401614",
+        "created_at": "2024-08-19T22:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T23:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825656667079401614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "sm64coopdx"
+            },
+            {
+              "end": 52,
+              "start": 30,
+              "tag": "serialexperimentslain"
+            },
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "lainiwakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm3ahknq8a",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Cockzzz/status/1825656667079401614/video/1",
+              "media_key": "7_1825654727142440960",
+              "start": 66,
+              "url": "https://t.co/FM3ahkNq8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825656667079401614",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 8929,
+          "like_count": 568,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "Lain with friends\n#sm64coopdx #serialexperimentslain #lainiwakura https://t.co/FM3ahkNq8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐丽还我钱盆栽🍄",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1569,
+          "like_count": 29807,
+          "listed_count": 8,
+          "tweet_count": 8362
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T23:09:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCBRt6…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCBRt6VC3f9MrcAN-i6Riy1w?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/CyWJOM0mDn"
+              }
+            ]
+          }
+        },
+        "id": "900766333",
+        "location": "Nicaragua",
+        "name": "Cockz",
+        "pinned_tweet_id": "1825656667079401614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419188299558752257/vBxOrQfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1419,
+          "like_count": 31725,
+          "listed_count": 1,
+          "tweet_count": 4833
+        },
+        "url": "https://t.co/CyWJOM0mDn",
+        "username": "Cockzzz",
+        "verified": false
+      }
+    ]
+  }
+}

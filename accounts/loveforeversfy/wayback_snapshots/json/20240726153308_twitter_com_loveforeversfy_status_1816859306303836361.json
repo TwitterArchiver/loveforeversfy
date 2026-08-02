@@ -1,0 +1,304 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802615111246360576"
+      ],
+      "media_source_tweet_id": [
+        "1802615166653063271"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816859306303836361",
+    "created_at": "2024-07-26T15:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T16:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816859306303836361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504956528914309122",
+          "start": 3,
+          "username": "memechaotic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XDHEa43aVy",
+          "end": 40,
+          "expanded_url": "https://twitter.com/shitpost_2077/status/1802615166653063271/video/1",
+          "media_key": "7_1802615111246360576",
+          "start": 17,
+          "url": "https://t.co/XDHEa43aVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816859306303836361",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3299
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816579139757047956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memechaotic: https://t.co/XDHEa43aVy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11331,
+        "height": 720,
+        "media_key": "7_1802615111246360576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802615111246360576/pu/img/fhuTTlVvuew-1YCG.jpg",
+        "public_metrics": {
+          "view_count": 2088924
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802615111246360576/pu/vid/avc1/320x320/H7sUEDsdUcMKhQR5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802615111246360576/pu/vid/avc1/540x540/r2euLV59BXDOyHAB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802615111246360576/pu/vid/avc1/720x720/-f17wQhEMWUVUyEm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802615111246360576/pu/pl/O4cRZWOzLjQWJ0y8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802615111246360576"
+          ],
+          "media_source_tweet_id": [
+            "1802615166653063271"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816859306303836361",
+        "created_at": "2024-07-26T15:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T16:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816859306303836361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504956528914309122",
+              "start": 3,
+              "username": "memechaotic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XDHEa43aVy",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shitpost_2077/status/1802615166653063271/video/1",
+              "media_key": "7_1802615111246360576",
+              "start": 17,
+              "url": "https://t.co/XDHEa43aVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816859306303836361",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3299
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816579139757047956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memechaotic: https://t.co/XDHEa43aVy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802615111246360576"
+          ],
+          "media_source_tweet_id": [
+            "1802615166653063271"
+          ]
+        },
+        "author_id": "1504956528914309122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816579139757047956",
+        "created_at": "2024-07-25T20:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T21:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816579139757047956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XDHEa43aVy",
+              "end": 23,
+              "expanded_url": "https://twitter.com/shitpost_2077/status/1802615166653063271/video/1",
+              "media_key": "7_1802615111246360576",
+              "start": 0,
+              "url": "https://t.co/XDHEa43aVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816579139757047956",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3503,
+          "impression_count": 633616,
+          "like_count": 32254,
+          "quote_count": 402,
+          "reply_count": 140,
+          "retweet_count": 3299
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XDHEa43aVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1572,
+          "like_count": 29126,
+          "listed_count": 8,
+          "tweet_count": 8179
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T23:03:01.000Z",
+        "description": "DM for credit or removal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@memechaotic?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@memechaotic?si=s87TygF6S_0PjmfB",
+                "start": 0,
+                "url": "https://t.co/6ZkHBZN0x8"
+              }
+            ]
+          }
+        },
+        "id": "1504956528914309122",
+        "name": "chaotic memes",
+        "pinned_tweet_id": "1627737823896866833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504957216893415424/CQAkGrwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646398,
+          "following_count": 7,
+          "like_count": 649,
+          "listed_count": 1673,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/6ZkHBZN0x8",
+        "username": "memechaotic",
+        "verified": true
+      }
+    ]
+  }
+}

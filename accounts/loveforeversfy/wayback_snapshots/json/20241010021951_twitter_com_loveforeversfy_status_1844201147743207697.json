@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1844082241741504616",
+    "created_at": "2024-10-10T02:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T03:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844201147743207697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1577787937915289600",
+          "start": 0,
+          "username": "kuriazisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844201147743207697",
+    "in_reply_to_user_id": "1577787937915289600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844197787120062466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuriazisa 是神秘社畜哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1844082241741504616",
+        "created_at": "2024-10-10T02:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T03:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844201147743207697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577787937915289600",
+              "start": 0,
+              "username": "kuriazisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844201147743207697",
+        "in_reply_to_user_id": "1577787937915289600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844197787120062466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuriazisa 是神秘社畜哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577787937915289600",
+        "conversation_id": "1844082241741504616",
+        "created_at": "2024-10-10T02:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T03:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844197787120062466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844197787120062466",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844082241741504616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 是迪拉熊吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "？ | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1581,
+          "like_count": 31111,
+          "listed_count": 7,
+          "tweet_count": 8754
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T22:29:08.000Z",
+        "description": "♡blibliのP主一名♡\n♡よろしくな~♡\n♿我觉得我是♿",
+        "id": "1577787937915289600",
+        "name": "AZUSAyuri🍥",
+        "pinned_tweet_id": "1820737606038024283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790462252543537152/tF2Genzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 212,
+          "like_count": 1765,
+          "listed_count": 0,
+          "tweet_count": 234
+        },
+        "username": "kuriazisa",
+        "verified": false
+      }
+    ]
+  }
+}

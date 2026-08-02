@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1825464442139894268",
+    "created_at": "2024-08-19T09:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T10:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825464442139894268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571086214668898305",
+          "start": 3,
+          "username": "riki_0328w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825464442139894268",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825330979688657363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riki_0328w: 你们割腕怎么都这么破碎这么唯美 ?我只能去家里厨房找那个菜刀割，割完伤口还是一股蒜味 家里人都以为在腌蒜香猪肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1825464442139894268",
+        "created_at": "2024-08-19T09:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T10:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825464442139894268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571086214668898305",
+              "start": 3,
+              "username": "riki_0328w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825464442139894268",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825330979688657363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riki_0328w: 你们割腕怎么都这么破碎这么唯美 ?我只能去家里厨房找那个菜刀割，割完伤口还是一股蒜味 家里人都以为在腌蒜香猪肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571086214668898305",
+        "conversation_id": "1825330979688657363",
+        "created_at": "2024-08-19T00:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T01:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825330979688657363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825330979688657363",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2356,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你们割腕怎么都这么破碎这么唯美 ?我只能去家里厨房找那个菜刀割，割完伤口还是一股蒜味 家里人都以为在腌蒜香猪肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐丽还我钱盆栽🍄",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1571,
+          "like_count": 29780,
+          "listed_count": 8,
+          "tweet_count": 8352
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:40:07.000Z",
+        "description": "🇨🇳/07/會發一些無意義牢骚/喜歡可愛的小女孩/INFP-T/我会查成分互fo/不加男/没有回fo大概率是没看到",
+        "id": "1571086214668898305",
+        "location": "垃圾堆",
+        "name": "碳酸小猫和リキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824693887526744064/o_uVI62b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1552,
+          "like_count": 352,
+          "listed_count": 1,
+          "tweet_count": 688
+        },
+        "username": "riki_0328w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834136890808958976"
+      ],
+      "media_source_tweet_id": [
+        "1834136903417041129"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1834178709211021482",
+    "created_at": "2024-09-12T10:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T11:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834178709211021482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "728893079592140800",
+          "start": 3,
+          "username": "YKN_of_Chicken"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y48bl7uiij",
+          "end": 58,
+          "expanded_url": "https://twitter.com/YKN_of_Chicken/status/1834136903417041129/photo/1",
+          "media_key": "3_1834136890808958976",
+          "start": 35,
+          "url": "https://t.co/y48Bl7uIiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834178709211021482",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834136903417041129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YKN_of_Chicken: いずれこうなる予感しかしない https://t.co/y48Bl7uIiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1834136890808958976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXQpyNYbgAAcxNv.jpg",
+        "width": 659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834136890808958976"
+          ],
+          "media_source_tweet_id": [
+            "1834136903417041129"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834178709211021482",
+        "created_at": "2024-09-12T10:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T11:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834178709211021482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "728893079592140800",
+              "start": 3,
+              "username": "YKN_of_Chicken"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y48bl7uiij",
+              "end": 58,
+              "expanded_url": "https://twitter.com/YKN_of_Chicken/status/1834136903417041129/photo/1",
+              "media_key": "3_1834136890808958976",
+              "start": 35,
+              "url": "https://t.co/y48Bl7uIiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834178709211021482",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834136903417041129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YKN_of_Chicken: いずれこうなる予感しかしない https://t.co/y48Bl7uIiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834136890808958976"
+          ]
+        },
+        "author_id": "728893079592140800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834136903417041129",
+        "created_at": "2024-09-12T07:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T08:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834136903417041129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y48bl7uiij",
+              "end": 38,
+              "expanded_url": "https://twitter.com/YKN_of_Chicken/status/1834136903417041129/photo/1",
+              "media_key": "3_1834136890808958976",
+              "start": 15,
+              "url": "https://t.co/y48Bl7uIiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834136903417041129",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8617,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "いずれこうなる予感しかしない https://t.co/y48Bl7uIiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 1567,
+          "like_count": 30393,
+          "listed_count": 7,
+          "tweet_count": 8508
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-07T10:23:47.000Z",
+        "description": "kop 3rdファイナリスト maimai ST紫全理論値+熊、華 Lv15全AP インぺ3 いのり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCsDd2…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCsDd2nLrEZQF8VeeybEKMsQ",
+                "start": 0,
+                "url": "https://t.co/XMjlmSBQB9"
+              }
+            ]
+          }
+        },
+        "id": "728893079592140800",
+        "name": "ゆきねさん",
+        "pinned_tweet_id": "1766397501177774483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574002474691674114/twpH1fyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6897,
+          "following_count": 960,
+          "like_count": 15008,
+          "listed_count": 34,
+          "tweet_count": 35917
+        },
+        "url": "https://t.co/XMjlmSBQB9",
+        "username": "YKN_of_Chicken",
+        "verified": false
+      }
+    ]
+  }
+}

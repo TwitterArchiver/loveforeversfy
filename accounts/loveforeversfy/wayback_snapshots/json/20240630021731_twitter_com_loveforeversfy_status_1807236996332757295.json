@@ -1,0 +1,294 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806910016445722624"
+      ],
+      "media_source_tweet_id": [
+        "1806910064751415324"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1807236996332757295",
+    "created_at": "2024-06-30T02:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T03:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807236996332757295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1480461310508908551",
+          "start": 3,
+          "username": "IHaveBread_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/dlElNd3M2u",
+          "end": 40,
+          "expanded_url": "https://twitter.com/IHaveBread_/status/1806910064751415324/video/1",
+          "media_key": "7_1806910016445722624",
+          "start": 17,
+          "url": "https://t.co/dlElNd3M2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807236996332757295",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4734
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806910064751415324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IHaveBread_: https://t.co/dlElNd3M2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67407,
+        "height": 1280,
+        "media_key": "7_1806910016445722624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806910016445722624/pu/img/XNZiwjvqbtC4AW5h.jpg",
+        "public_metrics": {
+          "view_count": 190284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806910016445722624/pu/vid/avc1/320x568/foIYyY2GMuulgMrm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806910016445722624/pu/vid/avc1/480x852/MimUkKhrCYlhRgSU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806910016445722624/pu/vid/avc1/720x1280/jScBn-QUW7-FePdO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806910016445722624/pu/pl/qpgsCofc1u6PmE_P.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806910016445722624"
+          ],
+          "media_source_tweet_id": [
+            "1806910064751415324"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807236996332757295",
+        "created_at": "2024-06-30T02:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807236996332757295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1480461310508908551",
+              "start": 3,
+              "username": "IHaveBread_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dlElNd3M2u",
+              "end": 40,
+              "expanded_url": "https://twitter.com/IHaveBread_/status/1806910064751415324/video/1",
+              "media_key": "7_1806910016445722624",
+              "start": 17,
+              "url": "https://t.co/dlElNd3M2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807236996332757295",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4734
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806910064751415324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IHaveBread_: https://t.co/dlElNd3M2u"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806910016445722624"
+          ]
+        },
+        "author_id": "1480461310508908551",
+        "conversation_id": "1806910064751415324",
+        "created_at": "2024-06-29T04:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T05:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806910064751415324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dlElNd3M2u",
+              "end": 23,
+              "expanded_url": "https://twitter.com/IHaveBread_/status/1806910064751415324/video/1",
+              "media_key": "7_1806910016445722624",
+              "start": 0,
+              "url": "https://t.co/dlElNd3M2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806910064751415324",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3866,
+          "impression_count": 370602,
+          "like_count": 22511,
+          "quote_count": 521,
+          "reply_count": 128,
+          "retweet_count": 4734
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dlElNd3M2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1570,
+          "like_count": 28197,
+          "listed_count": 7,
+          "tweet_count": 7687
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T08:47:48.000Z",
+        "description": "Professional idiot who likes Touhou (#1 Letty Fan) | I post touhou memes | PFP by @Silver81106 | https://t.co/CWscHHwUDK join.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Silver81106"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/U4WMr99tmQ",
+                "end": 120,
+                "expanded_url": "https://discord.gg/U4WMr99tmQ",
+                "start": 97,
+                "url": "https://t.co/CWscHHwUDK"
+              }
+            ]
+          }
+        },
+        "id": "1480461310508908551",
+        "location": "🙏🍞",
+        "name": "Bread 🍞",
+        "pinned_tweet_id": "1800332777264705631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771355550896316416/vmU2Dfcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8883,
+          "following_count": 115,
+          "like_count": 66747,
+          "listed_count": 15,
+          "tweet_count": 3831
+        },
+        "username": "IHaveBread_",
+        "verified": false
+      }
+    ]
+  }
+}

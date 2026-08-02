@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022171139381104640"
+      ],
+      "media_source_tweet_id": [
+        "2022171497847271459"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2022423905391251647",
+    "created_at": "2026-02-13T21:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T22:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022423905391251647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886980536",
+          "start": 3,
+          "username": "wa_bu_ki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNnRBeezoo",
+          "end": 46,
+          "expanded_url": "https://x.com/wa_bu_ki/status/2022171497847271459/photo/1",
+          "media_key": "3_2022171139381104640",
+          "start": 23,
+          "url": "https://t.co/jNnRBeezoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022423905391251647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022171497847271459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wa_bu_ki: Keyコンフィグ https://t.co/jNnRBeezoo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022423905391251647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022423905391251647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022423905391251647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022171139381104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAx7_XbkAAWNAL.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022171139381104640"
+          ]
+        },
+        "author_id": "1886980536",
+        "conversation_id": "2022171497847271459",
+        "created_at": "2026-02-13T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022171497847271459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNnRBeezoo",
+              "end": 32,
+              "expanded_url": "https://x.com/wa_bu_ki/status/2022171497847271459/photo/1",
+              "media_key": "3_2022171139381104640",
+              "start": 9,
+              "url": "https://t.co/jNnRBeezoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022171497847271459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 38420,
+          "like_count": 2950,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "Keyコンフィグ https://t.co/jNnRBeezoo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 1527,
+          "like_count": 32545,
+          "listed_count": 8,
+          "media_count": 1061,
+          "tweet_count": 10339
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-20T16:12:29.000Z",
+        "description": "https://t.co/cKVT8ffMfh\nすけべと玩具で生きている18禁アカウント。\n\n同人：https://t.co/IJNIS3kFQz\nskeb：https://t.co/BbQnpcMDaq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/190026",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/190026",
+                "start": 0,
+                "url": "https://t.co/cKVT8ffMfh"
+              },
+              {
+                "display_url": "dlsite.com/maniax/circle/…",
+                "end": 73,
+                "expanded_url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11611.html",
+                "start": 50,
+                "url": "https://t.co/IJNIS3kFQz"
+              },
+              {
+                "display_url": "skeb.jp/@wa_bu_ki",
+                "end": 102,
+                "expanded_url": "http://skeb.jp/@wa_bu_ki",
+                "start": 79,
+                "url": "https://t.co/BbQnpcMDaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-en.dlsite.com/creator/1001",
+                "end": 23,
+                "expanded_url": "https://ci-en.dlsite.com/creator/1001",
+                "start": 0,
+                "url": "https://t.co/WTzNwGVcv7"
+              }
+            ]
+          }
+        },
+        "id": "1886980536",
+        "location": "しばらくまとまったご依頼はお請けできません。ごめんね。",
+        "name": "わぶき",
+        "pinned_tweet_id": "2010552421635019118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421453522340433920/-9uGtrdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51805,
+          "following_count": 1192,
+          "like_count": 39451,
+          "listed_count": 397,
+          "media_count": 4167,
+          "tweet_count": 92078
+        },
+        "url": "https://t.co/WTzNwGVcv7",
+        "username": "wa_bu_ki",
+        "verified": false
+      }
+    ]
+  }
+}

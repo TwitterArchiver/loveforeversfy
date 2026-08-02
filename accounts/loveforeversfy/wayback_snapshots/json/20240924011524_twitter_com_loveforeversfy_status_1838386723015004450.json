@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838367901210021888",
+        "3_1838367904603213825",
+        "3_1838367907207876608"
+      ],
+      "media_source_tweet_id": [
+        "1838367909720265153",
+        "1838367909720265153",
+        "1838367909720265153"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1838386723015004450",
+    "created_at": "2024-09-24T01:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T02:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838386723015004450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1249525383797456898",
+          "start": 3,
+          "username": "jakobsonradical"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0yjhrt73se",
+          "end": 120,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+          "media_key": "3_1838367901210021888",
+          "start": 97,
+          "url": "https://t.co/0YJHrt73se"
+        },
+        {
+          "display_url": "pic.x.com/0yjhrt73se",
+          "end": 120,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+          "media_key": "3_1838367904603213825",
+          "start": 97,
+          "url": "https://t.co/0YJHrt73se"
+        },
+        {
+          "display_url": "pic.x.com/0yjhrt73se",
+          "end": 120,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+          "media_key": "3_1838367907207876608",
+          "start": 97,
+          "url": "https://t.co/0YJHrt73se"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838386723015004450",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838367909720265153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jakobsonradical: 9月22日，上海迪士尼乐园内发生一起游客违规事件，一名男子游客在游玩过程中拍打维尼熊玩偶演员的头部，导致演员直接倒地不起，后在工作人员协助下离开现场。 https://t.co/0YJHrt73se"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_1838367901210021888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYMx3bYakAAzXze.jpg",
+        "width": 640
+      },
+      {
+        "height": 721,
+        "media_key": "3_1838367904603213825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYMx3oBakAE15Df.jpg",
+        "width": 640
+      },
+      {
+        "height": 705,
+        "media_key": "3_1838367907207876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYMx3xuakAAXWrt.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838367901210021888",
+            "3_1838367904603213825",
+            "3_1838367907207876608"
+          ],
+          "media_source_tweet_id": [
+            "1838367909720265153",
+            "1838367909720265153",
+            "1838367909720265153"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838386723015004450",
+        "created_at": "2024-09-24T01:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T02:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838386723015004450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1249525383797456898",
+              "start": 3,
+              "username": "jakobsonradical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 120,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367901210021888",
+              "start": 97,
+              "url": "https://t.co/0YJHrt73se"
+            },
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 120,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367904603213825",
+              "start": 97,
+              "url": "https://t.co/0YJHrt73se"
+            },
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 120,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367907207876608",
+              "start": 97,
+              "url": "https://t.co/0YJHrt73se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838386723015004450",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838367909720265153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jakobsonradical: 9月22日，上海迪士尼乐园内发生一起游客违规事件，一名男子游客在游玩过程中拍打维尼熊玩偶演员的头部，导致演员直接倒地不起，后在工作人员协助下离开现场。 https://t.co/0YJHrt73se"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838367901210021888",
+            "3_1838367904603213825",
+            "3_1838367907207876608"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838367909720265153",
+        "created_at": "2024-09-24T00:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T01:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838367909720265153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 99,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367901210021888",
+              "start": 76,
+              "url": "https://t.co/0YJHrt73se"
+            },
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 99,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367904603213825",
+              "start": 76,
+              "url": "https://t.co/0YJHrt73se"
+            },
+            {
+              "display_url": "pic.x.com/0yjhrt73se",
+              "end": 99,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1838367909720265153/photo/1",
+              "media_key": "3_1838367907207876608",
+              "start": 76,
+              "url": "https://t.co/0YJHrt73se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838367909720265153",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6531,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "9月22日，上海迪士尼乐园内发生一起游客违规事件，一名男子游客在游玩过程中拍打维尼熊玩偶演员的头部，导致演员直接倒地不起，后在工作人员协助下离开现场。 https://t.co/0YJHrt73se"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 1577,
+          "like_count": 30765,
+          "listed_count": 7,
+          "tweet_count": 8601
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212634,
+          "following_count": 1515,
+          "like_count": 43838,
+          "listed_count": 879,
+          "tweet_count": 23121
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1868326814588039417",
+    "created_at": "2024-12-15T16:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T17:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868327112991744381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523658790868250624",
+          "start": 0,
+          "username": "NanBo0ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868327112991744381",
+    "in_reply_to_user_id": "1523658790868250624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868326996062961757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanBo0ne 若制😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1868326814588039417",
+        "created_at": "2024-12-15T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868327112991744381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523658790868250624",
+              "start": 0,
+              "username": "NanBo0ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868327112991744381",
+        "in_reply_to_user_id": "1523658790868250624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868326996062961757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanBo0ne 若制😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523658790868250624",
+        "conversation_id": "1868326814588039417",
+        "created_at": "2024-12-15T16:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T17:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868326996062961757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868326996062961757",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868326814588039417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1583,
+          "like_count": 32762,
+          "listed_count": 10,
+          "media_count": 947,
+          "tweet_count": 9596
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T13:39:08.000Z",
+        "description": "我有夜盲症///////////猪猪猫=胖虎🐈‍⬛细猫=咪🫡狗叫面包/🚪88/val黄金请和我一起玩",
+        "id": "1523658790868250624",
+        "location": "喵",
+        "name": "南波万🏴‍☠️",
+        "pinned_tweet_id": "1661254148069953536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781653045451087873/NppfBEP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 497,
+          "like_count": 22993,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 6119
+        },
+        "username": "NanBo0ne",
+        "verified": false
+      }
+    ]
+  }
+}

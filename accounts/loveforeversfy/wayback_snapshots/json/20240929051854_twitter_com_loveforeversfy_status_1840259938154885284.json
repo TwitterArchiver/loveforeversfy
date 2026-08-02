@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1839647948524888064"
+      ],
+      "media_source_tweet_id": [
+        "1839648044150571136"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1840259938154885284",
+    "created_at": "2024-09-29T05:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T06:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840259938154885284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933562792187109376",
+          "start": 3,
+          "username": "tyomateee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwerdds4at",
+          "end": 50,
+          "expanded_url": "https://twitter.com/introvert_hu_ji/status/1839648044150571136/video/1",
+          "media_key": "7_1839647948524888064",
+          "start": 27,
+          "url": "https://t.co/ZwErddS4aT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840259938154885284",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1724
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840030462431113706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee: このカップル強すぎる… https://t.co/ZwErddS4aT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25333,
+        "height": 720,
+        "media_key": "7_1839647948524888064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1839647948524888064/pu/img/j9dHeGxkZ6xW_mxL.jpg",
+        "public_metrics": {
+          "view_count": 5943149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839647948524888064/pu/vid/avc1/320x320/nunLP6zjG2wzXutX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839647948524888064/pu/vid/avc1/540x540/9tj3kFGPYK7hjKJT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839647948524888064/pu/vid/avc1/720x720/Q5W7f-DlnEmXtqlS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1839647948524888064/pu/pl/frpSuL7iWZ8bxMSo.m3u8?tag=12&v=7ae"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839647948524888064"
+          ],
+          "media_source_tweet_id": [
+            "1839648044150571136"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1840259938154885284",
+        "created_at": "2024-09-29T05:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T06:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840259938154885284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933562792187109376",
+              "start": 3,
+              "username": "tyomateee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwerdds4at",
+              "end": 50,
+              "expanded_url": "https://twitter.com/introvert_hu_ji/status/1839648044150571136/video/1",
+              "media_key": "7_1839647948524888064",
+              "start": 27,
+              "url": "https://t.co/ZwErddS4aT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840259938154885284",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1724
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840030462431113706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee: このカップル強すぎる… https://t.co/ZwErddS4aT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839647948524888064"
+          ],
+          "media_source_tweet_id": [
+            "1839648044150571136"
+          ]
+        },
+        "author_id": "933562792187109376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1840030462431113706",
+        "created_at": "2024-09-28T14:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T15:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840030462431113706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwerdds4at",
+              "end": 35,
+              "expanded_url": "https://twitter.com/introvert_hu_ji/status/1839648044150571136/video/1",
+              "media_key": "7_1839647948524888064",
+              "start": 12,
+              "url": "https://t.co/ZwErddS4aT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840030462431113706",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2006,
+          "impression_count": 2589420,
+          "like_count": 21961,
+          "quote_count": 151,
+          "reply_count": 297,
+          "retweet_count": 1724
+        },
+        "reply_settings": "everyone",
+        "text": "このカップル強すぎる… https://t.co/ZwErddS4aT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 1578,
+          "like_count": 30855,
+          "listed_count": 7,
+          "tweet_count": 8645
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:08:09.000Z",
+        "description": "海外・世界で話題の情報を呟きます。当人が運営しているアカウントは最多情報局 もふもふ動画です。他大喜利 癒しbot等の運営とは一切関係ありません  削除依頼はDMまたはメールまでお願い致します",
+        "id": "933562792187109376",
+        "location": "aokun4321@gmail.com",
+        "name": "最多情報局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142197940443680768/_hpVLFxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806985,
+          "following_count": 48040,
+          "like_count": 15676,
+          "listed_count": 3511,
+          "tweet_count": 30532
+        },
+        "username": "tyomateee",
+        "verified": true
+      }
+    ]
+  }
+}

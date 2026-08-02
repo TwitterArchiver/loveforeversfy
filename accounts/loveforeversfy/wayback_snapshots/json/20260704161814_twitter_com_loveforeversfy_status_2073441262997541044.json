@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2073441262997541044",
+    "created_at": "2026-07-04T16:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073441262997541044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LinAce28/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/LinAce28/status/2073329980776325546",
+          "start": 16,
+          "url": "https://t.co/S4A0vwz2bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073441262997541044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073329980776325546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "遮沙避风了笑死我了这人发的几条 https://t.co/S4A0vwz2bc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2073441262997541044",
+        "created_at": "2026-07-04T16:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073441262997541044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinAce28/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LinAce28/status/2073329980776325546",
+              "start": 16,
+              "url": "https://t.co/S4A0vwz2bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073441262997541044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073329980776325546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遮沙避风了笑死我了这人发的几条 https://t.co/S4A0vwz2bc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586787581198405633",
+        "conversation_id": "2073295248906985936",
+        "created_at": "2026-07-04T08:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073329980776325546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073329980776325546",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073295248906985936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 你太弱智、白痴了，都不想回复你，怕把你教乖了。\n\n一种文化，一种哲学，在发展过程中，总会出现糟粕。\n\n比如，“白左” 已经发展到 “我认为是什么，那现实就(应该)是什么”，要不然就是现实错了。\n\n我认为我是女生，就可以进女厕。\n\n这也是糟粕，且无法验证。\n\n羊鞭与牛鞭是否能补，这是可以检验的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1557,
+          "like_count": 35527,
+          "listed_count": 8,
+          "media_count": 1223,
+          "tweet_count": 11433
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T18:30:23.000Z",
+        "description": "大谈哲学： 世界如此复杂，我们又 “身在此山中”，该以怎样的视角、方法、线索，从一般意义上观察、思考、解析纷繁复杂的世界",
+        "id": "1586787581198405633",
+        "name": "LinAce",
+        "pinned_tweet_id": "1968237105781538995",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 22,
+          "like_count": 47488,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 8130
+        },
+        "url": "",
+        "username": "LinAce28",
+        "verified": false
+      }
+    ]
+  }
+}

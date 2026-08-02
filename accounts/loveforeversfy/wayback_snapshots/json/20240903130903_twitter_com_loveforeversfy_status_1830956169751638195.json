@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830905715772530692"
+      ],
+      "media_source_tweet_id": [
+        "1830905723309711560"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1830956169751638195",
+    "created_at": "2024-09-03T13:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T14:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830956169751638195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1492368446314921989",
+          "start": 3,
+          "username": "xiandnico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7vzp7neuq",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xiandnico/status/1830905723309711560/photo/1",
+          "media_key": "3_1830905715772530692",
+          "start": 15,
+          "url": "https://t.co/e7Vzp7nEUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830956169751638195",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830905723309711560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiandnico: https://t.co/e7Vzp7nEUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1830905715772530692",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWivDEXaoAQuz6X.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830905715772530692"
+          ],
+          "media_source_tweet_id": [
+            "1830905723309711560"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830956169751638195",
+        "created_at": "2024-09-03T13:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830956169751638195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1492368446314921989",
+              "start": 3,
+              "username": "xiandnico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7vzp7neuq",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xiandnico/status/1830905723309711560/photo/1",
+              "media_key": "3_1830905715772530692",
+              "start": 15,
+              "url": "https://t.co/e7Vzp7nEUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830956169751638195",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830905723309711560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiandnico: https://t.co/e7Vzp7nEUQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830905715772530692"
+          ]
+        },
+        "author_id": "1492368446314921989",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830905723309711560",
+        "created_at": "2024-09-03T09:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T10:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830905723309711560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7vzp7neuq",
+              "end": 23,
+              "expanded_url": "https://twitter.com/xiandnico/status/1830905723309711560/photo/1",
+              "media_key": "3_1830905715772530692",
+              "start": 0,
+              "url": "https://t.co/e7Vzp7nEUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830905723309711560",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12689,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e7Vzp7nEUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1572,
+          "like_count": 30251,
+          "listed_count": 7,
+          "tweet_count": 8458
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T05:22:34.000Z",
+        "description": "黒魔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/maimai",
+                "end": 23,
+                "expanded_url": "http://discord.gg/maimai",
+                "start": 0,
+                "url": "https://t.co/Mr4xfdSrAM"
+              }
+            ]
+          }
+        },
+        "id": "1492368446314921989",
+        "name": "nico",
+        "pinned_tweet_id": "1822958164129759702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810909695496048643/hrnLC8BT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 460,
+          "like_count": 587,
+          "listed_count": 1,
+          "tweet_count": 2343
+        },
+        "url": "https://t.co/Mr4xfdSrAM",
+        "username": "xiandnico",
+        "verified": false
+      }
+    ]
+  }
+}

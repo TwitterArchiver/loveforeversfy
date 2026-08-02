@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1844209998873993545",
+    "created_at": "2024-10-10T02:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T03:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844210210166145359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608817124704923648",
+          "start": 0,
+          "username": "Hyperbubuemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844210210166145359",
+    "in_reply_to_user_id": "1608817124704923648",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844209998873993545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperbubuemia 😨❓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1844209998873993545",
+        "created_at": "2024-10-10T02:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T03:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844210210166145359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608817124704923648",
+              "start": 0,
+              "username": "Hyperbubuemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844210210166145359",
+        "in_reply_to_user_id": "1608817124704923648",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844209998873993545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperbubuemia 😨❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844209994356441100"
+          ]
+        },
+        "author_id": "1608817124704923648",
+        "conversation_id": "1844209998873993545",
+        "created_at": "2024-10-10T02:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T03:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844209998873993545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qI5sYyyNZw",
+              "end": 40,
+              "expanded_url": "https://x.com/Hyperbubuemia/status/1844209998873993545/photo/1",
+              "media_key": "3_1844209994356441100",
+              "start": 17,
+              "url": "https://t.co/qI5sYyyNZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844209998873993545",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊喵喵护腰但是感觉奶子是胖出来的 https://t.co/qI5sYyyNZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "？ | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1579,
+          "like_count": 31112,
+          "listed_count": 7,
+          "tweet_count": 8755
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "吃吃小药片综合症🐹🍥",
+        "id": "1608817124704923648",
+        "location": "Toronto, Ontario, Canada",
+        "name": "栖布布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829697134582480898/qHm41Qa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 700,
+          "like_count": 7207,
+          "listed_count": 1,
+          "tweet_count": 4267
+        },
+        "username": "Hyperbubuemia",
+        "verified": true
+      }
+    ]
+  }
+}

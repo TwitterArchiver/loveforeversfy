@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1851348599856087041"
+      ],
+      "media_source_tweet_id": [
+        "1851348613785325774"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1851350284699894066",
+    "created_at": "2024-10-29T19:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T20:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851350284699894066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732732999903358976",
+          "start": 3,
+          "username": "R4INC4NDYU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCySICgbwe",
+          "end": 39,
+          "expanded_url": "https://x.com/R4INC4NDYU/status/1851348613785325774/photo/1",
+          "media_key": "16_1851348599856087041",
+          "start": 16,
+          "url": "https://t.co/vCySICgbwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851350284699894066",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851348613785325774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4INC4NDYU: https://t.co/vCySICgbwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_1851348599856087041",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GbFPviHWwAEA_qU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GbFPviHWwAEA_qU.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1851348599856087041"
+          ],
+          "media_source_tweet_id": [
+            "1851348613785325774"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1851350284699894066",
+        "created_at": "2024-10-29T19:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T20:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851350284699894066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732732999903358976",
+              "start": 3,
+              "username": "R4INC4NDYU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCySICgbwe",
+              "end": 39,
+              "expanded_url": "https://x.com/R4INC4NDYU/status/1851348613785325774/photo/1",
+              "media_key": "16_1851348599856087041",
+              "start": 16,
+              "url": "https://t.co/vCySICgbwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851350284699894066",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851348613785325774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4INC4NDYU: https://t.co/vCySICgbwe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1851348599856087041"
+          ]
+        },
+        "author_id": "1732732999903358976",
+        "conversation_id": "1851348613785325774",
+        "created_at": "2024-10-29T19:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T20:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851348613785325774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCySICgbwe",
+              "end": 23,
+              "expanded_url": "https://x.com/R4INC4NDYU/status/1851348613785325774/photo/1",
+              "media_key": "16_1851348599856087041",
+              "start": 0,
+              "url": "https://t.co/vCySICgbwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851348613785325774",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vCySICgbwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄 | ❤️@Aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽🎃",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1582,
+          "like_count": 31589,
+          "listed_count": 7,
+          "tweet_count": 9052
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T12:05:31.000Z",
+        "description": "feel like dying except when i'm with my favorite / aren't you at fault for sniffing me? ꒰ᐢ. .ᐢ꒱ ⑅ᐢ..ᐢ₎ ♡.°₊ˎˊ˗",
+        "id": "1732732999903358976",
+        "location": "i ♡ my favorite ",
+        "name": "˚‧⁺༝꒰ა ໒꒱ིྀ༝⁺‧˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776600940507783168/TM4oHaCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25406,
+          "following_count": 17,
+          "like_count": 3281,
+          "listed_count": 26,
+          "tweet_count": 3293
+        },
+        "username": "R4INC4NDYU",
+        "verified": false
+      }
+    ]
+  }
+}

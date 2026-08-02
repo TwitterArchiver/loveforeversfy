@@ -1,0 +1,400 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1816488638068461571",
+        "7_1816488638068449280"
+      ],
+      "media_source_tweet_id": [
+        "1816488936971346333",
+        "1816488936971346333"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816498462109946332",
+    "created_at": "2024-07-25T15:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T16:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816498462109946332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 96,
+          "tag": "スーダン12周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2719163250",
+          "start": 3,
+          "username": "enju1938"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/EU3PALeX1o",
+          "end": 129,
+          "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+          "media_key": "7_1816488638068461571",
+          "start": 106,
+          "url": "https://t.co/EU3PALeX1o"
+        },
+        {
+          "display_url": "pic.twitter.com/EU3PALeX1o",
+          "end": 129,
+          "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+          "media_key": "7_1816488638068449280",
+          "start": 106,
+          "url": "https://t.co/EU3PALeX1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816498462109946332",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816488936971346333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enju1938: 【合作手描き動画】【スーパーダンガンロンパ2】\n\n                 🎉ついに干支を1周〜！？🎉\n     🎊12周年おめでとうございます！！！🎊\n\n#スーダン12周年 https://t.co/EU3PALeX1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105666,
+        "height": 720,
+        "media_key": "7_1816488638068461571",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1816488638068461571/pu/img/9xcVhuhC_cAADGu0.jpg",
+        "public_metrics": {
+          "view_count": 1339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068461571/pu/vid/avc1/480x270/K2GgKL77lBv_7zXq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068461571/pu/vid/avc1/640x360/61m2QYmUHAcjtXNb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068461571/pu/vid/avc1/1280x720/VkTBTQ5xrIFef-Yh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068461571/pu/pl/XuDs2_MgTdRktiyI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 114300,
+        "height": 720,
+        "media_key": "7_1816488638068449280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1816488638068449280/pu/img/ZBndIbR1IOYeeBlO.jpg",
+        "public_metrics": {
+          "view_count": 247
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068449280/pu/vid/avc1/480x270/-EYEU8_4NUXq0Qbz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068449280/pu/vid/avc1/640x360/rnxxt1VvFPV9DCc9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068449280/pu/vid/avc1/1280x720/t-9EmiwBx_12NQ6u.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1816488638068449280/pu/pl/KAk4MZBVpvPlTUIL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816488638068461571",
+            "7_1816488638068449280"
+          ],
+          "media_source_tweet_id": [
+            "1816488936971346333",
+            "1816488936971346333"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816498462109946332",
+        "created_at": "2024-07-25T15:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T16:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816498462109946332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "スーダン12周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2719163250",
+              "start": 3,
+              "username": "enju1938"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EU3PALeX1o",
+              "end": 129,
+              "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+              "media_key": "7_1816488638068461571",
+              "start": 106,
+              "url": "https://t.co/EU3PALeX1o"
+            },
+            {
+              "display_url": "pic.twitter.com/EU3PALeX1o",
+              "end": 129,
+              "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+              "media_key": "7_1816488638068449280",
+              "start": 106,
+              "url": "https://t.co/EU3PALeX1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816498462109946332",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816488936971346333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enju1938: 【合作手描き動画】【スーパーダンガンロンパ2】\n\n                 🎉ついに干支を1周〜！？🎉\n     🎊12周年おめでとうございます！！！🎊\n\n#スーダン12周年 https://t.co/EU3PALeX1o"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816488638068461571",
+            "7_1816488638068449280"
+          ]
+        },
+        "author_id": "2719163250",
+        "conversation_id": "1816488936971346333",
+        "created_at": "2024-07-25T15:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T16:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816488936971346333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 82,
+              "tag": "スーダン12周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EU3PALeX1o",
+              "end": 115,
+              "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+              "media_key": "7_1816488638068461571",
+              "start": 92,
+              "url": "https://t.co/EU3PALeX1o"
+            },
+            {
+              "display_url": "pic.twitter.com/EU3PALeX1o",
+              "end": 115,
+              "expanded_url": "https://twitter.com/enju1938/status/1816488936971346333/video/1",
+              "media_key": "7_1816488638068449280",
+              "start": 92,
+              "url": "https://t.co/EU3PALeX1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816488936971346333",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 4401,
+          "like_count": 280,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "【合作手描き動画】【スーパーダンガンロンパ2】\n\n                 🎉ついに干支を1周〜！？🎉\n     🎊12周年おめでとうございます！！！🎊\n\n#スーダン12周年 https://t.co/EU3PALeX1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1573,
+          "like_count": 29029,
+          "listed_count": 8,
+          "tweet_count": 8152
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-09T11:50:00.000Z",
+        "description": "20↑聖人。手描き動画とか作って、コスプレもカメラもする人。 刀剣コス垢(@enju_cos0603)写真や進捗など雑多な鍵垢(@enju_1938)ついぷろhttps://t.co/hn68KAAJmd カメラ作例https://t.co/6YrzVXViPO二次創作グッズ販売は下記リンク↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "enju_cos0603"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "enju_1938"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twpf.jp/enju1938",
+                "end": 102,
+                "expanded_url": "http://twpf.jp/enju1938",
+                "start": 79,
+                "url": "https://t.co/hn68KAAJmd"
+              },
+              {
+                "display_url": "cos.guide/i/enju_cos0603",
+                "end": 131,
+                "expanded_url": "https://cos.guide/i/enju_cos0603",
+                "start": 108,
+                "url": "https://t.co/6YrzVXViPO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "enju1938.booth.pm",
+                "end": 23,
+                "expanded_url": "https://enju1938.booth.pm",
+                "start": 0,
+                "url": "https://t.co/9xqUgEtURu"
+              }
+            ]
+          }
+        },
+        "id": "2719163250",
+        "location": "お仕事はDMにてご相談くだされ",
+        "name": "エンジュ・フォリアー",
+        "pinned_tweet_id": "1551583293296246797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687492119886434304/ZUtDIUil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 416,
+          "like_count": 19205,
+          "listed_count": 40,
+          "tweet_count": 21140
+        },
+        "url": "https://t.co/9xqUgEtURu",
+        "username": "enju1938",
+        "verified": false
+      }
+    ]
+  }
+}

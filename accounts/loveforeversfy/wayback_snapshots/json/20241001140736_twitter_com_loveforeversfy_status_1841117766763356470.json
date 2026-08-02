@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1841117766763356470",
+    "created_at": "2024-10-01T14:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841117766763356470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TUYU_official/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/TUYU_official/status/1841055458477433326",
+          "start": 4,
+          "url": "https://t.co/K75UUL0qsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841117766763356470",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841055458477433326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "o66 https://t.co/K75UUL0qsq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1841117766763356470",
+        "created_at": "2024-10-01T14:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841117766763356470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TUYU_official/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/TUYU_official/status/1841055458477433326",
+              "start": 4,
+              "url": "https://t.co/K75UUL0qsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841117766763356470",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841055458477433326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "o66 https://t.co/K75UUL0qsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841012741412438020"
+          ]
+        },
+        "author_id": "1123957602449350660",
+        "conversation_id": "1841055458477433326",
+        "created_at": "2024-10-01T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841055458477433326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aY2JpObPc",
+              "end": 40,
+              "expanded_url": "https://x.com/TUYU_official/status/1841055458477433326/photo/1",
+              "media_key": "3_1841012741412438020",
+              "start": 17,
+              "url": "https://t.co/6aY2JpObPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841055458477433326",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 1980069,
+          "like_count": 26008,
+          "quote_count": 4151,
+          "reply_count": 457,
+          "retweet_count": 4291
+        },
+        "reply_settings": "everyone",
+        "text": "Next New Song... https://t.co/6aY2JpObPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1580,
+          "like_count": 30875,
+          "listed_count": 7,
+          "tweet_count": 8647
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-02T14:29:09.000Z",
+        "description": "BAD END.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/EXSpins",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/EXSpins",
+                "start": 0,
+                "url": "https://t.co/F8O0S1FZW0"
+              }
+            ]
+          }
+        },
+        "id": "1123957602449350660",
+        "name": "ツユ",
+        "pinned_tweet_id": "1799380850414330008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425789484910616578/eM6PJ1KJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198672,
+          "following_count": 28,
+          "like_count": 4905,
+          "listed_count": 668,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/F8O0S1FZW0",
+        "username": "TUYU_official",
+        "verified": true
+      }
+    ]
+  }
+}

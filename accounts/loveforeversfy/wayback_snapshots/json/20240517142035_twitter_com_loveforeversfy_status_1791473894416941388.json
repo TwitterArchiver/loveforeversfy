@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1791447776859214036",
+    "created_at": "2024-05-17T14:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T15:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791473894416941388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656320730584457216",
+          "start": 0,
+          "username": "tttpul0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791473894416941388",
+    "in_reply_to_user_id": "1656320730584457216",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791473139463205121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttpul0615 👁️👁️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1791473139463205121].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791473139463205121",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1791473139463205121"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1791447776859214036",
+        "created_at": "2024-05-17T14:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791473894416941388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656320730584457216",
+              "start": 0,
+              "username": "tttpul0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791473894416941388",
+        "in_reply_to_user_id": "1656320730584457216",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791473139463205121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttpul0615 👁️👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1568,
+          "like_count": 26882,
+          "listed_count": 8,
+          "tweet_count": 7127
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T15:30:26.000Z",
+        "description": "1⃣️简介：已有女友的顺直男，喜欢玩音游\n2⃣️推文：以音游为主，所有内容sfw，语言风格可能比较粗俗。\n3⃣️交友原则：回fo音游玩家，其余看情况。\n4⃣️雷点：在主页表达强烈欲望的人（偏激的政治观点立场、过分直白地展示性欲的图片视频等）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sdvx.in",
+                "end": 23,
+                "expanded_url": "http://sdvx.in",
+                "start": 0,
+                "url": "https://t.co/hNp16VPuHn"
+              }
+            ]
+          }
+        },
+        "id": "1656320730584457216",
+        "location": "哈基米哈基米",
+        "name": "@♪",
+        "pinned_tweet_id": "1787138906921763221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777965397452742656/8xwC361E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 621,
+          "like_count": 14297,
+          "listed_count": 1,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/hNp16VPuHn",
+        "username": "tttpul0615",
+        "verified": false
+      }
+    ]
+  }
+}

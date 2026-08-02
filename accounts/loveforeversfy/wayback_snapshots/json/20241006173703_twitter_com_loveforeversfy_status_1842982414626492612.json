@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1842982414626492612",
+    "created_at": "2024-10-06T17:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T18:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842982414626492612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1080043300768206850",
+          "start": 3,
+          "username": "pjsekai_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842982414626492612",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842528985856827457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pjsekai_CN: 打舞萌不准碰按键和屏幕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1842982414626492612",
+        "created_at": "2024-10-06T17:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T18:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842982414626492612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1080043300768206850",
+              "start": 3,
+              "username": "pjsekai_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842982414626492612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842528985856827457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pjsekai_CN: 打舞萌不准碰按键和屏幕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080043300768206850",
+        "conversation_id": "1842528985856827457",
+        "created_at": "2024-10-05T11:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842528985856827457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gotousugi_kh/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/gotousugi_kh/status/1842483529449664653",
+              "start": 12,
+              "url": "https://t.co/woMyGtpULl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842528985856827457",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15792,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842483529449664653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打舞萌不准碰按键和屏幕 https://t.co/woMyGtpULl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1579,
+          "like_count": 30985,
+          "listed_count": 7,
+          "tweet_count": 8689
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-01T10:09:23.000Z",
+        "description": "",
+        "id": "1080043300768206850",
+        "location": "SEGA",
+        "name": "舞立方秀",
+        "pinned_tweet_id": "1817935614286922097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840375925101432832/FHFXdIEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 233,
+          "like_count": 13385,
+          "listed_count": 2,
+          "tweet_count": 3109
+        },
+        "username": "pjsekai_CN",
+        "verified": false
+      }
+    ]
+  }
+}

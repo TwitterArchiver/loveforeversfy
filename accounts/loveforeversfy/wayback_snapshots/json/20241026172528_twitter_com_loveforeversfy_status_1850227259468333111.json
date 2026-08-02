@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1850220057181466760",
+    "created_at": "2024-10-26T17:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T18:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850227259468333111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523658790868250624",
+          "start": 0,
+          "username": "NanBo0ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850227259468333111",
+    "in_reply_to_user_id": "1523658790868250624",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850227130371825966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanBo0ne 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1850220057181466760",
+        "created_at": "2024-10-26T17:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T18:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850227259468333111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523658790868250624",
+              "start": 0,
+              "username": "NanBo0ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850227259468333111",
+        "in_reply_to_user_id": "1523658790868250624",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850227130371825966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanBo0ne 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523658790868250624",
+        "conversation_id": "1850220057181466760",
+        "created_at": "2024-10-26T17:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T18:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850227130371825966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850227130371825966",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850226839274565995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 亚米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1584,
+          "like_count": 31435,
+          "listed_count": 7,
+          "tweet_count": 8958
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T13:39:08.000Z",
+        "description": "自由｜平等｜理解｜包容 //代组整机/免费开🎁/猪猪猫=胖虎🐈‍⬛细猫=咪🫡狗叫面包/🚪88/R6S真的好好玩😤",
+        "id": "1523658790868250624",
+        "location": "喵",
+        "name": "南波万🏴‍☠️",
+        "pinned_tweet_id": "1661254148069953536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781653045451087873/NppfBEP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 477,
+          "like_count": 21823,
+          "listed_count": 4,
+          "tweet_count": 5742
+        },
+        "username": "NanBo0ne",
+        "verified": false
+      }
+    ]
+  }
+}

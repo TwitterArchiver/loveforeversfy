@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1854160239773515776"
+      ],
+      "media_source_tweet_id": [
+        "1854160362515612069"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1854199603903816107",
+    "created_at": "2024-11-06T16:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T17:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854199603903816107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742381695045939200",
+          "start": 3,
+          "username": "mo6ji4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cfxnueH60v",
+          "end": 35,
+          "expanded_url": "https://x.com/mo6ji4/status/1854160362515612069/video/1",
+          "media_key": "7_1854160239773515776",
+          "start": 12,
+          "url": "https://t.co/cfxnueH60v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854199603903816107",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854160362515612069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo6ji4: https://t.co/cfxnueH60v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66559,
+        "height": 640,
+        "media_key": "7_1854160239773515776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1854160239773515776/pu/img/ICV05uI-3cFWbnaF.jpg",
+        "public_metrics": {
+          "view_count": 360
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854160239773515776/pu/vid/avc1/320x320/RxbNNi7gIgWi-DAY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854160239773515776/pu/vid/avc1/540x540/rVDXs70jL4xu6whd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854160239773515776/pu/vid/avc1/640x640/IhFPqxNy3zgkase-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1854160239773515776/pu/pl/7BqKMW-1sYB8spV3.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1854160239773515776"
+          ],
+          "media_source_tweet_id": [
+            "1854160362515612069"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1854199603903816107",
+        "created_at": "2024-11-06T16:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T17:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854199603903816107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742381695045939200",
+              "start": 3,
+              "username": "mo6ji4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfxnueH60v",
+              "end": 35,
+              "expanded_url": "https://x.com/mo6ji4/status/1854160362515612069/video/1",
+              "media_key": "7_1854160239773515776",
+              "start": 12,
+              "url": "https://t.co/cfxnueH60v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854199603903816107",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854160362515612069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo6ji4: https://t.co/cfxnueH60v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1854160239773515776"
+          ]
+        },
+        "author_id": "1742381695045939200",
+        "conversation_id": "1854160362515612069",
+        "created_at": "2024-11-06T13:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854160362515612069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfxnueH60v",
+              "end": 23,
+              "expanded_url": "https://x.com/mo6ji4/status/1854160362515612069/video/1",
+              "media_key": "7_1854160239773515776",
+              "start": 0,
+              "url": "https://t.co/cfxnueH60v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854160362515612069",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cfxnueH60v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄 | ❤️@Aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1580,
+          "like_count": 31898,
+          "listed_count": 7,
+          "tweet_count": 9192
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n是公用肉便器 @mingnaisama 的飞机杯\n防失联小号@m8o9j6i4 妈妈@cang_lan3667 @azusaROCtw 亲爱的@miku_suki393939 @35zf_out @Fiammetta1453 @zhao_remake\n严重玻璃心自卑仇富",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "35zf_out"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "zhao_remake"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban请联系我的互fo解ban）",
+        "pinned_tweet_id": "1843427627518021966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 880,
+          "like_count": 90963,
+          "listed_count": 5,
+          "tweet_count": 17706
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

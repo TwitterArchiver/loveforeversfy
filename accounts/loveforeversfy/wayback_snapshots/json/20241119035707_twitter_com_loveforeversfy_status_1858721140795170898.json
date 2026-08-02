@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1858717629915267167",
+    "created_at": "2024-11-19T03:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T04:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858721140795170898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1613153980246548480",
+          "start": 0,
+          "username": "openAQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858721140795170898",
+    "in_reply_to_user_id": "1613153980246548480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858717629915267167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@openAQiu 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1858717629915267167",
+        "created_at": "2024-11-19T03:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858721140795170898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1613153980246548480",
+              "start": 0,
+              "username": "openAQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858721140795170898",
+        "in_reply_to_user_id": "1613153980246548480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858717629915267167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@openAQiu 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613153980246548480",
+        "conversation_id": "1858717629915267167",
+        "created_at": "2024-11-19T03:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858717629915267167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640335577986760704",
+              "start": 4,
+              "username": "solmoon2303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858717629915267167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即日起与@solmoon2303 分手，复合时间待定\n\n以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1586,
+          "like_count": 32046,
+          "listed_count": 7,
+          "tweet_count": 9323
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T12:41:00.000Z",
+        "description": "",
+        "id": "1613153980246548480",
+        "name": "邱",
+        "pinned_tweet_id": "1848387507173650475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687433786517303297/w2aBrigt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 680,
+          "like_count": 8948,
+          "listed_count": 3,
+          "tweet_count": 4103
+        },
+        "username": "openAQiu",
+        "verified": false
+      }
+    ]
+  }
+}

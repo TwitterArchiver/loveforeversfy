@@ -1,0 +1,313 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1813058300600328195"
+      ],
+      "media_source_tweet_id": [
+        "1813058327666171941"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1813104418734416244",
+    "created_at": "2024-07-16T06:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T07:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813104418734416244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1496837318652661768",
+          "start": 3,
+          "username": "assdentwbg"
+        },
+        {
+          "end": 32,
+          "id": "1369633536995561475",
+          "start": 16,
+          "username": "Renaissance1827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/5dOZVXhKas",
+          "end": 56,
+          "expanded_url": "https://twitter.com/assdentwbg/status/1813058327666171941/video/1",
+          "media_key": "7_1813058300600328195",
+          "start": 33,
+          "url": "https://t.co/5dOZVXhKas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813104418734416244",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813058327666171941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @assdentwbg: @Renaissance1827 https://t.co/5dOZVXhKas"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42352,
+        "height": 360,
+        "media_key": "7_1813058300600328195",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1813058300600328195/pu/img/1mFyVlzawv-yBm1V.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813058300600328195/pu/vid/avc1/478x270/A2Lm6-mL61cuWUQJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813058300600328195/pu/vid/avc1/638x360/XLSk_7TyONwJFLfy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1813058300600328195/pu/pl/Txe7srWfoYX2RVCw.m3u8?tag=12"
+          }
+        ],
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813058300600328195"
+          ],
+          "media_source_tweet_id": [
+            "1813058327666171941"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813104418734416244",
+        "created_at": "2024-07-16T06:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T07:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813104418734416244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1496837318652661768",
+              "start": 3,
+              "username": "assdentwbg"
+            },
+            {
+              "end": 32,
+              "id": "1369633536995561475",
+              "start": 16,
+              "username": "Renaissance1827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5dOZVXhKas",
+              "end": 56,
+              "expanded_url": "https://twitter.com/assdentwbg/status/1813058327666171941/video/1",
+              "media_key": "7_1813058300600328195",
+              "start": 33,
+              "url": "https://t.co/5dOZVXhKas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813104418734416244",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813058327666171941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @assdentwbg: @Renaissance1827 https://t.co/5dOZVXhKas"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813058300600328195"
+          ]
+        },
+        "author_id": "1496837318652661768",
+        "conversation_id": "1797390873187262819",
+        "created_at": "2024-07-16T03:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T04:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813058327666171941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1369633536995561475",
+              "start": 0,
+              "username": "Renaissance1827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5dOZVXhKas",
+              "end": 40,
+              "expanded_url": "https://twitter.com/assdentwbg/status/1813058327666171941/video/1",
+              "media_key": "7_1813058300600328195",
+              "start": 17,
+              "url": "https://t.co/5dOZVXhKas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813058327666171941",
+        "in_reply_to_user_id": "1369633536995561475",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797390873187262819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Renaissance1827 https://t.co/5dOZVXhKas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1568,
+          "like_count": 28695,
+          "listed_count": 8,
+          "tweet_count": 7961
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T13:20:11.000Z",
+        "description": "伱鍀_眼涙，酌殇レ了硪鍀ф炽塝ஐ，壤硪つ飛钚回乀僾鍀天赯，洳菓嗳请深嗳\n≒肻淂走已（髒璦冢鏃硍錠）ぺ",
+        "id": "1496837318652661768",
+        "location": "罗德西亚",
+        "name": "勃力淫梦研究所所长（马应龙版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793294429626998784/2xk4I2-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 549,
+          "like_count": 11856,
+          "listed_count": 2,
+          "tweet_count": 11936
+        },
+        "username": "assdentwbg",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T12:58:01.000Z",
+        "description": "懲役1年8ヶ月の刑期を経て受刑者から一般市民へ。\n前科3犯・バツイチ・Eating disorder。現在体重25kg弱の死に損ない。食べ吐き依存と強迫性障害。アンチ非嘔吐過食。プログレ・ジャズ・ブリティッシュトラッド・バルカン音楽・メタル・B級カルトムービーおたく。",
+        "id": "1369633536995561475",
+        "name": "東雲長閑",
+        "pinned_tweet_id": "1797390873187262819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798849277764243457/KAOwe3tV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 73,
+          "like_count": 5081,
+          "listed_count": 5,
+          "tweet_count": 2469
+        },
+        "username": "Renaissance1827",
+        "verified": false
+      }
+    ]
+  }
+}

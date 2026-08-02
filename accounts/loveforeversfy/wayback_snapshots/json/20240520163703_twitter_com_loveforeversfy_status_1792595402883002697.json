@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1792595119150919691",
+    "created_at": "2024-05-20T16:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T17:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792595402883002697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514498373055057923",
+          "start": 0,
+          "username": "8ber8964XB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792595402883002697",
+    "in_reply_to_user_id": "1514498373055057923",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792595119150919691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8ber8964XB 🚗🚗🚗🚗🚗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1792595119150919691",
+        "created_at": "2024-05-20T16:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T17:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792595402883002697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514498373055057923",
+              "start": 0,
+              "username": "8ber8964XB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792595402883002697",
+        "in_reply_to_user_id": "1514498373055057923",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792595119150919691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8ber8964XB 🚗🚗🚗🚗🚗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792595103087034368"
+          ]
+        },
+        "author_id": "1514498373055057923",
+        "conversation_id": "1792595119150919691",
+        "created_at": "2024-05-20T16:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T17:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792595119150919691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/a0mrupkGUk",
+              "end": 30,
+              "expanded_url": "https://twitter.com/8ber8964XB/status/1792595119150919691/photo/1",
+              "media_key": "3_1792595103087034368",
+              "start": 7,
+              "url": "https://t.co/a0mrupkGUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792595119150919691",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肖申8的救赎 https://t.co/a0mrupkGUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 1569,
+          "like_count": 27169,
+          "listed_count": 8,
+          "tweet_count": 7205
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T06:58:52.000Z",
+        "description": "infp还是intp忘了｜od错过高考｜抽象｜偶尔od自残｜默认在我每句话后面加个吧｜推特找💩大王｜或者随便打点钱我买猫粮｜恶人自有8ber磨",
+        "id": "1514498373055057923",
+        "location": "伟大航线-新世界",
+        "name": "12345678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735724818396483586/us0lVRpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 103,
+          "like_count": 8149,
+          "listed_count": 3,
+          "tweet_count": 2939
+        },
+        "username": "8ber8964XB",
+        "verified": false
+      }
+    ]
+  }
+}

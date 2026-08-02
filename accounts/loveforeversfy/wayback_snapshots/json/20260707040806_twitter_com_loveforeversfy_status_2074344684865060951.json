@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071689465999900673"
+      ],
+      "media_source_tweet_id": [
+        "2074150628352209272"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074344684865060951",
+    "created_at": "2026-07-07T04:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074344684865060951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1221441944267653120",
+          "start": 3,
+          "username": "CigsMake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVnQWwNHhV",
+          "end": 45,
+          "expanded_url": "https://x.com/CigsMake/status/2074150628352209272/photo/1",
+          "media_key": "3_2071689465999900673",
+          "start": 22,
+          "url": "https://t.co/yVnQWwNHhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074344684865060951",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074150628352209272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CigsMake: So true https://t.co/yVnQWwNHhV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2071689465999900673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMAel9HXwAEic7K.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071689465999900673"
+          ],
+          "media_source_tweet_id": [
+            "2074150628352209272"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074344684865060951",
+        "created_at": "2026-07-07T04:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344684865060951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1221441944267653120",
+              "start": 3,
+              "username": "CigsMake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVnQWwNHhV",
+              "end": 45,
+              "expanded_url": "https://x.com/CigsMake/status/2074150628352209272/photo/1",
+              "media_key": "3_2071689465999900673",
+              "start": 22,
+              "url": "https://t.co/yVnQWwNHhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074344684865060951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074150628352209272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CigsMake: So true https://t.co/yVnQWwNHhV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071689465999900673"
+          ]
+        },
+        "author_id": "1221441944267653120",
+        "conversation_id": "2074150628352209272",
+        "created_at": "2026-07-06T15:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074150628352209272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVnQWwNHhV",
+              "end": 31,
+              "expanded_url": "https://x.com/CigsMake/status/2074150628352209272/photo/1",
+              "media_key": "3_2071689465999900673",
+              "start": 8,
+              "url": "https://t.co/yVnQWwNHhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074150628352209272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 112080,
+          "like_count": 9158,
+          "quote_count": 23,
+          "reply_count": 25,
+          "retweet_count": 752
+        },
+        "reply_settings": "everyone",
+        "text": "So true https://t.co/yVnQWwNHhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 1555,
+          "like_count": 35574,
+          "listed_count": 8,
+          "media_count": 1226,
+          "tweet_count": 11442
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T14:37:19.000Z",
+        "description": "Cigarettes, Cultural Things From The Past, and Satire",
+        "id": "1221441944267653120",
+        "location": "United States",
+        "name": "Cigarette Nostalgia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226870747395743744/PDCqoH7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270172,
+          "following_count": 400,
+          "like_count": 40648,
+          "listed_count": 487,
+          "media_count": 1384,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "CigsMake",
+        "verified": true
+      }
+    ]
+  }
+}

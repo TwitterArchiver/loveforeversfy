@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1811691247779651692",
+    "created_at": "2024-07-12T09:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T10:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811691247779651692"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "nyalra",
+          "probability": 0.6246,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811691247779651692",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811676000104874427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: nyalra is your friend."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1811691247779651692",
+        "created_at": "2024-07-12T09:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T10:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811691247779651692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "nyalra",
+              "probability": 0.6246,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811691247779651692",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811676000104874427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: nyalra is your friend."
+      },
+      {
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "1811676000104874427",
+        "created_at": "2024-07-12T08:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T09:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811676000104874427"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "nyalra",
+              "probability": 0.6561,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811676000104874427",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6396,
+          "like_count": 154,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "nyalra is your friend."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1568,
+          "like_count": 28550,
+          "listed_count": 8,
+          "tweet_count": 7870
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "新刊小説『蜘蛛』https://t.co/P0fQtvhcwc その他 https://t.co/FpDBn2UOyV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/49uyBgI",
+                "end": 31,
+                "expanded_url": "http://amzn.to/49uyBgI",
+                "start": 8,
+                "url": "https://t.co/P0fQtvhcwc"
+              },
+              {
+                "display_url": "lit.link/nyalra",
+                "end": 59,
+                "expanded_url": "https://lit.link/nyalra",
+                "start": 36,
+                "url": "https://t.co/FpDBn2UOyV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/C2BvvG_rJdG/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/C2BvvG_rJdG/",
+                "start": 0,
+                "url": "https://t.co/mX7eBFLDlM"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "にゃるら",
+        "pinned_tweet_id": "1777388068594667748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138501,
+          "following_count": 666,
+          "like_count": 352233,
+          "listed_count": 1167,
+          "tweet_count": 34959
+        },
+        "url": "https://t.co/mX7eBFLDlM",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

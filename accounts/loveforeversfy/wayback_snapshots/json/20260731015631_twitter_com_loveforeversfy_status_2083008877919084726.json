@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082987606686760960"
+      ],
+      "media_source_tweet_id": [
+        "2082987620091728292"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2083008877919084726",
+    "created_at": "2026-07-31T01:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083008877919084726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCBwpuOh2D",
+          "end": 64,
+          "expanded_url": "https://x.com/yottan20001202/status/2082987620091728292/photo/1",
+          "media_key": "3_2082987606686760960",
+          "start": 41,
+          "url": "https://t.co/pCBwpuOh2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083008877919084726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082987620091728292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: 人生初の台湾🇹🇼行くぞ！！！！楽しみ！！ https://t.co/pCBwpuOh2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3646,
+        "media_key": "3_2082987606686760960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhCMTAbAAAFGpG.jpg",
+        "width": 2406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082987606686760960"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "2082987620091728292",
+        "created_at": "2026-07-31T00:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082987620091728292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCBwpuOh2D",
+              "end": 44,
+              "expanded_url": "https://x.com/yottan20001202/status/2082987620091728292/photo/1",
+              "media_key": "3_2082987606686760960",
+              "start": 21,
+              "url": "https://t.co/pCBwpuOh2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082987620091728292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2120,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人生初の台湾🇹🇼行くぞ！！！！楽しみ！！ https://t.co/pCBwpuOh2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082987606686760960"
+          ],
+          "media_source_tweet_id": [
+            "2082987620091728292"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2083008877919084726",
+        "created_at": "2026-07-31T01:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083008877919084726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCBwpuOh2D",
+              "end": 64,
+              "expanded_url": "https://x.com/yottan20001202/status/2082987620091728292/photo/1",
+              "media_key": "3_2082987606686760960",
+              "start": 41,
+              "url": "https://t.co/pCBwpuOh2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083008877919084726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082987620091728292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: 人生初の台湾🇹🇼行くぞ！！！！楽しみ！！ https://t.co/pCBwpuOh2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 1557,
+          "like_count": 35825,
+          "listed_count": 10,
+          "media_count": 1247,
+          "tweet_count": 11595
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／全国大会優勝7回🏆(2020~6th 5連覇)／KoP4th.5thスコアタ1位(4th単独303%)／フジテレビ2時間生放送出演+優勝／地上波テレビ出演／公式生放送出演／元紫白全理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56822,
+          "following_count": 819,
+          "like_count": 24780,
+          "listed_count": 90,
+          "media_count": 14133,
+          "tweet_count": 65911
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

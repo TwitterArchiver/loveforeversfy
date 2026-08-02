@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2047877033431281804",
+    "created_at": "2026-04-25T03:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047877033431281804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3638349600Ogas…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/3638349600Ogas/status/2047253012759142731",
+          "start": 4,
+          "url": "https://t.co/S3VlrDaxyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047877033431281804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047253012759142731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个 https://t.co/S3VlrDaxyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047252998095876096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlNwUTbsAA8KF6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2047877033431281804",
+        "created_at": "2026-04-25T03:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047877033431281804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3638349600Ogas…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/3638349600Ogas/status/2047253012759142731",
+              "start": 4,
+              "url": "https://t.co/S3VlrDaxyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047877033431281804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047253012759142731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个 https://t.co/S3VlrDaxyD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047252998095876096"
+          ]
+        },
+        "author_id": "1913535505230442497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047253012759142731",
+        "created_at": "2026-04-23T09:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047253012759142731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2001730411890905088",
+              "start": 5,
+              "username": "FuyutoriGin"
+            },
+            {
+              "end": 27,
+              "id": "1437785792211034114",
+              "start": 18,
+              "username": "Xerenceu"
+            },
+            {
+              "end": 40,
+              "id": "1789119675411959808",
+              "start": 28,
+              "username": "TSMilkCandy"
+            },
+            {
+              "end": 48,
+              "id": "1817584080437014528",
+              "start": 41,
+              "username": "N552AA"
+            },
+            {
+              "end": 64,
+              "id": "1599012090517540869",
+              "start": 49,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEFl71cw2n",
+              "end": 88,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2047253012759142731/photo/1",
+              "media_key": "3_2047252998095876096",
+              "start": 65,
+              "url": "https://t.co/sEFl71cw2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047253012759142731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴喵！\n@FuyutoriGin @Xerenceu @TSMilkCandy @N552AA @loveforeversfy https://t.co/sEFl71cw2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1557,
+          "like_count": 34353,
+          "listed_count": 8,
+          "media_count": 1158,
+          "tweet_count": 10963
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "天赋家庭年龄一样不沾的三无木桶饭。战争雷霆空历导弹猴子陆历沙包。喜欢听泠鸢yousa，MyGo和世界情绪的歌。精神状态崩坏警告。                                       姐姐：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044584965002903552/3Jb5oEd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 646,
+          "like_count": 1535,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 718
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

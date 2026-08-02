@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2049800026738831399",
+    "created_at": "2026-04-30T10:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049800026738831399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040423313231740928",
+          "start": 3,
+          "username": "Misaki11137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049800026738831399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049769452942823543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaki11137: 人有多大胆，药有多大效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2049800026738831399",
+        "created_at": "2026-04-30T10:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049800026738831399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040423313231740928",
+              "start": 3,
+              "username": "Misaki11137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049800026738831399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769452942823543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaki11137: 人有多大胆，药有多大效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040423313231740928",
+        "conversation_id": "2049769452942823543",
+        "created_at": "2026-04-30T08:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049769452942823543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049769452942823543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人有多大胆，药有多大效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1560,
+          "like_count": 34482,
+          "listed_count": 8,
+          "media_count": 1158,
+          "tweet_count": 11001
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:38:07.000Z",
+        "description": "三崎，已经累了，这是第十个号了88/188🚪是一条🐟，放过我这个可怜无辜的精神病小女孩吧 世界上最喜欢的妈咪 @8964_Y ❤️ 广州南昌，接线下，出各种蝴蝶标本装饰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "2040423313231740928",
+        "name": "三崎（永远漂泊版）",
+        "pinned_tweet_id": "2044071410835042690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040426683560529921/zC8v7pqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 235,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 400
+        },
+        "username": "Misaki11137",
+        "verified": false
+      }
+    ]
+  }
+}

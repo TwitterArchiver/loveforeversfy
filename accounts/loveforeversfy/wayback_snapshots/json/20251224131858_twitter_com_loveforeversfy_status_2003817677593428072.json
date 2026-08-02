@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2003786348751462677",
+    "created_at": "2025-12-24T13:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T14:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003817677593428072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652703121288871940",
+          "start": 0,
+          "username": "aclgh233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003817677593428072",
+    "in_reply_to_user_id": "1652703121288871940",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003815526813094022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aclgh233 oonp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2003786348751462677",
+        "created_at": "2025-12-24T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003817677593428072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652703121288871940",
+              "start": 0,
+              "username": "aclgh233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003817677593428072",
+        "in_reply_to_user_id": "1652703121288871940",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003815526813094022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aclgh233 oonp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652703121288871940",
+        "conversation_id": "2003786348751462677",
+        "created_at": "2025-12-24T13:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003815526813094022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003815526813094022",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003787359532564933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 因为我搜索了总结这个词，然后你的那个帖子就被马斯克推荐给我了💪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "别太贱",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1498,
+          "like_count": 31870,
+          "listed_count": 7,
+          "media_count": 999,
+          "tweet_count": 9831
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T15:55:44.000Z",
+        "description": "一般毛豆爱好者",
+        "id": "1652703121288871940",
+        "location": "中文 English",
+        "name": "四年よー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965773457033154560/n4Skp1Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 161,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 340
+        },
+        "username": "aclgh233",
+        "verified": true
+      }
+    ]
+  }
+}

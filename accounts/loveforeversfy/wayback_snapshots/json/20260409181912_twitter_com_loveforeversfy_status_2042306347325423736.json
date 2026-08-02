@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2042207339043029217",
+    "created_at": "2026-04-09T18:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042306347325423736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1284427583057268736",
+          "start": 0,
+          "username": "bundeswehr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042306347325423736",
+    "in_reply_to_user_id": "1284427583057268736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042305586839371911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bundeswehr233 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2042207339043029217",
+        "created_at": "2026-04-09T18:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042306347325423736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1284427583057268736",
+              "start": 0,
+              "username": "bundeswehr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042306347325423736",
+        "in_reply_to_user_id": "1284427583057268736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042305586839371911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bundeswehr233 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284427583057268736",
+        "conversation_id": "2042207339043029217",
+        "created_at": "2026-04-09T18:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042305586839371911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042305586839371911",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042305422061945259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 辟眼子肯定是热的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1547,
+          "like_count": 33978,
+          "listed_count": 8,
+          "media_count": 1145,
+          "tweet_count": 10794
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-18T09:59:48.000Z",
+        "description": "普通人 有可爱的老婆 会转推有意思的帖 杜卡迪ducati车主🛵 大阪に住む  夜眼鏡が好きな人🟢🟢🟢🟢",
+        "id": "1284427583057268736",
+        "location": "サバゲー場",
+        "name": "Bun",
+        "pinned_tweet_id": "1868187567612645850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471810516309798915/2HUE78U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 912,
+          "like_count": 20461,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 4441
+        },
+        "username": "bundeswehr233",
+        "verified": false
+      }
+    ]
+  }
+}

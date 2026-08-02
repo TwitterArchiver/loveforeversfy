@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2057472781261197444",
+    "created_at": "2026-05-21T16:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057503162874126845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652703121288871940",
+          "start": 0,
+          "username": "aclgh233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057503162874126845",
+    "in_reply_to_user_id": "1652703121288871940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057472781261197444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aclgh233 你牛大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057472751682863105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2ckRMaQAEGOij.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2057472781261197444",
+        "created_at": "2026-05-21T16:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057503162874126845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652703121288871940",
+              "start": 0,
+              "username": "aclgh233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057503162874126845",
+        "in_reply_to_user_id": "1652703121288871940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057472781261197444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aclgh233 你牛大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057472751682863105"
+          ]
+        },
+        "author_id": "1652703121288871940",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057472781261197444",
+        "created_at": "2026-05-21T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057472781261197444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uC4SGFibkV",
+              "end": 46,
+              "expanded_url": "https://x.com/aclgh233/status/2057472781261197444/photo/1",
+              "media_key": "3_2057472751682863105",
+              "start": 23,
+              "url": "https://t.co/uC4SGFibkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057472781261197444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "副歌都p了，感觉可以刷一下サイエンス的ap诶 https://t.co/uC4SGFibkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 1563,
+          "like_count": 35065,
+          "listed_count": 9,
+          "media_count": 1183,
+          "tweet_count": 11193
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T15:55:44.000Z",
+        "description": "一般毛豆爱好者",
+        "id": "1652703121288871940",
+        "location": "中文 English",
+        "name": "四年よー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965773457033154560/n4Skp1Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 189,
+          "like_count": 3917,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 408
+        },
+        "username": "aclgh233",
+        "verified": false
+      }
+    ]
+  }
+}

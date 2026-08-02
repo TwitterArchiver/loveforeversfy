@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1847201232127188992"
+      ],
+      "media_source_tweet_id": [
+        "1847201390193725523"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "1847238879931412762",
+    "created_at": "2024-10-18T11:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T12:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847238879931412762"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "SEGA",
+          "probability": 0.4741,
+          "start": 16,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "960735812433276928",
+          "start": 3,
+          "username": "MooseRiven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQHglimti6",
+          "end": 62,
+          "expanded_url": "https://x.com/MooseRiven/status/1847201390193725523/video/1",
+          "media_key": "7_1847201232127188992",
+          "start": 39,
+          "url": "https://t.co/eQHglimti6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847238879931412762",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847201390193725523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MooseRiven: SEGAからのプレゼントです⁉️⁉️⁉️⁉️ https://t.co/eQHglimti6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41755,
+        "height": 960,
+        "media_key": "7_1847201232127188992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1847201232127188992/pu/img/aRnoFA906CP3UESY.jpg",
+        "public_metrics": {
+          "view_count": 138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1847201232127188992/pu/vid/avc1/320x568/ym8NbHd0TXz7yxyc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1847201232127188992/pu/vid/avc1/480x852/wFOYSO131bgRNgpD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1847201232127188992/pu/vid/avc1/540x960/PllpgrvbdrIVsCnm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1847201232127188992/pu/pl/hfd1mCIEwqFa9IEd.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1847201232127188992"
+          ],
+          "media_source_tweet_id": [
+            "1847201390193725523"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1847238879931412762",
+        "created_at": "2024-10-18T11:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847238879931412762"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "SEGA",
+              "probability": 0.4741,
+              "start": 16,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "960735812433276928",
+              "start": 3,
+              "username": "MooseRiven"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQHglimti6",
+              "end": 62,
+              "expanded_url": "https://x.com/MooseRiven/status/1847201390193725523/video/1",
+              "media_key": "7_1847201232127188992",
+              "start": 39,
+              "url": "https://t.co/eQHglimti6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847238879931412762",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847201390193725523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MooseRiven: SEGAからのプレゼントです⁉️⁉️⁉️⁉️ https://t.co/eQHglimti6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1847201232127188992"
+          ]
+        },
+        "author_id": "960735812433276928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1847201390193725523",
+        "created_at": "2024-10-18T09:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T10:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847201390193725523"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "SEGA",
+              "probability": 0.5133,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQHglimti6",
+              "end": 46,
+              "expanded_url": "https://x.com/MooseRiven/status/1847201390193725523/video/1",
+              "media_key": "7_1847201232127188992",
+              "start": 23,
+              "url": "https://t.co/eQHglimti6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847201390193725523",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "SEGAからのプレゼントです⁉️⁉️⁉️⁉️ https://t.co/eQHglimti6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1580,
+          "like_count": 31243,
+          "listed_count": 7,
+          "tweet_count": 8850
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-06T04:44:02.000Z",
+        "description": "Music Game Player. Video  will be posed on Bilibili:@MooseRiven",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "MooseRiven"
+              }
+            ]
+          }
+        },
+        "id": "960735812433276928",
+        "location": "Xiamen,China",
+        "name": "M.R. a.k.a. Neon Tetra",
+        "pinned_tweet_id": "1641140651336290304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571094906772557831/uRy1hxcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 170,
+          "like_count": 12,
+          "listed_count": 2,
+          "tweet_count": 60
+        },
+        "username": "MooseRiven",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2068994886578421971",
+    "created_at": "2026-06-22T09:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068994886578421971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nandomalfin/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/nandomalfin/status/2068698866614997423",
+          "start": 34,
+          "url": "https://t.co/fzI3Q0Ldxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068994886578421971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068698866614997423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次看到这种不怎么就诅咒人的帖子还有一帮舔臭脚的我呃呃呃呃呃呃呃呃 https://t.co/fzI3Q0Ldxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31252,
+        "height": 720,
+        "media_key": "13_2068698810226823168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068698810226823168/img/mwncxPFB53GnErPj.jpg",
+        "public_metrics": {
+          "view_count": 383632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068698810226823168/vid/avc1/478x270/WjC7tiGDzRB3d4aR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068698810226823168/vid/avc1/638x360/w0KLFqy2w7Nb-gdW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068698810226823168/vid/avc1/1276x720/86-37lv1ma5xAydw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068698810226823168/pl/6VLoQdKfdLfwFZ-G.m3u8?v=cfc"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2068994886578421971",
+        "created_at": "2026-06-22T09:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068994886578421971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nandomalfin/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/nandomalfin/status/2068698866614997423",
+              "start": 34,
+              "url": "https://t.co/fzI3Q0Ldxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068994886578421971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068698866614997423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到这种不怎么就诅咒人的帖子还有一帮舔臭脚的我呃呃呃呃呃呃呃呃 https://t.co/fzI3Q0Ldxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068698810226823168"
+          ]
+        },
+        "author_id": "1569481344299970560",
+        "conversation_id": "2068698866614997423",
+        "created_at": "2026-06-21T14:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068698866614997423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJIHKhyPsv",
+              "end": 97,
+              "expanded_url": "https://x.com/nandomalfin/status/2068698866614997423/video/1",
+              "media_key": "13_2068698810226823168",
+              "start": 74,
+              "url": "https://t.co/VJIHKhyPsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068698866614997423",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1834,
+          "impression_count": 928546,
+          "like_count": 96979,
+          "quote_count": 70,
+          "reply_count": 559,
+          "retweet_count": 2632
+        },
+        "reply_settings": "everyone",
+        "text": "Será o PIOR ANO da sua vida se ignorar este gatinho que tem nojo de beijo https://t.co/VJIHKhyPsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 1558,
+          "like_count": 35296,
+          "listed_count": 8,
+          "media_count": 1204,
+          "tweet_count": 11343
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T00:21:35.000Z",
+        "description": "cobrindo o entretenimento brasileiro igual o plantão da globo. \n📩parcerias: contatonandourx@gmail.com",
+        "id": "1569481344299970560",
+        "location": "Sao Paulo, Brazil",
+        "name": "nando",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275042557005824/rgHEqlcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 3052,
+          "like_count": 82291,
+          "listed_count": 5,
+          "media_count": 7928,
+          "tweet_count": 30734
+        },
+        "url": "",
+        "username": "nandomalfin",
+        "verified": true
+      }
+    ]
+  }
+}

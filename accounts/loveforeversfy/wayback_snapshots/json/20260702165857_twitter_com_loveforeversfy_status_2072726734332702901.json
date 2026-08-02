@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2072711800924287277",
+    "created_at": "2026-07-02T16:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072726734332702901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036447028755177478",
+          "start": 0,
+          "username": "lufng251810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072726734332702901",
+    "in_reply_to_user_id": "2036447028755177478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072714149201883157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lufng251810 永远不😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2072711800924287277",
+        "created_at": "2026-07-02T16:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072726734332702901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036447028755177478",
+              "start": 0,
+              "username": "lufng251810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072726734332702901",
+        "in_reply_to_user_id": "2036447028755177478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072714149201883157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lufng251810 永远不😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036447028755177478",
+        "conversation_id": "2072711800924287277",
+        "created_at": "2026-07-02T16:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072714149201883157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072714149201883157",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072711800924287277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 你什么时候收拾房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 1556,
+          "like_count": 35498,
+          "listed_count": 8,
+          "media_count": 1220,
+          "tweet_count": 11422
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:17:51.000Z",
+        "description": "狼",
+        "id": "2036447028755177478",
+        "name": "孑影之狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036459263632297984/Iuj0iW8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "lufng251810",
+        "verified": false
+      }
+    ]
+  }
+}

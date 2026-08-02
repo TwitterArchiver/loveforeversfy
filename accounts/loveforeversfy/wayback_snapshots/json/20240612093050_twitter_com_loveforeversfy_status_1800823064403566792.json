@@ -1,0 +1,270 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800814769609539584"
+      ],
+      "media_source_tweet_id": [
+        "1800819163411431696"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800823064403566792",
+    "created_at": "2024-06-12T09:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T10:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800823064403566792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "428916823",
+          "start": 3,
+          "username": "performai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KiDme3H8Ff",
+          "end": 61,
+          "expanded_url": "https://twitter.com/performai/status/1800819163411431696/photo/1",
+          "media_key": "3_1800814769609539584",
+          "start": 38,
+          "url": "https://t.co/KiDme3H8Ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800823064403566792",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2708
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800819163411431696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @performai: 【重要なお知らせ】一部楽曲の削除対応について https://t.co/KiDme3H8Ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_1800814769609539584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP3HfejagAA1902.jpg",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800814769609539584"
+          ],
+          "media_source_tweet_id": [
+            "1800819163411431696"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800823064403566792",
+        "created_at": "2024-06-12T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800823064403566792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "428916823",
+              "start": 3,
+              "username": "performai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KiDme3H8Ff",
+              "end": 61,
+              "expanded_url": "https://twitter.com/performai/status/1800819163411431696/photo/1",
+              "media_key": "3_1800814769609539584",
+              "start": 38,
+              "url": "https://t.co/KiDme3H8Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800823064403566792",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2708
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800819163411431696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @performai: 【重要なお知らせ】一部楽曲の削除対応について https://t.co/KiDme3H8Ff"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800814769609539584"
+          ]
+        },
+        "author_id": "428916823",
+        "conversation_id": "1800819163411431696",
+        "created_at": "2024-06-12T09:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T10:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800819163411431696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KiDme3H8Ff",
+              "end": 46,
+              "expanded_url": "https://twitter.com/performai/status/1800819163411431696/photo/1",
+              "media_key": "3_1800814769609539584",
+              "start": 23,
+              "url": "https://t.co/KiDme3H8Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800819163411431696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 205700,
+          "like_count": 3396,
+          "quote_count": 1116,
+          "reply_count": 0,
+          "retweet_count": 2708
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【重要なお知らせ】一部楽曲の削除対応について https://t.co/KiDme3H8Ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1565,
+          "like_count": 27951,
+          "listed_count": 8,
+          "tweet_count": 7459
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-05T10:10:12.000Z",
+        "description": "【maimai・CHUNITHM・オンゲキ総合アカウント】maimai公式@maimai_official CHUNITHM公式@chunithm オンゲキ公式@ongeki_official イロドリミドリ@irodorimidori5 言ノ葉Project @kotonoha_PJ 公式全国大会@kop_sega",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "maimai_official"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "chunithm"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "kop_sega"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/gekichumai",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/gekichumai",
+                "start": 0,
+                "url": "https://t.co/oxsaRYJLn1"
+              }
+            ]
+          }
+        },
+        "id": "428916823",
+        "location": "セガ",
+        "name": "ゲキ！チュウマイ（maimai・CHUNITHM・オンゲキ公式）",
+        "pinned_tweet_id": "1761571718525829343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149107805690798080/YRjxY2Xn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95219,
+          "following_count": 9986,
+          "like_count": 4654,
+          "listed_count": 1185,
+          "tweet_count": 13578
+        },
+        "url": "https://t.co/oxsaRYJLn1",
+        "username": "performai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1839096046699339913"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1839326580910469153",
+    "created_at": "2024-09-26T15:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T16:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839326580910469153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481383190145032192",
+          "start": 3,
+          "username": "mrgrizz123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmll8zgeuh",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mrgrizz123/status/1839096046699339913/photo/1",
+          "media_key": "3_1839096043889111040",
+          "start": 16,
+          "url": "https://t.co/PmLL8ZgeUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839326580910469153",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3033
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839096046699339913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrgrizz123: https://t.co/PmLL8ZgeUh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1839096046699339913"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1839326580910469153",
+        "created_at": "2024-09-26T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839326580910469153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481383190145032192",
+              "start": 3,
+              "username": "mrgrizz123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmll8zgeuh",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mrgrizz123/status/1839096046699339913/photo/1",
+              "media_key": "3_1839096043889111040",
+              "start": 16,
+              "url": "https://t.co/PmLL8ZgeUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839326580910469153",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3033
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839096046699339913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrgrizz123: https://t.co/PmLL8ZgeUh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839096043889111040"
+          ]
+        },
+        "author_id": "1481383190145032192",
+        "conversation_id": "1839096046699339913",
+        "created_at": "2024-09-26T00:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T01:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839096046699339913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmll8zgeuh",
+              "end": 23,
+              "expanded_url": "https://twitter.com/mrgrizz123/status/1839096046699339913/photo/1",
+              "media_key": "3_1839096043889111040",
+              "start": 0,
+              "url": "https://t.co/PmLL8ZgeUh"
+            },
+            {
+              "display_url": "x.com/Pokemon/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Pokemon/status/1839075275923140717",
+              "start": 24,
+              "url": "https://t.co/i3JXHBYHlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839096046699339913",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2436,
+          "impression_count": 1739594,
+          "like_count": 72877,
+          "quote_count": 378,
+          "reply_count": 441,
+          "retweet_count": 3033
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839075275923140717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PmLL8ZgeUh https://t.co/i3JXHBYHlH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 1576,
+          "like_count": 30810,
+          "listed_count": 7,
+          "tweet_count": 8622
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T21:51:09.000Z",
+        "description": "runs @greecee1245 \nhe/him 🇨🇱 / backup account/vent account: @kim_wexlar123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "greecee1245"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "kim_wexlar123"
+              }
+            ]
+          }
+        },
+        "id": "1481383190145032192",
+        "location": "rogueport",
+        "name": "KimWexlerGamin🍉👅 🎂: 9/30",
+        "pinned_tweet_id": "1821689950641033471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834593389876047872/27mpKJcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1360,
+          "like_count": 10874,
+          "listed_count": 5,
+          "tweet_count": 6458
+        },
+        "username": "mrgrizz123",
+        "verified": false
+      }
+    ]
+  }
+}

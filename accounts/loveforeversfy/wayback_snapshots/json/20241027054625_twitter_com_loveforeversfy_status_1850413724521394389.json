@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850413722029928448"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1850413724521394389",
+    "created_at": "2024-10-27T05:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T06:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850413724521394389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1709936958255120384",
+          "start": 0,
+          "username": "Aranda_5201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8E9moipCk",
+          "end": 42,
+          "expanded_url": "https://x.com/loveforeversfy/status/1850413724521394389/photo/1",
+          "media_key": "3_1850413722029928448",
+          "start": 19,
+          "url": "https://t.co/E8E9moipCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850413724521394389",
+    "in_reply_to_user_id": "1709936958255120384",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Aranda_5201314 ❤️ https://t.co/E8E9moipCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_1850413722029928448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga39ee0aMAA6I2t.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850413722029928448"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850413724521394389",
+        "created_at": "2024-10-27T05:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T06:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850413724521394389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709936958255120384",
+              "start": 0,
+              "username": "Aranda_5201314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8E9moipCk",
+              "end": 42,
+              "expanded_url": "https://x.com/loveforeversfy/status/1850413724521394389/photo/1",
+              "media_key": "3_1850413722029928448",
+              "start": 19,
+              "url": "https://t.co/E8E9moipCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850413724521394389",
+        "in_reply_to_user_id": "1709936958255120384",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Aranda_5201314 ❤️ https://t.co/E8E9moipCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "焖面 | 🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1586,
+          "like_count": 31456,
+          "listed_count": 7,
+          "tweet_count": 8980
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T14:22:10.000Z",
+        "description": "let you go",
+        "id": "1709936958255120384",
+        "location": "where?",
+        "name": "Aranda",
+        "pinned_tweet_id": "1757293892100391383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741813159646687232/diPAfBAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 218,
+          "like_count": 12451,
+          "listed_count": 0,
+          "tweet_count": 1279
+        },
+        "username": "Aranda_5201314",
+        "verified": false
+      }
+    ]
+  }
+}

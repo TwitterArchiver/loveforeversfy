@@ -1,0 +1,261 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802184397027766273"
+      ],
+      "media_source_tweet_id": [
+        "1802184598568235316"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1802500400958058796",
+    "created_at": "2024-06-17T00:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T01:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802500400958058796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685027335752339456",
+          "start": 3,
+          "username": "CultoFumos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/MnmcTlGRq5",
+          "end": 62,
+          "expanded_url": "https://twitter.com/CultoFumos/status/1802184598568235316/video/1",
+          "media_key": "7_1802184397027766273",
+          "start": 39,
+          "url": "https://t.co/MnmcTlGRq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802500400958058796",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802184598568235316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CultoFumos: Ustedes entrarían? ᗜˬᗜ https://t.co/MnmcTlGRq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9869,
+        "height": 480,
+        "media_key": "7_1802184397027766273",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802184397027766273/pu/img/4ISy2Q4uyIs_oXFG.jpg",
+        "public_metrics": {
+          "view_count": 7339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802184397027766273/pu/vid/avc1/320x426/1N_5lt5TeiMsHK81.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802184397027766273/pu/vid/avc1/360x480/K3QmjntmYjDs75XT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802184397027766273/pu/pl/ohKWM7Md4ON06dKV.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802184397027766273"
+          ],
+          "media_source_tweet_id": [
+            "1802184598568235316"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1802500400958058796",
+        "created_at": "2024-06-17T00:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T01:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802500400958058796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685027335752339456",
+              "start": 3,
+              "username": "CultoFumos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MnmcTlGRq5",
+              "end": 62,
+              "expanded_url": "https://twitter.com/CultoFumos/status/1802184598568235316/video/1",
+              "media_key": "7_1802184397027766273",
+              "start": 39,
+              "url": "https://t.co/MnmcTlGRq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802500400958058796",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802184598568235316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CultoFumos: Ustedes entrarían? ᗜˬᗜ https://t.co/MnmcTlGRq5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802184397027766273"
+          ]
+        },
+        "author_id": "1685027335752339456",
+        "conversation_id": "1802184598568235316",
+        "created_at": "2024-06-16T03:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T04:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802184598568235316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MnmcTlGRq5",
+              "end": 46,
+              "expanded_url": "https://twitter.com/CultoFumos/status/1802184598568235316/video/1",
+              "media_key": "7_1802184397027766273",
+              "start": 23,
+              "url": "https://t.co/MnmcTlGRq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802184598568235316",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 17833,
+          "like_count": 2166,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "Ustedes entrarían? ᗜˬᗜ https://t.co/MnmcTlGRq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1567,
+          "like_count": 27704,
+          "listed_count": 8,
+          "tweet_count": 7491
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T20:40:07.000Z",
+        "description": "Administrador: @Jiakz_ | La mayoria de las imágenes o videos que uso no me pertenecen | https://t.co/YqUooCwu23",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "Jiakz_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.com/invite/Q7c4SYg…",
+                "end": 111,
+                "expanded_url": "https://discord.com/invite/Q7c4SYgfbq",
+                "start": 88,
+                "url": "https://t.co/YqUooCwu23"
+              }
+            ]
+          }
+        },
+        "id": "1685027335752339456",
+        "location": "Colombia 🇨🇴 ",
+        "name": "🛐 Culto de Adoración FUMOS 🛐",
+        "pinned_tweet_id": "1717260418329071707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741883804921339904/awdTMdBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5600,
+          "following_count": 134,
+          "like_count": 16357,
+          "listed_count": 7,
+          "tweet_count": 2100
+        },
+        "username": "CultoFumos",
+        "verified": false
+      }
+    ]
+  }
+}

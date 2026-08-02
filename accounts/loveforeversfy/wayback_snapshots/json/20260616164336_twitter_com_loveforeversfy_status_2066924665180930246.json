@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066716433216942080",
+        "3_2066716433208508416",
+        "3_2066716441949478912",
+        "3_2066716433829310464"
+      ],
+      "media_source_tweet_id": [
+        "2066716444214415397",
+        "2066716444214415397",
+        "2066716444214415397",
+        "2066716444214415397"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2066924665180930246",
+    "created_at": "2026-06-16T16:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066924665180930246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013987966725902336",
+          "start": 3,
+          "username": "jangkku920"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWRek9Umbf",
+          "end": 85,
+          "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+          "media_key": "3_2066716433216942080",
+          "start": 62,
+          "url": "https://t.co/VWRek9Umbf"
+        },
+        {
+          "display_url": "pic.x.com/VWRek9Umbf",
+          "end": 85,
+          "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+          "media_key": "3_2066716433208508416",
+          "start": 62,
+          "url": "https://t.co/VWRek9Umbf"
+        },
+        {
+          "display_url": "pic.x.com/VWRek9Umbf",
+          "end": 85,
+          "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+          "media_key": "3_2066716441949478912",
+          "start": 62,
+          "url": "https://t.co/VWRek9Umbf"
+        },
+        {
+          "display_url": "pic.x.com/VWRek9Umbf",
+          "end": 85,
+          "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+          "media_key": "3_2066716433829310464",
+          "start": 62,
+          "url": "https://t.co/VWRek9Umbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066924665180930246",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1892
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066716444214415397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jangkku920: 한,중,일 관계 \n\n4장이면 충분함\n\n겉으로는 싫어하는데 속으로는 누구보다 좋아함 https://t.co/VWRek9Umbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2066716433216942080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5zpWVbsAAwqm3.jpg",
+        "width": 854
+      },
+      {
+        "height": 474,
+        "media_key": "3_2066716433208508416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5zpWTbAAAYa2M.jpg",
+        "width": 854
+      },
+      {
+        "height": 474,
+        "media_key": "3_2066716441949478912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5zp23boAAabqi.jpg",
+        "width": 854
+      },
+      {
+        "height": 474,
+        "media_key": "3_2066716433829310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5zpYnbsAAM15e.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066716433216942080",
+            "3_2066716433208508416",
+            "3_2066716441949478912",
+            "3_2066716433829310464"
+          ],
+          "media_source_tweet_id": [
+            "2066716444214415397",
+            "2066716444214415397",
+            "2066716444214415397",
+            "2066716444214415397"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2066924665180930246",
+        "created_at": "2026-06-16T16:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066924665180930246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013987966725902336",
+              "start": 3,
+              "username": "jangkku920"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 85,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433216942080",
+              "start": 62,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 85,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433208508416",
+              "start": 62,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 85,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716441949478912",
+              "start": 62,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 85,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433829310464",
+              "start": 62,
+              "url": "https://t.co/VWRek9Umbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066924665180930246",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066716444214415397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jangkku920: 한,중,일 관계 \n\n4장이면 충분함\n\n겉으로는 싫어하는데 속으로는 누구보다 좋아함 https://t.co/VWRek9Umbf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066716433216942080",
+            "3_2066716433208508416",
+            "3_2066716441949478912",
+            "3_2066716433829310464"
+          ]
+        },
+        "author_id": "2013987966725902336",
+        "conversation_id": "2066716444214415397",
+        "created_at": "2026-06-16T02:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066716444214415397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 69,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433216942080",
+              "start": 46,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 69,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433208508416",
+              "start": 46,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 69,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716441949478912",
+              "start": 46,
+              "url": "https://t.co/VWRek9Umbf"
+            },
+            {
+              "display_url": "pic.x.com/VWRek9Umbf",
+              "end": 69,
+              "expanded_url": "https://x.com/jangkku920/status/2066716444214415397/photo/1",
+              "media_key": "3_2066716433829310464",
+              "start": 46,
+              "url": "https://t.co/VWRek9Umbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066716444214415397",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2262,
+          "impression_count": 2251673,
+          "like_count": 27826,
+          "quote_count": 304,
+          "reply_count": 425,
+          "retweet_count": 1891
+        },
+        "reply_settings": "everyone",
+        "text": "한,중,일 관계 \n\n4장이면 충분함\n\n겉으로는 싫어하는데 속으로는 누구보다 좋아함 https://t.co/VWRek9Umbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 1558,
+          "like_count": 35284,
+          "listed_count": 8,
+          "media_count": 1198,
+          "tweet_count": 11317
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T14:52:23.000Z",
+        "description": "잡다한 것들 쓰는 중✏️",
+        "id": "2013987966725902336",
+        "name": "Jangkku(김장꾸)",
+        "pinned_tweet_id": "2066716444214415397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013991275993653248/KlM89T1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4922,
+          "following_count": 3426,
+          "like_count": 65774,
+          "listed_count": 7,
+          "media_count": 1482,
+          "tweet_count": 28216
+        },
+        "username": "jangkku920",
+        "verified": true
+      }
+    ]
+  }
+}

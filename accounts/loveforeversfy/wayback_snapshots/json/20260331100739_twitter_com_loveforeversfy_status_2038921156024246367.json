@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038921012943970304",
+        "7_2038921049673482240",
+        "7_2038921085635411968",
+        "7_2038921123820425216"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2038921156024246367",
+    "created_at": "2026-03-31T10:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038921156024246367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYnREqABEa",
+          "end": 31,
+          "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+          "media_key": "7_2038921012943970304",
+          "start": 8,
+          "url": "https://t.co/BYnREqABEa"
+        },
+        {
+          "display_url": "pic.x.com/BYnREqABEa",
+          "end": 31,
+          "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+          "media_key": "7_2038921049673482240",
+          "start": 8,
+          "url": "https://t.co/BYnREqABEa"
+        },
+        {
+          "display_url": "pic.x.com/BYnREqABEa",
+          "end": 31,
+          "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+          "media_key": "7_2038921085635411968",
+          "start": 8,
+          "url": "https://t.co/BYnREqABEa"
+        },
+        {
+          "display_url": "pic.x.com/BYnREqABEa",
+          "end": 31,
+          "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+          "media_key": "7_2038921123820425216",
+          "start": 8,
+          "url": "https://t.co/BYnREqABEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038921156024246367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老鼠帮助老鼠🐭 https://t.co/BYnREqABEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15422,
+        "height": 1280,
+        "media_key": "7_2038921012943970304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038921012943970304/pu/img/OyQejRUSknj_g5ft.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921012943970304/pu/vid/avc1/320x568/a2sEGFo5kjzDvSXx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921012943970304/pu/vid/avc1/480x852/1NvdZA8jx3S5DW_N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921012943970304/pu/vid/avc1/720x1280/9JMtxF94QBvL1bQv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038921012943970304/pu/pl/BqIFrxVwNfCEXfa8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11006,
+        "height": 1280,
+        "media_key": "7_2038921049673482240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038921049673482240/pu/img/I8g2T4MC7cAgfLLM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921049673482240/pu/vid/avc1/320x568/Xn0rEnBRg5aGEv_i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921049673482240/pu/vid/avc1/480x852/1_NcAI_X3M_0R1tB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921049673482240/pu/vid/avc1/720x1280/VYBt5BLSMu_Pt0qT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038921049673482240/pu/pl/SuLKBf9eGGxSAJ9Z.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11485,
+        "height": 1280,
+        "media_key": "7_2038921085635411968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038921085635411968/pu/img/lRf5laIzuY6r7AMn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921085635411968/pu/vid/avc1/320x568/Ji0gNiJXlxeBbeWy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921085635411968/pu/vid/avc1/480x852/gThGUvanvXO8WtAV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921085635411968/pu/vid/avc1/720x1280/4oQt8H_rrq80Dyoj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038921085635411968/pu/pl/_mVzrxMU29MvEudD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11735,
+        "height": 1280,
+        "media_key": "7_2038921123820425216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038921123820425216/pu/img/sChN41lbhn49c6Cl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921123820425216/pu/vid/avc1/320x568/Lt-qHX9lTfFp_eCI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921123820425216/pu/vid/avc1/480x852/BnxwzEgZb-qoJ4s2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038921123820425216/pu/vid/avc1/720x1280/g0EGyOt-ao-qR-V_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038921123820425216/pu/pl/5mGzFJzyT_wPCC1M.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038921012943970304",
+            "7_2038921049673482240",
+            "7_2038921085635411968",
+            "7_2038921123820425216"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2038921156024246367",
+        "created_at": "2026-03-31T10:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038921156024246367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYnREqABEa",
+              "end": 31,
+              "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+              "media_key": "7_2038921012943970304",
+              "start": 8,
+              "url": "https://t.co/BYnREqABEa"
+            },
+            {
+              "display_url": "pic.x.com/BYnREqABEa",
+              "end": 31,
+              "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+              "media_key": "7_2038921049673482240",
+              "start": 8,
+              "url": "https://t.co/BYnREqABEa"
+            },
+            {
+              "display_url": "pic.x.com/BYnREqABEa",
+              "end": 31,
+              "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+              "media_key": "7_2038921085635411968",
+              "start": 8,
+              "url": "https://t.co/BYnREqABEa"
+            },
+            {
+              "display_url": "pic.x.com/BYnREqABEa",
+              "end": 31,
+              "expanded_url": "https://x.com/loveforeversfy/status/2038921156024246367/video/1",
+              "media_key": "7_2038921123820425216",
+              "start": 8,
+              "url": "https://t.co/BYnREqABEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038921156024246367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老鼠帮助老鼠🐭 https://t.co/BYnREqABEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 1551,
+          "like_count": 33678,
+          "listed_count": 8,
+          "media_count": 1128,
+          "tweet_count": 10696
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

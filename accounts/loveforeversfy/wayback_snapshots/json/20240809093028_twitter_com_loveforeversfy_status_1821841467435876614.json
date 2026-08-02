@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1821599098866458846",
+    "created_at": "2024-08-09T09:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T10:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821841467435876614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        },
+        {
+          "end": 21,
+          "id": "1756973552908271616",
+          "start": 11,
+          "username": "Kambrona_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821841467435876614",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821599098866458846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya @Kambrona_ 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1821599098866458846",
+        "created_at": "2024-08-09T09:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T10:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821841467435876614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            },
+            {
+              "end": 21,
+              "id": "1756973552908271616",
+              "start": 11,
+              "username": "Kambrona_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821841467435876614",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821599098866458846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya @Kambrona_ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762478947621638144",
+        "conversation_id": "1821599098866458846",
+        "created_at": "2024-08-08T17:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T18:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821599098866458846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 123,
+              "id": "1756973552908271616",
+              "start": 113,
+              "username": "Kambrona_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821599098866458846",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和发条 Aranda闹掰是因为你，让C排斥我是因为你，让大家讨厌我也是因为你。\n你就只是想摧毁我的所有社交。\n间接的摧毁我的人格，让你成为身体得主人，没错吧？\n你的想法你的感知你的痛点我 现在一清二楚\n我不会让你伤害更多人了\n@Kambrona_ \n你也不再配拥有这个名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1571,
+          "like_count": 29500,
+          "listed_count": 8,
+          "tweet_count": 8278
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "我的一切-------就是我自己/天空不再下雨，血液不再倒流/",
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764447429301309440/812ytq0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 33,
+          "like_count": 1178,
+          "listed_count": 0,
+          "tweet_count": 547
+        },
+        "username": "Kambronya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T09:29:05.000Z",
+        "description": "🥺²",
+        "id": "1756973552908271616",
+        "location": "Edmonton , Alberta",
+        "name": "Kambrona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761244962514149376/m7Yjz8m1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 24,
+          "like_count": 542,
+          "listed_count": 0,
+          "tweet_count": 187
+        },
+        "username": "Kambrona_",
+        "verified": false
+      }
+    ]
+  }
+}

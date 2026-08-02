@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841433053748686848"
+      ],
+      "media_source_tweet_id": [
+        "1841433062284136868"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1841911420847583554",
+    "created_at": "2024-10-03T18:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T19:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841911420847583554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ymt5VV9swA",
+          "end": 48,
+          "expanded_url": "https://x.com/Cldeop/status/1841433062284136868/photo/1",
+          "media_key": "3_1841433053748686848",
+          "start": 25,
+          "url": "https://t.co/Ymt5VV9swA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841911420847583554",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841433062284136868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: homo特有的数学大发现 https://t.co/Ymt5VV9swA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_1841433053748686848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY4VmyZacAAIwcI.jpg",
+        "width": 741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841433053748686848"
+          ],
+          "media_source_tweet_id": [
+            "1841433062284136868"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841911420847583554",
+        "created_at": "2024-10-03T18:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T19:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841911420847583554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ymt5VV9swA",
+              "end": 48,
+              "expanded_url": "https://x.com/Cldeop/status/1841433062284136868/photo/1",
+              "media_key": "3_1841433053748686848",
+              "start": 25,
+              "url": "https://t.co/Ymt5VV9swA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841911420847583554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841433062284136868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: homo特有的数学大发现 https://t.co/Ymt5VV9swA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841433053748686848"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841433062284136868",
+        "created_at": "2024-10-02T11:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T12:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841433062284136868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ymt5VV9swA",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/1841433062284136868/photo/1",
+              "media_key": "3_1841433053748686848",
+              "start": 13,
+              "url": "https://t.co/Ymt5VV9swA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841433062284136868",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 60576,
+          "like_count": 1019,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "homo特有的数学大发现 https://t.co/Ymt5VV9swA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1578,
+          "like_count": 30927,
+          "listed_count": 7,
+          "tweet_count": 8669
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1841705849082806634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42294,
+          "following_count": 480,
+          "like_count": 18302,
+          "listed_count": 150,
+          "tweet_count": 7868
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812538329981755392"
+      ],
+      "media_source_tweet_id": [
+        "1812541211745661163"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1812715025620246639",
+    "created_at": "2024-07-15T05:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T06:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812715025620246639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1387766921202896900",
+          "start": 3,
+          "username": "ibukipower"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kLovgvJ9gS",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ibukipower/status/1812541211745661163/photo/1",
+          "media_key": "3_1812538329981755392",
+          "start": 34,
+          "url": "https://t.co/kLovgvJ9gS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812715025620246639",
+    "lang": "it",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 417
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812541211745661163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ibukipower: FUMO! FUMO! FUMO! https://t.co/kLovgvJ9gS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1812538329981755392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSduAgRXoAAAwoJ.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812538329981755392"
+          ],
+          "media_source_tweet_id": [
+            "1812541211745661163"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1812715025620246639",
+        "created_at": "2024-07-15T05:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T06:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812715025620246639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1387766921202896900",
+              "start": 3,
+              "username": "ibukipower"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kLovgvJ9gS",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ibukipower/status/1812541211745661163/photo/1",
+              "media_key": "3_1812538329981755392",
+              "start": 34,
+              "url": "https://t.co/kLovgvJ9gS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812715025620246639",
+        "lang": "it",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812541211745661163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ibukipower: FUMO! FUMO! FUMO! https://t.co/kLovgvJ9gS"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812538329981755392"
+          ]
+        },
+        "author_id": "1387766921202896900",
+        "conversation_id": "1812541211745661163",
+        "created_at": "2024-07-14T17:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T18:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812541211745661163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kLovgvJ9gS",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ibukipower/status/1812541211745661163/photo/1",
+              "media_key": "3_1812538329981755392",
+              "start": 18,
+              "url": "https://t.co/kLovgvJ9gS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812541211745661163",
+        "lang": "it",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 43252,
+          "like_count": 3504,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 417
+        },
+        "reply_settings": "everyone",
+        "text": "FUMO! FUMO! FUMO! https://t.co/kLovgvJ9gS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1569,
+          "like_count": 28648,
+          "listed_count": 8,
+          "tweet_count": 7938
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T13:54:06.000Z",
+        "description": "Just a fumo maker & Touhou fan.",
+        "id": "1387766921202896900",
+        "name": "MantiyaShrine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609278194581913600/JvfOMJEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 156,
+          "like_count": 4816,
+          "listed_count": 1,
+          "tweet_count": 222
+        },
+        "username": "ibukipower",
+        "verified": false
+      }
+    ]
+  }
+}

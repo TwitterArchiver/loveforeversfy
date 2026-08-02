@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1791447776859214036",
+    "created_at": "2024-05-19T05:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T06:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792066679985569976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499735122551230473",
+          "start": 0,
+          "username": "2550511304x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792066679985569976",
+    "in_reply_to_user_id": "1499735122551230473",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791926878774730942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2550511304x 👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1791447776859214036",
+        "created_at": "2024-05-19T05:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T06:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792066679985569976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499735122551230473",
+              "start": 0,
+              "username": "2550511304x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792066679985569976",
+        "in_reply_to_user_id": "1499735122551230473",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791926878774730942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2550511304x 👁️👁️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1499735122551230473",
+        "conversation_id": "1791447776859214036",
+        "created_at": "2024-05-18T20:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T21:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791926878774730942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791926878774730942",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791447776859214036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 好可爱，拿远点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1565,
+          "like_count": 26937,
+          "listed_count": 8,
+          "tweet_count": 7162
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T13:15:06.000Z",
+        "description": "",
+        "id": "1499735122551230473",
+        "name": "阿强想吃油泼面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760865974708846592/S0GAjRQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 390,
+          "listed_count": 2,
+          "tweet_count": 26
+        },
+        "username": "2550511304x",
+        "verified": false
+      }
+    ]
+  }
+}

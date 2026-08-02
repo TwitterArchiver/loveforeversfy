@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1822002189981946288",
+    "created_at": "2024-08-09T20:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T21:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822002189981946288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822002189981946288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821929121984999559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 如果政府禁止药娘改证，禁止买药，可能三分之一的药娘会自杀。\n\n但是如果有一个人用 AI 编了一个互联网人设，爸妈出钱手术，十八岁前改证，给女儿送到国外读书，有未婚夫订婚，在 INS 上发婚纱照，那一半药娘看一眼就自杀了。☝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1822002189981946288",
+        "created_at": "2024-08-09T20:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T21:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822002189981946288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822002189981946288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821929121984999559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 如果政府禁止药娘改证，禁止买药，可能三分之一的药娘会自杀。\n\n但是如果有一个人用 AI 编了一个互联网人设，爸妈出钱手术，十八岁前改证，给女儿送到国外读书，有未婚夫订婚，在 INS 上发婚纱照，那一半药娘看一眼就自杀了。☝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1821929121984999559",
+        "created_at": "2024-08-09T15:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821929121984999559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821929121984999559",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12652,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "如果政府禁止药娘改证，禁止买药，可能三分之一的药娘会自杀。\n\n但是如果有一个人用 AI 编了一个互联网人设，爸妈出钱手术，十八岁前改证，给女儿送到国外读书，有未婚夫订婚，在 INS 上发婚纱照，那一半药娘看一眼就自杀了。☝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1572,
+          "like_count": 29550,
+          "listed_count": 8,
+          "tweet_count": 8287
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "B",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9474,
+          "following_count": 145,
+          "like_count": 148,
+          "listed_count": 32,
+          "tweet_count": 6349
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

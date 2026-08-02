@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054657859",
+          "name": "ゾンビランドサガ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      }
+    ],
+    "conversation_id": "2049815419482214529",
+    "created_at": "2026-04-30T11:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049815419482214529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/matsunashi7/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/matsunashi7/status/2049067851328438569",
+          "start": 7,
+          "url": "https://t.co/6FYXJBgCDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049815419482214529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049067851328438569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "需要futa https://t.co/6FYXJBgCDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2048925492909346816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8-4VAakAA01DJ.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2048925499091800064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8-4sCbUAA-uww.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "2049815419482214529",
+        "created_at": "2026-04-30T11:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049815419482214529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/matsunashi7/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/matsunashi7/status/2049067851328438569",
+              "start": 7,
+              "url": "https://t.co/6FYXJBgCDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049815419482214529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049067851328438569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "需要futa https://t.co/6FYXJBgCDB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048925492909346816",
+            "3_2048925499091800064"
+          ]
+        },
+        "author_id": "1809073935776165890",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "2049067851328438569",
+        "created_at": "2026-04-28T10:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049067851328438569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSxiUaTuO6",
+              "end": 149,
+              "expanded_url": "https://x.com/matsunashi7/status/2049067851328438569/photo/1",
+              "media_key": "3_2048925492909346816",
+              "start": 126,
+              "url": "https://t.co/ZSxiUaTuO6"
+            },
+            {
+              "display_url": "pic.x.com/ZSxiUaTuO6",
+              "end": 149,
+              "expanded_url": "https://x.com/matsunashi7/status/2049067851328438569/photo/1",
+              "media_key": "3_2048925499091800064",
+              "start": 126,
+              "url": "https://t.co/ZSxiUaTuO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049067851328438569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 72178,
+          "like_count": 1218,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "そして鏡山といえば道祖神ですね！\n男形と女形が一体となった\nふたなりの聖地みたいな道祖神がどーん。\nつまり雄と雌が同居する道祖神が街の真ん中に起立した鏡山に祀られた唐津はふたなりとメス男子の町と言って過言では無いし、\nフランシュシュはみんな生えてる。 https://t.co/ZSxiUaTuO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1560,
+          "like_count": 34491,
+          "listed_count": 8,
+          "media_count": 1159,
+          "tweet_count": 11005
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T03:57:05.000Z",
+        "description": "竹梅忘七(まつなしぼうしち) と申します。\nここは恥の果て流されて、俺。\n松の字を無くし、八徳を失くし、\nされど人を思いやる仁の一文字だけは忘れずの忘七でございます。\n駆け出しの粗忽者ではございますが、向後万端、何卒宜しくお頼申しあげます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/matsunashi",
+                "end": 23,
+                "expanded_url": "https://x.gd/matsunashi",
+                "start": 0,
+                "url": "https://t.co/2WVk5R8Gqf"
+              }
+            ]
+          }
+        },
+        "id": "1809073935776165890",
+        "location": "詳しい素性や書籍の委託等ははこちらにございます→",
+        "name": "竹梅忘七",
+        "pinned_tweet_id": "2009652880735867167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809110608383791104/Rag6OLgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34401,
+          "following_count": 933,
+          "like_count": 13499,
+          "listed_count": 187,
+          "media_count": 548,
+          "tweet_count": 21193
+        },
+        "url": "https://t.co/2WVk5R8Gqf",
+        "username": "matsunashi7",
+        "verified": false
+      }
+    ]
+  }
+}

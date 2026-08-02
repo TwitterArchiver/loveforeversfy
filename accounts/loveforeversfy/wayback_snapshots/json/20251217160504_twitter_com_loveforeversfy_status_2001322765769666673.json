@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2001320688142197111",
+    "created_at": "2025-12-17T16:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001322765769666673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "717493465450356737",
+          "start": 0,
+          "username": "Rinkisame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001322765769666673",
+    "in_reply_to_user_id": "717493465450356737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001322392279466117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinkisame 谢谢你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2001320688142197111",
+        "created_at": "2025-12-17T16:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001322765769666673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "717493465450356737",
+              "start": 0,
+              "username": "Rinkisame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001322765769666673",
+        "in_reply_to_user_id": "717493465450356737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001322392279466117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinkisame 谢谢你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "717493465450356737",
+        "conversation_id": "2001320688142197111",
+        "created_at": "2025-12-17T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001322392279466117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001322392279466117",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001320688142197111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 😱😱😱希望能找到肇事者，早日康复😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不存在",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 1494,
+          "like_count": 31848,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 9791
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-05T23:25:47.000Z",
+        "description": "赖活着。 // 老婆@tuiteMortis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "tuiteMortis"
+              }
+            ]
+          }
+        },
+        "id": "717493465450356737",
+        "name": "雪晴",
+        "pinned_tweet_id": "1957622875013447824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952645781816836096/FB80myA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 381,
+          "like_count": 73971,
+          "listed_count": 2,
+          "media_count": 1521,
+          "tweet_count": 20739
+        },
+        "username": "Rinkisame",
+        "verified": true
+      }
+    ]
+  }
+}

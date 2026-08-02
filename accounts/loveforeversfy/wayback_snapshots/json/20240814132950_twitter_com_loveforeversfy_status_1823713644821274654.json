@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1823680068109082624"
+      ],
+      "media_source_tweet_id": [
+        "1823680082918924578"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1823713644821274654",
+    "created_at": "2024-08-14T13:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T14:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823713644821274654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576636210826514433",
+          "start": 3,
+          "username": "erosbefall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/40gdfdjnqr",
+          "end": 39,
+          "expanded_url": "https://twitter.com/erosbefall/status/1823680082918924578/video/1",
+          "media_key": "7_1823680068109082624",
+          "start": 16,
+          "url": "https://t.co/40gdfdjnQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823713644821274654",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823680082918924578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erosbefall: https://t.co/40gdfdjnQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4143,
+        "height": 736,
+        "media_key": "7_1823680068109082624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1823680068109082624/pu/img/Lr8guK9Q1ud-kNb6.jpg",
+        "public_metrics": {
+          "view_count": 539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823680068109082624/pu/vid/avc1/320x326/cn23RUV--VKlwSfZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823680068109082624/pu/vid/avc1/480x490/XVNDD_p2vpyF7ooq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823680068109082624/pu/vid/avc1/720x736/xP04jrMG4Coa7z0Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1823680068109082624/pu/pl/inelFwCi18tr9h_G.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823680068109082624"
+          ],
+          "media_source_tweet_id": [
+            "1823680082918924578"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1823713644821274654",
+        "created_at": "2024-08-14T13:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823713644821274654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576636210826514433",
+              "start": 3,
+              "username": "erosbefall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/40gdfdjnqr",
+              "end": 39,
+              "expanded_url": "https://twitter.com/erosbefall/status/1823680082918924578/video/1",
+              "media_key": "7_1823680068109082624",
+              "start": 16,
+              "url": "https://t.co/40gdfdjnQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823713644821274654",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823680082918924578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erosbefall: https://t.co/40gdfdjnQR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823680068109082624"
+          ]
+        },
+        "author_id": "1576636210826514433",
+        "conversation_id": "1823680082918924578",
+        "created_at": "2024-08-14T11:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T12:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823680082918924578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40gdfdjnqr",
+              "end": 23,
+              "expanded_url": "https://twitter.com/erosbefall/status/1823680082918924578/video/1",
+              "media_key": "7_1823680068109082624",
+              "start": 0,
+              "url": "https://t.co/40gdfdjnQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823680082918924578",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1258,
+          "like_count": 105,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/40gdfdjnQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1571,
+          "like_count": 29703,
+          "listed_count": 8,
+          "tweet_count": 8320
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T18:12:29.000Z",
+        "description": "一直真心为你",
+        "id": "1576636210826514433",
+        "location": "天國",
+        "name": "杀人犯的妻",
+        "pinned_tweet_id": "1814935249828388973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823208589630349312/2FOKRqdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6459,
+          "following_count": 99,
+          "like_count": 24466,
+          "listed_count": 11,
+          "tweet_count": 2353
+        },
+        "username": "erosbefall",
+        "verified": false
+      }
+    ]
+  }
+}

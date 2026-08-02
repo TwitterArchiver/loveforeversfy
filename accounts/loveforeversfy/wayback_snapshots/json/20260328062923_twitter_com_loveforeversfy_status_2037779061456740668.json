@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037774706615648257"
+      ],
+      "media_source_tweet_id": [
+        "2037774769861648402"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2037779061456740668",
+    "created_at": "2026-03-28T06:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037779061456740668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034141175461138432",
+          "start": 3,
+          "username": "Magacu3yum"
+        },
+        {
+          "end": 32,
+          "id": "1599012090517540869",
+          "start": 17,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zc6NaXlrVt",
+          "end": 66,
+          "expanded_url": "https://x.com/Magacu3yum/status/2037774769861648402/video/1",
+          "media_key": "13_2037774706615648257",
+          "start": 43,
+          "url": "https://t.co/zc6NaXlrVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037779061456740668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037774769861648402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Magacu3yum: 和@loveforeversfy 猜拳，但是pr80 https://t.co/zc6NaXlrVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15900,
+        "height": 1280,
+        "media_key": "13_2037774706615648257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037774706615648257/img/OYV1W9hCA2uJeDcu.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037774706615648257/vid/avc1/320x568/Fyt4yT9CEmfYs_bP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037774706615648257/vid/avc1/480x852/-j5oYGDMwUeQgByH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037774706615648257/vid/avc1/720x1280/93Bjtrtli5Sw99pV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037774706615648257/pl/NEaEPU7qgc5iw0dp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037774706615648257"
+          ],
+          "media_source_tweet_id": [
+            "2037774769861648402"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2037779061456740668",
+        "created_at": "2026-03-28T06:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037779061456740668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034141175461138432",
+              "start": 3,
+              "username": "Magacu3yum"
+            },
+            {
+              "end": 32,
+              "id": "1599012090517540869",
+              "start": 17,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc6NaXlrVt",
+              "end": 66,
+              "expanded_url": "https://x.com/Magacu3yum/status/2037774769861648402/video/1",
+              "media_key": "13_2037774706615648257",
+              "start": 43,
+              "url": "https://t.co/zc6NaXlrVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037779061456740668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037774769861648402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Magacu3yum: 和@loveforeversfy 猜拳，但是pr80 https://t.co/zc6NaXlrVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037774706615648257"
+          ]
+        },
+        "author_id": "2034141175461138432",
+        "conversation_id": "2037774769861648402",
+        "created_at": "2026-03-28T06:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037774769861648402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599012090517540869",
+              "start": 1,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc6NaXlrVt",
+              "end": 50,
+              "expanded_url": "https://x.com/Magacu3yum/status/2037774769861648402/video/1",
+              "media_key": "13_2037774706615648257",
+              "start": 27,
+              "url": "https://t.co/zc6NaXlrVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037774769861648402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和@loveforeversfy 猜拳，但是pr80 https://t.co/zc6NaXlrVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 1550,
+          "like_count": 33619,
+          "listed_count": 8,
+          "media_count": 1124,
+          "tweet_count": 10678
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T05:35:03.000Z",
+        "description": "OD｜自傷｜無性別｜嚴重精神疾病｜電波系\n死亡只是另一種drop tuning",
+        "id": "2034141175461138432",
+        "name": "Голубь.",
+        "pinned_tweet_id": "2034554497171878295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037086125609934848/2TKPx7sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "Magacu3yum",
+        "verified": false
+      }
+    ]
+  }
+}

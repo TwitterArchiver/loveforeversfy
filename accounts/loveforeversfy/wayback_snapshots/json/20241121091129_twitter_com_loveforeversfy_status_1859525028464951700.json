@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1859503951353348605",
+    "created_at": "2024-11-21T09:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T10:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859525028464951700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859525028464951700",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859523155963863306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 啊啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1859503951353348605",
+        "created_at": "2024-11-21T09:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T10:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859525028464951700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859525028464951700",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859523155963863306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 啊啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167792264795394048",
+        "conversation_id": "1859503951353348605",
+        "created_at": "2024-11-21T09:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859523155963863306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859523155963863306",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859503951353348605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 这可不兴卖啊（）\n卖正规的一般只是违法，卖不正规的触发犯罪了（妨害药品管理罪）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1586,
+          "like_count": 32141,
+          "listed_count": 7,
+          "tweet_count": 9361
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "重新开始",
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "pinned_tweet_id": "1841920877417689129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600006556661125120/q-YVWHwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 2564,
+          "like_count": 1286,
+          "listed_count": 36,
+          "tweet_count": 5144
+        },
+        "username": "leetfs1",
+        "verified": true
+      }
+    ]
+  }
+}

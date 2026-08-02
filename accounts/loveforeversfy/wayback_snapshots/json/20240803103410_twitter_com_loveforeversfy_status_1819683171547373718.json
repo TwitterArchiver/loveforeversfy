@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1819322024789266433"
+      ],
+      "media_source_tweet_id": [
+        "1819322093278056801"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819683171547373718",
+    "created_at": "2024-08-03T10:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T11:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819683171547373718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3176137200",
+          "start": 3,
+          "username": "whitekaraage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pFWjL3GOAV",
+          "end": 71,
+          "expanded_url": "https://twitter.com/whitekaraage/status/1819322093278056801/video/1",
+          "media_key": "7_1819322024789266433",
+          "start": 48,
+          "url": "https://t.co/pFWjL3GOAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819683171547373718",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819322093278056801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitekaraage: 天界ちほーの新LV14のラス殺しにメチャクチャにされました https://t.co/pFWjL3GOAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14561,
+        "height": 720,
+        "media_key": "7_1819322024789266433",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819322024789266433/pu/img/ciypjoJGC-QOoUg9.jpg",
+        "public_metrics": {
+          "view_count": 16376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819322024789266433/pu/vid/avc1/480x270/rnFahEGc8u1C5b34.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819322024789266433/pu/vid/avc1/640x360/55r6cMj4dlTKrC1D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819322024789266433/pu/vid/avc1/1280x720/Ftm6UrI2oXRlj6H6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819322024789266433/pu/pl/-paCcrc-ogqytGwi.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819322024789266433"
+          ],
+          "media_source_tweet_id": [
+            "1819322093278056801"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819683171547373718",
+        "created_at": "2024-08-03T10:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T11:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819683171547373718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3176137200",
+              "start": 3,
+              "username": "whitekaraage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pFWjL3GOAV",
+              "end": 71,
+              "expanded_url": "https://twitter.com/whitekaraage/status/1819322093278056801/video/1",
+              "media_key": "7_1819322024789266433",
+              "start": 48,
+              "url": "https://t.co/pFWjL3GOAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819683171547373718",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819322093278056801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitekaraage: 天界ちほーの新LV14のラス殺しにメチャクチャにされました https://t.co/pFWjL3GOAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819322024789266433"
+          ]
+        },
+        "author_id": "3176137200",
+        "conversation_id": "1819322093278056801",
+        "created_at": "2024-08-02T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819322093278056801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pFWjL3GOAV",
+              "end": 53,
+              "expanded_url": "https://twitter.com/whitekaraage/status/1819322093278056801/video/1",
+              "media_key": "7_1819322024789266433",
+              "start": 30,
+              "url": "https://t.co/pFWjL3GOAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819322093278056801",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 42377,
+          "like_count": 431,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "天界ちほーの新LV14のラス殺しにメチャクチャにされました https://t.co/pFWjL3GOAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1571,
+          "like_count": 29385,
+          "listed_count": 8,
+          "tweet_count": 8231
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-26T11:16:03.000Z",
+        "description": "CN:46K4R4.長崎音ゲー24歳.第5回天下一音ゲ祭maimai部門全国Finalistベスト4.maimaiメイン,CHUNITHM,オンゲキ,SDVX,Arcaea,プロセカ.YoutubeとTikTokに動画上げてます見てね〜〜〜😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChQ4O…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChQ4OW1BJ2M7PgRtHEvPjhg",
+                "start": 0,
+                "url": "https://t.co/pM69JFe7Fs"
+              }
+            ]
+          }
+        },
+        "id": "3176137200",
+        "location": "長崎→福岡→長崎　GiGOサンスパ大村",
+        "name": "ほわいとからあげ-46K4R4",
+        "pinned_tweet_id": "1676921872712355841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609239208841076736/oTA1vg_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6110,
+          "following_count": 6313,
+          "like_count": 41629,
+          "listed_count": 74,
+          "tweet_count": 59482
+        },
+        "url": "https://t.co/pM69JFe7Fs",
+        "username": "whitekaraage",
+        "verified": false
+      }
+    ]
+  }
+}

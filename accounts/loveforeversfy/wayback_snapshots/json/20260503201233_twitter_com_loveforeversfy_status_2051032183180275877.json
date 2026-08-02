@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050947968929599488"
+      ],
+      "media_source_tweet_id": [
+        "2050947984637259849"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2051032183180275877",
+    "created_at": "2026-05-03T20:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T21:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051032183180275877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916817753635426304",
+          "start": 3,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmcIeDhJIQ",
+          "end": 70,
+          "expanded_url": "https://x.com/Goldwater8964/status/2050947984637259849/photo/1",
+          "media_key": "3_2050947968929599488",
+          "start": 47,
+          "url": "https://t.co/GmcIeDhJIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051032183180275877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050947984637259849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goldwater8964: 我和amber的和解难度不亚于尼克松访华\n但是这发生了 https://t.co/GmcIeDhJIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2050947968929599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZuT7TbkAARWIY.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050947968929599488"
+          ],
+          "media_source_tweet_id": [
+            "2050947984637259849"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2051032183180275877",
+        "created_at": "2026-05-03T20:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T21:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051032183180275877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916817753635426304",
+              "start": 3,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmcIeDhJIQ",
+              "end": 70,
+              "expanded_url": "https://x.com/Goldwater8964/status/2050947984637259849/photo/1",
+              "media_key": "3_2050947968929599488",
+              "start": 47,
+              "url": "https://t.co/GmcIeDhJIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051032183180275877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050947984637259849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goldwater8964: 我和amber的和解难度不亚于尼克松访华\n但是这发生了 https://t.co/GmcIeDhJIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050947968929599488"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2050947984637259849",
+        "created_at": "2026-05-03T14:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050947984637259849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmcIeDhJIQ",
+              "end": 51,
+              "expanded_url": "https://x.com/Goldwater8964/status/2050947984637259849/photo/1",
+              "media_key": "3_2050947968929599488",
+              "start": 28,
+              "url": "https://t.co/GmcIeDhJIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050947984637259849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4581,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我和amber的和解难度不亚于尼克松访华\n但是这发生了 https://t.co/GmcIeDhJIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 1557,
+          "like_count": 34634,
+          "listed_count": 8,
+          "media_count": 1164,
+          "tweet_count": 11046
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑 满人正黄旗完颜氏",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich Wanyan🇳🇿🇦🇺",
+        "pinned_tweet_id": "2050815235867775226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050864205398695936/Yl4HAqYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 960,
+          "like_count": 5701,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 1083
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

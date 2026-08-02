@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1827892898576080896"
+      ],
+      "media_source_tweet_id": [
+        "1827893584487456911"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1827935304785027190",
+    "created_at": "2024-08-26T05:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T06:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827935304785027190"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Wolf Game",
+          "probability": 0.9264,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "37342316",
+          "start": 3,
+          "username": "kilorat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t47wlyxwkl",
+          "end": 105,
+          "expanded_url": "https://twitter.com/kilorat/status/1827893584487456911/video/1",
+          "media_key": "7_1827892898576080896",
+          "start": 82,
+          "url": "https://t.co/T47WlyXWKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827935304785027190",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827893584487456911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kilorat: Some WTF clips from Wolf Game ads. Be warned, these get pretty rough https://t.co/T47WlyXWKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135216,
+        "height": 854,
+        "media_key": "7_1827892898576080896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1827892898576080896/pu/img/9s5JDt2xPG6PuQOn.jpg",
+        "public_metrics": {
+          "view_count": 29828
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827892898576080896/pu/vid/avc1/320x568/Es61tTPk-fcaBE5d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827892898576080896/pu/vid/avc1/480x854/ze8eZQMSFHoh9YIn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1827892898576080896/pu/pl/mLqHd2H8AP0BlO-p.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827892898576080896"
+          ],
+          "media_source_tweet_id": [
+            "1827893584487456911"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1827935304785027190",
+        "created_at": "2024-08-26T05:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T06:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827935304785027190"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Wolf Game",
+              "probability": 0.9264,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "37342316",
+              "start": 3,
+              "username": "kilorat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t47wlyxwkl",
+              "end": 105,
+              "expanded_url": "https://twitter.com/kilorat/status/1827893584487456911/video/1",
+              "media_key": "7_1827892898576080896",
+              "start": 82,
+              "url": "https://t.co/T47WlyXWKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827935304785027190",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827893584487456911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kilorat: Some WTF clips from Wolf Game ads. Be warned, these get pretty rough https://t.co/T47WlyXWKL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827892898576080896"
+          ]
+        },
+        "author_id": "37342316",
+        "conversation_id": "1827893584487456911",
+        "created_at": "2024-08-26T02:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T03:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827893584487456911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Wolf Game",
+              "probability": 0.9225,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t47wlyxwkl",
+              "end": 92,
+              "expanded_url": "https://twitter.com/kilorat/status/1827893584487456911/video/1",
+              "media_key": "7_1827892898576080896",
+              "start": 69,
+              "url": "https://t.co/T47WlyXWKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827893584487456911",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 58125,
+          "like_count": 610,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Some WTF clips from Wolf Game ads. Be warned, these get pretty rough https://t.co/T47WlyXWKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "徐蘑利菇",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1570,
+          "like_count": 29926,
+          "listed_count": 7,
+          "tweet_count": 8401
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-03T02:25:47.000Z",
+        "description": "middle-aged rat, furry, computer nerd\nhttps://t.co/Rj9jw9Utml\nhttps://t.co/TLrN38iqqF\n@rat_content for 🐀🐁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "rat_content"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mastodon.social/@kilorat",
+                "end": 61,
+                "expanded_url": "http://mastodon.social/@kilorat",
+                "start": 38,
+                "url": "https://t.co/Rj9jw9Utml"
+              },
+              {
+                "display_url": "bsky.app/profile/kilora…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/kilorat.com",
+                "start": 62,
+                "url": "https://t.co/TLrN38iqqF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kilorat.com",
+                "end": 23,
+                "expanded_url": "http://kilorat.com",
+                "start": 0,
+                "url": "https://t.co/sibpejaYH5"
+              }
+            ]
+          }
+        },
+        "id": "37342316",
+        "location": "St. Charles, IL",
+        "name": "Kilorat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820635592213868544/-BBcikrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 164,
+          "like_count": 12762,
+          "listed_count": 30,
+          "tweet_count": 4887
+        },
+        "url": "https://t.co/sibpejaYH5",
+        "username": "kilorat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800398296042856448",
+        "3_1800398564130242560"
+      ],
+      "media_source_tweet_id": [
+        "1800398626663141802",
+        "1800398626663141802"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800920419308065135",
+    "created_at": "2024-06-12T15:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T16:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800920419308065135"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791251722335371264",
+          "start": 3,
+          "username": "sabimizu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SBLbFi7KtI",
+          "end": 48,
+          "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+          "media_key": "3_1800398296042856448",
+          "start": 25,
+          "url": "https://t.co/SBLbFi7KtI"
+        },
+        {
+          "display_url": "pic.twitter.com/SBLbFi7KtI",
+          "end": 48,
+          "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+          "media_key": "3_1800398564130242560",
+          "start": 25,
+          "url": "https://t.co/SBLbFi7KtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800920419308065135",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800398626663141802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabimizu_chan: #重音テト https://t.co/SBLbFi7KtI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1800398296042856448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPxMthnaYAAYqEP.jpg",
+        "width": 1478
+      },
+      {
+        "height": 668,
+        "media_key": "3_1800398564130242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPxM9IUbQAAL4Bn.png",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800398296042856448",
+            "3_1800398564130242560"
+          ],
+          "media_source_tweet_id": [
+            "1800398626663141802",
+            "1800398626663141802"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800920419308065135",
+        "created_at": "2024-06-12T15:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T16:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800920419308065135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791251722335371264",
+              "start": 3,
+              "username": "sabimizu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SBLbFi7KtI",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+              "media_key": "3_1800398296042856448",
+              "start": 25,
+              "url": "https://t.co/SBLbFi7KtI"
+            },
+            {
+              "display_url": "pic.twitter.com/SBLbFi7KtI",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+              "media_key": "3_1800398564130242560",
+              "start": 25,
+              "url": "https://t.co/SBLbFi7KtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800920419308065135",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800398626663141802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabimizu_chan: #重音テト https://t.co/SBLbFi7KtI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800398296042856448",
+            "3_1800398564130242560"
+          ]
+        },
+        "author_id": "1791251722335371264",
+        "conversation_id": "1800398626663141802",
+        "created_at": "2024-06-11T05:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T06:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800398626663141802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SBLbFi7KtI",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+              "media_key": "3_1800398296042856448",
+              "start": 6,
+              "url": "https://t.co/SBLbFi7KtI"
+            },
+            {
+              "display_url": "pic.twitter.com/SBLbFi7KtI",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sabimizu_chan/status/1800398626663141802/photo/1",
+              "media_key": "3_1800398564130242560",
+              "start": 6,
+              "url": "https://t.co/SBLbFi7KtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800398626663141802",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1792,
+          "impression_count": 1367592,
+          "like_count": 72364,
+          "quote_count": 52,
+          "reply_count": 20,
+          "retweet_count": 5350
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/SBLbFi7KtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1566,
+          "like_count": 27980,
+          "listed_count": 8,
+          "tweet_count": 7465
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T23:37:55.000Z",
+        "description": "タバコはピースとハイライト　🎲【@hiyuki_na7na】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hiyuki_na7na"
+              }
+            ]
+          }
+        },
+        "id": "1791251722335371264",
+        "name": "錆水ちゃん",
+        "pinned_tweet_id": "1800398626663141802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800434827868676096/tjdjQJn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "sabimizu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

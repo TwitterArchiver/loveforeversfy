@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2074037160274194734",
+    "created_at": "2026-07-06T07:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074037160274194734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/huihui_mikumi/status/2070082023566508061",
+          "start": 4,
+          "url": "https://t.co/QpfR5UPuD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074037160274194734",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070082023566508061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喂喂喂 https://t.co/QpfR5UPuD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070082003769479168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLponVqb0AASiDV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2074037160274194734",
+        "created_at": "2026-07-06T07:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074037160274194734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2070082023566508061",
+              "start": 4,
+              "url": "https://t.co/QpfR5UPuD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074037160274194734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070082023566508061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喂喂喂 https://t.co/QpfR5UPuD8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070082003769479168"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2070082023566508061",
+        "created_at": "2026-06-25T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070082023566508061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIutgtT50P",
+              "end": 28,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2070082023566508061/photo/1",
+              "media_key": "3_2070082003769479168",
+              "start": 5,
+              "url": "https://t.co/FIutgtT50P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070082023566508061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6693,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "出去玩咯 https://t.co/FIutgtT50P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 1555,
+          "like_count": 35551,
+          "listed_count": 8,
+          "media_count": 1224,
+          "tweet_count": 11437
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 1009,
+          "like_count": 931,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2273
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

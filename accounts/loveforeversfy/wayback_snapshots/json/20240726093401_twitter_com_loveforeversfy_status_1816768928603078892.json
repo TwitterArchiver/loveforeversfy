@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1816768928603078892",
+    "created_at": "2024-07-26T09:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T10:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816768928603078892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1692594241363468290",
+          "start": 3,
+          "username": "macgillivray_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816768928603078892",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816309119629844657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @macgillivray_: I'm so fucking high and found this video and laughed so hard I almost pissed myself can you guys tell me if this is funn…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1816768928603078892",
+        "created_at": "2024-07-26T09:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T10:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816768928603078892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1692594241363468290",
+              "start": 3,
+              "username": "macgillivray_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816768928603078892",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816309119629844657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @macgillivray_: I'm so fucking high and found this video and laughed so hard I almost pissed myself can you guys tell me if this is funn…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816308972137140224"
+          ]
+        },
+        "author_id": "1692594241363468290",
+        "conversation_id": "1816309119629844657",
+        "created_at": "2024-07-25T03:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816309119629844657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jUf2RLz0hY",
+              "end": 165,
+              "expanded_url": "https://twitter.com/macgillivray_/status/1816309119629844657/video/1",
+              "media_key": "7_1816308972137140224",
+              "start": 142,
+              "url": "https://t.co/jUf2RLz0hY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816309119629844657",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5289,
+          "impression_count": 589211,
+          "like_count": 21393,
+          "quote_count": 85,
+          "reply_count": 114,
+          "retweet_count": 2747
+        },
+        "reply_settings": "everyone",
+        "text": "I'm so fucking high and found this video and laughed so hard I almost pissed myself can you guys tell me if this is funny or if I'm losing jt https://t.co/jUf2RLz0hY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 1572,
+          "like_count": 29092,
+          "listed_count": 8,
+          "tweet_count": 8167
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T17:48:15.000Z",
+        "description": "just a silly lil girl who consistently makes the worst tweets you've ever seen | \"homestuck tumbler anti\" - Hotashi | 20 | 🥥: 5/18/24 | @privgillivray",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 136,
+                "username": "privgillivray"
+              }
+            ]
+          }
+        },
+        "id": "1692594241363468290",
+        "location": "PA",
+        "name": "mac_exe throws it back 6PM EST/9PM PST ( ✌︎'ω')✌︎",
+        "pinned_tweet_id": "1813700694366687371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798164843058388992/_vg1mFwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 719,
+          "like_count": 35470,
+          "listed_count": 5,
+          "tweet_count": 17967
+        },
+        "username": "macgillivray_",
+        "verified": false
+      }
+    ]
+  }
+}

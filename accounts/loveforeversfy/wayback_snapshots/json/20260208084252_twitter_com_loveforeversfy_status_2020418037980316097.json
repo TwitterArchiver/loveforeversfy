@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2020409935344128250",
+    "created_at": "2026-02-08T08:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020418037980316097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011827901537402885",
+          "start": 0,
+          "username": "Amenyan14_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020418037980316097",
+    "in_reply_to_user_id": "2011827901537402885",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020417047361208558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amenyan14_w ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2020409935344128250",
+        "created_at": "2026-02-08T08:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020418037980316097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011827901537402885",
+              "start": 0,
+              "username": "Amenyan14_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020418037980316097",
+        "in_reply_to_user_id": "2011827901537402885",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020417047361208558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amenyan14_w ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011827901537402885",
+        "conversation_id": "2020409935344128250",
+        "created_at": "2026-02-08T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020417047361208558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020417047361208558",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020409935344128250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 漂亮菇菇！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1531,
+          "like_count": 32453,
+          "listed_count": 8,
+          "media_count": 1059,
+          "tweet_count": 10295
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:49:05.000Z",
+        "description": "互fo歡迎喵～ 帳號多為負能｜血圖｜精神無國籍，看我不順眼你就去死。支豬別監視我喵。 這世界上最愛的人@BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "BelovedUren8964"
+              }
+            ]
+          }
+        },
+        "id": "2011827901537402885",
+        "location": "Japan",
+        "name": "我仍在這個無人問津的陰雨霉溼之地",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019506135586557952/LbOwFYk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "Amenyan14_w",
+        "verified": false
+      }
+    ]
+  }
+}

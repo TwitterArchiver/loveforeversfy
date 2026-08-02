@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2029846712513331521",
+    "created_at": "2026-03-06T11:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029885836540674524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3284398555",
+          "start": 0,
+          "username": "osfg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029885836540674524",
+    "in_reply_to_user_id": "3284398555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029885340094263340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osfg9 进去转了一圈（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2029846712513331521",
+        "created_at": "2026-03-06T11:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029885836540674524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3284398555",
+              "start": 0,
+              "username": "osfg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029885836540674524",
+        "in_reply_to_user_id": "3284398555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029885340094263340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osfg9 进去转了一圈（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3284398555",
+        "conversation_id": "2029846712513331521",
+        "created_at": "2026-03-06T11:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029885340094263340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029885340094263340",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029846712513331521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 可以进去玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 1540,
+          "like_count": 33087,
+          "listed_count": 8,
+          "media_count": 1098,
+          "tweet_count": 10553
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-19T13:14:40.000Z",
+        "description": "XtX. There is no LGBTQ on this wrold, the gender of everyone is X. LIGHT TOUCH is enough!",
+        "id": "3284398555",
+        "location": "People's Republic of China",
+        "name": "osfg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/622757956463935488/wkQEfF_v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 2340,
+          "like_count": 46200,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 10591
+        },
+        "username": "osfg9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032145676998754508",
+    "created_at": "2026-03-12T17:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032145676998754508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunochan1016/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yunochan1016/status/2031972575434424480",
+          "start": 2,
+          "url": "https://t.co/sqelIJ6oJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032145676998754508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031972575434424480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/sqelIJ6oJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2031972570707496960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMESYZbkAAbAY_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032145676998754508",
+        "created_at": "2026-03-12T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032145676998754508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunochan1016/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yunochan1016/status/2031972575434424480",
+              "start": 2,
+              "url": "https://t.co/sqelIJ6oJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032145676998754508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031972575434424480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/sqelIJ6oJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031972570707496960"
+          ]
+        },
+        "author_id": "1555235772462428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031972575434424480",
+        "created_at": "2026-03-12T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031972575434424480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZP9fBZDPco",
+              "end": 60,
+              "expanded_url": "https://x.com/yunochan1016/status/2031972575434424480/photo/1",
+              "media_key": "3_2031972570707496960",
+              "start": 37,
+              "url": "https://t.co/ZP9fBZDPco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031972575434424480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 63081,
+          "like_count": 586,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "大家記得開箱要錄影\n在酷澎買電競滑鼠\n變成了白粉？？\n有錄影才比較好退貨 https://t.co/ZP9fBZDPco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 1541,
+          "like_count": 33305,
+          "listed_count": 8,
+          "media_count": 1111,
+          "tweet_count": 10591
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T16:54:52.000Z",
+        "description": "我是乃乃 打工族貓咪女僕 主要是唱歌+雜談+雜七雜八 中文O/日語O/英文△/台語△ YouTube https://t.co/9eBZRXEZMe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/NGp409",
+                "end": 74,
+                "expanded_url": "http://reurl.cc/NGp409",
+                "start": 51,
+                "url": "https://t.co/9eBZRXEZMe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/yunochan1016",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/yunochan1016",
+                "start": 0,
+                "url": "https://t.co/fl8KeRemv0"
+              }
+            ]
+          }
+        },
+        "id": "1555235772462428160",
+        "name": "貓宮結乃Vtuber 10/16生日 17:00",
+        "pinned_tweet_id": "2030441528129429699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009822892775841792/MHIaQO7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 371,
+          "like_count": 29544,
+          "listed_count": 17,
+          "media_count": 2967,
+          "tweet_count": 16875
+        },
+        "url": "https://t.co/fl8KeRemv0",
+        "username": "yunochan1016",
+        "verified": false
+      }
+    ]
+  }
+}

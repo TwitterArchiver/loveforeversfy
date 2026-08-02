@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1890309508238655623",
+    "created_at": "2025-02-14T08:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890324257105756341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "349054800",
+          "start": 0,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890324257105756341",
+    "in_reply_to_user_id": "349054800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890309508238655623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyalra 蓬莱蓬莱蓬莱蓬莱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1890309508238655623",
+        "created_at": "2025-02-14T08:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890324257105756341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "349054800",
+              "start": 0,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890324257105756341",
+        "in_reply_to_user_id": "349054800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890309508238655623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyalra 蓬莱蓬莱蓬莱蓬莱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890309481235640321"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "1890309508238655623",
+        "created_at": "2025-02-14T07:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890309508238655623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaRvG722AM",
+              "end": 32,
+              "expanded_url": "https://x.com/nyalra/status/1890309508238655623/video/1",
+              "media_key": "7_1890309481235640321",
+              "start": 9,
+              "url": "https://t.co/SaRvG722AM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890309508238655623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5580,
+          "like_count": 307,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "上海上海上海上海 https://t.co/SaRvG722AM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1568,
+          "like_count": 32993,
+          "listed_count": 10,
+          "media_count": 969,
+          "tweet_count": 9709
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "https://t.co/feeUlmvts5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.com",
+                "end": 23,
+                "expanded_url": "https://nyalra.com/",
+                "start": 0,
+                "url": "https://t.co/feeUlmvts5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/C2BvvG_rJdG/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/C2BvvG_rJdG/",
+                "start": 0,
+                "url": "https://t.co/mX7eBFLDlM"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "1777388068594667748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140910,
+          "following_count": 666,
+          "like_count": 361203,
+          "listed_count": 1129,
+          "media_count": 3622,
+          "tweet_count": 38113
+        },
+        "url": "https://t.co/mX7eBFLDlM",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

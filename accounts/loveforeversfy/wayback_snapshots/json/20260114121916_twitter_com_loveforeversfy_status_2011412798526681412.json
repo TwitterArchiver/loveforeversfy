@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2011412007673827487",
+    "created_at": "2026-01-14T12:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T13:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011412798526681412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1731243248205852672",
+          "start": 0,
+          "username": "1srain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011412798526681412",
+    "in_reply_to_user_id": "1731243248205852672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011412007673827487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1srain 100"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2011412007673827487",
+        "created_at": "2026-01-14T12:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T13:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011412798526681412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1731243248205852672",
+              "start": 0,
+              "username": "1srain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011412798526681412",
+        "in_reply_to_user_id": "1731243248205852672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011412007673827487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1srain 100"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731243248205852672",
+        "conversation_id": "2011412007673827487",
+        "created_at": "2026-01-14T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011412007673827487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2010808933959811431",
+              "start": 6,
+              "url": "https://t.co/klUrtMHCod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011412007673827487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010808933959811431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来玩哦 https://t.co/klUrtMHCod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1513,
+          "like_count": 32086,
+          "listed_count": 7,
+          "media_count": 1037,
+          "tweet_count": 10076
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T09:25:39.000Z",
+        "description": "我是浅羽見崎、门槛188/288/488。我很可爱请给我打钱",
+        "id": "1731243248205852672",
+        "location": "★狐狐",
+        "name": "浅羽叁崎",
+        "pinned_tweet_id": "1973580233094865192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945834000592898/UQRHJ-xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7313,
+          "following_count": 162,
+          "like_count": 9256,
+          "listed_count": 14,
+          "media_count": 605,
+          "tweet_count": 3258
+        },
+        "username": "1srain",
+        "verified": false
+      }
+    ]
+  }
+}

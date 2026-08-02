@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1844717768274501632"
+      ],
+      "media_source_tweet_id": [
+        "1844717792655716691"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1860591762064261221",
+    "created_at": "2024-11-24T07:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T08:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860591762064261221"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "hopital",
+          "probability": 0.4603,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1139024660056514560",
+          "start": 3,
+          "username": "Cozmoetica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tWdPMRNJdX",
+          "end": 47,
+          "expanded_url": "https://x.com/Cozmoetica/status/1844717792655716691/video/1",
+          "media_key": "7_1844717768274501632",
+          "start": 24,
+          "url": "https://t.co/tWdPMRNJdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860591762064261221",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 534
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844717792655716691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cozmoetica: hopital https://t.co/tWdPMRNJdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2170,
+        "height": 1280,
+        "media_key": "7_1844717768274501632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1844717768274501632/pu/img/AvGcV3Yqi_oPJxBU.jpg",
+        "public_metrics": {
+          "view_count": 15125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844717768274501632/pu/vid/avc1/320x568/6_tvUFyRkfhw3xsn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844717768274501632/pu/vid/avc1/480x852/fADPFR1xCt8VuItc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844717768274501632/pu/vid/avc1/720x1280/9fDqu5zn60PK1wUs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1844717768274501632/pu/pl/oT4s_ljXHd07bkvX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1844717768274501632"
+          ],
+          "media_source_tweet_id": [
+            "1844717792655716691"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1860591762064261221",
+        "created_at": "2024-11-24T07:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T08:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860591762064261221"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "hopital",
+              "probability": 0.4603,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1139024660056514560",
+              "start": 3,
+              "username": "Cozmoetica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWdPMRNJdX",
+              "end": 47,
+              "expanded_url": "https://x.com/Cozmoetica/status/1844717792655716691/video/1",
+              "media_key": "7_1844717768274501632",
+              "start": 24,
+              "url": "https://t.co/tWdPMRNJdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860591762064261221",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 534
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844717792655716691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cozmoetica: hopital https://t.co/tWdPMRNJdX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1844717768274501632"
+          ]
+        },
+        "author_id": "1139024660056514560",
+        "conversation_id": "1844717792655716691",
+        "created_at": "2024-10-11T12:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-11T13:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844717792655716691"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "hopital",
+              "probability": 0.6883,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWdPMRNJdX",
+              "end": 31,
+              "expanded_url": "https://x.com/Cozmoetica/status/1844717792655716691/video/1",
+              "media_key": "7_1844717768274501632",
+              "start": 8,
+              "url": "https://t.co/tWdPMRNJdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844717792655716691",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 54921,
+          "like_count": 3382,
+          "quote_count": 27,
+          "reply_count": 19,
+          "retweet_count": 534
+        },
+        "reply_settings": "everyone",
+        "text": "hopital https://t.co/tWdPMRNJdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1587,
+          "like_count": 32245,
+          "listed_count": 7,
+          "tweet_count": 9415
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-13T04:20:15.000Z",
+        "description": "hi hi | retweet heavy bc im on bsky now | pfp made by my friend nico | https://t.co/gJ5ZnNqCbR | @cozmoetica_alt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "cozmoetica_alt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cozmoetic.straw.page",
+                "end": 94,
+                "expanded_url": "https://cozmoetic.straw.page/",
+                "start": 71,
+                "url": "https://t.co/gJ5ZnNqCbR"
+              }
+            ]
+          }
+        },
+        "id": "1139024660056514560",
+        "location": "they/them",
+        "name": "Cozmo",
+        "pinned_tweet_id": "1848568534311350664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846305858629914624/xQDIFRxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 1922,
+          "like_count": 258809,
+          "listed_count": 5,
+          "tweet_count": 3903
+        },
+        "username": "Cozmoetica",
+        "verified": false
+      }
+    ]
+  }
+}

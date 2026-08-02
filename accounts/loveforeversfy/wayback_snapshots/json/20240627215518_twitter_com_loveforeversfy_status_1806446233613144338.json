@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1805952708534469027"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1806446233613144338",
+    "created_at": "2024-06-27T21:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T22:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806446233613144338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559493725667340288",
+          "start": 3,
+          "username": "purot_ac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yHeJOwBc7T",
+          "end": 37,
+          "expanded_url": "https://twitter.com/purot_ac/status/1805952708534469027/video/1",
+          "media_key": "7_1805952644814663680",
+          "start": 14,
+          "url": "https://t.co/yHeJOwBc7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806446233613144338",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5667
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805952708534469027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purot_ac: https://t.co/yHeJOwBc7T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1805952708534469027"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1806446233613144338",
+        "created_at": "2024-06-27T21:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T22:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806446233613144338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559493725667340288",
+              "start": 3,
+              "username": "purot_ac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yHeJOwBc7T",
+              "end": 37,
+              "expanded_url": "https://twitter.com/purot_ac/status/1805952708534469027/video/1",
+              "media_key": "7_1805952644814663680",
+              "start": 14,
+              "url": "https://t.co/yHeJOwBc7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806446233613144338",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5667
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805952708534469027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purot_ac: https://t.co/yHeJOwBc7T"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805952644814663680"
+          ]
+        },
+        "author_id": "1559493725667340288",
+        "conversation_id": "1805952708534469027",
+        "created_at": "2024-06-26T13:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T14:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805952708534469027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yHeJOwBc7T",
+              "end": 23,
+              "expanded_url": "https://twitter.com/purot_ac/status/1805952708534469027/video/1",
+              "media_key": "7_1805952644814663680",
+              "start": 0,
+              "url": "https://t.co/yHeJOwBc7T"
+            },
+            {
+              "display_url": "x.com/ippan_nikochu/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ippan_nikochu/status/1804935872212762924",
+              "start": 24,
+              "url": "https://t.co/Oqx2Wa86FE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805952708534469027",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3905,
+          "impression_count": 2072536,
+          "like_count": 36077,
+          "quote_count": 249,
+          "reply_count": 40,
+          "retweet_count": 5667
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804935872212762924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/yHeJOwBc7T https://t.co/Oqx2Wa86FE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1570,
+          "like_count": 28123,
+          "listed_count": 8,
+          "tweet_count": 7654
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T10:54:27.000Z",
+        "description": "化学たのちい",
+        "id": "1559493725667340288",
+        "name": "あたいど",
+        "pinned_tweet_id": "1721492923890782512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758878299852578816/AjqVQOSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 549,
+          "like_count": 11804,
+          "listed_count": 1,
+          "tweet_count": 7451
+        },
+        "username": "purot_ac",
+        "verified": false
+      }
+    ]
+  }
+}

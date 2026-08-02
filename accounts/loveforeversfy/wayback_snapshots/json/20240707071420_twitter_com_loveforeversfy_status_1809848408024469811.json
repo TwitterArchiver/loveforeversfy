@@ -1,0 +1,323 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1809607196424257536"
+      ],
+      "media_source_tweet_id": [
+        "1809607223498125680"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1809848408024469811",
+    "created_at": "2024-07-07T07:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T08:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809848408024469811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2827342218",
+          "start": 3,
+          "username": "__bathroom_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YVkABkwddV",
+          "end": 52,
+          "expanded_url": "https://twitter.com/__bathroom_/status/1809607223498125680/video/1",
+          "media_key": "7_1809607196424257536",
+          "start": 29,
+          "url": "https://t.co/YVkABkwddV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809848408024469811",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809607223498125680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__bathroom_: おんなのこの最後は残酷 https://t.co/YVkABkwddV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 720,
+        "media_key": "7_1809607196424257536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1809607196424257536/pu/img/74xuEzwK0gqDcLuj.jpg",
+        "public_metrics": {
+          "view_count": 45364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809607196424257536/pu/vid/avc1/364x270/wtTOjGvPJP-DLnTS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809607196424257536/pu/vid/avc1/486x360/PGJIlE2MkUDi2cHL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809607196424257536/pu/vid/avc1/974x720/1YnLDTPOuAFYR62N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1809607196424257536/pu/pl/qzOuN1LVWIYS_jBI.m3u8?tag=12"
+          }
+        ],
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1809607196424257536"
+          ],
+          "media_source_tweet_id": [
+            "1809607223498125680"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1809848408024469811",
+        "created_at": "2024-07-07T07:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T08:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809848408024469811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2827342218",
+              "start": 3,
+              "username": "__bathroom_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YVkABkwddV",
+              "end": 52,
+              "expanded_url": "https://twitter.com/__bathroom_/status/1809607223498125680/video/1",
+              "media_key": "7_1809607196424257536",
+              "start": 29,
+              "url": "https://t.co/YVkABkwddV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809848408024469811",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809607223498125680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__bathroom_: おんなのこの最後は残酷 https://t.co/YVkABkwddV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1809607196424257536"
+          ]
+        },
+        "author_id": "2827342218",
+        "conversation_id": "1809607223498125680",
+        "created_at": "2024-07-06T15:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T16:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809607223498125680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YVkABkwddV",
+              "end": 35,
+              "expanded_url": "https://twitter.com/__bathroom_/status/1809607223498125680/video/1",
+              "media_key": "7_1809607196424257536",
+              "start": 12,
+              "url": "https://t.co/YVkABkwddV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809607223498125680",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 83815,
+          "like_count": 2959,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "おんなのこの最後は残酷 https://t.co/YVkABkwddV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1570,
+          "like_count": 28420,
+          "listed_count": 7,
+          "tweet_count": 7803
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T04:04:31.000Z",
+        "description": "おふろクリエイター │ https://t.co/oAyTZIjqg3 │ 浴室をキャンバスにしてフォトアート作品をメインに創っています │ 被写体、フォトグラファー、空間デザインなど何でもやってるフォトアート専門の芸術家です │",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bathroom__/",
+                "end": 35,
+                "expanded_url": "http://instagram.com/bathroom__/",
+                "start": 12,
+                "url": "https://t.co/oAyTZIjqg3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ofuro",
+                "end": 23,
+                "expanded_url": "https://lit.link/ofuro",
+                "start": 0,
+                "url": "https://t.co/nFqCZPQqEs"
+              }
+            ]
+          }
+        },
+        "id": "2827342218",
+        "location": "アイコン本人、名前がおふろです",
+        "name": "臨野おふろ │ おふろクリエイター",
+        "pinned_tweet_id": "1302588353599082498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218860776825339905/Oh0GVtjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28963,
+          "following_count": 372,
+          "like_count": 40962,
+          "listed_count": 215,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/nFqCZPQqEs",
+        "username": "__bathroom_",
+        "verified": false
+      }
+    ]
+  }
+}

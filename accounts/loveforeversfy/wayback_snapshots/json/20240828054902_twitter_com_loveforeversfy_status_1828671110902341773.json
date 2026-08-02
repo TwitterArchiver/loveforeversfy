@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1828479533080813569"
+      ],
+      "media_source_tweet_id": [
+        "1828479550445309988"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1828671110902341773",
+    "created_at": "2024-08-28T05:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T06:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828671110902341773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "885823421858185222",
+          "start": 3,
+          "username": "ploxyzero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ucwbwlaqsu",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ploxyzero/status/1828479550445309988/video/1",
+          "media_key": "7_1828479533080813569",
+          "start": 43,
+          "url": "https://t.co/UCwBWlaQSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828671110902341773",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16185
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828479550445309988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ploxyzero: i guess we doin circles now https://t.co/UCwBWlaQSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10779,
+        "height": 1280,
+        "media_key": "7_1828479533080813569",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828479533080813569/pu/img/slISYicK2ZMPK9ek.jpg",
+        "public_metrics": {
+          "view_count": 720781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828479533080813569/pu/vid/avc1/320x568/FhhIEjPZdTBXodZu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828479533080813569/pu/vid/avc1/480x852/l150yDzGLdqeUdrw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828479533080813569/pu/vid/avc1/720x1280/dY9NNYsSeIjHhvzB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828479533080813569/pu/pl/fu0z_Ip_gV8tl35W.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828479533080813569"
+          ],
+          "media_source_tweet_id": [
+            "1828479550445309988"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1828671110902341773",
+        "created_at": "2024-08-28T05:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T06:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828671110902341773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "885823421858185222",
+              "start": 3,
+              "username": "ploxyzero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucwbwlaqsu",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ploxyzero/status/1828479550445309988/video/1",
+              "media_key": "7_1828479533080813569",
+              "start": 43,
+              "url": "https://t.co/UCwBWlaQSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828671110902341773",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16185
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828479550445309988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ploxyzero: i guess we doin circles now https://t.co/UCwBWlaQSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828479533080813569"
+          ]
+        },
+        "author_id": "885823421858185222",
+        "conversation_id": "1828479550445309988",
+        "created_at": "2024-08-27T17:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T18:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828479550445309988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucwbwlaqsu",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ploxyzero/status/1828479550445309988/video/1",
+              "media_key": "7_1828479533080813569",
+              "start": 28,
+              "url": "https://t.co/UCwBWlaQSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828479550445309988",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7884,
+          "impression_count": 1368265,
+          "like_count": 86690,
+          "quote_count": 217,
+          "reply_count": 108,
+          "retweet_count": 16185
+        },
+        "reply_settings": "everyone",
+        "text": "i guess we doin circles now https://t.co/UCwBWlaQSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1572,
+          "like_count": 30065,
+          "listed_count": 7,
+          "tweet_count": 8416
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T11:28:56.000Z",
+        "description": "handcrafted memes 🤌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ploxyzero",
+                "end": 23,
+                "expanded_url": "http://instagram.com/ploxyzero",
+                "start": 0,
+                "url": "https://t.co/grdHyU3L97"
+              }
+            ]
+          }
+        },
+        "id": "885823421858185222",
+        "location": "Los Angeles, CA",
+        "name": "ploxyzero",
+        "pinned_tweet_id": "1120126702032605184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679641463821602818/TsBHaqq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 174,
+          "like_count": 2019,
+          "listed_count": 9,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/grdHyU3L97",
+        "username": "ploxyzero",
+        "verified": false
+      }
+    ]
+  }
+}

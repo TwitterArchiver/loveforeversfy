@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1804426816255586505",
+    "created_at": "2024-06-22T08:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T09:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804426816255586505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716829745885884417",
+          "start": 3,
+          "username": "linsolyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804426816255586505",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804316520790843511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linsolyy: 到底是那个神经病取消3.5mm耳机孔的?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1804426816255586505",
+        "created_at": "2024-06-22T08:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T09:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804426816255586505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716829745885884417",
+              "start": 3,
+              "username": "linsolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804426816255586505",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804316520790843511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linsolyy: 到底是那个神经病取消3.5mm耳机孔的?"
+      },
+      {
+        "attachments": {},
+        "author_id": "1716829745885884417",
+        "conversation_id": "1804316520790843511",
+        "created_at": "2024-06-22T00:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T01:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804316520790843511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804316520790843511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10702,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "到底是那个神经病取消3.5mm耳机孔的?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1575,
+          "like_count": 27948,
+          "listed_count": 8,
+          "tweet_count": 7585
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T14:51:35.000Z",
+        "description": "我只是个老老实实的农民",
+        "id": "1716829745885884417",
+        "location": "vx好友位127",
+        "name": "哑巴肥皂盒",
+        "pinned_tweet_id": "1799313198690267489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804166245434179584/cbJAiTgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 119,
+          "like_count": 4780,
+          "listed_count": 23,
+          "tweet_count": 963
+        },
+        "username": "linsolyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2059991355133452502",
+    "created_at": "2026-05-28T16:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060040125598581142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "CatherinaMeow"
+        },
+        {
+          "end": 26,
+          "id": "1989031117111062528",
+          "start": 15,
+          "username": "kaionjiaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060040125598581142",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060018994548236706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatherinaMeow @kaionjiaoi 南京集合喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060018994548236706].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060018994548236706",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060018994548236706"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2059991355133452502",
+        "created_at": "2026-05-28T16:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060040125598581142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 26,
+              "id": "1989031117111062528",
+              "start": 15,
+              "username": "kaionjiaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040125598581142",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060018994548236706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @kaionjiaoi 南京集合喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 1559,
+          "like_count": 35106,
+          "listed_count": 8,
+          "media_count": 1185,
+          "tweet_count": 11222
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/BsKDJo02pF"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7365,
+          "following_count": 1095,
+          "like_count": 89605,
+          "listed_count": 23,
+          "media_count": 2224,
+          "tweet_count": 26662
+        },
+        "url": "https://t.co/BsKDJo02pF",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "19YMtF/海洋生物/HRT.2024/生日10.2/🚪60/持证含糖/ADHD/rle进行中/来和我逛街/来玩ow/常驻南京/欢迎和我贴贴!/也欢迎同类约我旅行！/泛左翼激跨/妹妹@LiciiQAQ/最好的麻麻@grinin_mark/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 88,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 193
+        },
+        "username": "kaionjiaoi",
+        "verified": false
+      }
+    ]
+  }
+}

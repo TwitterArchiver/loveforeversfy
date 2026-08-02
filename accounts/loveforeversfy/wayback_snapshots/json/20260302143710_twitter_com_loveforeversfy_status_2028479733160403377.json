@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2028470167945314713",
+    "created_at": "2026-03-02T14:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028479733160403377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        },
+        {
+          "end": 26,
+          "id": "1818731995310309376",
+          "start": 10,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028479733160403377",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028470167945314713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs @fuckpregaabalin 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2028470165361561600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaS3jvakAAXNkV.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2028470167945314713",
+        "created_at": "2026-03-02T14:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028479733160403377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 26,
+              "id": "1818731995310309376",
+              "start": 10,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028479733160403377",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028470167945314713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs @fuckpregaabalin 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028470165361561600"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2028470167945314713",
+        "created_at": "2026-03-02T13:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028470167945314713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCE13f6oH3",
+              "end": 28,
+              "expanded_url": "https://x.com/yu_huacs/status/2028470167945314713/photo/1",
+              "media_key": "3_2028470165361561600",
+              "start": 5,
+              "url": "https://t.co/dCE13f6oH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028470167945314713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 223,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "东北余姐 https://t.co/dCE13f6oH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1537,
+          "like_count": 32987,
+          "listed_count": 8,
+          "media_count": 1084,
+          "tweet_count": 10513
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 混乱与淫乱的集合体 友所有群体  爱着你们深 深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n窝的哦尼酱@lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2026648623505879381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1213,
+          "like_count": 107203,
+          "listed_count": 9,
+          "media_count": 1948,
+          "tweet_count": 18143
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "个人信息",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔怔乐子人",
+        "pinned_tweet_id": "2027330660197900643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027381112578965504/E0zzmXmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 2742,
+          "like_count": 173032,
+          "listed_count": 12,
+          "media_count": 1620,
+          "tweet_count": 32766
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

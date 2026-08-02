@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834077711666741250",
+        "3_1834077711662493696"
+      ],
+      "media_source_tweet_id": [
+        "1834077734018158799",
+        "1834077734018158799"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1834177036623151118",
+    "created_at": "2024-09-12T10:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T11:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834177036623151118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745619619728232448",
+          "start": 3,
+          "username": "Chocolato_ww"
+        },
+        {
+          "end": 34,
+          "id": "1001107099",
+          "start": 18,
+          "username": "maimai_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7axmv3bro",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+          "media_key": "3_1834077711666741250",
+          "start": 42,
+          "url": "https://t.co/q7Axmv3Bro"
+        },
+        {
+          "display_url": "pic.x.com/q7axmv3bro",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+          "media_key": "3_1834077711662493696",
+          "start": 42,
+          "url": "https://t.co/q7Axmv3Bro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834177036623151118",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834077734018158799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chocolato_ww: @maimai_official そうでしょう https://t.co/q7Axmv3Bro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1834077711666741250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXPz9h5bgAIODq9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 460,
+        "media_key": "3_1834077711662493696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXPz9h4asAA36jN.jpg",
+        "width": 456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834077711666741250",
+            "3_1834077711662493696"
+          ],
+          "media_source_tweet_id": [
+            "1834077734018158799",
+            "1834077734018158799"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834177036623151118",
+        "created_at": "2024-09-12T10:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T11:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834177036623151118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745619619728232448",
+              "start": 3,
+              "username": "Chocolato_ww"
+            },
+            {
+              "end": 34,
+              "id": "1001107099",
+              "start": 18,
+              "username": "maimai_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7axmv3bro",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+              "media_key": "3_1834077711666741250",
+              "start": 42,
+              "url": "https://t.co/q7Axmv3Bro"
+            },
+            {
+              "display_url": "pic.x.com/q7axmv3bro",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+              "media_key": "3_1834077711662493696",
+              "start": 42,
+              "url": "https://t.co/q7Axmv3Bro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834177036623151118",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834077734018158799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chocolato_ww: @maimai_official そうでしょう https://t.co/q7Axmv3Bro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834077711666741250",
+            "3_1834077711662493696"
+          ]
+        },
+        "author_id": "1745619619728232448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834066929784603032",
+        "created_at": "2024-09-12T03:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T04:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834077734018158799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1001107099",
+              "start": 0,
+              "username": "maimai_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7axmv3bro",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+              "media_key": "3_1834077711666741250",
+              "start": 24,
+              "url": "https://t.co/q7Axmv3Bro"
+            },
+            {
+              "display_url": "pic.x.com/q7axmv3bro",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Chocolato_ww/status/1834077734018158799/photo/1",
+              "media_key": "3_1834077711662493696",
+              "start": 24,
+              "url": "https://t.co/q7Axmv3Bro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834077734018158799",
+        "in_reply_to_user_id": "1001107099",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5785,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834066929784603032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimai_official そうでしょう https://t.co/q7Axmv3Bro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 1567,
+          "like_count": 30386,
+          "listed_count": 7,
+          "tweet_count": 8504
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T01:32:21.000Z",
+        "description": "18|🐦Phigros16.23|🐻‍❄️Maimai暁将16000+|プロセカやってます！|🍫チョコレートが好きなのでチョコレートです🥰|アークナイツやってます‼️ (マドロックが推し❤️)｜趣味は旅行と映画とお風呂です^-^",
+        "id": "1745619619728232448",
+        "location": "中国",
+        "name": "チョコレート",
+        "pinned_tweet_id": "1833867530479296793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832054911804293120/Yql8aqss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 712,
+          "like_count": 8201,
+          "listed_count": 0,
+          "tweet_count": 694
+        },
+        "username": "Chocolato_ww",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "1834034300087648631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149337,
+          "following_count": 26,
+          "like_count": 121,
+          "listed_count": 1381,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

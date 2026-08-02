@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2051855490989310402",
+    "created_at": "2026-05-06T05:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051896667599978892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782932905419046912",
+          "start": 0,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051896667599978892",
+    "in_reply_to_user_id": "1782932905419046912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051855490989310402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratshelprats 还要包榨菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051855488091140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmnsfobsAAAeRI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2051855490989310402",
+        "created_at": "2026-05-06T05:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051896667599978892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051896667599978892",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051855490989310402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 还要包榨菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051855488091140096"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051855490989310402",
+        "created_at": "2026-05-06T02:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051855490989310402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0G7jxMgjt",
+              "end": 73,
+              "expanded_url": "https://x.com/ratshelprats/status/2051855490989310402/photo/1",
+              "media_key": "3_2051855488091140096",
+              "start": 50,
+              "url": "https://t.co/E0G7jxMgjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051855490989310402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1809,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的等我有钱了雇三个厨子天天给我摊鸡蛋灌饼！我一天三顿鸡蛋灌饼，我他妈加两根烤肠，还必须是双汇的 https://t.co/E0G7jxMgjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 1555,
+          "like_count": 34701,
+          "listed_count": 9,
+          "media_count": 1167,
+          "tweet_count": 11070
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2039406392768131266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105345,
+          "following_count": 494,
+          "like_count": 88714,
+          "listed_count": 160,
+          "media_count": 650,
+          "tweet_count": 1520
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

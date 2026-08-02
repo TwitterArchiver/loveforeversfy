@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800851616889028913",
+    "created_at": "2024-06-13T09:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T10:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801183427426926674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551615370535919616",
+          "start": 0,
+          "username": "zazanb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801183427426926674",
+    "in_reply_to_user_id": "1551615370535919616",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800851616889028913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zazanb666 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800851616889028913",
+        "created_at": "2024-06-13T09:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801183427426926674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551615370535919616",
+              "start": 0,
+              "username": "zazanb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801183427426926674",
+        "in_reply_to_user_id": "1551615370535919616",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800851616889028913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zazanb666 😢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800851578599153664"
+          ]
+        },
+        "author_id": "1551615370535919616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800851616889028913",
+        "created_at": "2024-06-12T11:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T12:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800851616889028913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KJMhZYV3VI",
+              "end": 120,
+              "expanded_url": "https://twitter.com/zazanb666/status/1800851616889028913/photo/1",
+              "media_key": "3_1800851578599153664",
+              "start": 97,
+              "url": "https://t.co/KJMhZYV3VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800851616889028913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我点了奶茶店的辣子鸡，全是骨头不好吃，外卖小哥告诉我说今天塔斯汀搞活动，3对鸡翅加一只全鸡才30块钱\n卤肉饭料理包加在剩饭里，饭太少了\n隔壁在做大锅饭，好热闹，我像个自闭症儿童一样在家里吃剩饭 https://t.co/KJMhZYV3VI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1566,
+          "like_count": 27616,
+          "listed_count": 8,
+          "tweet_count": 7464
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 466,
+          "like_count": 317,
+          "listed_count": 4,
+          "tweet_count": 11785
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

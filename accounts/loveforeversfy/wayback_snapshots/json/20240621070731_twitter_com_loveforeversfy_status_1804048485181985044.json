@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1804048485181985044",
+    "created_at": "2024-06-21T07:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T08:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804048485181985044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541694630965690368",
+          "start": 3,
+          "username": "Yao_freezer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804048485181985044",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804033070909263960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yao_freezer: 骷髅打🍥服滴滴滴滴滴滴滴滴嗒嗒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1804048485181985044",
+        "created_at": "2024-06-21T07:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T08:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804048485181985044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541694630965690368",
+              "start": 3,
+              "username": "Yao_freezer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804048485181985044",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804033070909263960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yao_freezer: 骷髅打🍥服滴滴滴滴滴滴滴滴嗒嗒"
+      },
+      {
+        "attachments": {},
+        "author_id": "1541694630965690368",
+        "conversation_id": "1804033070909263960",
+        "created_at": "2024-06-21T06:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T07:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804033070909263960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakasenb…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kagurazakasenba/status/1802977630498558256",
+              "start": 16,
+              "url": "https://t.co/GOTLCh3W5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804033070909263960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802977630498558256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骷髅打🍥服滴滴滴滴滴滴滴滴嗒嗒 https://t.co/GOTLCh3W5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1572,
+          "like_count": 27858,
+          "listed_count": 8,
+          "tweet_count": 7550
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T08:07:06.000Z",
+        "description": "",
+        "id": "1541694630965690368",
+        "name": "杳淼in冷凍庫",
+        "pinned_tweet_id": "1803456666509386055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741507550200438784/Al2SDrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 505,
+          "like_count": 31040,
+          "listed_count": 3,
+          "tweet_count": 3564
+        },
+        "username": "Yao_freezer",
+        "verified": false
+      }
+    ]
+  }
+}

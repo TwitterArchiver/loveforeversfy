@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1812099533385388033"
+      ],
+      "media_source_tweet_id": [
+        "1812099568232014146"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1812117741375045751",
+    "created_at": "2024-07-13T13:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T14:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812117741375045751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705984988561428480",
+          "start": 3,
+          "username": "R4Mikoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/CMZgVccMoR",
+          "end": 37,
+          "expanded_url": "https://twitter.com/R4Mikoto/status/1812099568232014146/video/1",
+          "media_key": "7_1812099533385388033",
+          "start": 14,
+          "url": "https://t.co/CMZgVccMoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812117741375045751",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812099568232014146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4Mikoto: https://t.co/CMZgVccMoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9971,
+        "height": 1280,
+        "media_key": "7_1812099533385388033",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1812099533385388033/pu/img/n_RMkAGwJq3-L07_.jpg",
+        "public_metrics": {
+          "view_count": 1453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812099533385388033/pu/vid/avc1/320x568/VP1eNMftBI28ez3N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812099533385388033/pu/vid/avc1/480x852/kSj9bUzSVd4odH3o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812099533385388033/pu/vid/avc1/720x1280/_jMBuV3fRsj8qcQb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1812099533385388033/pu/pl/JJT_IYsLR8AkLHqM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1812099533385388033"
+          ],
+          "media_source_tweet_id": [
+            "1812099568232014146"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1812117741375045751",
+        "created_at": "2024-07-13T13:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T14:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812117741375045751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705984988561428480",
+              "start": 3,
+              "username": "R4Mikoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CMZgVccMoR",
+              "end": 37,
+              "expanded_url": "https://twitter.com/R4Mikoto/status/1812099568232014146/video/1",
+              "media_key": "7_1812099533385388033",
+              "start": 14,
+              "url": "https://t.co/CMZgVccMoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812117741375045751",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812099568232014146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4Mikoto: https://t.co/CMZgVccMoR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1812099533385388033"
+          ]
+        },
+        "author_id": "1705984988561428480",
+        "conversation_id": "1812099568232014146",
+        "created_at": "2024-07-13T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812099568232014146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CMZgVccMoR",
+              "end": 23,
+              "expanded_url": "https://twitter.com/R4Mikoto/status/1812099568232014146/video/1",
+              "media_key": "7_1812099533385388033",
+              "start": 0,
+              "url": "https://t.co/CMZgVccMoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812099568232014146",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3462,
+          "like_count": 272,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CMZgVccMoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1567,
+          "like_count": 28585,
+          "listed_count": 8,
+          "tweet_count": 7904
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T16:38:21.000Z",
+        "description": "有村麻央とオーブリーの水着イラストがあったらDMに送ってください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/R4Mikoto",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/R4Mikoto",
+                "start": 0,
+                "url": "https://t.co/whMQFKbM4l"
+              }
+            ]
+          }
+        },
+        "id": "1705984988561428480",
+        "name": "MIKOTO",
+        "pinned_tweet_id": "1783513129705697607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780595794615439360/nMAVcO9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 96,
+          "like_count": 4497,
+          "listed_count": 1,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/whMQFKbM4l",
+        "username": "R4Mikoto",
+        "verified": false
+      }
+    ]
+  }
+}

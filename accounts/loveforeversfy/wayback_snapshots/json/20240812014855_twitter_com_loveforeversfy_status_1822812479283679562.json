@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822812464276525057"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1822812479283679562",
+    "created_at": "2024-08-12T01:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T02:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822812479283679562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zryhigdfuk",
+          "end": 23,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/1822812479283679562/video/1",
+          "media_key": "7_1822812464276525057",
+          "start": 0,
+          "url": "https://t.co/zrYhIgdFUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822812479283679562",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zrYhIgdFUK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1480,
+        "height": 1280,
+        "media_key": "7_1822812464276525057",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822812464276525057/pu/img/rDcBil5zp6dvJL1F.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822812464276525057/pu/vid/avc1/320x718/ihOKAnYBi3Q8Hbhu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822812464276525057/pu/vid/avc1/480x1076/7KIvLrJSptJ_zRa-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822812464276525057/pu/vid/avc1/570x1280/EUh3A_Kh6jnoCyDR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822812464276525057/pu/pl/OKk54VZWu-o-y09F.m3u8?tag=12"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822812464276525057"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1822812479283679562",
+        "created_at": "2024-08-12T01:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T02:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822812479283679562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zryhigdfuk",
+              "end": 23,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/1822812479283679562/video/1",
+              "media_key": "7_1822812464276525057",
+              "start": 0,
+              "url": "https://t.co/zrYhIgdFUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822812479283679562",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zrYhIgdFUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1572,
+          "like_count": 29615,
+          "listed_count": 8,
+          "tweet_count": 8303
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858398762735222784"
+      ],
+      "media_source_tweet_id": [
+        "1858398783777984725"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1858748518766440959",
+    "created_at": "2024-11-19T05:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T06:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858748518766440959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1537262093899923456",
+          "start": 3,
+          "username": "GideonKimberly1"
+        },
+        {
+          "end": 29,
+          "id": "1239457591417171973",
+          "start": 21,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s5H3NudhoS",
+          "end": 63,
+          "expanded_url": "https://x.com/GideonKimberly1/status/1858398783777984725/video/1",
+          "media_key": "7_1858398762735222784",
+          "start": 40,
+          "url": "https://t.co/s5H3NudhoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858748518766440959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858398783777984725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GideonKimberly1: @GFWfrog 笑臉，而且還是影片 https://t.co/s5H3NudhoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25566,
+        "height": 256,
+        "media_key": "7_1858398762735222784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858398762735222784/pu/img/iP5aLgRToktaQz1d.jpg",
+        "public_metrics": {
+          "view_count": 7025
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858398762735222784/pu/vid/avc1/256x256/GofNZdIoYUtZv2_Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858398762735222784/pu/pl/mnwT2AJkvuB7rnT6.m3u8?tag=12&v=d6a"
+          }
+        ],
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858398762735222784"
+          ],
+          "media_source_tweet_id": [
+            "1858398783777984725"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1858748518766440959",
+        "created_at": "2024-11-19T05:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858748518766440959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1537262093899923456",
+              "start": 3,
+              "username": "GideonKimberly1"
+            },
+            {
+              "end": 29,
+              "id": "1239457591417171973",
+              "start": 21,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5H3NudhoS",
+              "end": 63,
+              "expanded_url": "https://x.com/GideonKimberly1/status/1858398783777984725/video/1",
+              "media_key": "7_1858398762735222784",
+              "start": 40,
+              "url": "https://t.co/s5H3NudhoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858748518766440959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858398783777984725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GideonKimberly1: @GFWfrog 笑臉，而且還是影片 https://t.co/s5H3NudhoS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858398762735222784"
+          ]
+        },
+        "author_id": "1537262093899923456",
+        "conversation_id": "1858373033800442130",
+        "created_at": "2024-11-18T06:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T07:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858398783777984725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5H3NudhoS",
+              "end": 42,
+              "expanded_url": "https://x.com/GideonKimberly1/status/1858398783777984725/video/1",
+              "media_key": "7_1858398762735222784",
+              "start": 19,
+              "url": "https://t.co/s5H3NudhoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858398783777984725",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 14720,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858373033800442130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 笑臉，而且還是影片 https://t.co/s5H3NudhoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1585,
+          "like_count": 32054,
+          "listed_count": 7,
+          "tweet_count": 9325
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T02:34:05.000Z",
+        "description": "",
+        "id": "1537262093899923456",
+        "location": "Centralia",
+        "name": "Gideon Kimberly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854902630671081472/c-32drTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 149,
+          "like_count": 44542,
+          "listed_count": 15,
+          "tweet_count": 11194
+        },
+        "username": "GideonKimberly1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "学而时习之，墙国404\n\n欢迎私信投稿，视频投稿素材请发邮件: gfwfrog@gmail.com 或Telegram私信机器人@laohu_bot 投稿 万人Telegram群：https://t.co/BbAyHfnObj\n\nTelegram频道：https://t.co/Evu48wmwfT\n\n#中国为什么这么安全",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 161,
+                "start": 151,
+                "tag": "中国为什么这么安全"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "laohu_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 113,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 90,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 149,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 126,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GFWfrog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GFWfrog",
+                "start": 0,
+                "url": "https://t.co/LfpvB0NEDk"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸",
+        "pinned_tweet_id": "1851443820530962447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1479902115325698056/-KpaGUkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221380,
+          "following_count": 1448,
+          "like_count": 88660,
+          "listed_count": 802,
+          "tweet_count": 9019
+        },
+        "url": "https://t.co/LfpvB0NEDk",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

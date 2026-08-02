@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828425010823753728"
+      ],
+      "media_source_tweet_id": [
+        "1828425013566816272"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1828842553258783028",
+    "created_at": "2024-08-28T17:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T18:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828842553258783028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515328873105436675",
+          "start": 3,
+          "username": "magicalgun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/piinuf5s3h",
+          "end": 39,
+          "expanded_url": "https://twitter.com/magicalgun/status/1828425013566816272/photo/1",
+          "media_key": "3_1828425010823753728",
+          "start": 16,
+          "url": "https://t.co/PiiNUf5s3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828842553258783028",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2945
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828425013566816272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magicalgun: https://t.co/PiiNUf5s3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1828425010823753728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV_e3CSW8AAkeNS.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828425010823753728"
+          ],
+          "media_source_tweet_id": [
+            "1828425013566816272"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828842553258783028",
+        "created_at": "2024-08-28T17:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T18:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828842553258783028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515328873105436675",
+              "start": 3,
+              "username": "magicalgun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piinuf5s3h",
+              "end": 39,
+              "expanded_url": "https://twitter.com/magicalgun/status/1828425013566816272/photo/1",
+              "media_key": "3_1828425010823753728",
+              "start": 16,
+              "url": "https://t.co/PiiNUf5s3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828842553258783028",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2945
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828425013566816272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magicalgun: https://t.co/PiiNUf5s3H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828425010823753728"
+          ]
+        },
+        "author_id": "1515328873105436675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828425013566816272",
+        "created_at": "2024-08-27T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828425013566816272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/piinuf5s3h",
+              "end": 23,
+              "expanded_url": "https://twitter.com/magicalgun/status/1828425013566816272/photo/1",
+              "media_key": "3_1828425010823753728",
+              "start": 0,
+              "url": "https://t.co/PiiNUf5s3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828425013566816272",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 133986,
+          "like_count": 12084,
+          "quote_count": 137,
+          "reply_count": 25,
+          "retweet_count": 2945
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PiiNUf5s3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1572,
+          "like_count": 30102,
+          "listed_count": 7,
+          "tweet_count": 8423
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T13:59:05.000Z",
+        "description": "magical girl and vocaloid tuner ∩_∩\n                                                           •landmine menhera•ㅤㅤㅤㅤ♡",
+        "id": "1515328873105436675",
+        "location": "magical world",
+        "name": "Gummii",
+        "pinned_tweet_id": "1815781569203716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819023272765202432/NkOxY2Uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 2379,
+          "like_count": 19507,
+          "listed_count": 13,
+          "tweet_count": 3608
+        },
+        "username": "magicalgun",
+        "verified": false
+      }
+    ]
+  }
+}

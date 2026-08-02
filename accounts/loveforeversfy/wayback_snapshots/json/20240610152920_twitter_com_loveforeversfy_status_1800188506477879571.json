@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1800188506477879571",
+    "created_at": "2024-06-10T15:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T16:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800188506477879571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/biantaishark/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/biantaishark/status/1800074812725047702",
+          "start": 6,
+          "url": "https://t.co/VqYXuYy0ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800188506477879571",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800074812725047702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是傻逼😿 https://t.co/VqYXuYy0ar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1800188506477879571",
+        "created_at": "2024-06-10T15:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T16:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800188506477879571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/biantaishark/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/biantaishark/status/1800074812725047702",
+              "start": 6,
+              "url": "https://t.co/VqYXuYy0ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800188506477879571",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800074812725047702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是傻逼😿 https://t.co/VqYXuYy0ar"
+      },
+      {
+        "attachments": {},
+        "author_id": "1456239176827944965",
+        "conversation_id": "1800074812725047702",
+        "created_at": "2024-06-10T07:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T08:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800074812725047702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikari2304/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hikari2304/status/1799736468866494532",
+              "start": 13,
+              "url": "https://t.co/XFrv12NxwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800074812725047702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22755,
+          "like_count": 189,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799736468866494532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是疯了，我又不是傻逼 https://t.co/XFrv12NxwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1565,
+          "like_count": 27849,
+          "listed_count": 8,
+          "tweet_count": 7435
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:37:45.000Z",
+        "description": "男/不要带名字转载至墙内/喜欢ban人/爱吃致幻蘑菇",
+        "id": "1456239176827944965",
+        "location": "哈尔的电信城堡",
+        "name": "徐小樱🌸",
+        "pinned_tweet_id": "1690222115499442176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759892663942488064/z1D87wV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35451,
+          "following_count": 849,
+          "like_count": 518,
+          "listed_count": 115,
+          "tweet_count": 14738
+        },
+        "username": "biantaishark",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1867556444616503684",
+    "created_at": "2024-12-13T13:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T14:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867557217534456026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762478947621638144",
+          "start": 0,
+          "username": "Kambronya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867557217534456026",
+    "in_reply_to_user_id": "1762478947621638144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867556444616503684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kambronya 666这个吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1867556444616503684",
+        "created_at": "2024-12-13T13:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867557217534456026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762478947621638144",
+              "start": 0,
+              "username": "Kambronya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867557217534456026",
+        "in_reply_to_user_id": "1762478947621638144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867556444616503684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kambronya 666这个吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762478947621638144",
+        "conversation_id": "1867556444616503684",
+        "created_at": "2024-12-13T13:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867556444616503684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ictyep/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ictyep/status/1867545256360915180",
+              "start": 11,
+              "url": "https://t.co/zNGE160zD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867556444616503684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867545256360915180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "☺️您有实力您就来🤗 https://t.co/zNGE160zD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1585,
+          "like_count": 32745,
+          "listed_count": 10,
+          "media_count": 943,
+          "tweet_count": 9571
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T14:05:32.000Z",
+        "description": "总有一些东西，要用消失来证明它的珍贵。 @bronya_rip / LGBTQ➕友好/持续想死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "bronya_rip"
+              }
+            ]
+          }
+        },
+        "id": "1762478947621638144",
+        "name": "Bronya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831870320929861634/jz2zFNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 58,
+          "like_count": 2854,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1560
+        },
+        "username": "Kambronya",
+        "verified": false
+      }
+    ]
+  }
+}

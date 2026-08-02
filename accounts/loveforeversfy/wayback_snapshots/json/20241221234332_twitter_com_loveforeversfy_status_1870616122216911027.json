@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870267982934691840"
+      ],
+      "media_source_tweet_id": [
+        "1870268112182116683"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1870616122216911027",
+    "created_at": "2024-12-21T23:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T00:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870616122216911027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735379209709862915",
+          "start": 3,
+          "username": "cloudpuppy554"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BNWZrvR9c",
+          "end": 42,
+          "expanded_url": "https://x.com/cloudpuppy554/status/1870268112182116683/photo/1",
+          "media_key": "3_1870267982934691840",
+          "start": 19,
+          "url": "https://t.co/8BNWZrvR9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870616122216911027",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870268112182116683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cloudpuppy554: https://t.co/8BNWZrvR9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_1870267982934691840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfSG0kWb0AAcBwM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870267982934691840"
+          ],
+          "media_source_tweet_id": [
+            "1870268112182116683"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870616122216911027",
+        "created_at": "2024-12-21T23:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T00:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870616122216911027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735379209709862915",
+              "start": 3,
+              "username": "cloudpuppy554"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BNWZrvR9c",
+              "end": 42,
+              "expanded_url": "https://x.com/cloudpuppy554/status/1870268112182116683/photo/1",
+              "media_key": "3_1870267982934691840",
+              "start": 19,
+              "url": "https://t.co/8BNWZrvR9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870616122216911027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870268112182116683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cloudpuppy554: https://t.co/8BNWZrvR9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870267982934691840"
+          ]
+        },
+        "author_id": "1735379209709862915",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870268112182116683",
+        "created_at": "2024-12-21T00:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T01:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870268112182116683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BNWZrvR9c",
+              "end": 23,
+              "expanded_url": "https://x.com/cloudpuppy554/status/1870268112182116683/photo/1",
+              "media_key": "3_1870267982934691840",
+              "start": 0,
+              "url": "https://t.co/8BNWZrvR9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870268112182116683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 10241,
+          "like_count": 666,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8BNWZrvR9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1580,
+          "like_count": 32860,
+          "listed_count": 10,
+          "media_count": 952,
+          "tweet_count": 9630
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T19:20:32.000Z",
+        "description": "samoyed!! | main rgs: Arcaea (12.30), PIU (Advanced Lv. 5), maimai (OFFLINE 😭) | pfp by @PawFunk_!! | stream HARDCORE TANO*C and (G)I-DLE :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "PawFunk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/6khkrd5j3…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/6khkrd5j3iqnqb07esj1n5f97?si=-tBR0FwqQO-KnvkShIxf1w",
+                "start": 0,
+                "url": "https://t.co/pfMLn80rJ9"
+              }
+            ]
+          }
+        },
+        "id": "1735379209709862915",
+        "location": "NB (he/she/they) 🏳️‍⚧️ 19",
+        "name": "Gio 🌧️ | I_SWAY",
+        "pinned_tweet_id": "1840818704101359621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735382544961683456/yKUgtKNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 359,
+          "like_count": 30543,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/pfMLn80rJ9",
+        "username": "cloudpuppy554",
+        "verified": false
+      }
+    ]
+  }
+}

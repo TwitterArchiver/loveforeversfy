@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842343712434929664"
+      ],
+      "media_source_tweet_id": [
+        "1842343748719759452"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1842982806039003311",
+    "created_at": "2024-10-06T17:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T18:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842982806039003311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807814449543176193",
+          "start": 3,
+          "username": "Fresilulu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixx3rYSH7q",
+          "end": 68,
+          "expanded_url": "https://x.com/fudaishii/status/1842343748719759452/video/1",
+          "media_key": "7_1842343712434929664",
+          "start": 45,
+          "url": "https://t.co/ixx3rYSH7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842982806039003311",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 517
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842690794953883733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fresilulu: Sh fuerte, ver con discreción https://t.co/ixx3rYSH7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10533,
+        "height": 720,
+        "media_key": "7_1842343712434929664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842343712434929664/pu/img/fXeuWl-uafae6lXU.jpg",
+        "public_metrics": {
+          "view_count": 207009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842343712434929664/pu/vid/avc1/278x270/EPkbe6fy7bAp5ieh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842343712434929664/pu/vid/avc1/372x360/x7oNQ_tyx2tVwJKj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842343712434929664/pu/vid/avc1/744x720/nStiMUNrEjYvXoXz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842343712434929664/pu/pl/RAcoy6pd0RPjtoyA.m3u8?tag=12"
+          }
+        ],
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842343712434929664"
+          ],
+          "media_source_tweet_id": [
+            "1842343748719759452"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1842982806039003311",
+        "created_at": "2024-10-06T17:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T18:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842982806039003311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807814449543176193",
+              "start": 3,
+              "username": "Fresilulu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixx3rYSH7q",
+              "end": 68,
+              "expanded_url": "https://x.com/fudaishii/status/1842343748719759452/video/1",
+              "media_key": "7_1842343712434929664",
+              "start": 45,
+              "url": "https://t.co/ixx3rYSH7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842982806039003311",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 517
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842690794953883733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fresilulu: Sh fuerte, ver con discreción https://t.co/ixx3rYSH7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842343712434929664"
+          ],
+          "media_source_tweet_id": [
+            "1842343748719759452"
+          ]
+        },
+        "author_id": "1807814449543176193",
+        "conversation_id": "1842690794953883733",
+        "created_at": "2024-10-05T22:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T23:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842690794953883733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixx3rYSH7q",
+              "end": 53,
+              "expanded_url": "https://x.com/fudaishii/status/1842343748719759452/video/1",
+              "media_key": "7_1842343712434929664",
+              "start": 30,
+              "url": "https://t.co/ixx3rYSH7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842690794953883733",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 69806,
+          "like_count": 3364,
+          "quote_count": 17,
+          "reply_count": 43,
+          "retweet_count": 517
+        },
+        "reply_settings": "everyone",
+        "text": "Sh fuerte, ver con discreción https://t.co/ixx3rYSH7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1579,
+          "like_count": 30986,
+          "listed_count": 7,
+          "tweet_count": 8690
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T16:32:22.000Z",
+        "description": "Siganme en mi side/ @loudcals\n\nY en mi cuenta de gore y Sh @GorebyJenn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "loudcals"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "GorebyJenn"
+              }
+            ]
+          }
+        },
+        "id": "1807814449543176193",
+        "location": "#shtwt/#edtwt",
+        "name": "Jenn",
+        "pinned_tweet_id": "1832125692299108352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839729958626775040/WGvbpwuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7073,
+          "following_count": 1959,
+          "like_count": 17695,
+          "listed_count": 12,
+          "tweet_count": 3048
+        },
+        "username": "Fresilulu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1794694166972453131",
+    "created_at": "2024-05-26T12:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T13:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794714874880426140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794714874880426140",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794694166972453131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat 真前途了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1794694166972453131",
+        "created_at": "2024-05-26T12:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T13:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794714874880426140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794714874880426140",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794694166972453131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 真前途了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1794694166972453131",
+        "created_at": "2024-05-26T11:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T12:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794694166972453131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/love_u_8foreve…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/love_u_8forever/status/1794662894350860680",
+              "start": 20,
+              "url": "https://t.co/6jQMiV1VJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794694166972453131",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794662894350860680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你妈富蛆还开明家长你抑郁你妈臭逼呢 https://t.co/6jQMiV1VJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 1565,
+          "like_count": 27427,
+          "listed_count": 8,
+          "tweet_count": 7270
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "🏳️‍⚧️爱人/姐姐❤️@szc055555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "szc055555"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻拉面团子猫🎹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780182712978112512/NXAs6cnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 1224,
+          "like_count": 108646,
+          "listed_count": 11,
+          "tweet_count": 14639
+        },
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

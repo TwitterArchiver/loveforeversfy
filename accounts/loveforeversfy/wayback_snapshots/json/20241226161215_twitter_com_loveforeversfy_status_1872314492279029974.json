@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1871038366893871104"
+      ],
+      "media_source_tweet_id": [
+        "1871038395117387951"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1103042720212246528",
+          "name": "ONE PIECE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1103042720212246528",
+          "name": "ONE PIECE"
+        }
+      }
+    ],
+    "conversation_id": "1872314492279029974",
+    "created_at": "2024-12-26T16:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T17:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872314492279029974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "739070891909255168",
+          "start": 3,
+          "username": "poisoncookie00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z1aWB9B13I",
+          "end": 87,
+          "expanded_url": "https://x.com/Nba_Nebula/status/1871038395117387951/video/1",
+          "media_key": "7_1871038366893871104",
+          "start": 64,
+          "url": "https://t.co/z1aWB9B13I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872314492279029974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4668
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871887600027619831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poisoncookie00: よくある青と黒に見えるか白と金に見えるかみたいなワンピースの画像ってこういう事だったんだhttps://t.co/z1aWB9B13I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10820,
+        "height": 1920,
+        "media_key": "7_1871038366893871104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1871038366893871104/pu/img/Gn0E3rGakARTIxAV.jpg",
+        "public_metrics": {
+          "view_count": 3185047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871038366893871104/pu/vid/avc1/320x568/HvgVu9SFl39HhOwu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871038366893871104/pu/vid/avc1/480x852/lE8EWZfI105H74jf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871038366893871104/pu/vid/avc1/720x1280/OeR2RFl55xwUKLU7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1871038366893871104/pu/pl/dpSUXFLbl5Rk46W5.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871038366893871104"
+          ],
+          "media_source_tweet_id": [
+            "1871038395117387951"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          }
+        ],
+        "conversation_id": "1872314492279029974",
+        "created_at": "2024-12-26T16:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T17:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872314492279029974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "739070891909255168",
+              "start": 3,
+              "username": "poisoncookie00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1aWB9B13I",
+              "end": 87,
+              "expanded_url": "https://x.com/Nba_Nebula/status/1871038395117387951/video/1",
+              "media_key": "7_1871038366893871104",
+              "start": 64,
+              "url": "https://t.co/z1aWB9B13I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872314492279029974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4668
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871887600027619831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poisoncookie00: よくある青と黒に見えるか白と金に見えるかみたいなワンピースの画像ってこういう事だったんだhttps://t.co/z1aWB9B13I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871038366893871104"
+          ],
+          "media_source_tweet_id": [
+            "1871038395117387951"
+          ]
+        },
+        "author_id": "739070891909255168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          }
+        ],
+        "conversation_id": "1871887600027619831",
+        "created_at": "2024-12-25T11:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T12:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871887600027619831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1aWB9B13I",
+              "end": 67,
+              "expanded_url": "https://x.com/Nba_Nebula/status/1871038395117387951/video/1",
+              "media_key": "7_1871038366893871104",
+              "start": 44,
+              "url": "https://t.co/z1aWB9B13I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871887600027619831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11879,
+          "impression_count": 8592067,
+          "like_count": 55204,
+          "quote_count": 841,
+          "reply_count": 135,
+          "retweet_count": 4668
+        },
+        "reply_settings": "everyone",
+        "text": "よくある青と黒に見えるか白と金に見えるかみたいなワンピースの画像ってこういう事だったんだhttps://t.co/z1aWB9B13I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 1578,
+          "like_count": 32911,
+          "listed_count": 10,
+          "media_count": 956,
+          "tweet_count": 9654
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-04T12:26:46.000Z",
+        "description": "思ったことを呟くアカウント。書籍2作出版中。お仕事等のご依頼はDMまたはメールまで。※お仕事以外のDMは申し訳ないのですが、現在対応しておりません🥲連絡先 poisongirl0101@gmail.com",
+        "id": "739070891909255168",
+        "location": "デマ、悪質なリプライ等には法的措置を取ります",
+        "name": "ポイズンちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/961400593620193280/Ao_85TpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334117,
+          "following_count": 161,
+          "like_count": 28688,
+          "listed_count": 1361,
+          "media_count": 1739,
+          "tweet_count": 13956
+        },
+        "username": "poisoncookie00",
+        "verified": true
+      }
+    ]
+  }
+}

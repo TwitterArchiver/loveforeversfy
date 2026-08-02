@@ -1,0 +1,142 @@
+{
+  "data": {
+    "author_id": "1599012090517540869",
+    "conversation_id": "1849041165158412416",
+    "created_at": "2024-10-23T10:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T11:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849041165158412416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "id": "1849041165158412416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848936579391508893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 歧视性少数群体是基督教文化带来的糟粕。其实从始皇帝开始，我们就讲究车同轨，书同文，也就是说，统一车辆运行的轨道，多写一些同性恋的黄文。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1599012090517540869",
+        "conversation_id": "1849041165158412416",
+        "created_at": "2024-10-23T10:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T11:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849041165158412416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "id": "1849041165158412416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848936579391508893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 歧视性少数群体是基督教文化带来的糟粕。其实从始皇帝开始，我们就讲究车同轨，书同文，也就是说，统一车辆运行的轨道，多写一些同性恋的黄文。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "🍄｜❤️@aranda_5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "死妈高手蘑菇盆栽",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1583,
+          "like_count": 32633,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 9521
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "丄",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12577,
+          "following_count": 178,
+          "like_count": 364,
+          "listed_count": 40,
+          "media_count": 69,
+          "tweet_count": 11851
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

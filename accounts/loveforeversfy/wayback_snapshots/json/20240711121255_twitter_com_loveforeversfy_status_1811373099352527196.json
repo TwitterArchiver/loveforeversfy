@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1810968853515751702",
+    "created_at": "2024-07-11T12:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T13:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811373099352527196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811373099352527196",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810968853515751702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 你是大傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1810968853515751702",
+        "created_at": "2024-07-11T12:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T13:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811373099352527196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811373099352527196",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810968853515751702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 你是大傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "786479809647869952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1810968853515751702",
+        "created_at": "2024-07-10T09:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T10:26:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810968767838703817",
+          "1810968853515751702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1810968853515751702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 438125,
+          "like_count": 377,
+          "quote_count": 38,
+          "reply_count": 243,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "避免暑假小孩一人在家玩电脑伤眼睛，求一款监控软件，可以监控使用时间，并且每分钟截屏传到服务器，Windows 11 的系统。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1568,
+          "like_count": 28516,
+          "listed_count": 8,
+          "tweet_count": 7856
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "PuTTY 本无树，MinGW 亦非台 ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://www.skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/tKtSBIjLQO"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15905,
+          "following_count": 227,
+          "like_count": 2293,
+          "listed_count": 123,
+          "tweet_count": 2945
+        },
+        "url": "https://t.co/tKtSBIjLQO",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

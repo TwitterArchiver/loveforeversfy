@@ -1,0 +1,552 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805911762589335552",
+        "3_1805911763289804800"
+      ],
+      "media_source_tweet_id": [
+        "1805911766389436643",
+        "1805911766389436643"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "1806307457008034166",
+    "created_at": "2024-06-27T12:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T13:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806307457008034166"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "animal crossing",
+          "probability": 0.8397,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/b2NMsUIHVi",
+          "end": 65,
+          "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+          "media_key": "3_1805911762589335552",
+          "start": 42,
+          "url": "https://t.co/b2NMsUIHVi"
+        },
+        {
+          "display_url": "pic.twitter.com/b2NMsUIHVi",
+          "end": 65,
+          "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+          "media_key": "3_1805911763289804800",
+          "start": 42,
+          "url": "https://t.co/b2NMsUIHVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806307457008034166",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11727
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805911766389436643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: animal crossing figurine https://t.co/b2NMsUIHVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1805911762589335552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ_jLhDWQAA9J-g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1805911763289804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ_jLjqWkAA2kqa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805911762589335552",
+            "3_1805911763289804800"
+          ],
+          "media_source_tweet_id": [
+            "1805911766389436643",
+            "1805911766389436643"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1806307457008034166",
+        "created_at": "2024-06-27T12:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T13:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806307457008034166"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "animal crossing",
+              "probability": 0.8397,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/b2NMsUIHVi",
+              "end": 65,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+              "media_key": "3_1805911762589335552",
+              "start": 42,
+              "url": "https://t.co/b2NMsUIHVi"
+            },
+            {
+              "display_url": "pic.twitter.com/b2NMsUIHVi",
+              "end": 65,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+              "media_key": "3_1805911763289804800",
+              "start": 42,
+              "url": "https://t.co/b2NMsUIHVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806307457008034166",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11727
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805911766389436643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: animal crossing figurine https://t.co/b2NMsUIHVi"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805911762589335552",
+            "3_1805911763289804800"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1805911766389436643",
+        "created_at": "2024-06-26T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805911766389436643"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "animal crossing",
+              "probability": 0.9272,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/b2NMsUIHVi",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+              "media_key": "3_1805911762589335552",
+              "start": 25,
+              "url": "https://t.co/b2NMsUIHVi"
+            },
+            {
+              "display_url": "pic.twitter.com/b2NMsUIHVi",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lovesickdoe/status/1805911766389436643/photo/1",
+              "media_key": "3_1805911763289804800",
+              "start": 25,
+              "url": "https://t.co/b2NMsUIHVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805911766389436643",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7272,
+          "impression_count": 2297998,
+          "like_count": 96332,
+          "quote_count": 1036,
+          "reply_count": 152,
+          "retweet_count": 11727
+        },
+        "reply_settings": "everyone",
+        "text": "animal crossing figurine https://t.co/b2NMsUIHVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1571,
+          "like_count": 28103,
+          "listed_count": 8,
+          "tweet_count": 7642
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "about this account:\ni post sanrio, animals, cute items and do giveaways from time to time!\n\nplease email me for a quick response! miffylover97@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "ʚ go to link for more info ",
+        "name": "/ᐠ - ˕ -マ",
+        "pinned_tweet_id": "1797941028328186215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661501060878413825/8V91hoDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143476,
+          "following_count": 253,
+          "like_count": 52048,
+          "listed_count": 634,
+          "tweet_count": 40745
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

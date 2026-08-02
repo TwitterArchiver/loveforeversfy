@@ -1,0 +1,435 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1805228312199139328"
+      ],
+      "media_source_tweet_id": [
+        "1805228342603559101"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1805335253353218117",
+    "created_at": "2024-06-24T20:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T21:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805335253353218117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "東方"
+        },
+        {
+          "end": 52,
+          "start": 45,
+          "tag": "touhou"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1507369550714929154",
+          "start": 3,
+          "username": "japanesegoblin9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KwtniR1VFg",
+          "end": 76,
+          "expanded_url": "https://twitter.com/japanesegoblin9/status/1805228342603559101/video/1",
+          "media_key": "7_1805228312199139328",
+          "start": 53,
+          "url": "https://t.co/KwtniR1VFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805335253353218117",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805228342603559101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @japanesegoblin9: 紅茶のグラスから出る音はこれしかない！\n#東方 #touhou https://t.co/KwtniR1VFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13400,
+        "height": 740,
+        "media_key": "7_1805228312199139328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1805228312199139328/pu/img/axbzGg2U1Sn34pOk.jpg",
+        "public_metrics": {
+          "view_count": 1974
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805228312199139328/pu/vid/avc1/320x328/cvpnkuKkB7fT5pir.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805228312199139328/pu/vid/avc1/480x492/iKeAZv4w1OmbifyX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1805228312199139328/pu/vid/avc1/720x740/afAZJSDfl-94QBFQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1805228312199139328/pu/pl/bFIYXZJpC0sv46Ws.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805228312199139328"
+          ],
+          "media_source_tweet_id": [
+            "1805228342603559101"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1805335253353218117",
+        "created_at": "2024-06-24T20:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T21:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805335253353218117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "東方"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "touhou"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1507369550714929154",
+              "start": 3,
+              "username": "japanesegoblin9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KwtniR1VFg",
+              "end": 76,
+              "expanded_url": "https://twitter.com/japanesegoblin9/status/1805228342603559101/video/1",
+              "media_key": "7_1805228312199139328",
+              "start": 53,
+              "url": "https://t.co/KwtniR1VFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805335253353218117",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805228342603559101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @japanesegoblin9: 紅茶のグラスから出る音はこれしかない！\n#東方 #touhou https://t.co/KwtniR1VFg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805228312199139328"
+          ]
+        },
+        "author_id": "1507369550714929154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1805228342603559101",
+        "created_at": "2024-06-24T13:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T14:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805228342603559101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "東方"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "touhou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KwtniR1VFg",
+              "end": 55,
+              "expanded_url": "https://twitter.com/japanesegoblin9/status/1805228342603559101/video/1",
+              "media_key": "7_1805228312199139328",
+              "start": 32,
+              "url": "https://t.co/KwtniR1VFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805228342603559101",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3290,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "紅茶のグラスから出る音はこれしかない！\n#東方 #touhou https://t.co/KwtniR1VFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1573,
+          "like_count": 28077,
+          "listed_count": 8,
+          "tweet_count": 7626
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T14:51:33.000Z",
+        "description": "最近東方知ってハマった人です。Win3部作はノーマルクリアして、現在地霊殿挑戦中です。ニコニコ、アニメ、ゲームなどあんまり触れることなく生きてきた人間ですがどうぞお手柔らかに🙏Bros living in Gensokyo, please get along with each other",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hyper_japanese…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hyper_japanesegoblin?igsh=NDNuemJ2ZXpmNHR0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/J7Mx7hIbFm"
+              }
+            ]
+          }
+        },
+        "id": "1507369550714929154",
+        "name": "しょけ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788832287213379584/dZdG5RoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 127,
+          "like_count": 2123,
+          "listed_count": 0,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/J7Mx7hIbFm",
+        "username": "japanesegoblin9",
+        "verified": false
+      }
+    ]
+  }
+}

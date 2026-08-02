@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1820133840947703930",
+    "created_at": "2024-08-05T07:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T08:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820358083622867121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820358083622867121",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820264567819374701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1820133840947703930",
+        "created_at": "2024-08-05T07:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T08:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820358083622867121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820358083622867121",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820264567819374701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI 😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "1820133840947703930",
+        "created_at": "2024-08-05T01:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T02:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820264567819374701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820264567819374701",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820133840947703930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 你好他妈强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1569,
+          "like_count": 29457,
+          "listed_count": 8,
+          "tweet_count": 8261
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "😶‍🌫️我就像阿卡林一样透明没有存在感😶‍🌫️",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "阿卡琳（赤座灯里）",
+        "pinned_tweet_id": "1819995026858058024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804452659975626752/uX72fROl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 125,
+          "like_count": 5035,
+          "listed_count": 3,
+          "tweet_count": 10563
+        },
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

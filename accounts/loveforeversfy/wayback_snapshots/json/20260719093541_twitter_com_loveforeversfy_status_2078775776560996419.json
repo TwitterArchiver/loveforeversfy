@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2078775776560996419",
+    "created_at": "2026-07-19T09:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078775776560996419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1334247847374548992",
+          "start": 3,
+          "username": "SaintSFGil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078775776560996419",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078569648082043141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaintSFGil: NO WACCA\n\nNOOOO DONT RELEASE YOUR GAME IN LATE 2019\n\nYOU WONT SURVIVE WHAT HAPPENS IN 2020 NOOOOOOO STOPPPPPP DONT DO THIS…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_2078569641148817409",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNiQE22WIAEs20Z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNiQE22WIAEs20Z.mp4"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2078775776560996419",
+        "created_at": "2026-07-19T09:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078775776560996419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1334247847374548992",
+              "start": 3,
+              "username": "SaintSFGil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775776560996419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078569648082043141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaintSFGil: NO WACCA\n\nNOOOO DONT RELEASE YOUR GAME IN LATE 2019\n\nYOU WONT SURVIVE WHAT HAPPENS IN 2020 NOOOOOOO STOPPPPPP DONT DO THIS…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078569641148817409"
+          ]
+        },
+        "author_id": "1334247847374548992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2078569648082043141",
+        "created_at": "2026-07-18T19:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078569648082043141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qntK64m56C",
+              "end": 152,
+              "expanded_url": "https://x.com/SaintSFGil/status/2078569648082043141/photo/1",
+              "media_key": "16_2078569641148817409",
+              "start": 129,
+              "url": "https://t.co/qntK64m56C"
+            },
+            {
+              "display_url": "x.com/wacca_official…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/wacca_official/status/1151663111113281536",
+              "start": 153,
+              "url": "https://t.co/jYCmoo2Qlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078569648082043141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7965,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1151663111113281536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NO WACCA\n\nNOOOO DONT RELEASE YOUR GAME IN LATE 2019\n\nYOU WONT SURVIVE WHAT HAPPENS IN 2020 NOOOOOOO STOPPPPPP DONT DO THIS TO ME https://t.co/qntK64m56C https://t.co/jYCmoo2Qlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 1555,
+          "like_count": 35635,
+          "listed_count": 9,
+          "media_count": 1238,
+          "tweet_count": 11524
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-02T21:27:38.000Z",
+        "description": "21 He/Him 🇻🇳 Rhythm Games, Cars, Graphic Design. Prius V/300ZX Z31. IIDX 9th Dan, CHUNITHM 16.29, WACCA 2650 Priv @SaintSFGil3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "SaintSFGil3"
+              }
+            ]
+          }
+        },
+        "id": "1334247847374548992",
+        "location": "Round1 GVM Staff!",
+        "name": "Saint “Super Freak” Gil",
+        "pinned_tweet_id": "2078514041375359213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077136625084063746/kSwImvCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 2614,
+          "like_count": 356303,
+          "listed_count": 33,
+          "media_count": 24272,
+          "tweet_count": 74086
+        },
+        "url": "",
+        "username": "SaintSFGil",
+        "verified": false
+      }
+    ]
+  }
+}

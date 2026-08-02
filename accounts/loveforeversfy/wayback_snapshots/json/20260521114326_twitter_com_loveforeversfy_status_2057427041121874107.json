@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057427038550843392"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2057427041121874107",
+    "created_at": "2026-05-21T11:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057427041121874107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbrDA1RSvB",
+          "end": 58,
+          "expanded_url": "https://x.com/loveforeversfy/status/2057427041121874107/photo/1",
+          "media_key": "3_2057427038550843392",
+          "start": 35,
+          "url": "https://t.co/EbrDA1RSvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057427041121874107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "王八接收我以为谁专门寄个快递来说王八接收\n其实是无人接听。。。。。。 https://t.co/EbrDA1RSvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2057427038550843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1y_agbYAAno5A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057427038550843392"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2057427041121874107",
+        "created_at": "2026-05-21T11:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057427041121874107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbrDA1RSvB",
+              "end": 58,
+              "expanded_url": "https://x.com/loveforeversfy/status/2057427041121874107/photo/1",
+              "media_key": "3_2057427038550843392",
+              "start": 35,
+              "url": "https://t.co/EbrDA1RSvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057427041121874107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王八接收我以为谁专门寄个快递来说王八接收\n其实是无人接听。。。。。。 https://t.co/EbrDA1RSvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1563,
+          "like_count": 35061,
+          "listed_count": 9,
+          "media_count": 1183,
+          "tweet_count": 11192
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

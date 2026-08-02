@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2049808416223510550",
+    "created_at": "2026-04-30T15:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049879521059553458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049879521059553458",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049808416223510550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抬头纹高手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049808412842905600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJh5CEb0AAsfFW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049808413048422400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJh5C1bwAAd_12.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2049808416223510550",
+        "created_at": "2026-04-30T15:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049879521059553458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049879521059553458",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049808416223510550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抬头纹高手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049808412842905600",
+            "3_2049808413048422400"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2049808416223510550",
+        "created_at": "2026-04-30T11:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049808416223510550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808412842905600",
+              "start": 4,
+              "url": "https://t.co/QUVfDkQG6a"
+            },
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808413048422400",
+              "start": 4,
+              "url": "https://t.co/QUVfDkQG6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808416223510550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2075,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "欧迪中 https://t.co/QUVfDkQG6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 1559,
+          "like_count": 34492,
+          "listed_count": 8,
+          "media_count": 1159,
+          "tweet_count": 11006
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

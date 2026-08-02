@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069173531401949184",
+        "3_2069173531817160705"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2069173534421930301",
+    "created_at": "2026-06-22T21:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T22:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069173534421930301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UMFGrWVqJ",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2069173534421930301/photo/1",
+          "media_key": "3_2069173531401949184",
+          "start": 5,
+          "url": "https://t.co/3UMFGrWVqJ"
+        },
+        {
+          "display_url": "pic.x.com/3UMFGrWVqJ",
+          "end": 28,
+          "expanded_url": "https://x.com/loveforeversfy/status/2069173534421930301/photo/1",
+          "media_key": "3_2069173531817160705",
+          "start": 5,
+          "url": "https://t.co/3UMFGrWVqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069173534421930301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大肥呆鼠 https://t.co/3UMFGrWVqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069173531401949184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcuXSXakAAKfB1.jpg",
+        "width": 1286
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069173531817160705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcuXT6aMAEA6Dm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069173531401949184",
+            "3_2069173531817160705"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2069173534421930301",
+        "created_at": "2026-06-22T21:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069173534421930301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UMFGrWVqJ",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2069173534421930301/photo/1",
+              "media_key": "3_2069173531401949184",
+              "start": 5,
+              "url": "https://t.co/3UMFGrWVqJ"
+            },
+            {
+              "display_url": "pic.x.com/3UMFGrWVqJ",
+              "end": 28,
+              "expanded_url": "https://x.com/loveforeversfy/status/2069173534421930301/photo/1",
+              "media_key": "3_2069173531817160705",
+              "start": 5,
+              "url": "https://t.co/3UMFGrWVqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069173534421930301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大肥呆鼠 https://t.co/3UMFGrWVqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 1558,
+          "like_count": 35304,
+          "listed_count": 8,
+          "media_count": 1207,
+          "tweet_count": 11355
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079893257115566080"
+      ],
+      "media_source_tweet_id": [
+        "2079893266649256359"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2079972098689384488",
+    "created_at": "2026-07-22T16:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079972098689384488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "银狐VPN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1841098665001435141",
+          "start": 3,
+          "username": "yinsuecci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NJDCy5jCdt",
+          "end": 54,
+          "expanded_url": "https://x.com/yinsuecci/status/2079893266649256359/photo/1",
+          "media_key": "3_2079893257115566080",
+          "start": 31,
+          "url": "https://t.co/NJDCy5jCdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079972098689384488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079893266649256359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinsuecci: 银狐VPN翻车😋\n#银狐VPN https://t.co/NJDCy5jCdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079893257115566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1D5ckagAAwSun.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079893257115566080"
+          ]
+        },
+        "author_id": "1841098665001435141",
+        "conversation_id": "2079893266649256359",
+        "created_at": "2026-07-22T11:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079893266649256359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "银狐VPN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJDCy5jCdt",
+              "end": 39,
+              "expanded_url": "https://x.com/yinsuecci/status/2079893266649256359/photo/1",
+              "media_key": "3_2079893257115566080",
+              "start": 16,
+              "url": "https://t.co/NJDCy5jCdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079893266649256359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13940,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "银狐VPN翻车😋\n#银狐VPN https://t.co/NJDCy5jCdt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079893257115566080"
+          ],
+          "media_source_tweet_id": [
+            "2079893266649256359"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2079972098689384488",
+        "created_at": "2026-07-22T16:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079972098689384488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "银狐VPN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1841098665001435141",
+              "start": 3,
+              "username": "yinsuecci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJDCy5jCdt",
+              "end": 54,
+              "expanded_url": "https://x.com/yinsuecci/status/2079893266649256359/photo/1",
+              "media_key": "3_2079893257115566080",
+              "start": 31,
+              "url": "https://t.co/NJDCy5jCdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079972098689384488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079893266649256359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinsuecci: 银狐VPN翻车😋\n#银狐VPN https://t.co/NJDCy5jCdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 1556,
+          "like_count": 35711,
+          "listed_count": 10,
+          "media_count": 1244,
+          "tweet_count": 11548
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：黄狗 / 小樱（En & Ch)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rw.udclass.top",
+                "end": 23,
+                "expanded_url": "https://rw.udclass.top",
+                "start": 0,
+                "url": "https://t.co/TaH2ekJBau"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2067124610534150624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 315,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/TaH2ekJBau",
+        "username": "yinsuecci",
+        "verified": true
+      }
+    ]
+  }
+}

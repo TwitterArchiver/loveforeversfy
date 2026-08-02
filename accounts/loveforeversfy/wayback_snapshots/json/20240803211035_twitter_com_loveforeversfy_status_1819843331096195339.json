@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819541525874851840"
+      ],
+      "media_source_tweet_id": [
+        "1819541537161990352"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1819843331096195339",
+    "created_at": "2024-08-03T21:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T22:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819843331096195339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735879041494773760",
+          "start": 3,
+          "username": "LimitedBerry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YJNF9pP6kq",
+          "end": 48,
+          "expanded_url": "https://twitter.com/LimitedBerry1/status/1819541537161990352/photo/1",
+          "media_key": "3_1819541525874851840",
+          "start": 25,
+          "url": "https://t.co/YJNF9pP6kq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819843331096195339",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819541537161990352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimitedBerry1: 我有时候： https://t.co/YJNF9pP6kq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_1819541525874851840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUBPYJ_XwAAHuM7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819541525874851840"
+          ],
+          "media_source_tweet_id": [
+            "1819541537161990352"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1819843331096195339",
+        "created_at": "2024-08-03T21:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T22:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819843331096195339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735879041494773760",
+              "start": 3,
+              "username": "LimitedBerry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YJNF9pP6kq",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LimitedBerry1/status/1819541537161990352/photo/1",
+              "media_key": "3_1819541525874851840",
+              "start": 25,
+              "url": "https://t.co/YJNF9pP6kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819843331096195339",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819541537161990352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimitedBerry1: 我有时候： https://t.co/YJNF9pP6kq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819541525874851840"
+          ]
+        },
+        "author_id": "1735879041494773760",
+        "conversation_id": "1819541537161990352",
+        "created_at": "2024-08-03T01:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T02:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819541537161990352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YJNF9pP6kq",
+              "end": 29,
+              "expanded_url": "https://twitter.com/LimitedBerry1/status/1819541537161990352/photo/1",
+              "media_key": "3_1819541525874851840",
+              "start": 6,
+              "url": "https://t.co/YJNF9pP6kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819541537161990352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 44775,
+          "like_count": 763,
+          "quote_count": 7,
+          "reply_count": 41,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候： https://t.co/YJNF9pP6kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1569,
+          "like_count": 29420,
+          "listed_count": 8,
+          "tweet_count": 8241
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T04:26:40.000Z",
+        "description": "我是一枚吉蛋🥚眼熟的小宝宝们欢迎来加我微信ovo 禁止给我发屌 给我发屌的短命没钱替我挡灾🙏🏻 自用🪜：https://t.co/4ovPlijINs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cpdd.one/?r=20749",
+                "end": 75,
+                "expanded_url": "https://cpdd.one/?r=20749",
+                "start": 52,
+                "url": "https://t.co/4ovPlijINs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gugugaga93776",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gugugaga93776",
+                "start": 0,
+                "url": "https://t.co/4fsdJibMds"
+              }
+            ]
+          }
+        },
+        "id": "1735879041494773760",
+        "name": "qq",
+        "pinned_tweet_id": "1819732898469326974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808827449528233984/OBCr0E1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 285,
+          "like_count": 4304,
+          "listed_count": 1,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/4fsdJibMds",
+        "username": "LimitedBerry1",
+        "verified": false
+      }
+    ]
+  }
+}

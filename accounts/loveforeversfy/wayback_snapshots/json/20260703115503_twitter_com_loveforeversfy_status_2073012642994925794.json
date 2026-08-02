@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2073012642994925794",
+    "created_at": "2026-07-03T11:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073012642994925794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989031117111062528",
+          "start": 3,
+          "username": "kaionjiaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073012642994925794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072515587990024361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaionjiaoi: 冷知识：魔爪是功能性饮料，不是性功能饮料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2073012642994925794",
+        "created_at": "2026-07-03T11:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073012642994925794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989031117111062528",
+              "start": 3,
+              "username": "kaionjiaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073012642994925794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072515587990024361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaionjiaoi: 冷知识：魔爪是功能性饮料，不是性功能饮料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989031117111062528",
+        "conversation_id": "2072515587990024361",
+        "created_at": "2026-07-02T02:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072515587990024361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072515587990024361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6368,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：魔爪是功能性饮料，不是性功能饮料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 1555,
+          "like_count": 35508,
+          "listed_count": 8,
+          "media_count": 1221,
+          "tweet_count": 11426
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "MtF/海洋生物/HRT.2024/永远十七岁/生日10.2/🚪8964/持证含糖/ADHD/rle进行中/来和我逛街/来玩ow/常驻南京/欢迎同类和我贴贴!/也欢迎同类约我旅行！/泛左翼激跨/❤️好宝宝好妹妹@LiciiQAQ/南京第一深情/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 111,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "kaionjiaoi",
+        "verified": false
+      }
+    ]
+  }
+}

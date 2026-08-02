@@ -1,0 +1,504 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1808186714122231808"
+      ],
+      "media_source_tweet_id": [
+        "1808186854035845195"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "1808526250614599706",
+    "created_at": "2024-07-03T15:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T16:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808526250614599706"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "ddlc"
+        },
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "omori"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742343887014780928",
+          "start": 3,
+          "username": "ratqng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pZRzL4YlvQ",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ratqng/status/1808186854035845195/video/1",
+          "media_key": "7_1808186714122231808",
+          "start": 25,
+          "url": "https://t.co/pZRzL4YlvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808526250614599706",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808186854035845195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratqng: #ddlc #omori https://t.co/pZRzL4YlvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50966,
+        "height": 720,
+        "media_key": "7_1808186714122231808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808186714122231808/pu/img/E0v6BX6M0x-uBX9y.jpg",
+        "public_metrics": {
+          "view_count": 240087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808186714122231808/pu/vid/avc1/276x270/AsmBsf-j5MI4-NUH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808186714122231808/pu/vid/avc1/368x360/IUvAEPDq15NbQ9BR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808186714122231808/pu/vid/avc1/736x720/FWQPwFEhImDqhHQP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808186714122231808/pu/pl/fMOjpGhf5Ynh5Z8R.m3u8?tag=12"
+          }
+        ],
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808186714122231808"
+          ],
+          "media_source_tweet_id": [
+            "1808186854035845195"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1808526250614599706",
+        "created_at": "2024-07-03T15:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T16:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808526250614599706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ddlc"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "omori"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742343887014780928",
+              "start": 3,
+              "username": "ratqng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pZRzL4YlvQ",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ratqng/status/1808186854035845195/video/1",
+              "media_key": "7_1808186714122231808",
+              "start": 25,
+              "url": "https://t.co/pZRzL4YlvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808526250614599706",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808186854035845195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratqng: #ddlc #omori https://t.co/pZRzL4YlvQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808186714122231808"
+          ]
+        },
+        "author_id": "1742343887014780928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1808186854035845195",
+        "created_at": "2024-07-02T17:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T18:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808186854035845195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ddlc"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "omori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pZRzL4YlvQ",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ratqng/status/1808186854035845195/video/1",
+              "media_key": "7_1808186714122231808",
+              "start": 13,
+              "url": "https://t.co/pZRzL4YlvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808186854035845195",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3911,
+          "impression_count": 524059,
+          "like_count": 27099,
+          "quote_count": 116,
+          "reply_count": 26,
+          "retweet_count": 5113
+        },
+        "reply_settings": "everyone",
+        "text": "#ddlc #omori https://t.co/pZRzL4YlvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1571,
+          "like_count": 28342,
+          "listed_count": 7,
+          "tweet_count": 7753
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T00:35:43.000Z",
+        "description": "18 yo\ndraw art draw art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/ratatang",
+                "end": 23,
+                "expanded_url": "https://www.tumblr.com/ratatang",
+                "start": 0,
+                "url": "https://t.co/0HDBzwOYdq"
+              }
+            ]
+          }
+        },
+        "id": "1742343887014780928",
+        "name": "ratatwang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808003651836817410/pP6QZmO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 9,
+          "like_count": 1154,
+          "listed_count": 8,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/0HDBzwOYdq",
+        "username": "ratqng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2041858925629477027",
+    "created_at": "2026-04-08T15:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041903332294541410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041903332294541410",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041858925629477027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 我来直接免疫了😁😁😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2041858913277243392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYj3Qda8AAmPJe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2041858925629477027",
+        "created_at": "2026-04-08T15:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041903332294541410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041903332294541410",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041858925629477027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 我来直接免疫了😁😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041858913277243392"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2041858925629477027",
+        "created_at": "2026-04-08T12:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041858925629477027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p010IKxjDi",
+              "end": 160,
+              "expanded_url": "https://x.com/ashasw114514/status/2041858925629477027/photo/1",
+              "media_key": "3_2041858913277243392",
+              "start": 137,
+              "url": "https://t.co/p010IKxjDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041858925629477027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1121,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在主页挂了我的pronoun是they/him且欢迎互fo，这代表我会回关所有关注我的人，她如果关注我就一定会点进我主页，点进我主页就一定会看到，但是她看到这些了还是关注我了，或许她不在意又或许她认不出来这是什么意思。但是我如果回关回去我的母亲就会暴毙，我到底该怎么做？ https://t.co/p010IKxjDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1547,
+          "like_count": 33893,
+          "listed_count": 8,
+          "media_count": 1142,
+          "tweet_count": 10755
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby mtx  they/him  hrt2025.2.27 性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  全网最尊重激女和毛泽东的账号  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034677273480290305/MNxmMT3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1323,
+          "like_count": 3888,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 2661
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

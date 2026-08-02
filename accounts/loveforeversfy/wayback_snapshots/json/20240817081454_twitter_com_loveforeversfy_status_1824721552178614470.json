@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1823757405970112512"
+      ],
+      "media_source_tweet_id": [
+        "1824634754425045194"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1824721552178614470",
+    "created_at": "2024-08-17T08:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T09:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824721552178614470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605230972588462081",
+          "start": 3,
+          "username": "shitpost_2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5vuqegv8ds",
+          "end": 42,
+          "expanded_url": "https://twitter.com/shitpost_2077/status/1824634754425045194/video/1",
+          "media_key": "7_1823757405970112512",
+          "start": 19,
+          "url": "https://t.co/5vuqEgV8ds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824721552178614470",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 774
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824634754425045194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitpost_2077: https://t.co/5vuqEgV8ds"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19202,
+        "height": 720,
+        "media_key": "7_1823757405970112512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1823757405970112512/pu/img/Wr6y7xu6VG_0PnRR.jpg",
+        "public_metrics": {
+          "view_count": 40326
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823757405970112512/pu/vid/avc1/320x320/pkknzz0Uy17SZnv7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823757405970112512/pu/vid/avc1/540x540/_XPaPQr6xnK2RCWq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823757405970112512/pu/vid/avc1/720x720/3qHTOCFrX_I-AHa_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1823757405970112512/pu/pl/KqABFbj9GkDqwhj4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823757405970112512"
+          ],
+          "media_source_tweet_id": [
+            "1824634754425045194"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1824721552178614470",
+        "created_at": "2024-08-17T08:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T09:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824721552178614470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605230972588462081",
+              "start": 3,
+              "username": "shitpost_2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vuqegv8ds",
+              "end": 42,
+              "expanded_url": "https://twitter.com/shitpost_2077/status/1824634754425045194/video/1",
+              "media_key": "7_1823757405970112512",
+              "start": 19,
+              "url": "https://t.co/5vuqEgV8ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824721552178614470",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 774
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824634754425045194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitpost_2077: https://t.co/5vuqEgV8ds"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823757405970112512"
+          ]
+        },
+        "author_id": "1605230972588462081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1824634754425045194",
+        "created_at": "2024-08-17T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824634754425045194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vuqegv8ds",
+              "end": 23,
+              "expanded_url": "https://twitter.com/shitpost_2077/status/1824634754425045194/video/1",
+              "media_key": "7_1823757405970112512",
+              "start": 0,
+              "url": "https://t.co/5vuqEgV8ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824634754425045194",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 78551,
+          "like_count": 4883,
+          "quote_count": 50,
+          "reply_count": 24,
+          "retweet_count": 774
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5vuqEgV8ds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1569,
+          "like_count": 29739,
+          "listed_count": 8,
+          "tweet_count": 8334
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:57:54.000Z",
+        "description": "shitpost post until 2077 | owner @Necati_coskun_ \n| Dm for credit and removals | NO PROMOS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Necati_coskun_"
+              }
+            ]
+          }
+        },
+        "id": "1605230972588462081",
+        "location": "63.33267215030651, -67.8384739",
+        "name": "Shitpost 2077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711677491142594560/UUZ48b1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539493,
+          "following_count": 143,
+          "like_count": 8824,
+          "listed_count": 855,
+          "tweet_count": 679
+        },
+        "username": "shitpost_2077",
+        "verified": true
+      }
+    ]
+  }
+}

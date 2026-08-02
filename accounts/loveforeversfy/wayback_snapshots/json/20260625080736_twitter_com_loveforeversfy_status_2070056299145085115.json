@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2070051766604062947",
+    "created_at": "2026-06-25T08:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070056299145085115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1641643457214300161",
+          "start": 0,
+          "username": "satsuki__sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070056299145085115",
+    "in_reply_to_user_id": "1641643457214300161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070051766604062947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsuki__sekai 很可爱 不咬人 就是臭臭的还老想着越狱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070051766604062947].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070051766604062947",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070051766604062947"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2070051766604062947",
+        "created_at": "2026-06-25T08:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070056299145085115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1641643457214300161",
+              "start": 0,
+              "username": "satsuki__sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070056299145085115",
+        "in_reply_to_user_id": "1641643457214300161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070051766604062947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsuki__sekai 很可爱 不咬人 就是臭臭的还老想着越狱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1557,
+          "like_count": 35341,
+          "listed_count": 8,
+          "media_count": 1214,
+          "tweet_count": 11378
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:28:03.000Z",
+        "description": "サツキ セカイ｜请不要找我要互关 ｜🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/satsuki69587",
+                "end": 23,
+                "expanded_url": "https://ngl.link/satsuki69587",
+                "start": 0,
+                "url": "https://t.co/VjHEIaPMnu"
+              }
+            ]
+          }
+        },
+        "id": "1641643457214300161",
+        "location": "BC",
+        "name": "月月神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054753976239919104/equ6ZsF-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1063,
+          "like_count": 66547,
+          "listed_count": 4,
+          "media_count": 2164,
+          "tweet_count": 25189
+        },
+        "url": "https://t.co/VjHEIaPMnu",
+        "username": "satsuki__sekai",
+        "verified": false
+      }
+    ]
+  }
+}

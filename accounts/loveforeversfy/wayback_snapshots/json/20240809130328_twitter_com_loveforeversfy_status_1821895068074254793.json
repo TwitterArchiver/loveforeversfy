@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1821887094446526902",
+    "created_at": "2024-08-09T13:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T14:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821895068074254793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821895068074254793",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821887094446526902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1821887094446526902",
+        "created_at": "2024-08-09T13:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T14:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821895068074254793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821895068074254793",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821887094446526902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1821887094446526902",
+        "created_at": "2024-08-09T12:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T13:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821887094446526902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821887094446526902",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 123,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实说来想想，我的经历也只不过平均偏好。真正问题于，家庭一手好牌打得稀烂，啥都不缺就是搞砸了一切。以及不稳定的生活，让我曾患上双相。但没确诊过，因为家里人不相信我有心理疾病，只觉得什么青春期\n没什么好质疑矫情的，我也是人，你也是人。若有疑问，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1572,
+          "like_count": 29518,
+          "listed_count": 8,
+          "tweet_count": 8280
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "病历 | 病历 | 病历 | 病历 | 刹那之物主义 | 病历 | 病历 | 病历 | \n\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "BY801333"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "エフェメラリズム ~ Ephemeralism 刹那之物主义",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812051682609569792/8qRZNt0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 56,
+          "like_count": 2,
+          "listed_count": 7,
+          "tweet_count": 5446
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

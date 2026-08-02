@@ -1,0 +1,128 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1806122108222906735",
+    "created_at": "2024-06-27T00:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T01:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806122638252949900"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1806122638252949900",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806122108222906735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仓鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1806122108222906735",
+        "created_at": "2024-06-27T00:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T01:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806122638252949900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806122638252949900",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806122108222906735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仓鼠"
+      },
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1806122108222906735",
+        "created_at": "2024-06-27T00:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T01:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806122108222906735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806122108222906735",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么朋友关系好了反而会感觉到更多的排斥想要一个人待着更好的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1571,
+          "like_count": 28119,
+          "listed_count": 8,
+          "tweet_count": 7644
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

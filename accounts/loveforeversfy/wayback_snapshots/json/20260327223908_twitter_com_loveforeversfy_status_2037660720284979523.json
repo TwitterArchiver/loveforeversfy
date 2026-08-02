@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037660684541136896"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2037660720284979523",
+    "created_at": "2026-03-27T22:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T23:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037660720284979523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GdpfQWZKWr",
+          "end": 30,
+          "expanded_url": "https://x.com/loveforeversfy/status/2037660720284979523/video/1",
+          "media_key": "7_2037660684541136896",
+          "start": 7,
+          "url": "https://t.co/GdpfQWZKWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037660720284979523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舞萌打死人了 https://t.co/GdpfQWZKWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13698,
+        "height": 1280,
+        "media_key": "7_2037660684541136896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037660684541136896/pu/img/yfkHLp75S8iIznaZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037660684541136896/pu/vid/avc1/320x568/MKuHo_Ghzg7Y2sOT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037660684541136896/pu/vid/avc1/480x852/uOEuFgcoGZA1zgsE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037660684541136896/pu/vid/avc1/720x1280/kTVU0h80FLz2VfP-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037660684541136896/pu/pl/4rrauIlfklpLa_UO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037660684541136896"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2037660720284979523",
+        "created_at": "2026-03-27T22:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T23:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037660720284979523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdpfQWZKWr",
+              "end": 30,
+              "expanded_url": "https://x.com/loveforeversfy/status/2037660720284979523/video/1",
+              "media_key": "7_2037660684541136896",
+              "start": 7,
+              "url": "https://t.co/GdpfQWZKWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037660720284979523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌打死人了 https://t.co/GdpfQWZKWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 1550,
+          "like_count": 33612,
+          "listed_count": 8,
+          "media_count": 1124,
+          "tweet_count": 10676
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075157960159059968"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2075157968119898443",
+    "created_at": "2026-07-09T09:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075157968119898443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTECzmoLFv",
+          "end": 30,
+          "expanded_url": "https://x.com/loveforeversfy/status/2075157968119898443/photo/1",
+          "media_key": "3_2075157960159059968",
+          "start": 7,
+          "url": "https://t.co/cTECzmoLFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075157968119898443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你什么性少数 https://t.co/cTECzmoLFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075157960159059968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxxK4wa4AAFKF7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075157960159059968"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2075157968119898443",
+        "created_at": "2026-07-09T09:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075157968119898443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTECzmoLFv",
+              "end": 30,
+              "expanded_url": "https://x.com/loveforeversfy/status/2075157968119898443/photo/1",
+              "media_key": "3_2075157960159059968",
+              "start": 7,
+              "url": "https://t.co/cTECzmoLFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075157968119898443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你什么性少数 https://t.co/cTECzmoLFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 1555,
+          "like_count": 35660,
+          "listed_count": 8,
+          "media_count": 1229,
+          "tweet_count": 11467
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      }
+    ]
+  }
+}

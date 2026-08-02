@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1807383004299640921"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1807561308663058809",
+    "created_at": "2024-06-30T23:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T00:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807561308663058809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3223863421",
+          "start": 3,
+          "username": "jyuri_8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/IPXbGnMHwC",
+          "end": 51,
+          "expanded_url": "https://twitter.com/jyuri_8/status/1807383004299640921/video/1",
+          "media_key": "7_1807382714364088321",
+          "start": 28,
+          "url": "https://t.co/IPXbGnMHwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807561308663058809",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807383004299640921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jyuri_8: はいよろこんでDaisuke https://t.co/IPXbGnMHwC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1807383004299640921"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1807561308663058809",
+        "created_at": "2024-06-30T23:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T00:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807561308663058809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3223863421",
+              "start": 3,
+              "username": "jyuri_8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IPXbGnMHwC",
+              "end": 51,
+              "expanded_url": "https://twitter.com/jyuri_8/status/1807383004299640921/video/1",
+              "media_key": "7_1807382714364088321",
+              "start": 28,
+              "url": "https://t.co/IPXbGnMHwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807561308663058809",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807383004299640921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jyuri_8: はいよろこんでDaisuke https://t.co/IPXbGnMHwC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807382714364088321"
+          ]
+        },
+        "author_id": "3223863421",
+        "conversation_id": "1807383004299640921",
+        "created_at": "2024-06-30T11:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T12:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807383004299640921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IPXbGnMHwC",
+              "end": 38,
+              "expanded_url": "https://twitter.com/jyuri_8/status/1807383004299640921/video/1",
+              "media_key": "7_1807382714364088321",
+              "start": 15,
+              "url": "https://t.co/IPXbGnMHwC"
+            },
+            {
+              "display_url": "x.com/ippan_nikochu/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ippan_nikochu/status/1804935872212762924",
+              "start": 39,
+              "url": "https://t.co/QduuP7hcAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807383004299640921",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 119419,
+          "like_count": 2015,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804935872212762924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "はいよろこんでDaisuke https://t.co/IPXbGnMHwC https://t.co/QduuP7hcAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1572,
+          "like_count": 28257,
+          "listed_count": 7,
+          "tweet_count": 7711
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-23T02:41:30.000Z",
+        "description": "/**\n * 쥬리 or 쥬이\n * KOR/ENG, ♂\n * Paintings: @_Ju_E\n * Furry: @import_snivy\n * YouTube: https://t.co/wFl7BLkf4U\n * DO NOT USE my artworks without permission\n */",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 44,
+                "username": "_Ju_E"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "import_snivy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Ju_E",
+                "end": 110,
+                "expanded_url": "http://youtube.com/@Ju_E",
+                "start": 87,
+                "url": "https://t.co/wFl7BLkf4U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/juue/Ju_E-7ab8…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/juue/Ju_E-7ab8b2a7872f4738a17cf80212a3e8eb",
+                "start": 0,
+                "url": "https://t.co/mMVRGfgXOM"
+              }
+            ]
+          }
+        },
+        "id": "3223863421",
+        "location": "Seoul, Republic of Korea",
+        "name": "Ju_E",
+        "pinned_tweet_id": "1802687549762105432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642180232118673409/hKJG1i6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 2134,
+          "like_count": 46208,
+          "listed_count": 16,
+          "tweet_count": 116538
+        },
+        "url": "https://t.co/mMVRGfgXOM",
+        "username": "jyuri_8",
+        "verified": false
+      }
+    ]
+  }
+}

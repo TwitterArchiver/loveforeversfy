@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "1813967712668033086",
+    "created_at": "2024-07-18T18:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T19:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814001884598071697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Mualani_Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814001884598071697",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813967712668033086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mualani_Ch 你猜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "1813967712668033086",
+        "created_at": "2024-07-18T18:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T19:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814001884598071697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Mualani_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814001884598071697",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813967712668033086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mualani_Ch 你猜"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813967709199323136"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1813967712668033086",
+        "created_at": "2024-07-18T16:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T17:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813967712668033086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7bJ0pMABvV",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Mualani_Ch/status/1813967712668033086/photo/1",
+              "media_key": "3_1813967709199323136",
+              "start": 3,
+              "url": "https://t.co/7bJ0pMABvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813967712668033086",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1900,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "脑残 https://t.co/7bJ0pMABvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "健全逼 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "1797321331509248464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 1569,
+          "like_count": 28779,
+          "listed_count": 8,
+          "tweet_count": 8020
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "歡迎互fo•🇹🇼•友🏳️‍⚧️🏳️‍🌈@dongxuelianhaha/@Landscapy_Lover/@71V2WZ6PTj86844/@firefly_khmer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "71V2WZ6PTj86844"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "firefly_khmer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.miyoushe.com/ys?channel=viv…",
+                "end": 23,
+                "expanded_url": "https://m.miyoushe.com/ys?channel=vivo/#/article/55159494",
+                "start": 0,
+                "url": "https://t.co/8OO2ygA62S"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "納塔/Natlan/ナタ",
+        "name": "🫧瑪拉妮醬～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813439082116378624/xaVNsmjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 5605,
+          "like_count": 36155,
+          "listed_count": 26,
+          "tweet_count": 6683
+        },
+        "url": "https://t.co/8OO2ygA62S",
+        "username": "Mualani_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

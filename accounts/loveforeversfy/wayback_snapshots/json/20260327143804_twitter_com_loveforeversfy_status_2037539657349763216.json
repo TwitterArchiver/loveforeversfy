@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037538715774623744",
+        "3_2037538716227641344",
+        "3_2037538716731023360"
+      ],
+      "media_source_tweet_id": [
+        "2037538732438610367",
+        "2037538732438610367",
+        "2037538732438610367"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037539657349763216",
+    "created_at": "2026-03-27T14:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037539657349763216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1578733327346909184",
+          "start": 3,
+          "username": "ADF2021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnudDOQjP2",
+          "end": 105,
+          "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+          "media_key": "3_2037538715774623744",
+          "start": 82,
+          "url": "https://t.co/HnudDOQjP2"
+        },
+        {
+          "display_url": "pic.x.com/HnudDOQjP2",
+          "end": 105,
+          "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+          "media_key": "3_2037538716227641344",
+          "start": 82,
+          "url": "https://t.co/HnudDOQjP2"
+        },
+        {
+          "display_url": "pic.x.com/HnudDOQjP2",
+          "end": 105,
+          "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+          "media_key": "3_2037538716731023360",
+          "start": 82,
+          "url": "https://t.co/HnudDOQjP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539657349763216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037538732438610367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ADF2021: 出售Mango，Double Gum和Purple Haze等\n品种大麻，量大从优，如需购买欢迎私信询问价格。\n地点：柳州，桂林，南宁。 https://t.co/HnudDOQjP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2037538715774623744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbKqqnaIAA6tiI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037538716227641344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbKqsTaoAAop30.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2037538716731023360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbKquLboAAMRay.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037538715774623744",
+            "3_2037538716227641344",
+            "3_2037538716731023360"
+          ],
+          "media_source_tweet_id": [
+            "2037538732438610367",
+            "2037538732438610367",
+            "2037538732438610367"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037539657349763216",
+        "created_at": "2026-03-27T14:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037539657349763216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1578733327346909184",
+              "start": 3,
+              "username": "ADF2021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 105,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538715774623744",
+              "start": 82,
+              "url": "https://t.co/HnudDOQjP2"
+            },
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 105,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538716227641344",
+              "start": 82,
+              "url": "https://t.co/HnudDOQjP2"
+            },
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 105,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538716731023360",
+              "start": 82,
+              "url": "https://t.co/HnudDOQjP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539657349763216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037538732438610367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ADF2021: 出售Mango，Double Gum和Purple Haze等\n品种大麻，量大从优，如需购买欢迎私信询问价格。\n地点：柳州，桂林，南宁。 https://t.co/HnudDOQjP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037538715774623744",
+            "3_2037538716227641344",
+            "3_2037538716731023360"
+          ]
+        },
+        "author_id": "1578733327346909184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037538732438610367",
+        "created_at": "2026-03-27T14:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037538732438610367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 92,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538715774623744",
+              "start": 69,
+              "url": "https://t.co/HnudDOQjP2"
+            },
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 92,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538716227641344",
+              "start": 69,
+              "url": "https://t.co/HnudDOQjP2"
+            },
+            {
+              "display_url": "pic.x.com/HnudDOQjP2",
+              "end": 92,
+              "expanded_url": "https://x.com/ADF2021/status/2037538732438610367/photo/1",
+              "media_key": "3_2037538716731023360",
+              "start": 69,
+              "url": "https://t.co/HnudDOQjP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037538732438610367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出售Mango，Double Gum和Purple Haze等\n品种大麻，量大从优，如需购买欢迎私信询问价格。\n地点：柳州，桂林，南宁。 https://t.co/HnudDOQjP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 1548,
+          "like_count": 33606,
+          "listed_count": 8,
+          "media_count": 1123,
+          "tweet_count": 10673
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T13:05:58.000Z",
+        "description": "",
+        "id": "1578733327346909184",
+        "name": "沃丹-尤米尔",
+        "pinned_tweet_id": "2037538732438610367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938946068982476800/VgzpLtZv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 280,
+          "like_count": 20283,
+          "listed_count": 9,
+          "media_count": 201,
+          "tweet_count": 6429
+        },
+        "username": "ADF2021",
+        "verified": false
+      }
+    ]
+  }
+}

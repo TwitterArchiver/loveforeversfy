@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014786436449648640",
+        "3_2014786436441243648",
+        "3_2014786436587823104",
+        "13_2014786436458020864"
+      ],
+      "media_source_tweet_id": [
+        "2014786504321860014",
+        "2014786504321860014",
+        "2014786504321860014",
+        "2014786504321860014"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014789533397876837",
+    "created_at": "2026-01-23T19:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T20:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014789533397876837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1718776457198280704",
+          "start": 3,
+          "username": "yng014522566684"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/03XMNCDLjq",
+          "end": 70,
+          "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+          "media_key": "3_2014786436449648640",
+          "start": 47,
+          "url": "https://t.co/03XMNCDLjq"
+        },
+        {
+          "display_url": "pic.x.com/03XMNCDLjq",
+          "end": 70,
+          "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+          "media_key": "3_2014786436441243648",
+          "start": 47,
+          "url": "https://t.co/03XMNCDLjq"
+        },
+        {
+          "display_url": "pic.x.com/03XMNCDLjq",
+          "end": 70,
+          "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+          "media_key": "3_2014786436587823104",
+          "start": 47,
+          "url": "https://t.co/03XMNCDLjq"
+        },
+        {
+          "display_url": "pic.x.com/03XMNCDLjq",
+          "end": 70,
+          "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+          "media_key": "13_2014786436458020864",
+          "start": 47,
+          "url": "https://t.co/03XMNCDLjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014789533397876837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014786504321860014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng014522566684: 求转发！转发抽奖揪三个一人五盒pr。二月三十号开奖 https://t.co/03XMNCDLjq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014789533397876837].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014789533397876837",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014789533397876837"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014786436449648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_X1ltLbQAAWRfJ.jpg",
+        "width": 1182
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2014786436441243648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_X1ltJbAAANFry.jpg",
+        "width": 1920
+      },
+      {
+        "height": 966,
+        "media_key": "3_2014786436587823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_X1ltsXoAA3-hp.jpg",
+        "width": 1066
+      },
+      {
+        "duration_ms": 36000,
+        "height": 978,
+        "media_key": "13_2014786436458020864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014786436458020864/img/FiHl2apHv4scixbD.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014786436458020864/vid/avc1/320x434/XXvfsWj9O5uD7vpv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014786436458020864/vid/avc1/480x652/o97EP9shbjN0-oKC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014786436458020864/vid/avc1/720x978/WRPu3-1ApzDVwYpk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014786436458020864/pl/zcscvksFTLFcZKkV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014786436449648640",
+            "3_2014786436441243648",
+            "3_2014786436587823104",
+            "13_2014786436458020864"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "conversation_id": "2014786504321860014",
+        "created_at": "2026-01-23T19:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T20:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014786504321860014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03XMNCDLjq",
+              "end": 49,
+              "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+              "media_key": "3_2014786436449648640",
+              "start": 26,
+              "url": "https://t.co/03XMNCDLjq"
+            },
+            {
+              "display_url": "pic.x.com/03XMNCDLjq",
+              "end": 49,
+              "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+              "media_key": "3_2014786436441243648",
+              "start": 26,
+              "url": "https://t.co/03XMNCDLjq"
+            },
+            {
+              "display_url": "pic.x.com/03XMNCDLjq",
+              "end": 49,
+              "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+              "media_key": "3_2014786436587823104",
+              "start": 26,
+              "url": "https://t.co/03XMNCDLjq"
+            },
+            {
+              "display_url": "pic.x.com/03XMNCDLjq",
+              "end": 49,
+              "expanded_url": "https://x.com/yng014522566684/status/2014786504321860014/video/1",
+              "media_key": "13_2014786436458020864",
+              "start": 26,
+              "url": "https://t.co/03XMNCDLjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014786504321860014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "求转发！转发抽奖揪三个一人五盒pr。二月三十号开奖 https://t.co/03XMNCDLjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜再后来所有人死了烂了",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "1871200315837714859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1519,
+          "like_count": 32276,
+          "listed_count": 7,
+          "media_count": 1044,
+          "tweet_count": 10162
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "我很可爱请给我钱",
+        "id": "1718776457198280704",
+        "name": "小叽",
+        "pinned_tweet_id": "2014786504321860014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790813312378355713/4D4XM3PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 119,
+          "like_count": 2167,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 658
+        },
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}
