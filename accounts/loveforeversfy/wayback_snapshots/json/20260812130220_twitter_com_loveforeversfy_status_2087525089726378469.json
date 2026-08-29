@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2087465203835228218",
+    "created_at": "2026-08-12T13:02:20.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087525089726378469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504358451513679874",
+          "start": 0,
+          "username": "UsamiAsteria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087525089726378469",
+    "in_reply_to_user_id": "1504358451513679874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087465203835228218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UsamiAsteria 水游城"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2087465176669003776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgqhLBaoAAd3gl.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2087465203835228218",
+        "created_at": "2026-08-12T13:02:20.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087525089726378469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1504358451513679874",
+              "start": 0,
+              "username": "UsamiAsteria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087525089726378469",
+        "in_reply_to_user_id": "1504358451513679874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087465203835228218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UsamiAsteria 水游城"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087465176669003776"
+          ]
+        },
+        "author_id": "1504358451513679874",
+        "conversation_id": "2087465203835228218",
+        "created_at": "2026-08-12T09:04:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087465203835228218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSMwPkHhFL",
+              "end": 23,
+              "expanded_url": "https://x.com/UsamiAsteria/status/2087465203835228218/photo/1",
+              "media_key": "3_2087465176669003776",
+              "start": 0,
+              "url": "https://t.co/TSMwPkHhFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087465203835228218",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087465176669003776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TSMwPkHhFL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087525089726378469",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 1558,
+          "like_count": 36146,
+          "listed_count": 11,
+          "media_count": 1272,
+          "tweet_count": 11712
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-17T07:26:24.000Z",
+        "description": "重度龙性恋",
+        "id": "1504358451513679874",
+        "is_identity_verified": false,
+        "location": "海雾村",
+        "most_recent_tweet_id": "2087465203835228218",
+        "name": "未得到寬恕的芒",
+        "pinned_tweet_id": "2021274505218531600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504358451513679874/1748687997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974753948256059393/cVixobAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 723,
+          "like_count": 8496,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "UsamiAsteria",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

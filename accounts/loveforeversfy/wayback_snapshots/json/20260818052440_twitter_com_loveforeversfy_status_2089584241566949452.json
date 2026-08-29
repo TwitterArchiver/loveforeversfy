@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089397438511501312"
+      ],
+      "media_source_tweet_id": [
+        "2089397476558045557"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "2089584241566949452",
+    "created_at": "2026-08-18T05:24:40.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089584241566949452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980004915775713280",
+          "start": 3,
+          "username": "GurtGobaine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gKtkAEGgA",
+          "end": 133,
+          "expanded_url": "https://x.com/GurtGobaine/status/2089397476558045557/video/1",
+          "media_key": "13_2089397438511501312",
+          "start": 110,
+          "url": "https://t.co/2gKtkAEGgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089584241566949452",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2089397438511501312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 933
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089397476558045557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GurtGobaine: Looked up Charlie Kirk on R34 and there wasn't a single post of anyone using his bullet hole https://t.co/2gKtkAEGgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2000,
+        "height": 252,
+        "media_key": "13_2089397438511501312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089397438511501312/img/IzV8OPi1pJT0sVzw.jpg",
+        "public_metrics": {
+          "view_count": 72468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089397438511501312/vid/avc1/448x252/tjOeqyG5C3FIBlZS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089397438511501312/pl/62QBFNSloOowIKoI.m3u8"
+          }
+        ],
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089397438511501312"
+          ],
+          "media_source_tweet_id": [
+            "2089397476558045557"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2089584241566949452",
+        "created_at": "2026-08-18T05:24:40.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089584241566949452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980004915775713280",
+              "start": 3,
+              "username": "GurtGobaine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gKtkAEGgA",
+              "end": 133,
+              "expanded_url": "https://x.com/GurtGobaine/status/2089397476558045557/video/1",
+              "media_key": "13_2089397438511501312",
+              "start": 110,
+              "url": "https://t.co/2gKtkAEGgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089584241566949452",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089397438511501312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 933
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089397476558045557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GurtGobaine: Looked up Charlie Kirk on R34 and there wasn't a single post of anyone using his bullet hole https://t.co/2gKtkAEGgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089397438511501312"
+          ]
+        },
+        "author_id": "1980004915775713280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2089397476558045557",
+        "created_at": "2026-08-17T17:02:32.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089397476558045557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gKtkAEGgA",
+              "end": 116,
+              "expanded_url": "https://x.com/GurtGobaine/status/2089397476558045557/video/1",
+              "media_key": "13_2089397438511501312",
+              "start": 93,
+              "url": "https://t.co/2gKtkAEGgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089397476558045557",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089397438511501312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 795,
+          "impression_count": 235031,
+          "like_count": 19161,
+          "quote_count": 46,
+          "reply_count": 90,
+          "retweet_count": 933
+        },
+        "reply_settings": "everyone",
+        "text": "Looked up Charlie Kirk on R34 and there wasn't a single post of anyone using his bullet hole https://t.co/2gKtkAEGgA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2089584241566949452",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 1556,
+          "like_count": 36163,
+          "listed_count": 11,
+          "media_count": 1274,
+          "tweet_count": 11720
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-19T20:16:01.000Z",
+        "description": "The gratest finker of R time\nEye Queue of 300, possibly more\nInvented sliced Bred, and the best fing since",
+        "id": "1980004915775713280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089475897241862156",
+        "name": "Gurt Gobain 🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "pinned_tweet_id": "2087220382184898605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980004915775713280/1777053396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085455561982672896/5UWo_IWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 574,
+          "like_count": 39577,
+          "listed_count": 3,
+          "media_count": 1002,
+          "tweet_count": 12115
+        },
+        "url": "",
+        "username": "GurtGobaine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

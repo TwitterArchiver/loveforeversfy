@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090052148591738880"
+      ],
+      "media_source_tweet_id": [
+        "2090052157634691181"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2090113075085250904",
+    "created_at": "2026-08-19T16:26:04.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090113075085250904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1369564443961520131",
+          "start": 3,
+          "username": "kuroyei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YC48M4pjI7",
+          "end": 56,
+          "expanded_url": "https://x.com/kuroyei/status/2090052157634691181/photo/1",
+          "media_key": "3_2090052148591738880",
+          "start": 33,
+          "url": "https://t.co/YC48M4pjI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090113075085250904",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090052148591738880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090052157634691181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroyei: 家の中がますます中国の領土と化している https://t.co/YC48M4pjI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3416,
+        "media_key": "3_2090052148591738880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFbWwbaQAAEu1I.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090052148591738880"
+          ],
+          "media_source_tweet_id": [
+            "2090052157634691181"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2090113075085250904",
+        "created_at": "2026-08-19T16:26:04.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090113075085250904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1369564443961520131",
+              "start": 3,
+              "username": "kuroyei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YC48M4pjI7",
+              "end": 56,
+              "expanded_url": "https://x.com/kuroyei/status/2090052157634691181/photo/1",
+              "media_key": "3_2090052148591738880",
+              "start": 33,
+              "url": "https://t.co/YC48M4pjI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090113075085250904",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090052148591738880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090052157634691181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroyei: 家の中がますます中国の領土と化している https://t.co/YC48M4pjI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090052148591738880"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "conversation_id": "2090052157634691181",
+        "created_at": "2026-08-19T12:24:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090052157634691181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YC48M4pjI7",
+              "end": 43,
+              "expanded_url": "https://x.com/kuroyei/status/2090052157634691181/photo/1",
+              "media_key": "3_2090052148591738880",
+              "start": 20,
+              "url": "https://t.co/YC48M4pjI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090052157634691181",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090052148591738880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 267130,
+          "like_count": 3337,
+          "quote_count": 58,
+          "reply_count": 471,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "家の中がますます中国の領土と化している https://t.co/YC48M4pjI7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2090113075085250904",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 1554,
+          "like_count": 36171,
+          "listed_count": 9,
+          "media_count": 1275,
+          "tweet_count": 11725
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2090052157634691181",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12652,
+          "following_count": 948,
+          "like_count": 132443,
+          "listed_count": 54,
+          "media_count": 9482,
+          "tweet_count": 38871
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

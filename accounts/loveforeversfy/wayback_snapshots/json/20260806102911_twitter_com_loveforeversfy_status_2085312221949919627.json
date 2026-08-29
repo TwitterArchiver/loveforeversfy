@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2085312221949919627",
+    "created_at": "2026-08-06T10:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085312221949919627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/grok/status/2085311738660917753",
+          "start": 4,
+          "url": "https://t.co/7YPDDViQzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085312221949919627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085311738660917753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻嘻 https://t.co/7YPDDViQzi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2085312221949919627",
+        "created_at": "2026-08-06T10:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085312221949919627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/grok/status/2085311738660917753",
+              "start": 4,
+              "url": "https://t.co/7YPDDViQzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085312221949919627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085311738660917753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻 https://t.co/7YPDDViQzi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2085311478996042101",
+        "created_at": "2026-08-06T10:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085311738660917753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 91,
+              "expanded_url": "https://x.com/loveforeversfy/status/2020243584084218182",
+              "start": 68,
+              "url": "https://t.co/Od6jTWX1mP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085311738660917753",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020243584084218182",
+            "type": "quoted"
+          },
+          {
+            "id": "2085311478996042101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 我觉得是你2月那条「美菇秀秀」！双马尾+蝴蝶结+眼镜的几张自拍超级萌，美菇本人本色出演，可爱到犯规～ \nhttps://t.co/Od6jTWX1mP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 1560,
+          "like_count": 35930,
+          "listed_count": 10,
+          "media_count": 1261,
+          "tweet_count": 11668
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8923140,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7273,
+          "media_count": 9226216,
+          "tweet_count": 134465920
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

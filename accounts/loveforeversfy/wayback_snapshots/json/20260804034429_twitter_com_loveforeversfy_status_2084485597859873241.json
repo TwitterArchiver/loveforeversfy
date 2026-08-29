@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2084485597859873241",
+    "created_at": "2026-08-04T03:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084485597859873241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SRamirez66171/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/SRamirez66171/status/2084231848352456713",
+          "start": 12,
+          "url": "https://t.co/Kw70ouLmOh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084485597859873241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084231848352456713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地球汁娜化 汁娜朝鲜化 https://t.co/Kw70ouLmOh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2084231790278103040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOytxUEaUAAuVWM.png",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2084485597859873241",
+        "created_at": "2026-08-04T03:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084485597859873241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SRamirez66171/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/SRamirez66171/status/2084231848352456713",
+              "start": 12,
+              "url": "https://t.co/Kw70ouLmOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084485597859873241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231848352456713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地球汁娜化 汁娜朝鲜化 https://t.co/Kw70ouLmOh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084231790278103040"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084231848352456713",
+        "created_at": "2026-08-03T10:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084231848352456713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MftuJFqob6",
+              "end": 34,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084231848352456713/photo/1",
+              "media_key": "3_2084231790278103040",
+              "start": 11,
+              "url": "https://t.co/MftuJFqob6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231848352456713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1795,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日推特违禁词已更新 https://t.co/MftuJFqob6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 1559,
+          "like_count": 35866,
+          "listed_count": 10,
+          "media_count": 1256,
+          "tweet_count": 11631
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 231,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

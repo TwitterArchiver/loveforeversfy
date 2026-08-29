@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2084201189864780233",
+    "created_at": "2026-08-03T08:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084202164898181481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084202164898181481",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084201189864780233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 澡操操操澡？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8996,
+        "height": 1280,
+        "media_key": "13_2084201166897070080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084201166897070080/img/Ew58eRxulWOB2cB_.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084201166897070080/vid/avc1/320x710/TcUh3HvPXuPX6Duo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084201166897070080/vid/avc1/480x1066/e5H-zvUmZJkTuxwg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084201166897070080/vid/avc1/576x1280/hwQrYxTEHa2CpdSN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084201166897070080/pl/kBqB1G4dZgACNCCC.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2084201189864780233",
+        "created_at": "2026-08-03T08:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084202164898181481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084202164898181481",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084201189864780233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 澡操操操澡？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084201166897070080"
+          ]
+        },
+        "author_id": "1965572243335053312",
+        "conversation_id": "2084201189864780233",
+        "created_at": "2026-08-03T08:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084201189864780233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzLqyhfQ4G",
+              "end": 31,
+              "expanded_url": "https://x.com/ashasw1919810/status/2084201189864780233/video/1",
+              "media_key": "13_2084201166897070080",
+              "start": 8,
+              "url": "https://t.co/yzLqyhfQ4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084201189864780233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tl就这样： https://t.co/yzLqyhfQ4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1558,
+          "like_count": 35874,
+          "listed_count": 10,
+          "media_count": 1256,
+          "tweet_count": 11626
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "name": "搞耍潮娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082067365706293248/clpHT62Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 429,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false
+      }
+    ]
+  }
+}

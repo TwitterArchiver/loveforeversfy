@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2086996915733103091",
+    "created_at": "2026-08-11T02:05:21.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086997368390721857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389509705999949829",
+          "start": 0,
+          "username": "EmoPoppyRequiem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086997368390721857",
+    "in_reply_to_user_id": "1389509705999949829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086996915733103091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoPoppyRequiem 喷他kill"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086996915733103091].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086996915733103091",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086996915733103091"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2086996915733103091",
+        "created_at": "2026-08-11T02:05:21.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086997368390721857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389509705999949829",
+              "start": 0,
+              "username": "EmoPoppyRequiem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086997368390721857",
+        "in_reply_to_user_id": "1389509705999949829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086996915733103091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoPoppyRequiem 喷他kill"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086997368390721857",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 1560,
+          "like_count": 36089,
+          "listed_count": 11,
+          "media_count": 1272,
+          "tweet_count": 11706
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-04T09:19:24.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinkule",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinkule",
+                "start": 0,
+                "url": "https://t.co/uKFsGxonBC"
+              }
+            ]
+          }
+        },
+        "id": "1389509705999949829",
+        "is_identity_verified": false,
+        "location": "know me...",
+        "most_recent_tweet_id": "1862834566198616253",
+        "name": "薇可絲",
+        "pinned_tweet_id": "2058605786289557769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389509705999949829/1661064407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926579688215830528/dkgSOySf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 3330,
+          "like_count": 129733,
+          "listed_count": 3,
+          "media_count": 7516,
+          "tweet_count": 73217
+        },
+        "url": "https://t.co/uKFsGxonBC",
+        "username": "EmoPoppyRequiem",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091442786264580096"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2091442826710262168",
+    "created_at": "2026-08-23T08:30:01.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091442826710262168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i4S6A7AtGi",
+          "end": 32,
+          "expanded_url": "https://x.com/loveforeversfy/status/2091442826710262168/video/1",
+          "media_key": "13_2091442786264580096",
+          "start": 9,
+          "url": "https://t.co/i4S6A7AtGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091442826710262168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091442786264580096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常可爱的小蟑螂 https://t.co/i4S6A7AtGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5124,
+        "height": 1280,
+        "media_key": "13_2091442786264580096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091442786264580096/img/AXR-J-QOltTweAMj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091442786264580096/vid/avc1/320x568/fvzvkKMPZ4SjFIHm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091442786264580096/vid/avc1/480x852/hrA7FX2ZjZOcKvVt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091442786264580096/vid/avc1/720x1280/aKYRUq-KHynA-x3c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091442786264580096/pl/QuF3K7WgspXMLySA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091442786264580096"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2091442826710262168",
+        "created_at": "2026-08-23T08:30:01.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091442826710262168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4S6A7AtGi",
+              "end": 32,
+              "expanded_url": "https://x.com/loveforeversfy/status/2091442826710262168/video/1",
+              "media_key": "13_2091442786264580096",
+              "start": 9,
+              "url": "https://t.co/i4S6A7AtGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091442826710262168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091442786264580096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常可爱的小蟑螂 https://t.co/i4S6A7AtGi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2091442826710262168",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 1552,
+          "like_count": 36197,
+          "listed_count": 11,
+          "media_count": 1276,
+          "tweet_count": 11733
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

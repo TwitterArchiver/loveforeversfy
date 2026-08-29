@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090017715591188481"
+      ],
+      "media_source_tweet_id": [
+        "2090018117594296806"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2090410561410654280",
+    "created_at": "2026-08-20T12:08:10.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090410561410654280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861504172912234496",
+          "start": 3,
+          "username": "Fracasonator"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/beeC3aoxGu",
+          "end": 90,
+          "expanded_url": "https://x.com/Fracasonator/status/2090018117594296806/video/1",
+          "media_key": "13_2090017715591188481",
+          "start": 67,
+          "url": "https://t.co/beeC3aoxGu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090410561410654280",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2090017715591188481"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3382
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090018117594296806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fracasonator: SE DESCUBRE NUEVA FUENTE DE ENERGIA EN INDONESIA https://t.co/beeC3aoxGu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9566,
+        "height": 1024,
+        "media_key": "13_2090017715591188481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090017715591188481/img/V_N7q0cy-n295WAB.jpg",
+        "public_metrics": {
+          "view_count": 1115446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090017715591188481/vid/avc1/320x568/Tk6vhiYqWvzxDVQH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090017715591188481/vid/avc1/480x852/kiqyWopkW6WVCPiR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090017715591188481/vid/avc1/576x1024/ll27gPY0daStfTq_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090017715591188481/pl/l8ThPnq3AlPSlOtP.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090017715591188481"
+          ],
+          "media_source_tweet_id": [
+            "2090018117594296806"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2090410561410654280",
+        "created_at": "2026-08-20T12:08:10.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090410561410654280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861504172912234496",
+              "start": 3,
+              "username": "Fracasonator"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/beeC3aoxGu",
+              "end": 90,
+              "expanded_url": "https://x.com/Fracasonator/status/2090018117594296806/video/1",
+              "media_key": "13_2090017715591188481",
+              "start": 67,
+              "url": "https://t.co/beeC3aoxGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090410561410654280",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2090017715591188481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3382
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090018117594296806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fracasonator: SE DESCUBRE NUEVA FUENTE DE ENERGIA EN INDONESIA https://t.co/beeC3aoxGu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090017715591188481"
+          ]
+        },
+        "author_id": "1861504172912234496",
+        "conversation_id": "2090018117594296806",
+        "created_at": "2026-08-19T10:08:44.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090018117594296806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beeC3aoxGu",
+              "end": 72,
+              "expanded_url": "https://x.com/Fracasonator/status/2090018117594296806/video/1",
+              "media_key": "13_2090017715591188481",
+              "start": 49,
+              "url": "https://t.co/beeC3aoxGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090018117594296806",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2090017715591188481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3760,
+          "impression_count": 2351513,
+          "like_count": 36054,
+          "quote_count": 312,
+          "reply_count": 243,
+          "retweet_count": 3382
+        },
+        "reply_settings": "everyone",
+        "text": "SE DESCUBRE NUEVA FUENTE DE ENERGIA EN INDONESIA https://t.co/beeC3aoxGu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2090410561410654280",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 1553,
+          "like_count": 36175,
+          "listed_count": 11,
+          "media_count": 1275,
+          "tweet_count": 11728
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T20:16:09.000Z",
+        "description": "español | 19 años | fan del metal, sobre todo del death metal | DNI failtrolls, loliconeros, y otro tipo de calaña | hotline miami WABAG",
+        "id": "1861504172912234496",
+        "is_identity_verified": false,
+        "location": "castilla y leon, españa",
+        "most_recent_tweet_id": "2090208366660391311",
+        "name": "FRACASONATOR",
+        "pinned_tweet_id": "2026057437996838981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861504172912234496/1780002147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022070199055159296/W6ErtSzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 60,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "Fracasonator",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2088261448023830793",
+    "created_at": "2026-08-15T06:43:49.000Z",
+    "display_text_range": [
+      28,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088516997688561894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 27,
+          "id": "1234123751072993281",
+          "start": 14,
+          "username": "Haruhi_Smith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088516997688561894",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088300738116038705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 @Haruhi_Smith 宝宝那个人是我哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2088261448023830793",
+        "created_at": "2026-08-15T06:43:49.000Z",
+        "display_text_range": [
+          28,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088516997688561894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 27,
+              "id": "1234123751072993281",
+              "start": 14,
+              "username": "Haruhi_Smith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088516997688561894",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088300738116038705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @Haruhi_Smith 宝宝那个人是我哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2088261448023830793",
+        "created_at": "2026-08-14T16:24:29.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088300738116038705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1234123751072993281",
+              "start": 0,
+              "username": "Haruhi_Smith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088300738116038705",
+        "in_reply_to_user_id": "1234123751072993281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 516,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088261448023830793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruhi_Smith 哦我没看那个视频，刚看了以后感觉录视频这位确实神"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2088516997688561894",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 1557,
+          "like_count": 36160,
+          "listed_count": 11,
+          "media_count": 1273,
+          "tweet_count": 11717
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2088505125979541879",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5116,
+          "following_count": 856,
+          "like_count": 3455,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-01T14:30:18.000Z",
+        "description": "transles / CS Grad, no longer looking for PhD / 不线下 /  https://t.co/JaeqbedOGN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/haruhi_smith",
+                "end": 78,
+                "expanded_url": "http://t.me/haruhi_smith",
+                "start": 55,
+                "url": "https://t.co/JaeqbedOGN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luvletter2333",
+                "end": 23,
+                "expanded_url": "https://github.com/luvletter2333",
+                "start": 0,
+                "url": "https://t.co/bUokPGYwoh"
+              }
+            ]
+          }
+        },
+        "id": "1234123751072993281",
+        "is_identity_verified": false,
+        "location": "兵库県立西宫北高等学校 SOS団",
+        "most_recent_tweet_id": "2088334789971791934",
+        "name": "Haruhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234123751072993281/1583512502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351750805020315649/99ZVLa23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1202,
+          "like_count": 118697,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/bUokPGYwoh",
+        "username": "Haruhi_Smith",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

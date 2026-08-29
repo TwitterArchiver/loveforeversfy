@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Konami",
+          "id": "989942287638478849",
+          "name": "Konami"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Konami",
+          "id": "989942287638478849",
+          "name": "Konami"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2087517187439526084",
+    "created_at": "2026-08-12T12:30:56.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087517187439526084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BelovedUren896…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/BelovedUren8964/status/2087493214798532740",
+          "start": 2,
+          "url": "https://t.co/sJr8aYOU5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087517187439526084",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087493214798532740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😎 https://t.co/sJr8aYOU5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2087493208507133952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhEA1wbsAAgFzk.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2087517187439526084",
+        "created_at": "2026-08-12T12:30:56.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087517187439526084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BelovedUren896…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/BelovedUren8964/status/2087493214798532740",
+              "start": 2,
+              "url": "https://t.co/sJr8aYOU5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087517187439526084",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087493214798532740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎 https://t.co/sJr8aYOU5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087493208507133952"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2087493214798532740",
+        "created_at": "2026-08-12T10:55:40.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087493214798532740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 32,
+              "id": "1484072544009347072",
+              "start": 16,
+              "username": "BelovedUren8964"
+            },
+            {
+              "end": 47,
+              "id": "2069160672672546816",
+              "start": 33,
+              "username": "BlackCrow1966"
+            },
+            {
+              "end": 61,
+              "id": "1802704441961017344",
+              "start": 48,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 69,
+              "id": "18988524",
+              "start": 62,
+              "username": "Konami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRxN39CJdn",
+              "end": 103,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2087493214798532740/photo/1",
+              "media_key": "3_2087493208507133952",
+              "start": 80,
+              "url": "https://t.co/hRxN39CJdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087493214798532740",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087493208507133952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy @BelovedUren8964 @BlackCrow1966 @misumikaede3 @Konami \n雨怜国际员工合照 https://t.co/hRxN39CJdn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087517187439526084",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 1558,
+          "like_count": 36144,
+          "listed_count": 11,
+          "media_count": 1272,
+          "tweet_count": 11711
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "滨边雨怜（曾用名：伊藤政子 伊政兰 体調不良 阿廖娜·维克托罗夫娜·沃尔科娃）我是一个自恋狂 猫砂帮荣誉成员 老学校客座教授 主讲谈论 人在日本 合法住民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "is_identity_verified": false,
+        "location": "Kyushu",
+        "most_recent_tweet_id": "2087493214798532740",
+        "name": "浜辺雨怜没听懂没听见不懂",
+        "pinned_tweet_id": "2050110766905475396",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484072544009347072/1774619518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048064307309797376/v6DCWgfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 522,
+          "like_count": 6337,
+          "listed_count": 1,
+          "media_count": 629,
+          "tweet_count": 4847
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

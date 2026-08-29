@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091058416903176192"
+      ],
+      "media_source_tweet_id": [
+        "2091058451619434873"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2091106792986288493",
+    "created_at": "2026-08-22T10:14:44.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091106792986288493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2077351329945763841",
+          "start": 3,
+          "username": "Canryu_mania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmFmeSxtpJ",
+          "end": 44,
+          "expanded_url": "https://x.com/Canryu_mania/status/2091058451619434873/video/1",
+          "media_key": "13_2091058416903176192",
+          "start": 21,
+          "url": "https://t.co/RmFmeSxtpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091106792986288493",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091058416903176192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091058451619434873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Canryu_mania: 処刑 https://t.co/RmFmeSxtpJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8866,
+        "height": 720,
+        "media_key": "13_2091058416903176192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091058416903176192/img/kJ0UvdBcTiTySjbj.jpg",
+        "public_metrics": {
+          "view_count": 127417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091058416903176192/vid/avc1/480x270/Sz8s-5b6lneHrVH2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091058416903176192/vid/avc1/640x360/hROUWF_0299YRx6u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091058416903176192/vid/avc1/1280x720/3fSkvjJgytd-oAxh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091058416903176192/pl/aTL2kEbxY5sOjRlN.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091058416903176192"
+          ],
+          "media_source_tweet_id": [
+            "2091058451619434873"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2091106792986288493",
+        "created_at": "2026-08-22T10:14:44.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091106792986288493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2077351329945763841",
+              "start": 3,
+              "username": "Canryu_mania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmFmeSxtpJ",
+              "end": 44,
+              "expanded_url": "https://x.com/Canryu_mania/status/2091058451619434873/video/1",
+              "media_key": "13_2091058416903176192",
+              "start": 21,
+              "url": "https://t.co/RmFmeSxtpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091106792986288493",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091058416903176192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091058451619434873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Canryu_mania: 処刑 https://t.co/RmFmeSxtpJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091058416903176192"
+          ]
+        },
+        "author_id": "2077351329945763841",
+        "conversation_id": "2091058451619434873",
+        "created_at": "2026-08-22T07:02:39.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091058451619434873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmFmeSxtpJ",
+              "end": 26,
+              "expanded_url": "https://x.com/Canryu_mania/status/2091058451619434873/video/1",
+              "media_key": "13_2091058416903176192",
+              "start": 3,
+              "url": "https://t.co/RmFmeSxtpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091058451619434873",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091058416903176192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1107,
+          "impression_count": 223715,
+          "like_count": 6924,
+          "quote_count": 62,
+          "reply_count": 95,
+          "retweet_count": 630
+        },
+        "reply_settings": "everyone",
+        "text": "処刑 https://t.co/RmFmeSxtpJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2091106792986288493",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 1554,
+          "like_count": 36193,
+          "listed_count": 11,
+          "media_count": 1274,
+          "tweet_count": 11731
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T11:15:40.000Z",
+        "description": "新参ヒカマー",
+        "id": "2077351329945763841",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091106431298940956",
+        "name": "かん流_mania",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077351329945763841/1787347987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089916928777461760/coDvoy9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 627,
+          "like_count": 1923,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "Canryu_mania",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

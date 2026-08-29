@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084178508730023936"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2084178513570250868",
+    "created_at": "2026-08-03T07:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084178513570250868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hX0P6b4Blg",
+          "end": 40,
+          "expanded_url": "https://x.com/loveforeversfy/status/2084178513570250868/photo/1",
+          "media_key": "3_2084178508730023936",
+          "start": 17,
+          "url": "https://t.co/hX0P6b4Blg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084178513570250868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一切都好无聊 回家欧滴去了。。。 https://t.co/hX0P6b4Blg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2084178508730023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx9T61bQAAxbsM.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084178508730023936"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2084178513570250868",
+        "created_at": "2026-08-03T07:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084178513570250868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hX0P6b4Blg",
+              "end": 40,
+              "expanded_url": "https://x.com/loveforeversfy/status/2084178513570250868/photo/1",
+              "media_key": "3_2084178508730023936",
+              "start": 17,
+              "url": "https://t.co/hX0P6b4Blg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084178513570250868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切都好无聊 回家欧滴去了。。。 https://t.co/hX0P6b4Blg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1558,
+          "like_count": 35868,
+          "listed_count": 10,
+          "media_count": 1255,
+          "tweet_count": 11623
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}
