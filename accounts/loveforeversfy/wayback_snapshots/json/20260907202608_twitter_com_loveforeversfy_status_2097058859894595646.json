@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096841593689145345",
+        "3_2096841593668124672"
+      ],
+      "media_source_tweet_id": [
+        "2096841602920775939",
+        "2096841602920775939"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2097058859894595646",
+    "created_at": "2026-09-07T20:26:08.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T21:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097058859894595646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683118613870559232",
+          "start": 3,
+          "username": "gan62626"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CIL5bFcIBd",
+          "end": 59,
+          "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+          "media_key": "13_2096841593689145345",
+          "start": 36,
+          "url": "https://t.co/CIL5bFcIBd"
+        },
+        {
+          "display_url": "pic.x.com/CIL5bFcIBd",
+          "end": 59,
+          "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+          "media_key": "3_2096841593668124672",
+          "start": 36,
+          "url": "https://t.co/CIL5bFcIBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097058859894595646",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096841593689145345"
+      },
+      {
+        "media_key": "3_2096841593668124672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3441
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096841602920775939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gan62626: これ会社のLINEグループに誤爆して死んだ https://t.co/CIL5bFcIBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8103,
+        "height": 752,
+        "media_key": "13_2096841593689145345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096841593689145345/img/1N8cv4KA96I_GU8j.jpg",
+        "public_metrics": {
+          "view_count": 2365962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096841593689145345/vid/avc1/320x428/mNHcaQT7qWhBo9XM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096841593689145345/vid/avc1/480x644/4XglUe5F6b_aQsSI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096841593689145345/vid/avc1/560x752/BDUjAmpFX9PqHPZe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096841593689145345/pl/BmEj-BlwMn22vf9j.m3u8"
+          }
+        ],
+        "width": 560
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2096841593668124672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRl6UeTaQAA6vbc.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096841593689145345",
+            "3_2096841593668124672"
+          ],
+          "media_source_tweet_id": [
+            "2096841602920775939",
+            "2096841602920775939"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2097058859894595646",
+        "created_at": "2026-09-07T20:26:08.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097058859894595646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683118613870559232",
+              "start": 3,
+              "username": "gan62626"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIL5bFcIBd",
+              "end": 59,
+              "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+              "media_key": "13_2096841593689145345",
+              "start": 36,
+              "url": "https://t.co/CIL5bFcIBd"
+            },
+            {
+              "display_url": "pic.x.com/CIL5bFcIBd",
+              "end": 59,
+              "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+              "media_key": "3_2096841593668124672",
+              "start": 36,
+              "url": "https://t.co/CIL5bFcIBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097058859894595646",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096841593689145345"
+          },
+          {
+            "media_key": "3_2096841593668124672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096841602920775939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gan62626: これ会社のLINEグループに誤爆して死んだ https://t.co/CIL5bFcIBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096841593689145345",
+            "3_2096841593668124672"
+          ]
+        },
+        "author_id": "1683118613870559232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2096841602920775939",
+        "created_at": "2026-09-07T06:02:50.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096841602920775939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIL5bFcIBd",
+              "end": 45,
+              "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+              "media_key": "13_2096841593689145345",
+              "start": 22,
+              "url": "https://t.co/CIL5bFcIBd"
+            },
+            {
+              "display_url": "pic.x.com/CIL5bFcIBd",
+              "end": 45,
+              "expanded_url": "https://x.com/gan62626/status/2096841602920775939/video/1",
+              "media_key": "3_2096841593668124672",
+              "start": 22,
+              "url": "https://t.co/CIL5bFcIBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096841602920775939",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096841593689145345"
+          },
+          {
+            "media_key": "3_2096841593668124672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6443,
+          "impression_count": 4224061,
+          "like_count": 57253,
+          "quote_count": 609,
+          "reply_count": 116,
+          "retweet_count": 3440
+        },
+        "reply_settings": "everyone",
+        "text": "これ会社のLINEグループに誤爆して死んだ https://t.co/CIL5bFcIBd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2097058859894595646",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 1554,
+          "like_count": 36338,
+          "listed_count": 11,
+          "media_count": 1281,
+          "tweet_count": 11777
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T14:15:41.000Z",
+        "description": "",
+        "id": "1683118613870559232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097021239198105824",
+        "name": "ビロード十二面体",
+        "pinned_tweet_id": "1979086082471006222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683118613870559232/1690126283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988032605506453504/ygzdUFEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 512,
+          "like_count": 85121,
+          "listed_count": 2,
+          "media_count": 797,
+          "tweet_count": 11653
+        },
+        "url": "",
+        "username": "gan62626",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

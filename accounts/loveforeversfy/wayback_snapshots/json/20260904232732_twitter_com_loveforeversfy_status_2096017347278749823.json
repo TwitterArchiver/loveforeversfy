@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2096014141689680208",
+    "created_at": "2026-09-04T23:27:32.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096017347278749823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083292041057120256",
+          "start": 0,
+          "username": "misakinae37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096017347278749823",
+    "in_reply_to_user_id": "2083292041057120256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096014141689680208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakinae37 跨出收收味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096014133791715328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaJv-DacAAuVsl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2096014141689680208",
+        "created_at": "2026-09-04T23:27:32.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096017347278749823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083292041057120256",
+              "start": 0,
+              "username": "misakinae37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096017347278749823",
+        "in_reply_to_user_id": "2083292041057120256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096014141689680208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae37 跨出收收味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096014133791715328"
+          ]
+        },
+        "author_id": "2083292041057120256",
+        "conversation_id": "2096014141689680208",
+        "created_at": "2026-09-04T23:14:48.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096014141689680208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r54XPn15JX",
+              "end": 52,
+              "expanded_url": "https://x.com/misakinae37/status/2096014141689680208/photo/1",
+              "media_key": "3_2096014133791715328",
+              "start": 29,
+              "url": "https://t.co/r54XPn15JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096014141689680208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096014133791715328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总觉得每次穿蓝白衣服都怪怪的像跨出，不过只是一件睡衣而已 https://t.co/r54XPn15JX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2096017347278749823",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 1551,
+          "like_count": 36297,
+          "listed_count": 11,
+          "media_count": 1278,
+          "tweet_count": 11763
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T20:45:50.000Z",
+        "description": "干嘛啊",
+        "id": "2083292041057120256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096014141689680208",
+        "name": "三崎南枳",
+        "pinned_tweet_id": "2086697575399473286",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 153,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "misakinae37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

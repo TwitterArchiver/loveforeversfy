@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2096575358317568283",
+    "created_at": "2026-09-06T12:24:52.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096575358317568283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linguinelabs/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/linguinelabs/status/2096487329091441090",
+          "start": 6,
+          "url": "https://t.co/svB2fskKj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096575358317568283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096487329091441090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要笑死了 https://t.co/svB2fskKj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37700,
+        "height": 1080,
+        "media_key": "13_2096486138248941568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096486138248941568/img/grpoJeDvHY_MAgxw.jpg",
+        "public_metrics": {
+          "view_count": 402763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096486138248941568/pl/3MooNcxif-IScC7r.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096486138248941568/vid/avc1/1920x1080/KSOa7quovStbBDEq.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096486138248941568/vid/avc1/480x270/iNg57xS7ZRPXHC6C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096486138248941568/vid/avc1/1280x720/S6dlseFPAczZhlyp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096486138248941568/vid/avc1/640x360/nWluZ4EYLJnQ9NKF.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2096575358317568283",
+        "created_at": "2026-09-06T12:24:52.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096575358317568283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linguinelabs/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/linguinelabs/status/2096487329091441090",
+              "start": 6,
+              "url": "https://t.co/svB2fskKj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096575358317568283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096487329091441090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/svB2fskKj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096486138248941568"
+          ]
+        },
+        "author_id": "1736961829195395072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2096487329091441090",
+        "created_at": "2026-09-06T06:35:04.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096487329091441090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6T3LxJvGK",
+              "end": 67,
+              "expanded_url": "https://x.com/linguinelabs/status/2096487329091441090/video/1",
+              "media_key": "13_2096486138248941568",
+              "start": 44,
+              "url": "https://t.co/V6T3LxJvGK"
+            },
+            {
+              "display_url": "x.com/NewsFromGoogle…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/NewsFromGoogle/status/2095553014715093022",
+              "start": 68,
+              "url": "https://t.co/VkzhG9ChLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487329091441090",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096486138248941568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3455,
+          "impression_count": 864427,
+          "like_count": 19740,
+          "quote_count": 196,
+          "reply_count": 123,
+          "retweet_count": 1846
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095553014715093022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bad Apple but it's playing on a fly's brain https://t.co/V6T3LxJvGK https://t.co/VkzhG9ChLA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2096575358317568283",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 1554,
+          "like_count": 36323,
+          "listed_count": 11,
+          "media_count": 1280,
+          "tweet_count": 11772
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-19T04:09:13.000Z",
+        "description": "sr. swe @tesla, bad apple engineer,🎓ubc engineering physics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 8,
+                "username": "tesla"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@linguinelabs",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@linguinelabs",
+                "start": 0,
+                "url": "https://t.co/Ws5EXcqra5"
+              }
+            ]
+          }
+        },
+        "id": "1736961829195395072",
+        "is_identity_verified": false,
+        "location": "Bay Area",
+        "most_recent_tweet_id": "2096513083921629430",
+        "name": "Kevin",
+        "pinned_tweet_id": "1762538209727086650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736961829195395072/1715726283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023663444910895104/LdJ6axaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 965,
+          "like_count": 21628,
+          "listed_count": 26,
+          "media_count": 570,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/Ws5EXcqra5",
+        "username": "linguinelabs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

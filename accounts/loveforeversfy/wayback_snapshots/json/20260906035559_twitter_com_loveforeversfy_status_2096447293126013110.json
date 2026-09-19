@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265122360958447616",
+          "name": "Fort Lauderdale"
+        }
+      },
+      {
+        "domain": {
+          "description": "For local-level news entities",
+          "id": "171",
+          "name": "Local News"
+        },
+        "entity": {
+          "id": "1265122360958447616",
+          "name": "Fort Lauderdale"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "2096447293126013110",
+    "created_at": "2026-09-06T03:55:59.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096447293126013110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1945296726702911488",
+          "start": 3,
+          "username": "patternscreamr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096447293126013110",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1062
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096080471155171798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @patternscreamr2: Okay genuinely how the fuck is he doing cocaine if he doesn’t have a nose"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265122360958447616",
+              "name": "Fort Lauderdale"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1265122360958447616",
+              "name": "Fort Lauderdale"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2096447293126013110",
+        "created_at": "2026-09-06T03:55:59.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096447293126013110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1945296726702911488",
+              "start": 3,
+              "username": "patternscreamr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096447293126013110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096080471155171798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @patternscreamr2: Okay genuinely how the fuck is he doing cocaine if he doesn’t have a nose"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945296726702911488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265122360958447616",
+              "name": "Fort Lauderdale"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1265122360958447616",
+              "name": "Fort Lauderdale"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2096080471155171798",
+        "created_at": "2026-09-05T03:38:22.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096080471155171798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thefactsdude/s…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/thefactsdude/status/2095920067909148802",
+              "start": 74,
+              "url": "https://t.co/JunpLIQbvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096080471155171798",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2569,
+          "impression_count": 5746123,
+          "like_count": 53769,
+          "quote_count": 153,
+          "reply_count": 839,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095920067909148802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Okay genuinely how the fuck is he doing cocaine if he doesn’t have a nose https://t.co/JunpLIQbvA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2096447293126013110",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 1552,
+          "like_count": 36318,
+          "listed_count": 11,
+          "media_count": 1280,
+          "tweet_count": 11768
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T01:38:13.000Z",
+        "description": "formerly @patternscreamr (RIP). here be dragons - no CWs/TWs! 21 yrs old. minors and pro- or neutral-c dni. i love my sheep @AliceArcadian. PFP by @ghosttundra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "patternscreamr"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "AliceArcadian"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "ghosttundra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/8413CsZYhwo",
+                "end": 23,
+                "expanded_url": "https://youtu.be/8413CsZYhwo",
+                "start": 0,
+                "url": "https://t.co/G7K6LBQ8Y6"
+              }
+            ]
+          }
+        },
+        "id": "1945296726702911488",
+        "is_identity_verified": false,
+        "location": "it/pup/any",
+        "most_recent_tweet_id": "2096446501551530417",
+        "name": "pa2ernscreamer θ∆ 🔞🇵🇸",
+        "pinned_tweet_id": "1998817443205230787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945296726702911488/1763827348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945297731531980800/PnLu8t2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1530,
+          "like_count": 221337,
+          "listed_count": 4,
+          "media_count": 766,
+          "tweet_count": 14262
+        },
+        "url": "https://t.co/G7K6LBQ8Y6",
+        "username": "patternscreamr2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

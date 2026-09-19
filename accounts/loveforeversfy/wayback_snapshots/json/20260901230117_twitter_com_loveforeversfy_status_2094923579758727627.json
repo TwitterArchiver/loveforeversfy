@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2094923579758727627",
+    "created_at": "2026-09-01T23:01:17.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094923579758727627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minecraft/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Minecraft/status/2094799010619941139",
+          "start": 2,
+          "url": "https://t.co/qMWC8IC0Ze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094923579758727627",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094799010619941139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁 https://t.co/qMWC8IC0Ze"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2094923579758727627",
+        "created_at": "2026-09-01T23:01:17.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094923579758727627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minecraft/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Minecraft/status/2094799010619941139",
+              "start": 2,
+              "url": "https://t.co/qMWC8IC0Ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094923579758727627",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094799010619941139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁 https://t.co/qMWC8IC0Ze"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "64565898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2094799010619941139",
+        "created_at": "2026-09-01T14:46:18.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094799010619941139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094799010619941139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1379,
+          "impression_count": 1167342,
+          "like_count": 38899,
+          "quote_count": 228,
+          "reply_count": 364,
+          "retweet_count": 3377
+        },
+        "reply_settings": "everyone",
+        "text": "remember twin:\nthey 67, we 64"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2094923579758727627",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 1551,
+          "like_count": 36283,
+          "listed_count": 11,
+          "media_count": 1277,
+          "tweet_count": 11760
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2093383154513973248/2oyuQu8E_bigger.jpg",
+          "description": "XBOX",
+          "url": "https://twitter.com/XBOX",
+          "user_id": [
+            "24742040"
+          ]
+        },
+        "created_at": "2009-08-11T00:22:27.000Z",
+        "description": "Survive the night, or build a work of art. News, game updates, and all things Minecraft. ESRB RATING: EVERYONE 10+ with Fantasy Violence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minecraft",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minecraft",
+                "start": 0,
+                "url": "https://t.co/lzbvMhKI3A"
+              }
+            ]
+          }
+        },
+        "id": "64565898",
+        "is_identity_verified": false,
+        "location": "Stockholm, Sweden",
+        "most_recent_tweet_id": "2094879845369188821",
+        "name": "Minecraft",
+        "pinned_tweet_id": "2060751341824479452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64565898/1787845761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046974375430144000/G4-Wil7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406317,
+          "following_count": 61,
+          "like_count": 1811,
+          "listed_count": 5766,
+          "media_count": 3507,
+          "tweet_count": 5366
+        },
+        "url": "https://t.co/lzbvMhKI3A",
+        "username": "Minecraft",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098844684013780992"
+      ],
+      "media_source_tweet_id": [
+        "2098844689990631700"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2099020445907624228",
+    "created_at": "2026-09-13T06:20:46.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099020445907624228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063809217488982016",
+          "start": 3,
+          "username": "Nijika_Dark2"
+        },
+        {
+          "end": 31,
+          "id": "2043745937298792448",
+          "start": 18,
+          "username": "ivan20221126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnYRLQ0gLK",
+          "end": 66,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2098844689990631700/photo/1",
+          "media_key": "3_2098844684013780992",
+          "start": 43,
+          "url": "https://t.co/gnYRLQ0gLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099020445907624228",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098844684013780992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098844689990631700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_Dark2: @ivan20221126 这是一段有意思的趣事 https://t.co/gnYRLQ0gLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_2098844684013780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCYHrVbwAA6e_r.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098844684013780992"
+          ],
+          "media_source_tweet_id": [
+            "2098844689990631700"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2099020445907624228",
+        "created_at": "2026-09-13T06:20:46.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099020445907624228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063809217488982016",
+              "start": 3,
+              "username": "Nijika_Dark2"
+            },
+            {
+              "end": 31,
+              "id": "2043745937298792448",
+              "start": 18,
+              "username": "ivan20221126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnYRLQ0gLK",
+              "end": 66,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2098844689990631700/photo/1",
+              "media_key": "3_2098844684013780992",
+              "start": 43,
+              "url": "https://t.co/gnYRLQ0gLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099020445907624228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098844684013780992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098844689990631700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_Dark2: @ivan20221126 这是一段有意思的趣事 https://t.co/gnYRLQ0gLK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098844684013780992"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-12T18:42:23.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098844689990631700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnYRLQ0gLK",
+              "end": 48,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2098844689990631700/photo/1",
+              "media_key": "3_2098844684013780992",
+              "start": 25,
+              "url": "https://t.co/gnYRLQ0gLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098844689990631700",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098844684013780992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098841295141900378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 这是一段有意思的趣事 https://t.co/gnYRLQ0gLK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2099020445907624228",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1552,
+          "like_count": 36425,
+          "listed_count": 11,
+          "media_count": 1282,
+          "tweet_count": 11800
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098978548027699425",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 210,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2099006336172486725",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 179,
+          "like_count": 8796,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

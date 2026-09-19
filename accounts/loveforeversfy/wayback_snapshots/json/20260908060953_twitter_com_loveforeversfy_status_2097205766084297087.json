@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2097205766084297087",
+    "created_at": "2026-09-08T06:09:53.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097205766084297087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039005872668758016",
+          "start": 3,
+          "username": "_____QxQ_____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097205766084297087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097144310600970411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_____QxQ_____: 煙草を吸うことがまずダサいんだけど、煙草を吸うきっかけで1番ダサい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2097205766084297087",
+        "created_at": "2026-09-08T06:09:53.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097205766084297087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039005872668758016",
+              "start": 3,
+              "username": "_____QxQ_____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097205766084297087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097144310600970411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_____QxQ_____: 煙草を吸うことがまずダサいんだけど、煙草を吸うきっかけで1番ダサい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039005872668758016",
+        "conversation_id": "2097144310600970411",
+        "created_at": "2026-09-08T02:05:41.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097144310600970411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/math_for_love/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/math_for_love/status/2096957174346142194",
+              "start": 34,
+              "url": "https://t.co/HEp8ocOsjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097144310600970411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 459,
+          "impression_count": 1367272,
+          "like_count": 22993,
+          "quote_count": 230,
+          "reply_count": 69,
+          "retweet_count": 1166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096957174346142194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "煙草を吸うことがまずダサいんだけど、煙草を吸うきっかけで1番ダサい https://t.co/HEp8ocOsjs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2097205766084297087",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 1554,
+          "like_count": 36345,
+          "listed_count": 11,
+          "media_count": 1281,
+          "tweet_count": 11779
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T15:46:33.000Z",
+        "description": "",
+        "id": "2039005872668758016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097191509443699075",
+        "name": "カンフー血",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039005872668758016/1781051113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064499277897076736/CJtwnB8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "_____QxQ_____",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

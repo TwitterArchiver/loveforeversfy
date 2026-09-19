@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2096476223732162785",
+    "created_at": "2026-09-06T05:50:57.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096476223732162785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LVTGW666/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/LVTGW666/status/2096052036756537639",
+          "start": 8,
+          "url": "https://t.co/ddu243wEPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096476223732162785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096052036756537639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王天畅是个人物 https://t.co/ddu243wEPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_2096052026652454912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRasNn9bcAAnAQN.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2096476223732162785",
+        "created_at": "2026-09-06T05:50:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096476223732162785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LVTGW666/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LVTGW666/status/2096052036756537639",
+              "start": 8,
+              "url": "https://t.co/ddu243wEPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096476223732162785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096052036756537639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王天畅是个人物 https://t.co/ddu243wEPT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096052026652454912"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2096052036756537639",
+        "created_at": "2026-09-05T01:45:22.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096052036756537639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFHVozhASG",
+              "end": 32,
+              "expanded_url": "https://x.com/LVTGW666/status/2096052036756537639/photo/1",
+              "media_key": "3_2096052026652454912",
+              "start": 9,
+              "url": "https://t.co/tFHVozhASG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096052036756537639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096052026652454912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 29781,
+          "like_count": 1017,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "别说，感觉有点酷 https://t.co/tFHVozhASG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2096476223732162785",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 1553,
+          "like_count": 36320,
+          "listed_count": 11,
+          "media_count": 1280,
+          "tweet_count": 11770
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "is_identity_verified": true,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2096474669465673736",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2096313215307440545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447499448649601025/1634922805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75456,
+          "following_count": 1022,
+          "like_count": 15566,
+          "listed_count": 315,
+          "media_count": 6407,
+          "tweet_count": 14362
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

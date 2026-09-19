@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094821259272192000"
+      ],
+      "media_source_tweet_id": [
+        "2094821289651515423"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2095217543141281987",
+    "created_at": "2026-09-02T18:29:24.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095217543141281987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061813418026512384",
+          "start": 3,
+          "username": "Jinyu_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qU1diSvnKg",
+          "end": 39,
+          "expanded_url": "https://x.com/Jinyu_8964/status/2094821289651515423/video/1",
+          "media_key": "13_2094821259272192000",
+          "start": 16,
+          "url": "https://t.co/qU1diSvnKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095217543141281987",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2094821259272192000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5814
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094821289651515423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinyu_8964: https://t.co/qU1diSvnKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13533,
+        "height": 480,
+        "media_key": "13_2094821259272192000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094821259272192000/img/-L4mYhaCBWQJpsAU.jpg",
+        "public_metrics": {
+          "view_count": 1181038
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094821259272192000/vid/avc1/320x320/Y61J5jAfeh4RtplG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094821259272192000/vid/avc1/480x480/dO-gLg_t2o1G5MKP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094821259272192000/pl/DjigURY6k0NHcHoV.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094821259272192000"
+          ],
+          "media_source_tweet_id": [
+            "2094821289651515423"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2095217543141281987",
+        "created_at": "2026-09-02T18:29:24.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095217543141281987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061813418026512384",
+              "start": 3,
+              "username": "Jinyu_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qU1diSvnKg",
+              "end": 39,
+              "expanded_url": "https://x.com/Jinyu_8964/status/2094821289651515423/video/1",
+              "media_key": "13_2094821259272192000",
+              "start": 16,
+              "url": "https://t.co/qU1diSvnKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095217543141281987",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094821259272192000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5814
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094821289651515423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinyu_8964: https://t.co/qU1diSvnKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094821259272192000"
+          ]
+        },
+        "author_id": "2061813418026512384",
+        "conversation_id": "2094821289651515423",
+        "created_at": "2026-09-01T16:14:50.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094821289651515423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qU1diSvnKg",
+              "end": 23,
+              "expanded_url": "https://x.com/Jinyu_8964/status/2094821289651515423/video/1",
+              "media_key": "13_2094821259272192000",
+              "start": 0,
+              "url": "https://t.co/qU1diSvnKg"
+            },
+            {
+              "display_url": "x.com/mero_jcg/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mero_jcg/status/2094476896528691386",
+              "start": 24,
+              "url": "https://t.co/SCbJfMeCaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094821289651515423",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094821259272192000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13774,
+          "impression_count": 3088712,
+          "like_count": 49970,
+          "quote_count": 533,
+          "reply_count": 424,
+          "retweet_count": 5814
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094476896528691386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qU1diSvnKg https://t.co/SCbJfMeCaC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2095217543141281987",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 1552,
+          "like_count": 36288,
+          "listed_count": 11,
+          "media_count": 1277,
+          "tweet_count": 11761
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T14:14:12.000Z",
+        "description": "王道之光，普照全球；同心同德，无苦无忧；❤️💙🤍🖤💛。",
+        "id": "2061813418026512384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095199639083602228",
+        "name": "「金玉🌸」",
+        "pinned_tweet_id": "2062214050017374640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061813418026512384/1780416571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061842974531817472/xl3LChBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 189,
+          "like_count": 11119,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "Jinyu_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
