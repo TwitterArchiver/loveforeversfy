@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1837817460398915584"
+      ],
+      "media_source_tweet_id": [
+        "1837817542569517168"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "1838184859975475627",
+    "created_at": "2024-09-23T11:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T12:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838184859975475627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "922267018526707712",
+          "start": 3,
+          "username": "krus_chiki"
+        },
+        {
+          "end": 76,
+          "id": "1014051350097813504",
+          "start": 68,
+          "username": "Xaniken"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pacccyzj5x",
+          "end": 100,
+          "expanded_url": "https://twitter.com/H1TWOM4N/status/1837817542569517168/video/1",
+          "media_key": "13_1837817460398915584",
+          "start": 77,
+          "url": "https://t.co/PAcCcyZj5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838184859975475627",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838045826548912196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @krus_chiki: just filmed this video of me feeding some grapes to @Xaniken https://t.co/PAcCcyZj5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66500,
+        "height": 1024,
+        "media_key": "13_1837817460398915584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1837817460398915584/img/4kLw3sanQzR-kcFs.jpg",
+        "public_metrics": {
+          "view_count": 5500502
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1837817460398915584/vid/avc1/320x568/au-f5E4iSixc33ah.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1837817460398915584/vid/avc1/480x852/5WecswxaUEjpMf8D.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1837817460398915584/vid/avc1/576x1024/McTWmDiMTWWT4G75.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1837817460398915584/pl/SWi3JBxc7ZxaOlu9.m3u8?tag=16"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1837817460398915584"
+          ],
+          "media_source_tweet_id": [
+            "1837817542569517168"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "1838184859975475627",
+        "created_at": "2024-09-23T11:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T12:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838184859975475627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "922267018526707712",
+              "start": 3,
+              "username": "krus_chiki"
+            },
+            {
+              "end": 76,
+              "id": "1014051350097813504",
+              "start": 68,
+              "username": "Xaniken"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pacccyzj5x",
+              "end": 100,
+              "expanded_url": "https://twitter.com/H1TWOM4N/status/1837817542569517168/video/1",
+              "media_key": "13_1837817460398915584",
+              "start": 77,
+              "url": "https://t.co/PAcCcyZj5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838184859975475627",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838045826548912196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @krus_chiki: just filmed this video of me feeding some grapes to @Xaniken https://t.co/PAcCcyZj5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1837817460398915584"
+          ],
+          "media_source_tweet_id": [
+            "1837817542569517168"
+          ]
+        },
+        "author_id": "922267018526707712",
+        "conversation_id": "1838045826548912196",
+        "created_at": "2024-09-23T02:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T03:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838045826548912196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1014051350097813504",
+              "start": 52,
+              "username": "Xaniken"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pacccyzj5x",
+              "end": 84,
+              "expanded_url": "https://twitter.com/H1TWOM4N/status/1837817542569517168/video/1",
+              "media_key": "13_1837817460398915584",
+              "start": 61,
+              "url": "https://t.co/PAcCcyZj5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838045826548912196",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8456,
+          "like_count": 319,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "just filmed this video of me feeding some grapes to @Xaniken https://t.co/PAcCcyZj5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "不是女的 | 死妈高手🍄",
+        "id": "1599012090517540869",
+        "location": "不存在",
+        "name": "蘑菇盘栽录像带",
+        "pinned_tweet_id": "1824415062813184192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741366703249096704/jaUpGcxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1576,
+          "like_count": 30751,
+          "listed_count": 7,
+          "tweet_count": 8597
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-23T01:02:46.000Z",
+        "description": "Defense Import/Export. Archeologist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kruschiki.com",
+                "end": 23,
+                "expanded_url": "http://kruschiki.com",
+                "start": 0,
+                "url": "https://t.co/52TOsDw8YZ"
+              }
+            ]
+          }
+        },
+        "id": "922267018526707712",
+        "name": "krus🪖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628186825549389824/qkLn6Ib1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93620,
+          "following_count": 2187,
+          "like_count": 324871,
+          "listed_count": 181,
+          "tweet_count": 73985
+        },
+        "url": "https://t.co/52TOsDw8YZ",
+        "username": "krus_chiki",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-03T07:40:56.000Z",
+        "description": "art hoes dm me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EsotericCorner…",
+                "end": 23,
+                "expanded_url": "https://t.me/EsotericCornerChannel",
+                "start": 0,
+                "url": "https://t.co/oZy3ukauIl"
+              }
+            ]
+          }
+        },
+        "id": "1014051350097813504",
+        "location": "Venice, Veneto",
+        "name": "Xaniken",
+        "pinned_tweet_id": "1187162022246354944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627861119821053952/BlWKAdhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34835,
+          "following_count": 1757,
+          "like_count": 248428,
+          "listed_count": 137,
+          "tweet_count": 38105
+        },
+        "url": "https://t.co/oZy3ukauIl",
+        "username": "Xaniken",
+        "verified": false
+      }
+    ]
+  }
+}

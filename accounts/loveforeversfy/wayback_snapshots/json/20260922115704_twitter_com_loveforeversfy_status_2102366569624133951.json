@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101235625823203328"
+      ],
+      "media_source_tweet_id": [
+        "2101235656882090338"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2102366569624133951",
+    "created_at": "2026-09-22T11:57:04.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T12:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102366569624133951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992394364530671616",
+          "start": 3,
+          "username": "Az_ri_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6p7vKFLQXG",
+          "end": 115,
+          "expanded_url": "https://x.com/lnvxel/status/2101235656882090338/video/1",
+          "media_key": "13_2101235625823203328",
+          "start": 92,
+          "url": "https://t.co/6p7vKFLQXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102366569624133951",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2101235625823203328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1669
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102195404997632314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Az_ri_0: Twitter mods seeing shtwt suddenly getting really good at realistic sfx makeup https://t.co/6p7vKFLQXG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11566,
+        "height": 534,
+        "media_key": "13_2101235625823203328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101235625823203328/img/dzBON9N08V_BQ7n9.jpg",
+        "public_metrics": {
+          "view_count": 15183712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101235625823203328/vid/avc1/364x270/3TMqeQqjvey9NVAp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101235625823203328/vid/avc1/484x360/Q092FcXWQbJFG539.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101235625823203328/vid/avc1/720x534/85PFV6K6jdp2N3g1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101235625823203328/pl/IOOjXJdv1A01BG3d.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101235625823203328"
+          ],
+          "media_source_tweet_id": [
+            "2101235656882090338"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2102366569624133951",
+        "created_at": "2026-09-22T11:57:04.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102366569624133951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992394364530671616",
+              "start": 3,
+              "username": "Az_ri_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p7vKFLQXG",
+              "end": 115,
+              "expanded_url": "https://x.com/lnvxel/status/2101235656882090338/video/1",
+              "media_key": "13_2101235625823203328",
+              "start": 92,
+              "url": "https://t.co/6p7vKFLQXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102366569624133951",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101235625823203328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1669
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102195404997632314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Az_ri_0: Twitter mods seeing shtwt suddenly getting really good at realistic sfx makeup https://t.co/6p7vKFLQXG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101235625823203328"
+          ],
+          "media_source_tweet_id": [
+            "2101235656882090338"
+          ]
+        },
+        "author_id": "1992394364530671616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2102195404997632314",
+        "created_at": "2026-09-22T00:36:56.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102195404997632314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p7vKFLQXG",
+              "end": 102,
+              "expanded_url": "https://x.com/lnvxel/status/2101235656882090338/video/1",
+              "media_key": "13_2101235625823203328",
+              "start": 79,
+              "url": "https://t.co/6p7vKFLQXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102195404997632314",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101235625823203328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 37305,
+          "like_count": 7234,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 1669
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter mods seeing shtwt suddenly getting really good at realistic sfx makeup https://t.co/6p7vKFLQXG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101235625823203328"
+          ]
+        },
+        "author_id": "1302909149576077312",
+        "conversation_id": "2101235656882090338",
+        "created_at": "2026-09-19T09:03:14.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101235656882090338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll5ccs3qWP",
+              "end": 65,
+              "expanded_url": "https://x.com/lnvxel/status/2101235656882090338/video/1",
+              "media_key": "13_2101235625823203328",
+              "start": 42,
+              "url": "https://t.co/Ll5ccs3qWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101235656882090338",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_2101235625823203328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4594,
+          "impression_count": 16721454,
+          "like_count": 16158,
+          "quote_count": 218,
+          "reply_count": 172,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "قريبتك اذا قلتيلها ماقد حبيت او كلمت عيال https://t.co/Ll5ccs3qWP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "不存在",
+        "most_recent_tweet_id": "2102366569624133951",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2898,
+          "following_count": 1547,
+          "like_count": 36577,
+          "listed_count": 11,
+          "media_count": 1287,
+          "tweet_count": 11845
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T00:50:36.000Z",
+        "description": "They/them/ey/em | 5teen | ifb | calories dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "azris.straw.page",
+                "end": 23,
+                "expanded_url": "http://azris.straw.page",
+                "start": 0,
+                "url": "https://t.co/K1wab1gEhj"
+              }
+            ]
+          }
+        },
+        "id": "1992394364530671616",
+        "is_identity_verified": false,
+        "location": "Gay fag land",
+        "most_recent_tweet_id": "2102196719777902937",
+        "name": "yellow | egg yolk of 🤫twt🌙💫📓",
+        "pinned_tweet_id": "2079553133462643152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992394364530671616/1779567219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018125209509793793/fVoBeu4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 242,
+          "like_count": 1682,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/K1wab1gEhj",
+        "username": "Az_ri_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1599012090517540869",
+    "conversation_id": "2100562096551514617",
+    "created_at": "2026-09-18T00:58:53.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T01:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100751381087101275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418328991493070850",
+          "start": 0,
+          "username": "Strelexia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100751381087101275",
+    "in_reply_to_user_id": "1418328991493070850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100632633214689783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strelexia 不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2100562096551514617",
+        "created_at": "2026-09-18T00:58:53.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100751381087101275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418328991493070850",
+              "start": 0,
+              "username": "Strelexia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100751381087101275",
+        "in_reply_to_user_id": "1418328991493070850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100632633214689783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strelexia 不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418328991493070850",
+        "conversation_id": "2100562096551514617",
+        "created_at": "2026-09-17T17:07:02.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100632633214689783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100632633214689783",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100562096551514617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 张跨飞我们一起去🍄母分钱合照可以不"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2100751381087101275",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1549,
+          "like_count": 36498,
+          "listed_count": 11,
+          "media_count": 1282,
+          "tweet_count": 11816
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "Anything is what you wish.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ae",
+                "end": 23,
+                "expanded_url": "http://neko.ae",
+                "start": 0,
+                "url": "https://t.co/ohr6JnRF0k"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "is_identity_verified": true,
+        "location": "和月村",
+        "most_recent_tweet_id": "2100698818182541616",
+        "name": "枫糖郁爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418328991493070850/1786524015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087458700718125056/IT7uXUuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 1662,
+          "like_count": 39301,
+          "listed_count": 9,
+          "media_count": 1073,
+          "tweet_count": 8493
+        },
+        "url": "https://t.co/ohr6JnRF0k",
+        "username": "Strelexia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

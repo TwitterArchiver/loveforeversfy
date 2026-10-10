@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103427765559259136"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2103427787990462616",
+    "created_at": "2026-09-25T10:13:59.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103427787990462616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ca6uYXDgCC",
+          "end": 36,
+          "expanded_url": "https://x.com/loveforeversfy/status/2103427787990462616/video/1",
+          "media_key": "13_2103427765559259136",
+          "start": 13,
+          "url": "https://t.co/ca6uYXDgCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103427787990462616",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2103427765559259136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界上最贪婪的一只老鼠🐭 https://t.co/ca6uYXDgCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4272,
+        "height": 1280,
+        "media_key": "13_2103427765559259136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103427765559259136/img/gfk9pYtHr4pNqLD6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103427765559259136/vid/avc1/320x568/dSIfR81BoRLIhgGE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103427765559259136/vid/avc1/480x852/MQ9P7i_pyEj30DCV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103427765559259136/vid/avc1/720x1280/3pr64Z25W5rwJSV9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103427765559259136/pl/iJ3VrgyLFsZn-rnE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103427765559259136"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2103427787990462616",
+        "created_at": "2026-09-25T10:13:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103427787990462616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ca6uYXDgCC",
+              "end": 36,
+              "expanded_url": "https://x.com/loveforeversfy/status/2103427787990462616/video/1",
+              "media_key": "13_2103427765559259136",
+              "start": 13,
+              "url": "https://t.co/ca6uYXDgCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103427787990462616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103427765559259136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最贪婪的一只老鼠🐭 https://t.co/ca6uYXDgCC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "不存在",
+        "most_recent_tweet_id": "2103427787990462616",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 1446,
+          "like_count": 36596,
+          "listed_count": 11,
+          "media_count": 1289,
+          "tweet_count": 11853
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

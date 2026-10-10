@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104854946109939713",
+        "3_2104854946151878656",
+        "3_2104854946130874368",
+        "3_2104854946126630912"
+      ],
+      "media_source_tweet_id": [
+        "2104854969048531111",
+        "2104854969048531111",
+        "2104854969048531111",
+        "2104854969048531111"
+      ]
+    },
+    "author_id": "1599012090517540869",
+    "conversation_id": "2104854996747743413",
+    "created_at": "2026-09-29T08:45:12.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104854996747743413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1418328991493070850",
+          "start": 3,
+          "username": "Strelexia"
+        },
+        {
+          "end": 42,
+          "id": "1599012090517540869",
+          "start": 27,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3TKYJwS3N",
+          "end": 66,
+          "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+          "media_key": "3_2104854946109939713",
+          "start": 43,
+          "url": "https://t.co/D3TKYJwS3N"
+        },
+        {
+          "display_url": "pic.x.com/D3TKYJwS3N",
+          "end": 66,
+          "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+          "media_key": "3_2104854946151878656",
+          "start": 43,
+          "url": "https://t.co/D3TKYJwS3N"
+        },
+        {
+          "display_url": "pic.x.com/D3TKYJwS3N",
+          "end": 66,
+          "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+          "media_key": "3_2104854946130874368",
+          "start": 43,
+          "url": "https://t.co/D3TKYJwS3N"
+        },
+        {
+          "display_url": "pic.x.com/D3TKYJwS3N",
+          "end": 66,
+          "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+          "media_key": "3_2104854946126630912",
+          "start": 43,
+          "url": "https://t.co/D3TKYJwS3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104854996747743413",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104854946109939713"
+      },
+      {
+        "media_key": "3_2104854946151878656"
+      },
+      {
+        "media_key": "3_2104854946130874368"
+      },
+      {
+        "media_key": "3_2104854946126630912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104854969048531111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Strelexia: 一般家庭只能撑到第0张 @loveforeversfy https://t.co/D3TKYJwS3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2104854946109939713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXya-abYAEqdci.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2104854946151878656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXya-kbUAA2jAO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2104854946130874368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXya-fa0AAJViM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104854946126630912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXya-eaEAAAns9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104854946109939713",
+            "3_2104854946151878656",
+            "3_2104854946130874368",
+            "3_2104854946126630912"
+          ],
+          "media_source_tweet_id": [
+            "2104854969048531111",
+            "2104854969048531111",
+            "2104854969048531111",
+            "2104854969048531111"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2104854996747743413",
+        "created_at": "2026-09-29T08:45:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104854996747743413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1418328991493070850",
+              "start": 3,
+              "username": "Strelexia"
+            },
+            {
+              "end": 42,
+              "id": "1599012090517540869",
+              "start": 27,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 66,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946109939713",
+              "start": 43,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 66,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946151878656",
+              "start": 43,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 66,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946130874368",
+              "start": 43,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 66,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946126630912",
+              "start": 43,
+              "url": "https://t.co/D3TKYJwS3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104854996747743413",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104854946109939713"
+          },
+          {
+            "media_key": "3_2104854946151878656"
+          },
+          {
+            "media_key": "3_2104854946130874368"
+          },
+          {
+            "media_key": "3_2104854946126630912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104854969048531111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Strelexia: 一般家庭只能撑到第0张 @loveforeversfy https://t.co/D3TKYJwS3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104854946109939713",
+            "3_2104854946151878656",
+            "3_2104854946130874368",
+            "3_2104854946126630912"
+          ]
+        },
+        "author_id": "1418328991493070850",
+        "conversation_id": "2104854969048531111",
+        "created_at": "2026-09-29T08:45:05.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104854969048531111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1599012090517540869",
+              "start": 12,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 51,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946109939713",
+              "start": 28,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 51,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946151878656",
+              "start": 28,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 51,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946130874368",
+              "start": 28,
+              "url": "https://t.co/D3TKYJwS3N"
+            },
+            {
+              "display_url": "pic.x.com/D3TKYJwS3N",
+              "end": 51,
+              "expanded_url": "https://x.com/Strelexia/status/2104854969048531111/photo/1",
+              "media_key": "3_2104854946126630912",
+              "start": 28,
+              "url": "https://t.co/D3TKYJwS3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104854969048531111",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104854946109939713"
+          },
+          {
+            "media_key": "3_2104854946151878656"
+          },
+          {
+            "media_key": "3_2104854946130874368"
+          },
+          {
+            "media_key": "3_2104854946126630912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "一般家庭只能撑到第0张 @loveforeversfy https://t.co/D3TKYJwS3N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "不存在",
+        "most_recent_tweet_id": "2104854996747743413",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1444,
+          "like_count": 36654,
+          "listed_count": 11,
+          "media_count": 1293,
+          "tweet_count": 11869
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "Anything is what you wish.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ae",
+                "end": 23,
+                "expanded_url": "http://neko.ae",
+                "start": 0,
+                "url": "https://t.co/ohr6JnRF0k"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "is_identity_verified": true,
+        "location": "和月村",
+        "most_recent_tweet_id": "2104854969048531111",
+        "name": "枫糖郁爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418328991493070850/1786524015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087458700718125056/IT7uXUuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1667,
+          "like_count": 39700,
+          "listed_count": 9,
+          "media_count": 1083,
+          "tweet_count": 8552
+        },
+        "url": "https://t.co/ohr6JnRF0k",
+        "username": "Strelexia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
